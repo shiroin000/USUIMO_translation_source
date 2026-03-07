@@ -1,0 +1,320 @@
+{
+  "1": {
+        "0": [
+            "Manchu Han Imperial Feast..."				
+		],
+        "1": [
+            "I'm hungry..."			
+		]		
+    },
+  "2": {
+        "0": [
+            "\\nl< >\"\\str[121]! Is there anything you’d like to eat!?\""
+		],
+        "1": [
+            "She’s being so eager for once—",
+			"what should I even ask for?"
+		],
+        "2": [
+            "Eat you!",
+			"Meat dishes!",
+			"Vegetable dishes!",
+			"Anything’s fine"
+		],
+        "3": [
+            "\\nl< >\"Geez~ I’m not food, you know!          \\w[90]",
+			"If \\str[121] doesn’t have anything special in mind,",
+			"I’ll come up with a menu myself!\""
+        ],
+        "4": [
+            "\\nl< >\"Ehehe~ \\str[121]!",
+			"you’ve finally realized how delicious meat is!\""
+        ],
+        "5": [
+            "\\nl< >\"Just wait,",
+			"I’ll make you a huge steak!\""
+        ],
+        "6": [
+            "\\nl< >\"But… we don’t have enough ingredients…",
+			"I might only be able to make something else today.\""
+        ],
+        "7": [
+            "\\nl< >\"It’s not really my favorite…     \\w[120]",
+			"but since \\str[121] says wants it, I’ll do my best!\""
+        ],	
+        "8": [
+            "\\nl< >\"So \\str[121], just sit nicely at the table ",
+			"and wait for the food to be ready!\"        \\w[120]"
+        ]	
+    },			
+  "5": {
+        "0": [
+            "What should we make to eat today~"			
+		]			
+    },	
+  "10": {
+        "0": [
+            "It's rare to have breakfast with \\str[120], ",
+			"I'd better do my best!"
+		],
+		"1": [
+            "I made a simple breakfast with the leftover ingredients."
+        ],
+        "2": [
+            "\"Ooh—!? It's glowing—! It looks amazing!\""
+        ],
+        "3": [
+            "Cooking success!    \\w[30]",
+			"It's so delicious that all my energy is back!"
+        ],
+        "4": [
+            "\"I'm feeling great today, it looks really tasty…\""
+        ],
+        "5": [
+            "I quietly finished breakfast and felt a bit more energized."
+        ],
+        "6": [
+            "Oh no!    \\w[30]",
+			"It's a little burnt…"
+        ],
+        "7": [
+            "I ate a weird-tasting breakfast,",
+			"and somehow I don't feel satisfied at all…"
+        ],
+        "8": [
+            "Aaaah————    \\w[30]",
+			"It's completely burnt!"
+        ],
+        "9": [
+            "Breakfast turned into a lump of charcoal,",
+			"tasted it and it had no flavor at all…"
+        ],
+        "10": [
+            "It's almost time to head out…",
+			"I left a note for \\str[120], so it should be fine."
+        ]	
+    },	
+  "12": {
+        "0": [
+            "…Feels like I saw something familiar."
+		],
+		"1": [
+            "Ugh… I want some meat…"
+        ],
+        "2": [
+            "What tasty thing should we add in~"
+        ],
+        "3": [
+            "Let's have fish today!"
+        ],
+        "4": [
+            "\\str[121]!? Is this even edible!?"
+        ],
+        "5": [
+            "No spicy stuff!"
+        ],
+        "6": [
+            "…I hate veggies."
+        ],
+        "7": [
+            "Hamburg steak~ Hamburg steak~"
+        ],
+        "8": [
+            "Is this something you can eat?"
+        ],
+        "9": [
+            "Sweet and sour meat dish… sounds pretty good too?"
+        ]		
+    },	
+  "13": {
+        "0": [
+            "Failed…  \\w[60]",
+			"\\str[120] and I somehow forced ourselves to ",
+			"eat the weird food I made…"
+		],
+		"1": [
+            "I enjoyed a delicious meat dish with \\str[120]."
+        ],
+        "2": [
+            "I enjoyed dinner with \\str[120]."
+        ],
+        "3": [
+            "But it was so spicy that \\str[120] started crying instantly…"
+        ],
+        "4": [
+            "Also, it was so spicy that \\str[120] started crying instantly…"
+        ]		
+    },
+  "17": {
+        "0": [
+            "\\nl< >\"\\str[121]… ",
+			"did you wash off all that smell from your body?",
+            "Don’t come back all filthy next time.\""			
+		]			
+    },
+  "18": {
+        "0": [
+            "\\nl< >\"Here, \\str[121]!    \\w[60]",
+            "Aaah————\""			
+		],
+		"1": [
+            "………Eh? Déjà vu?",
+			"This scene feels so familiar…!"
+        ],
+		"2": [
+            "\"I'll feed myself————",
+			"\\w[60]\\^"
+        ],
+		"3": [
+            "\\nl< >\"Geez, \\str[121]!",
+			"you're an injured patient right now, remember!\""
+        ],
+		"4": [
+            "\"Ah, okay.\""
+        ],
+		"5": [
+            "Overwhelmed by \\str[120]'s determination,",
+			"I obediently ate the unknown thing she fed me."
+        ],
+		"6": [
+            "\\{  \"Pff!?\""
+        ],
+		"7": [
+            "That familiar shock exploded in my mouth,",
+			"maybe I've gotten used to it, I didn't faint this time."
+        ],
+		"8": [
+            "\\nl< >\"How is it, \\str[121]? Does it taste good?\""
+        ],
+		"9": [
+            "\"The taste, umm, it's kind of————\""
+        ],
+		"10": [
+            "A wave of heat suddenly surged from my stomach!",
+			"All my fatigue was blown away!"
+        ],
+		"11": [
+            "\"…Huh? It actually feels kinda good?\""
+        ],	
+		"12": [
+            "\\nl< >\"Yay, looks like my training paid off!\""
+        ],	
+		"13": [
+            "What kind of training did she even do?",
+			"I was curious, but couldn't bring myself to ask…"
+        ]
+    },
+  "21": {
+        "0": [
+            "I don't have a recipe to follow right now… ",
+			"should I just make something myself?"		
+		],
+		"1": [
+            "Let \\str[120] cook",
+			"Do it myself"
+        ],
+		"2": [
+            "\\nl< >\"I'm sorry,\\str[121]...       \\w[60]",
+			"I'm still in training, let me handle it next time!\""
+        ],
+		"3": [
+            "…Looks like \\str[120] is trying her best ",
+			"to learn how to cook.",
+			"Oh well, I guess I’ll have to make dinner."
+        ],
+		"4": [
+            "\\nl< >\\{\"\\str[121]!",
+			"do you want to eat the food I make!?\""
+        ],
+		"5": [
+            "\\nl< >\"Oh my, I really can’t say no to you~\""
+        ],
+		"6": [
+            "\\nl< >\"Leave it to me! ",
+			"I’m confident I can make something really tasty!\""
+        ],
+		"7": [
+            "Leave it to me!"
+        ],	
+		"8": [
+            "I’ll handle dinner tonight!"
+        ]			
+    },
+  "22": {
+        "0": [
+            "\\nl< >\\{\"Nnnnn……!\\w[250] Heave-ho……!  \\w[210]"	,
+			"Hmm hmm……!\"    \\w[210]\\^"
+		],
+		"1": [
+            "\\nl< >\"Haa…\\w[120] haa…\\w[180] \\str[121]……   \\w[60]",
+			"you're so heavy……!\""
+        ],
+		"2": [
+            "With full determination, ",
+			"\\str[120] dragged my completely limp body to the dining table…"
+        ],
+		"3": [
+            "\\nl< >\"Now just wait here for a bit, \\str[121]. ",
+			"I'll be right back.\""
+        ],
+		"4": [
+            "Food made by \\str[120] herself… how should I put it, ",
+			"I'm kinda looking forward to it……",
+			"But come to think of it, has she ever cooked before…?"
+        ],
+		"5": [
+            "\\nl< >\"Here, \\str[121]!    \\w[60]",
+			"Aaah————\""
+        ],
+		"6": [
+            "Staring at this unidentifiable object in front of me,",
+			"my whole body started trembling uncontrollably."
+        ],
+		"7": [
+            "\"Um, dear \\str[120]……    \\w[60]",
+			"\\str[121] still has enough strength to feed himself, you know?   \\w[150]",
+			"If you just take off these bandages……\"    \\w[20]\\^"
+        ],
+		"8": [
+            "\\nl< >\"No way! ",
+			"You're injured right now, \\str[121],",
+			"you need proper rest!\""
+        ],
+		"9": [
+            "\\nl< >\"Or maybe… ",
+			"my first attempt at cooking really isn't that good……?   \\w[120]",
+			"In that case, let me taste it first…\""
+        ],
+		"10": [
+            "\\{  \"Let me try it! Please!\""
+        ],
+		"11": [
+            "Before \\str[120] could react,",
+			"I quickly leaned forward and ",
+			"bit the spoon she was holding out."
+        ],
+		"12": [
+            "\"Mm… chomp chomp chomp—    \\w[60] ",
+			"it's kind of————     \\w[30]\\^"
+        ],
+		"13": [
+            "\\{  \"Pff!?\""
+        ],
+		"14": [
+            "\\nl< >\"\\str[121]!? Wh-what's wrong!?\""
+        ],
+		"15": [
+            "It felt like drinking highly carbonated soda,",
+			"the weird texture exploded in my mouth instantly,",
+			"before I could even react, I blacked out…"
+        ],
+		"16": [
+            "\\nl< >\\{  \"Onii-chaaan—!\"",
+			"\\w[60]\\^"
+        ],
+		"17": [
+            "Ahh… food made by \\str[120]'s own hands…",
+			"too bad I couldn't finish it…"
+        ]			
+    }
+}

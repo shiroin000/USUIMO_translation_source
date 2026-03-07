@@ -1,0 +1,117 @@
+{
+  "0": [
+    "✦A mug that \\str[120] likes, ",
+    "featuring a strange rabbit design. ",
+    "It seems to be a bestseller at NLCH."
+  ],
+  "1": [
+    "✦The small lantern left by Father,",
+    "seems to be an alchemical tool.",
+    "It’s very durable despite its age and ",
+    "gives off a warm, comforting light."
+  ],
+  "2": [
+    "✦A cute little nightlight with soft lighting,",
+    "perfect for turning on when getting up",
+    "to use the bathroom at night. "
+  ],
+  "3": [
+    "✦A leafy plant called “Ficus umbellata”.",
+    "It’s thriving,and it seems \\str[120] takes ",
+    "great care of it every day."
+  ],
+  "4": [
+    "✦A leafy plant called “Pothos”.",
+    "It doesn’t look very healthy,  ",
+    "so \\str[120] placed it by the window.",
+    "Should I tell her that pothos actually ",
+    "doesn’t like sunlight...? "
+  ],
+  "5": [
+    "✦Some books that \\str[120] picked out ",
+    "from Father’s study.",
+    "They’re mostly philosophy books and ",
+    "completely incomprehensible.  "
+  ],
+  "6": [
+    "✦Picked up a dried birch branch on the ",
+    "way home —thought it looked cool, ",
+    "so I showed it to \\str[120].",
+    "She quietly put it in a vase."
+  ],
+  "7": [
+    "✦A bird sketch drawn by \\str[120], ",
+    "apparently based on birds she spotted ",
+    "while looking out the window."
+  ],
+  "8": [
+    "✦A small, old fan with weak airflow. ",
+    "You need to get really close to ",
+    "feel the cool breeze.  "
+  ],
+  "9": [
+    "✦A state-of-the-art hairdryer with ",
+    "incredibly strong airflow.",
+    "If you aim it at your face, it feels",
+    "like the wind might peel your skin off."
+  ],
+  "10": [
+    "✦A bathtub with adjustable temperature ",
+    "settings, but with a range of 99°C to -10°C...",
+    "Is that really okay?  "
+  ],
+  "11": [
+    "✦A fruit-scented shampoo that \\str[120] loves.",
+    "It makes her hair super silky, ",
+    "but it runs out way too fast.",
+    "Current Remaining:\\c[20]${$gameSelfVariables.value([6, 8, 'shampoo'])}%"
+  ],
+  "12": [
+    "✦It looks like the underwear ",
+    "\\str[120] just took off...",
+    "It's neatly folded."
+  ],
+  "13": [
+    "✦A legendary game console that’s now extremely rare.",
+    "Owning one would make you a legend among gamers.  "
+  ],
+  "14": [
+    "✦A doll gifted to \\str[120] by Father ",
+    "on her birthday. She treasures it deeply ",
+    "and always keeps it by her side."
+  ],
+  "15": [
+    "\\fr\\fs[20]\\c[10]Lost Magic Circle",
+    "\\fs[22]\\i[16]???\\fr",
+    "✦An Otherworldly Space created by ",
+    "a magic card inherited from father.",
+    "Completely unaffected by time, ",
+    "items stored here never disappear.",
+    "This circle is also connected to home's entrance,",
+    "allowing for a stable and safe return.",
+    "Whether this was deliberately designed by father, ",
+    "foreseeing his child's inevitable descent ",
+    "into the abyss, is now unknown..."
+  ],
+  "16": [
+    "\\fr\\fs[28]\\c[114]Grand Labyrinth",
+    "\\fr\\fs[22]\\i[16]???",
+    "✦Legend speaks of corridors forsaken by the gods, ",
+	"stretching here into infinity.",
+    "Beneath crumbling domes and ancient, entangling vines, ",
+	"the radiance of a lost civilization lingers still.",
+    "Countless adventurers have ventured within, never to return—",
+    "The Labyrinth refuses no guest; it only decides who may leave. "
+  ],
+  "17": [
+    "✦An 85-inch TV built with the latest tech.",
+    "However, it doesn’t receive many broadcast ",
+	"channels. To watch more interesting shows,",
+	"gotta find some videotapes somehow."
+  ],
+  "18": [
+    "✦The panties \\str[120] just took off.",
+    "It still hold her body heat, and that small patch ",
+	"of fabric in the middle looks soaking wet."
+  ]
+}

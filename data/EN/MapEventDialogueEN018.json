@@ -1,0 +1,46 @@
+{
+  "2": {
+        "0": [
+            "(...What is going on? The sunlight is so strong!?",
+			"And it really hurts when it hits my skin!!)"
+		]
+    },
+  "4": {
+        "0": [
+            "It's still early in the day.",
+			"Am I really going to head home now?"
+		],
+		"1": [
+            "There's still some time before sunset…",
+			"Am I really going to head home now?"
+        ],
+        "2": [
+      		"It's extremely hot today.",
+      		"Maybe it's better to head back early...?"
+        ],
+        "3": [
+            "Go home",
+			"Never mind"
+        ]
+    },
+  "16": {
+        "0": [
+            " ",
+			" "
+		]
+    },	
+  "17": {
+        "0": [
+            "There's also a note inside...     \\w[30]",
+			"Written on it are some words so messy they're almost unreadable—"
+		],
+        "1": [
+            "\\py[24]\"My youth lies buried within...\"",
+			"\\w[60]"
+		],
+        "2": [
+            "(That feels so...",
+			"so unbearably heavy...)"
+		]	
+    }	
+}

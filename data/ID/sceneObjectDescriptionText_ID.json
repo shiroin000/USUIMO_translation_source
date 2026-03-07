@@ -1,0 +1,105 @@
+﻿{
+  "0": [
+    "✦Mug yang disukai \\str[120],",
+    "menampilkan desain kelinci yang aneh.",
+    "Tampaknya menjadi buku terlaris di NLCH."
+  ],
+  "1": [
+    "✦Lentera kecil peninggalan Ayah,",
+    "tampaknya menjadi alat alkimia.",
+    "Ini sangat tahan lama meskipun usianya sudah tua dan",
+    "memancarkan cahaya yang hangat dan menenangkan."
+  ],
+  "2": [
+    "✦Lampu malam kecil yang lucu dengan pencahayaan lembut,",
+    "cocok untuk dinyalakan saat bangun tidur",
+    "untuk menggunakan kamar mandi di malam hari."
+  ],
+  "3": [
+    "✦Tanaman berdaun bernama Ficus umbellata.",
+    "Ini berkembang pesat, dan tampaknya membutuhkan waktu \\str[120]",
+    "sangat memperhatikannya setiap hari."
+  ],
+  "4": [
+    "✦Tanaman berdaun bernama Pothos.",
+    "Kelihatannya tidak sehat,",
+    "jadi \\str[120] meletakkannya di dekat jendela.",
+    "Haruskah aku memberitahunya tentang sirih gading itu sebenarnya",
+    "tidak suka sinar matahari...?"
+  ],
+  "5": [
+    "✦Beberapa buku yang dipilih \\str[120]",
+    "dari ruang kerja Ayah.",
+    "Kebanyakan berisi buku-buku filsafat dan",
+    "benar-benar tidak bisa dimengerti."
+  ],
+  "6": [
+    "✦Mengambil dahan pohon birch kering di",
+    "dalam perjalanan pulang — menurutku itu terlihat keren,",
+    "jadi saya menunjukkannya ke \\str[120].",
+    "Dia diam-diam memasukkannya ke dalam vas."
+  ],
+  "7": [
+    "✦Sketsa burung yang digambar oleh \\str[120],",
+    "rupanya berdasarkan burung yang dia lihat",
+    "sambil melihat ke luar jendela."
+  ],
+  "8": [
+    "✦Kipas kecil dan tua dengan aliran udara lemah.",
+    "Anda harus benar-benar dekat",
+    "merasakan sejuknya angin."
+  ],
+  "9": [
+    "✦Pengering rambut canggih dengan",
+    "aliran udara yang sangat kuat.",
+    "Jika Anda mengarahkannya ke wajah Anda, rasanya",
+    "seperti angin yang bisa mengelupas kulitmu."
+  ],
+  "10": [
+    "✦Bak mandi dengan suhu yang dapat disesuaikan",
+    "pengaturan, tetapi dengan kisaran 99°C hingga -10°C...",
+    "Apakah itu baik-baik saja?"
+  ],
+  "11": [
+    "✦Sampo beraroma buah yang disukai \\str[120].",
+    "Itu membuat rambutnya sangat halus,",
+    "tapi itu habis terlalu cepat.",
+    "Sisa Saat Ini:\\c[20]${$gameSelfVariables.value([6, 8, 'shampoo'])}%"
+  ],
+  "12": [
+    "✦Sepertinya pakaian dalam",
+    "\\str[120] baru saja lepas landas...",
+    "Terlipat rapi."
+  ],
+  "13": [
+    "✦Konsol game legendaris yang kini sangat langka.",
+    "Memilikinya akan menjadikan Anda legenda di kalangan gamer."
+  ],
+  "14": [
+    "✦Boneka yang dihadiahkan kepada \\str[120] oleh Ayah",
+    "pada hari ulang tahunnya. Dia sangat menghargainya",
+    "dan selalu menyimpannya di sisinya."
+  ],
+  "15": [
+    "\\fr\\fs[20]\\c[10]Lingkaran Ajaib yang Hilang",
+    "\\fs[22]\\i[16]???\\fr",
+    "✦Ruang Dunia Lain yang diciptakan oleh",
+    "kartu ajaib yang diwarisi dari ayah.",
+    "Sama sekali tidak terpengaruh oleh waktu,",
+    "barang yang disimpan di sini tidak pernah hilang.",
+    "Lingkaran ini juga terhubung dengan pintu masuk rumah,",
+    "memungkinkan pengembalian yang stabil dan aman.",
+    "Entah ini sengaja dirancang oleh ayah,",
+    "meramalkan keturunan anaknya yang tak terelakkan",
+    "ke dalam jurang, sekarang tidak diketahui..."
+  ],
+  "16": [
+    "\\fr\\fs[28]\\c[114]Labirin Besar",
+    "\\fr\\fs[22]\\i[16]???",
+    "✦Pintu masuk ke Labirin Reruntuhan,",
+    "dibanjiri monster dari aura Abyssal.",
+    "Meski berbahaya, hal ini menyimpan peluang besar,",
+    "dengan rumor rahasia Abyssal yang tersembunyi di kedalamannya.",
+    "Tetap saja, itu hanyalah salah satu dari banyak jalan menuju Abyss."
+  ]
+}

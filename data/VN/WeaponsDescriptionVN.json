@@ -1,0 +1,823 @@
+{
+    "1": {
+        "name": [
+            "Kiếm Gỗ"
+        ],
+        "subtitle": "",
+        "description": [
+            "Người ta nói rằng anh hùng ai cũng bắt đầu hành trình",
+            "từ ngôi làng nhỏ xuất phát với một thanh kiếm gỗ",
+            "Điều này đã trở thành mục tiêu để nhiều nhà thám hiểm noi theo"
+        ],
+        "ability": [
+            "Gây thêm sát thương khi vũ khí sắp hỏng"
+        ]
+    },
+    "2": {
+        "name": [
+            "Gậy Gỗ"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một cây gậy gỗ chắc chắn, hình dáng đẹp ",
+            "rất phù hợp cho trẻ con, cũng khá ổn để làm vũ khí"
+        ],
+        "ability": [
+            "Gây thêm sát thương khi vũ khí sắp hỏng"
+        ]
+    },
+    "3": {
+        "name": [
+            "Rìu Đốn Gỗ"
+        ],
+        "subtitle": "",
+        "description": [
+            "Người bạn đồng hành đáng tin cậy cho mạo hiểm giả hoặc người khai phá",
+            "rừng. Tuy nhiên, vì không thiết kế cho chiến đấu,",
+            "đừng quá trông cậy vào nó khi giao tranh"
+        ],
+        "ability": [
+            "Gây thêm sát thương lên cây cối"
+        ]
+    },
+    "4": {
+        "name": [
+            "Nắm Đấm"
+        ],
+        "subtitle": "",
+        "description": [
+            "Không trang bị vũ khí? Vậy thì cứ tung ra loạt cú đấm!",
+            "Có thể chỉ là giải pháp tạm thời, nhưng một nắm đấm đầy nhiệt huyết",
+            "vẫn rất mạnh. Tại sao phải dùng vũ khí khi nắm đấm cũng đủ dùng?"
+        ],
+        "ability": [
+            "Sát thương đấm tỷ lệ với HP tối đa!"
+        ]
+    },
+    "5": {
+        "name": [
+            "Kiếm Hiệp Sĩ"
+        ],
+        "subtitle": "",
+        "description": [
+            "Vũ khí cha từng dùng khi còn trẻ, được bảo quản tốt và dường như từng cấp",
+            "cho các hiệp sĩ trong cung điện"
+        ],
+        "ability": [
+            "Khi HP<\\c[10]30%\\c[0], sát thương của vũ khí này tăng gấp đôi"
+        ]
+    },
+    "6": {
+        "name": [
+            "Hỏa Linh Trượng"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một cây trượng làm từ khoáng chất núi lửa, dễ dàng tập trung nguyên tố lửa.",
+            "Tuy nhiên, chỉ cần sơ suất nhỏ cũng có thể khiến nó phát nổ,",
+            "thiêu cháy cả người sử dụng"
+        ],
+        "ability": [
+            "Giữ chuột phải để thi triển \\c[27]Hồng Liên Tinh\\c[0]"
+        ]
+    },
+    "7": {
+        "name": [
+            "Trượng Băng"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một cây trượng làm từ tinh thể ma thuật, giải phóng băng tuyết diện rộng.",
+            "Rất khó kiểm soát. Cảm giác như đang đông cứng cả tay"
+        ],
+        "ability": [
+            "Giữ chuột phải để thi triển \\c[27]Băng Chú\\c[0]"
+        ]
+    },
+    "8": {
+        "name": [
+            "Lông Vũ Kỳ Lạ"
+        ],
+        "subtitle": "",
+        "description": [
+            "Lông vũ của một loài chim kỳ lạ. Cực kỳ nhẹ và có thể",
+            "tạo ra lực đủ mạnh để thổi bay ai đó"
+        ],
+        "ability": [
+            "Tốc độ di chuyển tăng khi dùng Phong Trảm",
+            "Khi xoay liên tục, bước vào trạng thái lơ lửng, miễn nhiễm với việc bị rơi."
+        ]
+    },
+    "9": {
+        "name": [
+            "Kiếm Hiệp Sĩ"
+        ],
+        "subtitle": "",
+        "description": [
+            "Vũ khí cấp cho các hiệp sĩ trong cung điện",
+            "Biểu tượng cho con đường bảo vệ của các hiệp sĩ"
+        ],
+        "ability": [
+            "Khi HP<\\c[10]30%\\c[0], sát thương của vũ khí này tăng gấp đôi"
+        ]
+    },
+    "10": {
+        "name": [
+            "Đại Kiếm Ánh Ngân"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một thanh đại kiếm dường như được rèn từ bạc,",
+            "phát ra ánh sáng rực rỡ. Bề mặt lạnh và cứng,",
+            "nhưng chất liệu thực sự vẫn chưa rõ"
+        ],
+        "ability": [
+            "Khi HP dưới \\c[29]400\\c[0], sức mạnh tối đa của vũ khí bị hạn chế!"
+        ]
+    },
+    "11": {
+        "name": [
+            "Trọng Búa"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một cây búa gỗ to và nặng",
+            "Bị đánh vào đầu chắc chắn sẽ choáng váng!"
+        ],
+        "ability": [
+            "33% cơ hội gây trạng thái Choáng khi tấn công",
+            "Khi HP dưới \\c[29]400\\c[0], sức mạnh tối đa của vũ khí bị hạn chế!"
+        ]
+    },
+    "12": {
+        "name": [
+            "Gậy Bóng Chày"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một cây gậy kim loại. Nghe nói dùng cho thể thao, ",
+            "nhưng cũng rất hợp để đánh người."
+        ],
+        "ability": [
+            "Tăng độ bền!",
+			"Sát thương nhân lên khi đánh bật vật thể bay"
+        ]
+    },
+    "13": {
+        "name": [
+            "Xương Cá Thối"
+        ],
+        "subtitle": [
+            "\"Hôi quá, vứt đi thôi!\""
+		],
+        "description": [
+            "Xương còn sót lại của một con cá lớn, thịt thối rữa",
+            "vẫn bám trên đó, bốc mùi không chịu nổi"
+        ],
+        "ability": [
+            "Liên tục phát ra mùi hôi thối",
+            "Mùi hôi thối đến mức ngay cả quái vật cũng phải bỏ chạy!"
+        ]
+    },
+    "14": {
+        "name": [
+            "Càng Cua Khổng Lồ"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một chiếc càng cua khổng lồ kẹp rất chặt và không buông ra",
+            "Một khi đã kẹp vào thứ gì, khó mà gỡ ra được"
+        ],
+        "ability": [
+            "Khi ném, nó kẹp vào mục tiêu, gây sát thương liên tục",
+            "Không thể lấy lại trừ khi mục tiêu chết"
+        ]
+    },
+    "15": {
+        "name": [
+            "Hàn Nguyệt"
+        ],
+        "subtitle": [
+		    "\"Liếm lưỡi kiếm rồi bị dính lưỡi... Lạnh quá, đau quá!\"",
+		    "\"\\str[121], đừng liếm linh tinh nữa!\""
+		],
+        "description": [
+            "Một thanh kiếm ma thuật làm từ băng, chỉ cần lại gần đã thấy lạnh buốt"
+        ],
+        "ability": [
+            "50% cơ hội gây trạng thái Đóng Băng khi tấn công"
+        ]
+    },
+    "16": {
+        "name": [
+            "Kiếm Sét Rò Rỉ"
+        ],
+        "subtitle": [
+            "\"Tách... tách...!\""		
+		],
+        "description": [
+            "Thanh kiếm bị nguyền rủa chứa đầy năng lượng hoang dại, nhưng vẫn bị lỗi",
+            "Cẩn thận, nó có thể làm người dùng bị giật điện"
+        ],
+        "ability": [
+            "50% cơ hội gây trạng thái Sét khi tấn công"
+        ]
+    },
+    "17": {
+        "name": [
+            "Ngọn Lửa Thái Dương"
+        ],
+        "subtitle": [
+            "\"\\str[121], nhìn đáng sợ quá, đừng cầm nó nhé.\""		
+		],
+        "description": [
+            "Thanh kiếm ma thuật hấp thụ năng lượng mặt trời theo thời gian",
+            "Có vẻ đặc biệt hiệu quả với một số loại quái vật"
+        ],
+        "ability": [
+            "40% cơ hội gây trạng thái Thiêu Đốt khi tấn công"
+        ]
+    },
+    "18": {
+        "name": [
+            "Rìu Xương Orc"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một chiếc rìu lớn làm từ xương của kẻ thù bị đánh bại.",
+            "Không quá sắc bén, và orc thường thích ném nó hơn là",
+            "dùng trong cận chiến"
+        ],
+        "ability": [
+            "Gây thêm sát thương khi ném vũ khí"
+        ]
+    },
+    "19": {
+        "name": [
+            "Nhật Luân"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một bản sao của thanh ma kiếm truyền thuyết rực lửa.",
+            "Dĩ nhiên, nó không thể triệu hồi hỏa ngục thiêu đốt ",
+            "mặt đất như bản gốc."
+        ],
+        "ability": [
+            "Có thể triệu hồi một thiên thạch rơi xuống vị trí ngẫu nhiên khi tấn công"
+        ]
+    },
+    "20": {
+		"name": [
+			"Kiếm Rỉ Sét"
+	    ],
+		"subtitle": "",
+		"description": [
+			"Thanh kiếm sắt cũ, rỉ sét bám đầy, sắc bén đã phai nhạt từ lâu.",
+			"Nhìn từ góc độ khác, chính sự ăn mòn ấy lại trở nên nguy hiểm chết người…"
+		],
+		"ability": [
+			"15% khả năng gây trạng thái Độc khi tấn công",
+			"Luôn gây Độc với mục tiêu đang chảy máu."
+		]
+	},
+    "21": {
+        "name": [
+            "Địa Ngục Khởi Nguyên"
+        ],
+        "subtitle": [
+            "\"Thứ này khát máu...\""		
+		],
+        "description": [
+            "Một trong những vũ khí của tên sát nhân khét tiếng,",
+            "dính đầy máu"
+        ],
+        "ability": [
+            "45% cơ hội gây trạng thái Chảy Máu khi tấn công"
+        ]
+    },
+    "22": {
+		"name": [
+			"Búa Rèn"
+		],
+		"subtitle": [],
+		"description": [
+			"Một chiếc búa nặng từng được thợ rèn dùng để rèn kim loại.",
+			"Giờ đây, nó được ai đó dùng cho những mục đích quái dị và bất thường."
+		],
+		"ability": [
+			"Đập vào vũ khí đặt trên đe sẽ sửa chữa nó",
+			"Khi rút búa khỏi tay, đe triệu hồi cũng tan biến."
+		]
+	},
+    "24": {
+        "name": [
+            "Rìu Orc Bão Tố"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một chiếc rìu lớn của orc hòa hợp với sức mạnh thiên nhiên.",
+            "Mỗi cú vung xé đất và tạo ra gió rít cùng lưỡi rìu"
+        ],
+        "ability": [
+            "Có cơ hội tạo ra luồng gió khi tấn công",
+            "Khi HP dưới \\c[29]400\\c[0], sức mạnh tối đa của vũ khí bị hạn chế!"
+        ]
+    },
+    "25": {
+        "name": [
+            "Khúc Ca của Tidewyrm"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một cây trượng được chế tác từ những tinh thể ma thuật ẩm ướt",
+            "luôn nhỏ từng giọt nước. Chỉ phát huy sức mạnh khi dùng nước",
+            "làm chất dẫn — thật rắc rối!"
+        ],
+        "ability": [
+            "Thi triển gần nguồn nước sẽ cường hóa ma pháp.",
+            "Giữ chuột phải để thi triển Truy Kích Gợn Thủy."
+        ]
+    },
+    "26": {
+        "name": [
+            "Đêm Sao Lấp Lánh"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một cây trượng đính đá quý lấp lánh như Dải Ngân Hà Milky Way",
+            "Có khả năng tạo ra trường hấp dẫn mạnh, ",
+            "kéo kẻ xâm nhập vào bóng tối"
+        ],
+        "ability": [
+            "Giữ chuột phải để thi triển Hố Đen"
+        ]
+    },
+    "27": {
+        "name": [
+            "Kiếm Bào Tử Độc"
+        ],
+        "subtitle": "",
+        "description": [
+            "Thanh kiếm mỏng do Nấm đi bộ đánh rơi. Lưỡi kiếm cùn",
+            "được phủ bào tử độc, đảm bảo gây độc mỗi lần chém",
+            "Dù độ bền thấp, độc tố khiến nó rất hiệu quả"
+        ],
+        "ability": [
+            "Đòn đánh có 50% cơ hội gây trạng thái Độc"
+        ]
+    },
+    "29": {
+        "name": [
+            "Trượng Diệt Sâu Bọ"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một cây trượng đặc biệt được chế tác lại bởi một nhà giả kim từng chịu khổ sở",
+            "vì sâu bọ. Nó có thể ngay lập tức tạo ra một loại khí độc để tiêu diệt",
+            "các sinh vật nhỏ, đồng thời còn có tác dụng khử mùi và khử trùng"
+        ],
+        "ability": [
+            "Nhấn giữ nút chuột trái để thi triển Ma Thuật Hủy Diệt"
+        ]
+    },
+    "30": {
+        "name": [
+            "Kiếm Kanesada"
+        ],
+        "subtitle": "",
+        "description": [
+            "Thanh Katana yêu quý đã đồng hành cùng một cô gái trên con đường",
+            "chinh phục đỉnh cao kiếm thuật—không rời tay kể cả khi ngủ",
+            "Dù sắc hay không, nó vẫn là nhân chứng cho hành trình của cô ấy"
+        ],
+        "ability": [
+            "Tăng mạnh hiệu quả của tất cả kỹ năng đã học"
+        ]
+    },
+    "35": {
+        "name": [
+            "Claíomh Solais"
+        ],
+        "subtitle": [
+            "\"Hả? Mình không thấy gì cả! Đây đâu phải chuôi kiếm!?\""		
+		],
+        "description": [
+            "Được ban phước bởi ánh sáng, lưỡi kiếm uốn cong ánh sáng, trở thành",
+            "thanh kiếm vô hình. Nhờ đó cực kỳ sắc bén, và khi cần, ánh sáng sẽ bùng phát"
+        ],
+        "ability": [
+            "Đòn đánh hoàn toàn bỏ qua phòng thủ của mục tiêu"
+        ]
+    },
+    "36": {
+        "name": [
+            "Kiếm Tyrfing"
+        ],
+        "subtitle": "",
+        "description": [
+            "Thanh kiếm ma thuật nhân tạo với lưỡi rèn từ tinh thể mana",
+            "Mỗi nhát chém tạo ra sóng kiếm hữu hình. Với kiếm sĩ giỏi,",
+            "đây là vũ khí tăng sức mạnh vượt trội"
+        ],
+        "ability": [
+            "Đòn đánh tạo ra sóng kiếm gây sát thương"
+        ]
+    },
+    "40": {
+        "name": [
+            "Búa Chống Bắt Nạt"
+        ],
+        "subtitle": [
+		    "\"KHÔNG ĐƯỢC BẮT NẠT!!\""
+		],
+        "description": [
+            "Vũ khí sinh ra để trừng phạt những nhà thám mạo hiểm xấu xa. ",
+            "Dù chỉ là búa đồ chơi, bị đập vẫn đau thật sự."
+        ],
+        "ability": [
+            "Gây sát thương phản lại khi dùng cho việc xấu",
+			"Giá trị Tội Lỗi càng thấp, sát thương càng cao"
+        ]
+    },
+    "42": {
+        "name": [
+            "Đoạt Hồn Liềm Den"
+        ],
+        "subtitle": [
+		    "\"Nhớ nhé, Phong Trảm dùng như thế này! \""
+		],
+        "description": [
+            "Lưỡi hái cán ngắn của người ngoài với thiết kế đáng sợ",
+            "và ý chí trú ngụ bên trong. Cầm lâu còn có thể",
+            "nghe thấy tiếng nói lạ vang lên trong đầu"
+        ],
+        "ability": [
+            "Tự động tìm mục tiêu khi ném",
+			"Ý chí mạnh mẽ sẽ giúp bạn làm chủ kỹ năng chiến đấu đặc biệt"
+        ]
+    },
+    "51": {
+        "name": [
+            "Que Kem Vị Tổng Hợp"
+        ],
+        "subtitle": "",
+        "description": [
+            "Vũ khí ăn được do Kanban Musume của NLCH chế tạo",
+            "Que Kem ba vị: sô-cô-la, kem và dâu tây",
+			"Mát lạnh và ngon tuyệt! Nhưng nhớ ăn hết trước khi nó tan chảy..."
+        ],
+        "ability": [
+            "Có thể bị ăn mất khi tấn công…",
+			"Khi trang bị, sẽ tan chảy và biến mất theo thời gian…"
+        ]
+    },
+    "52": {
+        "name": [
+            "Đơn Vị Số 2"
+        ],
+        "subtitle": "",
+        "description": [
+            "Thiết bị liên lạc mua từ cửa hàng đáng ngờ",
+            "Chỉ cần hét 'Bắn!' sẽ nhận được hỗ trợ bắn tỉa từ đâu đó",
+            "Nhưng phải tự trả tiền điện thoại"
+        ],
+        "ability": [
+            "Nhấp chuột trái để gọi hỗ trợ hỏa lực, 1000 yên mỗi lần sử dụng",
+            "Nhấp chuột phải để gọi súng bắn tỉa tầm xa, 500 yên mỗi lần sử dụng"
+        ]
+    },
+    "53": {
+        "name": [
+            "Đại kiếm Ốc Quế"
+        ],
+        "subtitle": "",
+        "description": [
+            "Vũ khí ăn được do Kanban Musume của NLCH chế tạo",
+            "Vừa giữ được sức mạnh vũ khí, vừa ngon miệng!"
+        ],
+        "ability": [
+            "Có thể bị ăn mất khi tấn công...",
+            "Khi trang bị, nó sẽ tan chảy và biến mất theo thời gian..."
+        ]
+    },
+    "54": {
+        "name": [
+            "Đại Kiếm Cà Rốt"
+        ],
+        "subtitle": "",
+        "description": [
+            "Cà rốt hảo hạng được Thỏ Hầu Gái bí mật trồng.",
+            "Được truyền sức mạnh của Đá Hiền Triết, phát triển thành",
+            "món ngon khiến Thỏ Hầu Gái thèm đến phát khóc"
+        ],
+        "ability": [
+            "Có thể bị ăn mất khi tấn công...",
+            "Khi ném, vật này xuyên qua và trúng tất cả đơn vị trên đường đi."
+        ]
+    },
+    "55": {
+        "name": [
+            "Đại Kiếm Cà Rốt Băng Giá"
+        ],
+        "subtitle": "",
+        "description": [
+            "Cà rốt hảo hạng được Thỏ Hầu Gái bí mật trồng.",
+            "Sau khi đông lạnh, nó cứng như đá và không thể ăn được.",
+            "Nghe đồn đây là đồ dự trữ mùa đông của Thỏ Hầu Gái."
+        ],
+        "ability": [
+            "Có tỉ lệ 40% gây trạng thái Đóng Băng khi tấn công.",
+            "Khi ném, vật này xuyên thủng và trúng tất cả đơn vị trên đường đi."
+        ]
+    },
+    "56": {
+        "name": [
+            "Đại Kiếm Cà Rốt Mốc"
+        ],
+        "subtitle": "",
+        "description": [
+            "Cà rốt hảo hạng được Thỏ Hầu Gái bí mật trồng.",
+            "Bảo quản quá lâu, giờ đã mốc meo và thối rữa...",
+            "Không ăn được nữa—Thỏ Hầu Gái giữ lại để xua đuổi kẻ thù."
+        ],
+        "ability": [
+            "Có tỉ lệ 40% gây trạng thái Độc khi tấn công.",
+            "Khi ném, vật này xuyên thủng và trúng tất cả đơn vị trên đường đi."
+        ]
+    },
+    "57": {
+        "name": [
+            "Cà rốt?"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một loại cà rốt thượ.....",
+            "Hả? Đây thực sự là... cà rốt sao!?"
+        ],
+        "ability": [
+            "Khi ném, vật này xuyên thủng và trúng tất cả đơn vị trên đường đi."
+        ]
+    
+    },
+    "60": {
+        "name": [
+            "Chuối?"
+        ],
+        "subtitle": [
+            "\"Đây thật sự là chuối sao...?\""		
+		],
+        "description": [
+            "Một quả chuối đã bóc vỏ, phải cầm cẩn thận"
+        ],
+        "ability": [
+            "Di chuyển nhanh sẽ dễ làm văng quả chuối đi... Á!"
+        ]
+    },
+    "61": {
+        "name": [
+            "Máy Hút Ốc Sên Khổng Lồ"
+        ],
+        "subtitle": "",
+        "description": [
+            "Máy hút bụi làm từ vỏ ốc sên khổng lồ",
+            "Luồng khí được chỉnh sửa cho lực hút mạnh mẽ"
+        ],
+        "ability": [
+            "Giữ chuột để hút các vật thể lại gần"
+        ]
+    },
+    "62": {
+        "name": [
+            "Nhánh Cây Cổ Đại"
+        ],
+        "subtitle": "",
+        "description": [
+            "Vũ khí dạng cành cây kỳ lạ, lấy từ thân cây cổ đại,",
+            "cứng nhưng tràn đầy sức sống và vẫn đang phát triển"
+        ],
+        "ability": [
+            "Đánh bại kẻ địch sẽ tự động sửa độ bền vũ khí",
+            "Độ bền vượt mức tối đa tăng +1 ATK cho mỗi 1% dư ra"
+        ]
+    },
+    "63": {
+        "name": [
+            "Kiếm Ký Sinh"
+        ],
+        "subtitle": "",
+        "description": [
+            "Thanh kiếm bị cây nuốt chửng qua hàng thế kỷ, nơi kim loại và",
+            "sự sống hòa quyện thành điều bí ẩn. Lưỡi kiếm như đang thở,",
+            "tỏa ra hơi ấm kì lạ cho người cầm"
+        ],
+        "ability": [
+            "Hồi \\c[29]${Math.floor(1.2*$gameParty.leader().paramPlus(2))}\\c[0] HP cho người cầm khi đánh bại kẻ địch"
+        ]
+    },
+    "66": {
+        "name": [
+            "Nghi Thức Trụ"
+        ],
+        "subtitle": [
+            "\"——đa số mạo hiểm giả chỉ gọi thứ này là Ống Nai.\""
+        ],
+        "description": [
+            "Vũ khí thường được Sắc Dục Ma sử dụng, tương truyền ",
+            "ban đầu vốn là một loại pháp khí nghi thức.",
+            "Chất liệu cùng ma lực ẩn chứa bên trong đến nay vẫn không thể phân tích.",
+            "Ngoài ra, nó còn hoạt động cực kỳ hiệu quả như một chiếc đồng hồ báo thức…!"
+        ],
+        "ability": [
+            "Mỗi đầu giờ, nhận một phúc lành tăng toàn bộ chỉ số"
+        ]
+    },
+    "70": {
+        "name": [
+            "Vinh Quang Cổ Đại"
+        ],
+        "subtitle": [
+            "\"Giải phóng quyền năng Hoàng Kim ⬆⬆⬇⬇⬅⮕⬅⮕\""
+        ],
+        "description": [
+            "Thanh kiếm quỷ vàng rực rỡ, một trong những bảo vật của ",
+            "Quản trị viên Thế giới. Người đó từng cầm nó, chiến đấu dưới Vực Thẳm",
+			"suốt ba ngày ba đêm không nghỉ"
+        ],
+        "ability": [
+            "Giải phóng sức mạnh khi nhập lệnh bí mật"
+        ]
+    },
+    "80": {
+        "name": [
+            "Đại Kiếm Lá Liễu"
+        ],
+        "subtitle": "",
+        "description": [
+            "\"Hái lá, rải hoa, làm tổn thương kẻ thù\"",
+            "Một thanh đại kiếm rất sắc, hình dáng như lá liễu"
+        ],
+        "ability": [
+            "Có cơ hội bắn phi tiêu lá liễu khi tấn công"
+        ]
+    },
+    "81": {
+        "name": [
+            "Kiếm Ô Uế"
+        ],
+        "subtitle": [
+            "\"Ugh, chất nhầy vẫn còn ngọ nguậy... Ghê quá!!\""		
+		],
+        "description": [
+            "Thanh đại kiếm bị ký sinh bởi chất nhầy thèm khát sự sống",
+            "Sự thèm khát khiến chất nhầy trở nên hung dữ"
+        ],
+        "ability": [
+            "Gây thêm sát thương lên kẻ địch đang Chảy Máu",
+			"Hút máu nếu mục tiêu đã chết khi đang Chảy Máu"
+        ]
+    },
+    "82": {
+        "name": [
+            "Sừng Gãy Của Hercules"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "Một thanh kiếm rèn từ chiếc sừng cứng cáp của bọ cánh cứng tê giác",
+            "Dù từng bị gãy trong những trận chiến khốc liệt, độ cứng của nó vẫn còn nguyên vẹn.",
+			"Chính vì vậy, khi rèn lại, nó trở nên cực kỳ bền bỉ."
+        ],
+        "ability": [
+            "Lượng độ bền tiêu hao sẽ giảm khi sát thương thấp.",
+			"Nếu sát thương bằng hoặc thấp hơn ${QJ.MPMZ.tl.herculesBrokenHornEffectProcess()} sẽ không tiêu hao độ bền"
+        ]
+    },
+    "101": {
+        "name": [
+            "Cung Gỗ"
+        ],
+        "subtitle": "",
+        "description": [
+            "Cung dài làm từ gỗ cứng",
+            "Có thể bắn tên nhưng hiệu năng rất bình thường"
+        ],
+        "ability": [
+            "Giữ chuột phải để tích lực và bắn \\c[27]Mũi Tên Xuyên Phá\\c[0]",
+            "Mũi Tên Xuyên Phá giảm sát thương mỗi mục tiêu nó xuyên qua"
+        ]
+    },
+    "102": {
+        "name": [
+            "Cung Thợ Săn"
+        ],
+        "subtitle": "",
+        "description": [
+            "Cung được làm từ vật liệu tổng hợp giúp giảm lực kéo",
+            "Sát thương thấp hơn, nhưng bắn nhanh hơn"
+        ],
+        "ability": [
+            "+Tốc độ bắn, -20% Sát thương, -20% hao mòn độ bền",
+            "Giữ chuột phải để tích lực và bắn \\c[27]Mũi Tên Xuyên Phá\\c[0]"
+        ]
+    },
+    "103": {
+        "name": [
+            "Mây Hoàng Hôn"
+        ],
+        "subtitle": "",
+        "description": [
+            "Cung ma thuật chứa đầy năng lượng lửa",
+            "Không chỉ đốt cháy kẻ địch mà còn bắn tên gây nổ"
+        ],
+        "ability": [
+            "Giữ chuột phải để tích lực và bắn \\c[27]Mũi Tên Nổ\\c[0]",
+            "Mũi Tên Nổ sẽ phát nổ khi trúng mục tiêu"
+        ]
+    },
+    "104": {
+        "name": [
+            "Tuyết Giám"
+        ],
+        "subtitle": "",
+        "description": [
+            "Cung ma thuật phủ đầy băng. Bắn những mũi tên băng lạnh lẽo",
+            "và có thể đóng băng diện rộng."
+        ],
+        "ability": [
+            "Giữ chuột phải để tích lực và bắn \\c[27]Mũi Tên Băng\\c[0]",
+            "Mũi Tên Băng sẽ đóng băng mục tiêu khi trúng"
+        ]
+    },
+    "105": {
+        "name": [
+            "Thiên Điểu"
+        ],
+        "subtitle": "",
+        "description": [
+            "Cung vàng có thể triệu hồi sấm sét,",
+            "được đặt tên theo âm thanh như tiếng sét",
+            "Nhưng cẩn thận, nó rất dễ dẫn điện"
+        ],
+        "ability": [
+            "Giữ chuột phải để tích lực và bắn \\c[27]Mũi Tên Sấm\\c[0]"
+        ]
+    },
+    "106": {
+        "name": [
+            "Huyết Khuyển Cung"
+        ],
+        "subtitle": "",
+        "description": [
+            "Di vật của vực thẳm, cây cung hình thù kỳ lạ có thể",
+            "bắn nhiều mũi tên cùng lúc. Tuy nhiên, cây cung ma thuật này vẫn bị phong ấn",
+            "sức mạnh thật sự chưa được giải phóng"
+        ],
+        "ability": [
+            "Giữ chuột phải để tích lực và bắn \\c[27]Mũi Tên Xuyên Phá\\c[0]"
+        ]
+    },
+    "107": {
+        "name": [
+            "Huyết Liệt"
+        ],
+        "subtitle": "",
+        "description": [
+            "Cung dài dính đầy máu.",
+            "Mỗi lần kéo dây cung đều thấm máu của người dùng,",
+            "cho đến khi mũi tên trở về với phần thưởng ngọt ngào hơn"
+        ],
+        "ability": [
+            "Giữ chuột phải để tích lực và bắn \\c[27]Mũi Tên Máu Xuyên Phá\\c[0]",
+		    "Tiêu hao HP để cường hóa mũi tên. Mũi tên khi kết liễu sẽ hút máu"
+        ]
+    },
+    "250": {
+        "name": [
+            "Cuốc Đá Địa Ngục"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một chiếc cuốc kỳ dị được gia công và rèn từ Thỏi Đá Địa Ngục",
+            "Với độ cứng đáng kinh ngạc cùng ma lực quấn quanh nó,",
+            "nó có thể đập tan hầu hết mọi vật trên thế giới chỉ bằng một nhát"
+        ],
+        "ability": [
+            "Tăng mạnh sát thương gây ra lên các thực thể có thể phá hủy"
+        ]
+    },
+    "251": {
+        "name": [
+            "Xẻng Đá Địa Ngục"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một chiếc xẻng kỳ dị được gia công và rèn từ Thỏi Đá Địa Ngục",
+            "Với độ cứng đáng kinh ngạc cùng ma lực quấn quanh nó,",
+            "ngay cả mặt đất rắn chắc cũng sẽ bị cưỡng ép xé toạc bên dưới nó"
+        ],
+        "ability": [
+            "Có thể phá vỡ địa hình, tạo ra lối đi xuống các tầng thấp hơn"
+        ]
+    }
+}

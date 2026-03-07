@@ -1,0 +1,2058 @@
+{
+  "3": {
+        "0": [
+            "…\\str[120] ainda está em sono profundo. ",
+            "O que eu devo fazer?"
+        ],
+        "1": [
+            "Acordá-la",
+            "Fazer um Cafuné",
+            "Deixar Ela Dormir"
+        ],
+        "2": [
+            "O Elixir Rubrum parece ter melhorado a ",
+            "a condição da \\str[120], mas eu não pude ajudar ",
+            "de me preocupar que os efeitos podiam ser só temporários."
+        ],
+        "3": [
+            "Eu gentilmente esfreguei as bochechas da \\str[120]. Talvez isso ",
+            "tenha feito um pouco de cócegas, na hora ela fez uma cara que ",
+            "estava tentando se escapar."
+        ],
+        "4": [
+            "\\nl< >\"Mmm... hmm…\""
+        ],
+        "5": [
+            "\"Já é manhã. Acha que você pode levantar?\""
+        ],
+        "6": [
+            "Devido a sua condição, \\str[120] sempre teve ",
+            "dificuldade em levantar pela manhã, talvez eu não deva ",
+            "força-la a levantar…?"
+        ],
+        "7": [
+            "Continuar Tentando",
+            "Deixar Ela Dormir"
+        ],
+        "8": [
+            "\\nl< >\"Mnyaa…\"",
+            "\\nl< >\"—\\str[121]…\"",
+            "\\nl< >\"Mmm… mmhm…\""
+        ],
+        "9": [
+            "Ela só murmurou um pouco e voltou a dormir.",
+            "Acho que essas coisas não podem ser apressadas. ",
+            "Melhor deixar ela dormir mais um pouco…"
+        ],
+        "10": [
+            "Eu gentilmente fiz um cafuné em sua cabeça."
+        ],
+        "11": [
+            "…Acho que é hora de preparar o café da manhã."
+        ]
+  },
+  "4": {
+        "0": [
+            "\"Como você está se sentindo? ",
+            "Você não está se forçando demais né?\""
+        ],
+        "1": [
+            "\\nl< >\"Mnyaa… \\w[180]Eu to bem yiiiiii——\"\\w[30]\\^"
+        ],
+        "2": [
+            "\"Cuidado!\\w[45] Honestamente,\\w[45]",
+            "você está claramente meio dormindo, não é?\""
+        ],
+        "3": [
+            "\"Hey~ ainda não acordou direito?",
+            "Então o \\str[121] vai pegar pesado~!\""
+        ],
+        "4": [
+            "\\nl< >\"Mmmmmm…\""
+        ],
+        "5": [
+            "\"Vamos lá———\""
+        ],
+        "6": [
+            "\"Se sentindo mais acordada?\""
+        ],
+        "7": [
+            "\\nl< >\"Uweh… tem tantos de você, \\str[121]…\""
+        ],
+        "8": [
+            "\"Se você ainda não está se sentindo bem, ",
+            "vamos tentar lavar o rosto primeiro.\""
+        ],
+        "9": [
+            "\\nl< >\" \\str[121], Me leva no colo…\""
+        ],
+        "10": [
+            "Yikes, talvez essa pegadinha tenha passado um pouco do limite…",
+            "\\str[120] ainda continua bastante tonta."
+        ],
+        "11": [
+            "\"Gira gira gira gira gira gira gira~!\""
+        ],
+        "12": [
+            "\\nl< >\"Roda roda roda roda roda roda roda~!\""
+        ],
+        "13": [
+            "\\nl< >\"Uweeeeh~~~~\"  \\w[120]"
+        ],
+        "14": [
+            "Tonta e atordoada, \\str[120] cai de cara na cama...",
+            "Hã? Talvez eu tenha levado a brincadeira um pouco longe demais?"
+        ],
+        "15": [
+            "Vendo que ela não tem nem a força para ficar de pé.",
+            "Eu não tive outra alternativa além de desistir ",
+            "e parar de forçar ela a levantar."
+        ],
+        "16": [
+            "\"…Acho que é hora de fazer o café da manhã.\""
+        ]
+  },
+  "6": {
+        "0": [
+            "Apimentado demais... machuca..."
+        ],
+        "1": [
+            "\\nl< >\"Uuuu... minha boca tá queimando... ",
+            "isso doi... uuuu...\""
+        ],
+        "2": [
+            "\\str[120] estava deitada na cama, ",
+            "Sofrendo por ter comido tanta pimenta",
+            "Eu preciso achar algo pra ajudar ela rápido..."
+        ],
+        "3": [
+            "Acariciar Cabeça",
+            "Acariciar Bunda",
+            "Preparar Bebida"
+        ],
+        "4": [
+            "Eu delicadamente acaricio a cabeça da \\str[120],",
+            "imaginando se isso ia fazer ela se sentir um pouco melhor..."
+        ],
+        "5": [
+            "\\nl< >\"Uuuu... agora parece que minha cabeça também tá doendo...\""
+        ],
+        "6": [
+            "\\nl< >\"Ue e e...\""
+        ],
+        "7": [
+            "Parece que não teve efeito..."
+        ],
+        "8": [
+            "Eu gentilmente acariciei a bunda da \\str[120]",
+            "imaginando se isso ia fazer ela se sentir um pouco melhor..."
+        ],
+        "9": [
+            "\\nl< >\"Uuuu... \\str[121]...\""
+        ],
+        "10": [
+            "\\nl< >\"Uee... agora minha bunda também tá doendo...\""
+        ],
+        "11": [
+            "Eu procurei correndo pela casa e finalmente ",
+            "achei uma garrafa de \\ii[\\v[85]]!"
+        ],
+        "12": [
+            "\"Aqui \\ii[\\v[85]], ",
+            "você quer beber...?\""
+        ],
+        "13": [
+            "\\nl< >\\{  \"Eu quero!!\""
+        ],
+        "14": [
+            "\\str[120] tomou o \\ii[\\v[85]] de uma vez só..."
+        ],
+        "15": [
+            "Eu procurei correndo pela casa, mas parece que ",
+            "não tem nenhuma bebida sobrando em casa...",
+            "Sem outras opções, eu preparei um copo de água pra ela."
+        ],
+        "16": [
+            "\\str[120] tomou o copo de água de uma vez só..."
+        ],
+        "17": [
+            "\\nl< >\"Uuuu... minha boca ainda dói...\""
+        ],
+        "18": [
+            "\\nl< >\"Finalmente me sinto um pouco melhor... ",
+            "Mas minha língua ainda tá dormente.\""
+        ],
+        "19": [
+            "\\nl< >\"Pimentas realmente são minhas inimigas...\""
+        ],
+        "20": [
+            "Vendo seus lábios levemente inchados, ",
+            "Eu comecei a ter pensamentos muito estranhos——"
+        ],
+        "21": [
+            "Verificação Oral"
+        ],
+        "22": [
+            "\\nl< >\"Ehh... não, isso é meio embaraçoso...",
+            "\\str[121] vai sentir o cheiro estranho!\""
+        ],
+        "23": [
+            "\\str[120] recusou a verificação oral. ",
+            "Talvez meu pedido tenha sido mesmo bem estranho..."
+        ],
+        "24": [
+            "De qualquer forma, eu estou feliz vendo que ela está ",
+            "se sentindo melhor, eu preciso tomar cuidado pra não ",
+            "fazer comidas tão apimentadas da próxima vez..."
+        ],
+        "25": [
+            "\"Tá tudo bem! Eu só estou preocupado com você!?",
+            "É só uma verificada normal!\""
+        ],
+        "26": [
+            "\\nl< >\"Uma ve-verificada, huh?\""
+        ],
+        "27": [
+            "Sobre meu intenso olhar, \\str[120] ficou ainda mais rosada, ",
+            "mas seus olhos estavam cheios de gentileza e curiosidade ",
+            "e um leve sentimento de antecipação apareceu nas suas ",
+            "bochechas rosadas."
+        ],
+        "28": [
+            "\"Pos é, seria ruim se bolhas se formacem na sua boca!\""
+        ],
+        "29": [
+            "\\nl< >\"Ok, entendi... então...",
+            "Você pode só olhar, tá? Não faça nada estranho...\""
+        ],
+        "30": [
+            "\\nl< >\"Ah, ahh———\""
+        ],
+        "31": [
+            "\\str[120] não resistiu mais. ",
+            "Ficou parada de forma obediente na minha frente ",
+            "lentamente movendo sua cabeça para trás e abrindo sua",
+            "pequena boca, ela botou envergonhada sua pequena língua pra fora."
+        ],
+        "32": [
+            "Talvez por ter comido muita comida apimentada, sua língua ",
+            "parecia especialmente avermelhada, tremendo levemente, ",
+            "com saliva transbordando pelo excesso de pimenta com ",
+            "gotinhas escorrendo pelos seus lábios macios."
+        ],
+        "33": [
+            "Ela parecia envergonhada e atordoada com",
+            "Seus olhos embaçados cheios de lágrimas.",
+            "Eu não sabia dizer se ela ainda estava com dor da pimenta."
+        ],
+        "34": [
+            "\\nl< >\"O-\\str[121]——— ainda não terminou?\"",
+            "\\w[150]"
+        ],
+        "35": [
+            "Tratamento Oral!"
+        ],
+        "36": [
+            "Com essa visão tão suave e tentadora,eu inconscientemente ",
+            "engoli uma onda incontrolável de desejo queimando no meu peito. ",
+            "de desejo surgiam em meu peito."
+        ],
+        "37": [
+            "\"\\str[121] vai te ajudar a se sentir melhor, ok?\"",
+            "Vai parar de doer logo logo...\""
+        ],
+        "38": [
+            "\\nl< >\"—————Eh?\""
+        ],
+        "39": [
+            "Como se estivesse tentar me convencer,",
+            "me inclino para perto do rosto da \\str[120],",
+            "e coloco para fora minha língua para suavemente tocar sua suave ",
+            "e delicada pequena língua, lenta e carinhosamente a lambo."
+        ],
+        "40": [
+            "No momento que nossas línguas se tocaram, ela se contraiu levemente.",
+            "Ela pareceu nervosa e confusa com minha ação, mas ela não tentou resistir",
+            "Ainda com aqueles grandes olhos aguados fixados em mim",
+            "Cheios de curiosidade."
+        ],
+        "41": [
+            "Provando a maciez da sua língua e a doçura em seus lábios, eu esqueci",
+            "completamente o meu objetivo original. A sensação da sua língua ",
+            "E o calor da sua boca emanava uma sensação poderosa",
+            "Tornando minhas ações cada vez mais ousadas e gananciosas enquanto",
+            "Eu procurava mais profundamente em busca da sua doce respiração.",
+            "Eu busquei cada vez mais e profundamente sua respiração doce."
+        ],
+        "42": [
+            "Os movimentos da sua pequena língua gradualmente se adaptaram aos ",
+            "meus. Parece que ela também começou a lentamente corresponder. ",
+            "Sua cooperação tímida e gentil, dava a entender uma sutil sensação de ",
+            "antecipação e apego."
+        ],
+        "43": [
+            "\\nl< >\"Mmm... haa, \\str[121]...\""
+        ],
+        "44": [
+            "Eu não sei por quanto tempo isso durou, mas a \\str[120]  ",
+            "começou a ficar sem ar, seus dedos pressionando levemente ",
+            "contra o meu peito enquanto ela soltava gemidos abafados ",
+            "até seu pequeno rosto se tornou ainda mais vermelho devido a ",
+            "falta de oxigênio.",
+            "E só então eu relutantemente me afastei de sua boca.",
+            "solte a boca dela."
+        ],
+        "45": [
+            "\\nl< >\"Haa... haa...\""
+        ],
+        "46": [
+            "\\nl< >\"Mmph, \\str[121]! ",
+            "Você disse que era só uma verificada...!\""
+        ],
+        "47": [
+            "Mesmo que as palavras dela carreguem uma reclamação",
+            "Mimada, sua expressão realmente não parecia que estava  ",
+            "me reprendendo, parecia mais que ela estava sendo brincalhona."
+        ],
+        "48": [
+            "\"Desculpa, desculpa, eu vou ser mais cuidadoso ná próxima vez...",
+            "mas, sua língua não está melhor agora?\""
+        ],
+        "49": [
+            "\\nl< >\"Eh...? Hmm, sim...\""
+        ],
+        "50": [
+            "\\nl< >\"Não...! Isso não é o ponto! ",
+            "\\w[160]\\^"
+        ],
+        "51": [
+            "\\nl< >\\{",
+            "\\str[121] você é um grande idiota!\""
+        ],
+        "52": [
+            "\\str[120] fugiu."
+        ],
+        "53": [
+            "Eu assisti sua figura tímida e afobada enquanto ela fugia.",
+            "Minha boca ainda formigando com a sensação doce e ",
+            "molhada do que acabou de acontecer.",
+            " ",
+            "Um prazer imenso, misturado um uma imensa sensação ",
+            "de Taboo se revirava fundo em mim e se recusava a ",
+            "desaparecer..."
+        ]
+  },
+  "7": {
+        "0": [
+            "Hmm... Eu to começando a ficar com fome. ",
+            "Já é hora de fazer o jantar."
+        ],
+        "1": [
+            "\"Hey, já tá tudo pronto. ",
+            "Hora de levantar, sua dorminhoca. \""
+        ],
+        "2": [
+            "\\nl< >\"Mmnn—\\w[60] deixa eu dormir só mais uma hora...\""
+        ],
+        "3": [
+            "\\str[120] ainda está preguiçosamente na cama, recusando se mover.",
+            "Minha nossa… Eu acho que não posso fazer nada sobre isso…"
+        ],
+        "4": [
+            "\"Ahh, por falar nisso, ",
+            "hoje vai ter hambúrguer—\""
+        ],
+        "5": [
+            "\\nl< >\"Ugh... To com tanto sono—\""
+        ],
+        "6": [
+            "\\nl< >\"Mas onde está o hambúrguer de carne!? ",
+            "Onde está!?\""
+        ],
+        "7": [
+            "\"Desculpe, acredito que isso foi algo ",
+            "que você viu em seus sonhos—\""
+        ],
+        "8": [
+            "\\nl< >\"Ehh... serio!? Isso foi malvado, \\str[121]!\""
+        ]
+  },
+  "5": {
+        "0": [
+            "Eu segui a \\str[120] até a sala de estar.",
+            "A TV já estava ligada e ela já estava enrolada no centro do sofá parecendo um",
+            "Passarinho no poleiro abraçando seus joelhos e intensamente vidrada na tela.",
+            "atentamente a tela da TV."
+        ],
+        "1": [
+            "Que tipo de anime seria esse que ela gosta tanto…? Já que eu nunca ",
+            "estou em casa durante o dia, eu não sei o que ela costuma assistir, ",
+            "mas vendo ela tão animada de repente, me deixou curioso também, ",
+            "então eu acabei ficando sentado no sofá olhando TV."
+        ],
+        "2": [
+            "\\{\\c[27]“Ruby, A Garota da Luz Estelar!”",
+            "Episódio 1! ",
+            "Uma garota normal e um milagre das estrelas! ",
+            "O Contrato se Inicia!"
+        ],
+        "3": [
+            "\\c[27]Ruby é uma garota comum, com notas comuns, ruim em esportes e sem nenhum talento mágico—",
+            "mas um dia no caminho de casa, ela foi perseguida por um monstro e foi encurralada em um beco sem saída!",
+            "No seu momento de desespero, um misterioso espírito estelar 'Noa' apareceu, ",
+            "despertando sua vontade de sobreviver! 'Eu quero viver!' ela gritou naquele momento, "
+        ],
+        "4": [
+            "\\c[27]a luz estelar se espalhou pelo caminho—o contrato do destino está selado!",
+            "A sua primeira transformação! Guiada pelo instinto, ela se defendeu e expulsou o monstro!",
+            "Olhando para suas mãos brilhando com a luz das estrelas, ",
+            "Ruby quase sem fôlego: 'Isso… sou eu?'"
+        ],
+        "5": [
+            "\\nl< >\"Ela se transformou! Isso foi incrível—! ",
+            "E o Noa é tão fofo! A luz das estrelas é tão bonita!   \\w[120]",
+            "Olha, \\str[121]! A Ruby não conseguia fazer nada antes disso!",
+            "Mas no final, ela foi escolhida para se tornar uma garota mágica!\""
+        ],
+        "6": [
+            "\"Aaah, sim…\""
+        ],
+        "7": [
+            "……………………",
+            "……………………"
+        ],
+        "8": [
+            "Ela... se transformou assim mesmo?! ",
+            "E a luta já acabou?",
+            "Um contrato com monstros deveria ter risco de vida…",
+            "Será que deixar as crianças verem isso pode dar problemas pra Guilda…?"
+        ],
+        "9": [
+            "Eu olhei para a TV com uma expressão séria, cheia de confusão.",
+            "Mas quando eu olhei para os olhos vidrados e boca aberta da \\str[120], ",
+            "preenchida de admiração, Eu decidi ficar em silêncio."
+        ],
+        "10": [
+            "\"Realmente, os visuais são bem chamativos. Mas se você estiver gosilêncio…\""
+        ],
+        "11": [
+            "Eu realmente não entendi a drama, mas eu aproveitei um bom ",
+            "tempo em silêncio assistindo TV com a \\str[120]!"
+        ],
+        "12": [
+            "O último episódio foi uma bagunça…",
+            "Mas a \\str[120] adora, então não deve ser um daqueles animes estranhos?   \\w[60]",
+            "Não! Eu não posso julgar baseado só em algumas cenas!",
+            "Com isso em mente, eu me encostei na poltrona e olhei pra TV."
+        ],
+        "13": [
+            "\\{\\c[27]“Ruby, A Garota da Luz Estelar!!”",
+            "Episódio 2! ",
+            "Começa o Treinamento Especial! ",
+            "A Libertação Mágica do Caos!"
+        ],
+        "14": [
+            "\\c[27]Começa o Treinamento Especial!",
+            "As aulas particulares do Noa sobre poeira estelar testaram os limites da Ruby!",
+            "Depois de cair do teto 37 vezes, ela finalmente conseguiu se transformar  ",
+            "sozinha, mas sua mágica sai do controle!",
+            "\\c[27]O corredor da escola se tornou em uma área de desastre, fachadas de lojas ",
+            "explodiram como fogos de artifício pela cidade! Com os cidadãos reclamando e ",
+            "os seguranças se aproximando, poderia a garota mágica mais fraca na história",
+            "realmente reverter a situação sob o treinamento brutal do Noa?!"
+        ],
+        "15": [
+            "\\nl< >\"Ahh… pobre Ruby…    \\w[90]",
+            "Ela deve estar tão frustrada… Ela recém ganhou seus poderes, ",
+            "e ela ainda não se acostumou com eles.\""
+        ],
+        "16": [
+            "\"Yeah, é realmente difícil de assistir…\""
+        ],
+        "17": [
+            "Isso não seria… basicamente abuso de trabalho forçado infantil…?",
+            "E esse espírito estelar Noa também…",
+            "Como ele conseguiu formar qualquer contrato bem sucedido como esse ",
+            "no passado…?"
+        ],
+        "18": [
+            "Não querendo estragar o programa da \\str[120],",
+            "Eu só resmunguei silenciosamente na minha cabeça—"
+        ],
+        "19": [
+            "\\{\\c[27]“Ruby A Garota da Luz Estelar!”",
+            "Episódio 3! ",
+            "O primeiro confronto entre as chamas e Poeira Estelar!"
+        ],
+        "20": [
+            "\\c[27]A nova aluna transferida misteriosa Reina fez uma grande entrada!",
+            "Sua intensa chama mágica completamente sobrecarregou a desajeitada magia estelar da Ruby!",
+            "Por detrás de seu olhar gelado jaz um passado doloroso—",
+            "Quando a novata excitante encontra a guerreira forjada na batalha!",
+            "\\c[27]Seus ideais conflitantes entram em atrito quando monstros atacam!",
+            "Poderiam magia estela e fogo realmente trabalharem juntas?!"
+        ],
+        "21": [
+            "\\nl< >\"Reina é assustadora… mas ela é tão forte!   \\w[90]",
+            "Mas, a Ruby precisa de parceiros fortes como ela né?      \\w[90]",
+            "Elas vão se tornar boas amigas, não vão?\""
+        ],
+        "22": [
+            "Yeah, Reina é bem legal…",
+            "Ela definitivamente vai ser uma experiente e confiável parceira.”"
+        ],
+        "23": [
+            "Eu concordei com a cabeça para a \\str[120],",
+            "assistindo as batalhas chamativas e animações incríveis no novo Episódio—",
+            "Pra ser honesto, eu também estava começando a gostar."
+        ],
+        "24": [
+            "Agora eu meio que estou ansioso para o próximo Episódio!",
+            "Eu tive um bom e calmo momento assistindo Anime com a \\str[120]!"
+        ],
+        "25": [
+            "Eu comecei a assistir casualmente Mas acabei maratonando vários ",
+            "episódios sem nem perceber…",
+            "O ritmo parece meio caotíco, mas o cenário é surpreendentemente ",
+            "interessante.   \\w[60]",
+            "Vendo a \\str[120] tão imersa nisso, eu acho que estou começando a entender.",
+            "O que vai acontecer em seguida…? ",
+            "Eu me encostei no sofá, atraído pela TV sem nem perceber."
+        ],
+        "26": [
+            "\\{\\c[27]“Ruby A Garota da Luz Estelar!!”",
+            "Episódio 4! ",
+            "Sussurros Sombrios Sob o Festival das Luzes!"
+        ],
+        "27": [
+            "\\c[27]O festival da escola começou com tudo! ",
+            "Ruby e Reina são forçadas a cuidar de uma barraquinha juntas!",
+            "Máquina de algodão doce explodindo! A bola de cristal da vidente se estilhaçou!",
+            "A pior dupla nasce! Mas sussurros estranhos nos cantos chamam a atenção de Noa—",
+            "\\c[27]Naqueles profundos olhos amarelos… uma névoa negra e sinistra borbulha!",
+            "Como os fogos de artifício acende o céu, uma sombra que espreitava começou a se espalhar!",
+            "Quais segredos estão escondidos nas profundezas do animado festival?!"
+        ],
+        "28": [
+            "\\nl< >\"O festival da escola pareceu tão divertido!     \\w[90]",
+            "Ruby e Reina parecem estar ficando amigas também…!\""
+        ],
+        "29": [
+            "\"Parece bem divertido, sim…  \\}",
+            "Mas vamos falar sério, o relacionamento delas está totalmente desmoronando…\""
+        ],
+        "30": [
+            "\\{\\c[27]“Ruby A Garota da Luz Estelar!!”",
+            "Episódio 5! ",
+            "A Dura Verdade por trás do Passado Escaldante!"
+        ],
+        "31": [
+            "\\c[27]Uma repentina investigação sobre os acontecimentos da névoa negra se inicia! ",
+            "Reina mostra hostilidade com a vítima?! Nas profundezas de uma ",
+            "capela abandonada, as marcas de garras de um demônio corruptor de corações reabrem ",
+            "suas memórias— Magias de fogo saem do controle! ",
+            "\\c[27]Bonecas carbonizadas e molduras de fotografias se incendeiam em chamas!",
+            "'Minha cidade… é assim que ela se torna em cinzas!' Reina grita a verdade, lágrimas ",
+            "escorrendo pelo seu rosto! E nesse momento, no subsolo da escola outro demônio corruptor",
+            "de corações desperta! Velhas feridas ainda não curadas… Estão prestes a se reabrir novamente?!"
+        ],
+        "32": [
+            "\\nl< >\"Como isso pode acontecer… ",
+            "Eu não fazia ideia que a Reina-chan tinha esse tipo de passado…     \\w[90]",
+            "\\str[121], o que vai acontecer com elas agora…?\""
+        ],
+        "33": [
+            "\"T-tudo vai ficar bem! Elas ainda tem magía, não é!?",
+            "Talvez a Ruby vai ter seu grande momento no próximo episódio!?\""
+        ],
+        "34": [
+            "Eu gesticulei com os braços, tentando confortar a \\str[120].",
+            "espera, isso não era pra ser uma história sobre o bonito",
+            "laço de amizade entre garotas!? Mas a trama está esquentando—",
+            "vai ter que ter uma cena épica de resolução vindo logo, certo?!?"
+        ],
+        "35": [
+            "Estou totalmente animado para o próximo episódio!",
+            "Compartilhei um momento tenso mas excitante assistindo Anime com a \\str[120]!"
+        ]
+  },
+  "8": {
+        "0": [
+            "Quando eu cheguei no quarto da \\str[120]",
+            "eu encontrei ela deitada no chão igual",
+            "um bacalhau seco, completamente desconectada."
+        ],
+        "1": [
+            "O calor sufocante lá fora claramente já invadiu a casa, ",
+            "o ar estava escaldante quando chegou até mim."
+        ],
+        "2": [
+            "Eu não posso deixar isso assim, eu preciso ",
+            "pensar em uma forma de ajudar a \\str[120] se refrescar…!"
+        ],
+        "3": [
+            "Eu me esforcei pra cuidar da \\str[120] ",
+            "que já estava quase tendo uma insolação.",
+            "Só quando o pôr do sol pintou o céu de vermelho ",
+            "ela finalmente começou a se recuperar…"
+        ],
+        "4": [
+            "Nós dois lambemos desesperadamente os picoles tentando se refrescar,",
+            "mas ainda com ondas e ondas de calor passando por nós, ",
+            "nós ainda acabamos totalmente encharcados de suor."
+        ],
+        "5": [
+            "\\str[120] se sentindo tão desconfortável, esqueceu completamente da sua timidez, ",
+            "e ficou levantando a bainha de sua blusa para criar algum tipo de briza."
+        ],
+        "6": [
+            "\\nl< >\"Tá tão quente… Eu só quero tomar um banho…\""
+        ],
+        "7": [
+            "Eu vou junto!",
+            "Vamos lá!"
+        ],
+        "8": [
+            "\\nl< >\"Sem chance, tá muito quente pra ficar amontoado desse jeito!\""
+        ],
+        "9": [
+            "\\nl< >\"Credo! Para de brincar em uma hora como essa!\""
+        ],
+        "10": [
+            "Pois é, é verão afinal…",
+            "mas ainda assim, eu me senti um pouco solitário…"
+        ],
+        "11": [
+            "Por estar tão quente, eu e a mita \\str[120] nos revezamos no banho,",
+            "mas pouco depois de terminar, nós já estávamos suando novamente.",
+            "E continuamos nesse ciclo até a noite chegar…"
+        ],
+        "12": [
+            "De mansinho…",
+            "De mansinho…",
+            "Eu fui até a porta da \\str[120] na ponta dos pés ."
+        ],
+        "13": [
+            "\"Olhando————  \\w[60]",
+            "Qu-que!?\""
+        ],
+        "14": [
+            "Eu pensei que a \\str[120] estava tirando um cochilo, ",
+            "mas ela tava confortavelmente descansando em frente ao ventilador."
+        ],
+        "15": [
+            "Ela deve ter pensado que não tinha ninguém em casa e",
+            "relaxou completamente, sem nem notar o quão indefesa"
+        ],
+        "16": [
+            "Ela deve ter pensado que não tinha ninguém em casa",
+            "e relaxou completamente, ela até tirou a calcinha."
+        ],
+        "17": [
+            "Após agradar meus olhos por alguns momentos, ",
+            "eu me senti envergonhado demais pra continuar assistindo.",
+            "Então eu silenciosamente saí e voltei para a entrada de casa."
+        ],
+        "18": [
+            "Uma vez que eu instalei o ventilador, ",
+            "o ar no ambiente começou a circular, ",
+            "tornando o quarto confortável e refrescante."
+        ],
+        "19": [
+            "\\nl< >\"Ohhh—tão geladinho, com isso eu me sinto bem~!\""
+        ],
+        "20": [
+            "\"Qual é, não fica sentada na frente do ventilador desse jeito! ",
+            "Você vai pegar um resfriado!\""
+        ],
+        "21": [
+            "\\str[120] mordeu seu picolé sentada na frente da briza, ",
+            "parecendo estar completamente emocionada."
+        ],
+        "22": [
+            "Depois de rapidamente terminar um picolé, ",
+            "eu senti que minha temperatura baixou notavelmente.",
+            " ",
+            " ",
+            "Mesmo que as cigarras lá fora continuassem zumbindo ",
+            "e as ondas de calor continuassem entrando, ao menos eu",
+            "não sentia mais que estava prestes a ser assado vivo…"
+        ],
+        "23": [
+            "Mas a \\str[120] ainda não parecia refrescada o suficiente,",
+            "e preguiçosamente deitou no chão aproveitando confortavelmente "
+        ],
+        "24": [
+            "Para uma menina, essa postura era um pouco indecente.",
+            "Eu queria avisar isso à ela, mas ao invés disso minha atenção ",
+            "foi roubada pelo visão não intencional de fanservice."
+        ],
+        "25": [
+            "\\{Bem, no fim das contas é verão!!"
+        ]
+  },
+  "9": {
+        "0": [
+            "Estou entediado…",
+            "Quero um pouco de melancia~"
+        ],
+        "1": [
+            "\\nl< >\"Tá tão quente… Eu quero muito tomar um banho…\""
+        ],
+        "2": [
+            "\\nl< >\"\\str[121]… você quer um picolé?\""
+        ],
+        "3": [
+            "Conversar",
+            "Fazer carinho",
+            "Refrigerante",
+            "Cochilar"
+        ],
+        "4": [
+            "\\nl< >\"Ainda tá muito quente…",
+            "Em momentos como esse, um cochilo é a melhor escolha~\""
+        ],
+        "5": [
+            "Verdade, ao pôr do sol o calor não vai ser mais tão forte…"
+        ],
+        "6": [
+            "Eu tirei uma soneca com a \\str[120] na fresca briza até escurecer."
+        ],
+        "7": [
+            "Bom, ainda tem aquela garrafa grande de refrigerante na geladeira ",
+            "que comprei daquela máquina estranha.",
+            "Com o tempo tão quente, a \\str[120] definitivamente ficaria ",
+            "feliz em tomar um pouco, certo?"
+        ],
+        "8": [
+            "\\nl< >\"\\{Refri Gelado!?         \\}\\w[60]",
+            "Eu quero! Eu quero!\""
+        ],
+        "9": [
+            "Deu pra ver que a \\str[120] parecia encantada,",
+            "então, o que eu devo fazer—"
+        ],
+        "10": [
+            "Chacoalhar",
+            "Só Entregar"
+        ],
+        "11": [
+            "Esse parece ser um refrigerante especial",
+            "diz que ele tem mais gás que o normal…"
+        ],
+        "12": [
+            "Pensando nisso …",
+            "Eu não consegui resistir e escondido, dei uma",
+            "chacoalhada na garrafa e então entreguei para a \\str[120]…"
+        ],
+        "13": [
+            "\\str[120] é claro, levou um jato de refrigerante",
+            "na cara enquanto a garrafa quase explodia.",
+            "E depois, ela me fez ‘pagar por isso’ me forçando a ",
+            "engolir quase toda a garrafa."
+        ],
+        "14": [
+            "O resultado, ela engoliu quase toda a garrafa",
+            "de uma vez só com se estivesse a uma semana sem beber nada…",
+            "Deu pra ver claramente a barriga dela inchando.",
+            "I-isso é… mesmo normal!?"
+        ],
+        "15": [
+            "Já que ela estava encharcada de refrigerante, ",
+            "a hora que ela terminou de tomar banho e se trocar,",
+            "o céu já estava ficando escuro."
+        ],
+        "16": [
+            "\\nl< >\"Uwaaahhh—mmmmmffff!!\""
+        ],
+        "17": [
+            "Talvez por experiência passada, essa vez ela reagiu instantaneamente,",
+            "instintivamente abocanhando a boca da garrafa para tentar ",
+            "fazer o jato sujar tudo ao redor."
+        ],
+        "18": [
+            "Mas esse refrigerante era tinha muito mais gás que o normal, ",
+            "sua boquinha não conseguiu selar completamente a garrafa,",
+            "e bolhas continuavam escapando pelos cantos do seus ",
+            "lábios e escorrendo para as bochechas…"
+        ],
+        "19": [
+            "No final, ela parecia igual um hamster desajeitado ",
+            "com seu rosto completamente coberto em refrigerante."
+        ],
+        "20": [
+            "\\nl< >\"\\w[121], seus tapinhas são ",
+            "muito fortes! Sem chance!\""
+        ],
+        "21": [
+            "Pervertido",
+            "Verão"
+        ],
+        "22": [
+            "\"Não ficaria mais fresquinho se você tirasse??\""
+        ],
+        "23": [
+            "Eu sugeri para a \\str[120]…",
+            "é, essa realmente não é uma ideia estranha…"
+        ],
+        "24": [
+            "\\nl< >\"Eh… mas, eu ainda me sinto meio envergonhada…\""
+        ],
+        "25": [
+            "Sem dúvidas, ela me recusou.",
+            "Hmm—parece que eu vou ter que iniciar as coisas aqui—"
+        ],
+        "26": [
+            "\"…Posso chegar um pouco mais perto e te cheirar?\""
+        ],
+        "27": [
+            "Vendo o suor brilhante escorrendo pelo seu pescoço, ",
+            "Eu não consegui me segurar e pedi."
+        ],
+        "28": [
+            "\\nl< >\"Que? Eu to toda suada, eu devo tá fedendo!\""
+        ],
+        "29": [
+            "\"Não, não, \\str[120] definitivamente cheirava muito bem!\""
+        ],
+        "30": [
+            "\\nl< >\"Geez, não tem como isso ser verdade!\""
+        ],
+        "31": [
+            "\"Dai eu vou te deixar me cheirar também——",
+            "\\w[30]\\^"
+        ],
+        "32": [
+            "\\nl< >\"Nem pensar! \\str[121], ",
+            "você definitivamente tá fedendo.\""
+        ],
+        "33": [
+            "\\{",
+            "\"Ugh…!\""
+        ],
+        "34": [
+            "E desse jeito, eu fui totalmente rejeitado."
+        ],
+        "35": [
+            "Pegos pelo calor do verão, eu conversei com a",
+            "\\str[120] sobre todos os tipos de assuntos pervertidos,",
+            "mas ainda tava tão quente!"
+        ],
+        "36": [
+            "\\nl< >\"O som das cigarras… as vezes é realmente muto barulhento…\""
+        ],
+        "37": [
+            "Bem, ao final de contas, é verão."
+        ],
+        "38": [
+            "\\nl< >\"Parece que todo mundo come melancia nessa estação,",
+            "eu meio que queria experimentar também~\""
+        ],
+        "39": [
+            "Hmm… melancia, huh… onde eu poderia achar uma?"
+        ],
+        "40": [
+            "\\nl< >\"Em momentos como esse, picoles ainda são a melhor coisa!",
+            "\\w[120]\\^"
+        ],
+        "41": [
+            "\\nl< > Ughhh… minha cabeça doi…!      \\w[60]",
+            "Mas o sentimento é tão bom!\""
+        ],
+        "42": [
+            "Eh… quantos mesmo ela já comeu…?"
+        ],
+        "43": [
+            "\\nl< >\"Tem mesmo alguma diferença entre o oceano e a banheira??",
+            "Eu não entendi mesmo…\""
+        ],
+        "44": [
+            "Oh, Ela nunca pode ver o oceano.",
+            "Será que existe uma forma que eu possa fazer ela  ",
+            "se sentir na beira do mar…"
+        ],
+        "45": [
+            "Pego no calor do verão, ",
+            "Eu conversei com ela sobre todo tipo de ",
+            "assuntos do verão, mas ainda estava muito quente!"
+        ]
+  },
+  "10": {
+        "0": [
+            "\\{\\c[27]Bem-vindo ao Episódio 54 do ",
+            "Desafio Gourmet da Bunny!",
+            "O tema de hoje é—",
+            "como fazer um irresistível super suculento hambúrguer de carne!"
+        ],
+        "1": [
+            "\\{\\c[27]Agora vamos dar as boas-vindas à nossa adorável Bunny Empregada,",
+            "que vai nos mostrar sua técnica de cozinha incrível!"
+        ],
+        "2": [
+            "\\{\\c[27]Hã!? Isso foi rápido demais!",
+            "Bunny Empregada já—terminou!!",
+            "Contemplem, a lendária—Hambúrguer de Carne Delicioso Instantâneo!!"
+        ],
+        "3": [
+            "\\{\\c[27]E é isso por hoje!",
+            "Muito obrigado por assistirem",
+            "vemos vocês na próxima!"
+        ],
+        "4": [
+            "O quê… é isso?",
+            "Eu não entendo uma palavra…"
+        ],
+        "5": [
+            "E… já acabou."
+        ],
+        "6": [
+            "Ah, a previsão do tempo está passando agora...",
+            "Vamos ver como vai ser o tempo amanhã—"
+        ],
+        "7": [
+            "Mas pelo menos eu consigo entender as imagens,",
+            "melhor não pensar demais."
+        ],
+        "8": [
+            "Parece que amanhã vai ser ensolarado.",
+            "Só espero que não fique quente demais ao meio-dia..."
+        ],
+        "9": [
+            "Parece que amanhã vai ser nublado.",
+            "Ótimo que está esfriando—"
+        ],
+        "10": [
+            "Parece que amanhã vai chover.",
+            "Perfeito, vou ao rio e ",
+            "vejo se consigo pegar alguns peixes."
+        ],
+        "11": [
+            "Parece que amanhã vai ser um dia ensolarado especialmente quente...",
+            "Essa temperatura está realmente okay!?"
+        ],
+        "12": [
+            "Ah, um programa de culinária está passando agora...",
+            "Quais novas receitas eu posso aprender—"
+        ],
+        "13": [
+            "O que é isso...?",
+            "Eu sinto que não aprendi nada..."
+        ],
+        "14": [
+            "Ah, o noticiário está passando agora...",
+            "Aconteceu algo importante recentemente?"
+        ],
+        "15": [
+            "Parece que algo incrível aconteceu ",
+            "no Abismo—"
+        ],
+        "16": [
+            "Depois de beber uma garrafa de Elixir Rubrum, ",
+            "\\str[120] não está tão sonolenta como de costume,",
+            "então é uma oportunidade rara de assistir ",
+            "programas noturnos juntos com ela.",
+            "Quais conteúdos interessantes vão passar a essa hora~?"
+        ],
+        "17": [
+            "Embora eu não tenha conseguido ver o programa ",
+            "que eu queria assistir antes, por via das dúvidas,",
+            "eu vim para a sala de estar com \\str[120] novamente ",
+            "durante o horário noturno."
+        ],
+        "18": [
+            "Talvez só tenha acontecido de não ter programas ",
+            "naquele dia..."
+        ],
+        "19": [
+            "Mas depois de ligar a TV,",
+            "ainda só tinha a tela estática silenciosa sem sinal."
+        ],
+        "20": [
+            "Como esperado, não funciona.",
+            "Tem alguma forma de assistir programas interessantes mesmo tarde da noite?",
+            "Talvez eu deva perguntar por aí."
+        ],
+        "21": [
+            "Depois de sentar com \\str[120], ",
+            "eu liguei a TV com o controle remoto.    \\w[60]",
+            "Mas o resultado foi só uma tela estática sem sinal..."
+        ],
+        "22": [
+            "Parece que não tem programas passando a essa hora, ",
+            "o que é um pouco decepcionante...",
+            "Tem alguma forma de assistir programas interessantes mesmo tarde da noite?",
+            "Talvez eu deva perguntar por aí."
+        ],
+        "24": [
+            "Ah—agora que pensei nisso, eu não peguei uma fita de vídeo antes!?",
+            "Essa é a hora perfeita para pegar e assistir!"
+        ],
+        "25": [
+            "Hmm... embora seja um pouco tarde para dizer isso agora,",
+            "essa fita de vídeo parece um pouco sinistra?   \\w[30]",
+            "Ela tem uma atmosfera assustadora...!"
+        ],
+        "26": [
+            "Tanto faz, eu estou livre mesmo,     \\{",
+            "vamos colocar!"
+        ],
+        "27": [
+            "Hã~?        \\w[50]",
+            "A atmosfera parece bem realista...",
+            "É algum tipo de documentário?"
+        ],
+        "28": [
+            "...Hã?",
+            "Isso é... na verdade um filme de terror?"
+        ],
+        "29": [
+            "\\nl< >\"Hã——————————\"",
+            "\\w[30]\\^"
+        ],
+        "30": [
+            "\\nl< >\"Eeeeaaaaahhhhh",
+            "aaaaahhh—————————\""
+        ],
+        "31": [
+            "Assim que eu estava me arrependendo de ter comprado a fita errada,",
+            "\\str[120] que estava pressionada contra mim, de repente soltou um grito,",
+            "e no instante seguinte, minha visão foi engolida pela escuridão."
+        ],
+        "32": [
+            "\\{\"Eh—o que há de errado—!?",
+            "O que aconteceu—!?\""
+        ],
+        "33": [
+            "Ao mesmo tempo, uma pressão sufocante também me invadiu,",
+            "Eu agitei meus braços em pânico, lutando,",
+            "só então eu percebi de repente—",
+            "algo incrivelmente macio estava grudado firmemente no meu corpo."
+        ],
+        "34": [
+            "Assim que eu estava me arrependendo de ter comprado a fita errada,",
+            "\\str[120] sentada não muito longe pulou de susto e ",
+            "rapidamente fugiu—"
+        ],
+        "35": [
+            "Isso não é bom...",
+            "Eu espero que isso não deixe nenhum trauma psicológico para \\str[120]..."
+        ],
+        "36": [
+            "No final, ",
+            "levou um bom tempo para finalmente acalmar \\str[120].",
+            "Eu só espero que esse acidente não deixe ",
+            "nenhuma sombra duradoura no coração dela..."
+        ]
+  },
+  "11": {
+        "0": [
+            "\\str[120] assustada pela cena de terror, pulou e grudou firmemente em mim...",
+            "Não, mais precisamente—ela travou os braços ao redor do meu pescoço em um estrangulamento!"
+        ],
+        "1": [
+            "E-essa garota! De onde ela tirou essa força monstruosa!?   \\w[30]",
+            "Eu não consigo... me soltar de jeito nenhum!!    \\w[30]",
+            "Isso é ruim...! Eu... eu não consigo... respirar...!?"
+        ],
+        "2": [
+            "\"\\str[120]... n-não fique com medo... \\w[30]",
+            "Espera, primeiro... me... solta... não consigo respirar...\""
+        ],
+        "3": [
+            "\\nl< >\"Uwaaaahhh...!",
+            "O filme... é tão assustador...!\""
+        ],
+        "4": [
+            "Eu não sei quanto tempo passou, ",
+            "mas a \\str[120] finalmente parou sua reação violenta bem antes de eu sufocar,",
+            "embora ela continuasse grudada em mim como um coala, ",
+            "se recusando a descer."
+        ],
+        "5": [
+            "\"Está tudo bem agora... Eu já desliguei a TV.\""
+        ],
+        "6": [
+            "\\nl< >\"Mmmmmm…...!\""
+        ],
+        "7": [
+            "Eu queria dizer a \\str[120] que era seguro virar agora,",
+            "mas ela ainda se recusava a soltar de jeito nenhum."
+        ],
+        "8": [
+            "Isso é um pouco problemático... Devido a nunca sair de casa,",
+            "\\str[120] tem medo de criaturas desconhecidas e fantasmas desde a infância.",
+            "Até eu me assustei com aquela cena de terror agora há pouco,",
+            "então não é difícil entender por que ela está assim..."
+        ],
+        "10": [
+            "Como eu devo acalmar \\str[120] agora...",
+            "Como ela está travada em mim completamente, ",
+            "tudo que eu posso fazer com minhas mãos mal móveis é gentilmente acariciar suas costas, ",
+            "esperando que isso ajude ela a relaxar um pouco."
+        ],
+        "11": [
+            "Mas enquanto eu gradualmente me acalmava,",
+            "eu não pude evitar me tornar ciente de alguns novos problemas..."
+        ],
+        "12": [
+            "Porque estamos pressionados tão perto um do outro, ",
+            "através daquela fina camada de tecido,",
+            "eu consigo sentir claramente o calor irradiando de \\str[120].",
+            "E aquela inegável, macia sensação do peito dela...",
+            "Quanto à fragrância fraca flutuando do cabelo dela, ",
+            "ela continua entrando no meu nariz, tornando impossível ficar calmo."
+        ],
+        "13": [
+            "Mesmo que essa não seja a atmosfera certa para tais pensamentos,",
+            "eu estou gradualmente sentindo minha temperatura corporal subindo.      \\w[40]",
+            "Eu preciso me separar dela antes que \\str[120] perceba...!"
+        ],
+        "14": [
+            "\"E-eu vou fazer um leite quente pra você!\""
+        ],
+        "15": [
+            "\\nl< >\\{\"Não! Não vai!\""
+        ],
+        "17": [
+            "\\str[120] enterrou o rosto mais fundo, ",
+            "soltando sons abafados pelo nariz, ",
+            "suas pernas se enrolando em mim ainda mais apertado.",
+            "Com esse movimento, sua área íntima pressionou bem contra minha parte inferior."
+        ],
+        "18": [
+            "Meu membro já semi-ereto instantaneamente endureceu, ",
+            "pressionando contra o centro do short dela através do tecido.",
+            "Através do material fino, eu conseguia até sentir ",
+            "o leve calor e umidade se infiltrando."
+        ],
+        "19": [
+            "Isso é ruim, eu não posso deixar isso continuar...!",
+            "\\str[120] ainda está tão ansiosa, mas eu estou ficando excitado!"
+        ],
+        "20": [
+            "Eu engoli em seco e tentei ajustar minha posição, ",
+            "mas a \\str[120] me segurava apertado demais,",
+            "meus movimentos só nos fizeram pressionar ainda mais perto um do outro.",
+            "Meu pênis teimosamente pressionado entre suas coxas. ",
+            "Mesmo através de duas camadas de tecido,",
+            "o calor do corpo dela conduzia para meus nervos como uma corrente elétrica."
+        ],
+        "21": [
+            "\\nl< >\"Err... \\str[121], lá embaixo...",
+            "algo está pressionando contra mim...\""
+        ],
+        "22": [
+            "A respiração de \\str[120] parou por um momento, ",
+            "e meu batimento cardíaco pulou uma batida.",
+            "A culpa de ser pego me fez tremer involuntariamente."
+        ],
+        "23": [
+            "\\nl< >\"Parece... tão duro... e tão quente...",
+            "\\str[121] está tudo tremendo também...\""
+        ],
+        "24": [
+            "\\nl< >\"É-é porque \\str[121] também ficou com medo, ",
+            "então, então isso aconteceu?",
+            "Quando meninos ficam assustados, eles reagem assim, né?\""
+        ],
+        "25": [
+            "\"Eh...? Ah, ah sim...   \\w[30]",
+            "Eu não esperava que minha resistência a cenas de terror ",
+            "fosse tão fraca também.\""
+        ],
+        "26": [
+            "\\str[120] não parecia brava com isso. ",
+            "Me sentindo aliviado, minha excitação surgiu novamente,",
+            "meu pênis tentando inchar ainda mais, ",
+            "pressionando o short macio dela profundamente para dentro."
+        ],
+        "27": [
+            "\\nl< >\"Não fique com medo, não fique com medo...",
+            "Quando você está com medo, se ficar mais perto e sentir o calor, ",
+            "você não fica tão assustado mais, né?\""
+        ],
+        "28": [
+            "\\str[120] torceu os quadris levemente, se esfregando mais apertado ",
+            "contra minha dureza. Então ela puxou minha mão para a cintura dela,",
+            "deixando meus dedos engancharem na borda,",
+            " como se silenciosamente insinuando algo."
+        ],
+        "29": [
+            "Ela continuou movendo os quadris, não...   \\w[30]",
+            "Eu devo dizer que ela estava claramente se esfregando contra mim",
+            " com aquele lugar... Mal controlando minha respiração frenética, ",
+            "minha outra mão se moveu para apoiar sua bunda,",
+            "meus dedos enganchando na borda do short dela, ",
+            "tentando puxá-lo só um pouco pra baixo."
+        ],
+        "30": [
+            "Vendo que eu não continuei, ",
+            "\\str[120] cooperativamente levantou o corpo levemente.",
+            "Isso é... permissão para continuar, ",
+            "né?",
+            "Eu lentamente puxei o short de \\str[120] até os joelhos, ",
+            "então desatei o cordão,",
+            "assistindo enquanto sua calcinha gradualmente escorregava."
+        ],
+        "31": [
+            "Em transe, sua vagina quente e macia",
+            "agora estava pressionada diretamente contra meu pênis sem nenhuma barreira."
+        ],
+        "32": [
+            "\\nl< >\"\\str[121], está tudo bem agora, ",
+            "eu vou te proteger.\""
+        ],
+        "33": [
+            "Sentindo a umidade ali, sob o sussurro sedutor da \\str[120],",
+            "a corda da minha racionalidade se rompeu em um instante.",
+            "Imediatamente depois, ondas de calor me engoliram completamente."
+        ],
+        "16": [
+            "A voz da \\str[120] era intermitente devido ao nervosismo, ",
+            "e seu corpo estava tenso como uma corda de arco totalmente esticada.",
+            "Mas com avanço lento e constante, ",
+            "meu pênis ainda conseguiu penetrar—",
+            "As dobras internas foram esticadas camada por camada, ",
+            "e as paredes internas quentes e úmidas se contraíram e se prenderam imediatamente."
+        ],
+        "34": [
+            "\\str[121]♥",
+            "Mmm♥ Ahn♥",
+            "Eu quero... mais calor...♥",
+            "Parece... tão bom...♥"
+        ],
+        "35": [
+            "\"Tenta se mover um pouco mais devagar...\"",
+            "Eu segurei a cintura da \\str[120], guiando ela em uma voz suave.     \\w[90]",
+            "Ela desajeitadamente diminuiu o ritmo do corpo dela."
+        ],
+        "36": [
+            "\"Não pra cima e pra baixo... tenta se mover pra frente e pra trás...\"",
+            "Eu gentilmente pressionei os quadris dela, persuadindo.     \\w[90]",
+            "\\str[120] obedientemente mudou seus movimentos."
+        ],
+        "37": [
+            "\"Inclina seu corpo pra frente um pouco...\"",
+            "Eu suavemente guiei \\str[120] para ajustar sua postura.   \\w[90]",
+            "Ela fez conforme dito, ",
+            "e até inocentemente acelerou o ritmo na cintura dela."
+        ],
+        "38": [
+            "\"Se move um pouco mais rápido...\"",
+            "Eu pedi a \\str[120] enquanto ofegava.    \\w[90]",
+            "Ela começou a mover os quadris obedientemente mas desajeitadamente."
+        ],
+        "39": [
+            "No meio da nossa intimidade intensa, eu ainda não pude evitar ",
+            "estender a mão para gentilmente acariciar o cabelo de \\str[120].     \\w[150]",
+            "Mesmo que estivéssemos firmemente unidos nesse momento, ",
+            "meus pensamentos ainda eram os mesmos de sempre—",
+            "Eu só queria mimá-la com carinho, ",
+            "confortá-la, e fazê-la se sentir à vontade."
+        ],
+        "40": [
+            "Eu gentilmente penteei seu cabelo, desgrenhado pelo suor.      \\w[150]",
+            "\\str[120] se aninhou contra minha palma como um gatinho, ",
+            "e aquela confiança fez meu coração apertar."
+        ],
+        "41": [
+            "Eu inconscientemente acariciei a cabeça dela como costumo fazer.     \\w[150]",
+            "\\str[120] semicerrou os olhos, tanto confusa quanto contente."
+        ],
+        "42": [
+            "\"Dói...?\""
+        ],
+        "43": [
+            "\\nl< >\"Mm... dói um pouquinho... mas...",
+            "Eu quero fazer... \\str[121]... se sentir bem...\""
+        ],
+        "44": [
+            "\\str[120] me olhou com olhos de confiança absoluta,",
+            "aquela pureza me fez sentir tanto culpado quanto intoxicado."
+        ],
+        "45": [
+            "\"Você sabe o que estamos fazendo agora...?\""
+        ],
+        "46": [
+            "\\nl< >\"Hm...? Não estamos jogando um jogo de abraço...? ",
+            "O corpo de \\str[121]... está dentro de mim agora...♥\""
+        ],
+        "47": [
+            "\\str[120] inclinou a cabeça, ",
+            "falando em um tom casual como conversa cotidiana."
+        ],
+        "48": [
+            "\"Por que você pensaria em fazer algo assim...?\""
+        ],
+        "49": [
+            "\\nl< >\"Porque... \\str[121] me assustou...",
+            "E também... quando estamos perto assim... ",
+            "é bem quentinho...♥\""
+        ],
+        "50": [
+            "\\str[120] respondeu seriamente com sua lógica equivocada, ",
+            "um sorriso puro no rosto."
+        ],
+        "9": [
+            "Eu-eu já estou no meu limite...!",
+            "O que eu faço...?!"
+        ],
+        "51": [
+            "Goza Dentro",
+            "Goza Fora"
+        ],
+        "52": [
+            "Sentindo o desejo de clímax crescendo mais forte, ",
+            "bem antes do sêmen estar prestes a jorrar,",
+            "Eu abracei \\str[120] firmemente nos meus braços."
+        ],
+        "53": [
+            "Sentindo o desejo de clímax crescendo mais forte, ",
+            "bem antes do sêmen estar prestes a jorrar,",
+            "Eu tirei meu pênis de dentro do corpo de \\str[120]."
+        ],
+        "54": [
+            "No instante de quase cruzar a linha, ",
+            "meu corpo instintivamente fez uma escolha——       \\w[40]",
+            "Eu de repente retirei meu pênis, e o fluido branco jorrou,",
+            "deixando traços pela pele macia dela."
+        ],
+        "55": [
+            "A onda de prazer instantaneamente engoliu minha racionalidade, ",
+            "e eu já tinha ejaculado antes de poder pensar.   \\w[40]",
+            "O sêmen quente foi derramado inteiramente no fundo do corpo de \\str[120]."
+        ],
+        "56": [
+            "\\nl< >\"Uweh... minha barriga está toda quentinha... ",
+            "como se eu tivesse bebido leite quente.\""
+        ],
+        "57": [
+            "\\nl< >\"Mm... Eu sinto algo quente se movendo...",
+            "Está gorgolejando...\""
+        ],
+        "58": [
+            "\\nl< >\"\\str[121]... isso... vai ficar dentro pra sempre?",
+            "Tudo bem deixar assim?\""
+        ],
+        "59": [
+            "Ter um Bebê",
+            "Crescer um Melão"
+        ],
+        "60": [
+            "\\nl< >\"Um bebê...?   \\w[60]",
+            "Um bebê... entre \\str[121] e eu...?\""
+        ],
+        "61": [
+            "\"Isso mesmo, um bebezinho fofo igualzinho a você.\""
+        ],
+        "62": [
+            "\\nl< >\"E-eu não entendo... ",
+            "Eu nunca vi um bebê antes...   \\w[120]",
+            "Já que você disse... Eu estou um pouco curiosa...\""
+        ],
+        "63": [
+            "Olhando para os olhos completamente desprotegidos de \\str[120], repletos ",
+            "com pura curiosidade, os impulsos que finalmente haviam se aquietado",
+            "começaram a gritar de forma incontrolável dentro do meu corpo novamente,",
+            "e meu membro amolecido rapidamente recuperou o vigor."
+        ],
+        "64": [
+            "\\nl< >\"Nnh♥ \\str[121]!?",
+            "Está... está ficando grande de novo...?\""
+        ],
+        "65": [
+            "\\nl< >\"\\str[121] quer tentar de novo também...♥",
+            "Eu também... quero ver aquele... bebê...\""
+        ],
+        "66": [
+            "\\nl< >\"Ei, \\str[121]... vamos fazer mais uma vez♥\""
+        ],
+        "67": [
+            "\\nl< >\"Eh?! Uma m-melancia?!",
+            "Aquela redonda, bem grande... ",
+            "vai crescer na minha barriga?!\""
+        ],
+        "68": [
+            "\"sim... sua barriga vai ficar super grande, ",
+            "e você vai ter que se apoiar nas paredes pra andar.\""
+        ],
+        "69": [
+            "\\nl< >\"N-não!",
+            "Eu não quero uma melancia crescendo na minha barriga!!\""
+        ],
+        "70": [
+            "\\nl< >\"Waaaaaah—",
+            "Eu preciso derramar isso rápido!\""
+        ],
+        "71": [
+            "Parece que a brincadeira foi um pouco longe demais.",
+            "\\str[120] nem teve tempo de se importar com a ",
+            "dor remanescente embaixo, e tropeçou pra fora de mim,",
+            "correndo para o banheiro como um coelhinho assustado."
+        ],
+        "72": [
+            "Mas vê-la tão agitada e em pânico era fofo demais.",
+            "Eu fiquei ainda mais curioso sobre como ela ",
+            "planejava lidar com a situação—"
+        ],
+        "73": [
+            "Espiar"
+        ],
+        "74": [
+            "Mm-hmm... não posso perder essa cena divertida—"
+        ],
+        "75": [
+            "\\nl< >\"Eu tenho que tirar tudo... soluçando...\""
+        ],
+        "76": [
+            "\\nl< >\"Poxa, \\str[121]... ",
+            "foi você quem colocou...\""
+        ],
+        "77": [
+            "\\nl< >\"\\str[121] seu idiota... por que não me disse antes...\""
+        ],
+        "78": [
+            "\\nl< >\"Se realmente crescer... ",
+            "\\str[121] tem que se responsabilizar... ",
+            "ele tem que me ajudar a comer...\""
+        ],
+        "79": [
+            "Assistindo \\str[120] tentando seriamente e de forma patética ",
+            "expelir o sêmen do corpo dela,",
+            "um forte senso de culpa surgiu dentro de mim,",
+            "Eu devo contar a verdade pra ela daqui a pouco..."
+        ],
+        "80": [
+            "Já está bem tarde, ",
+            "Eu não posso deixar \\str[120] se exaurir assim mais...",
+            "Vamos parar por aqui hoje."
+        ],
+        "81": [
+            "Ugh, meu corpo... está perdendo força...!",
+            "Mesmo que eu ainda queira continuar... ",
+            "minha stamina já está...",
+            "Vamos parar por aqui hoje."
+        ],
+        "82": [
+            "\\nl< >\"\\str[121], me desculpa...",
+            "Foi tudo porque eu fui covarde demais que ",
+            "as coisas ficaram tão bagunçadas...\""
+        ],
+        "83": [
+            "\\nl< >\"Mesmo que o filme tenha sido assustador, ",
+            "poder acabar assim como agora há pouco...",
+            "sendo preenchida por completo e mantida firmemente por \\str[121]…",
+            "na verdade, também foi bem gostoso♥\""
+        ],
+        "84": [
+            "\\nl< >\"Da próxima vez que tivermos chance, ",
+            "vamos assistir o resto juntos♥\""
+        ],
+        "85": [
+            "\\nl< >\"Wah♥ Isso me assustou...",
+            "Essa coisa branca... veio de \\str[121]...?\""
+        ],
+        "86": [
+            "\\nl< >\"\\str[121]...♥ Saiu tanto...",
+            "Ficou todo grudento...\""
+        ],
+        "87": [
+            "\\str[120] só olhou para baixo surpresa ",
+            "para o fluido turvo branco espirrado no corpo dela,",
+            "então estendeu o dedo, tocando aqueles traços que ",
+            "ainda carregavam calor, observando eles."
+        ],
+        "88": [
+            "\\nl< >\"\\str[121]...♥",
+            "Aquela sensação agora há pouco... do meu coração acelerando...♥\"",
+            "Mai uma vez... tá...?♥"
+        ],
+        "89": [
+            "\\nl< >\"\\str[121]... já acabou...?♥",
+            "Mas... eu ainda quero... ",
+            "me aninhar com você um pouco mais...♥\""
+        ],
+        "90": [
+            "Encha Ela!",
+            "Desta Vez Não"
+        ],
+        "91": [
+            "Confortá-la"
+        ]
+  },
+  "12": {
+        "0": [
+            "...Peraí, isso parece ser conteúdo adulto. ",
+            "Está tudo bem mesmo? Tudo bem pra educação ",
+            "da \\str[120] deixá-la assistir isso!?"
+        ],
+        "1": [
+            "\\nl< >\"\\str[121]? O que houve?",
+            "Não vamos assistir o filme?\""
+        ],
+        "2": [
+            "\"Ah... houve um pequeno acidente.",
+            "Eu estou decidindo se devemos ou não assistir...\""
+        ],
+        "3": [
+            "\\nl< >\"Não posso assistir? Que tipo de filme é esse?\""
+        ],
+        "4": [
+            "Um filme erótico",
+            "\\fs[20]Um filme para garotas más"
+        ],
+        "5": [
+            "\\nl< >\"E-erótico...? ",
+            "É algo que só adultos podem ver?",
+            "Eu realmente não entendi, mas... ",
+            "seria ruim assistir agora...?\""
+        ],
+        "6": [
+            "Apesar de dizer que pode ser ruim, ",
+            "ela não mostrou nenhum sinal de resistência.",
+            "Ela simplesmente mexeu os dedos dos pés e ",
+            "lançou olhares furtivos para minha expressão."
+        ],
+        "7": [
+            "Ser exposta ao 'mundo adulto' tão tarde da noite",
+            "parece tê-la deixado confusa, porém excitada."
+        ],
+        "8": [
+            "\\nl< >\"Erótico... é mesmo erótico...?",
+            "Por que você tem um filme desses, \\str[121]...?\""
+        ],
+        "9": [
+            "\\nl< >\"Mas... se for só um pouquinho...",
+            "acho que tá tudo bem... ",
+            "se você quer tanto assim assistir, \\str[121].\""
+        ],
+        "10": [
+            "Embora falasse como se estivesse me fazendo um favor,",
+            "ela já havia se aproximado de mim silenciosamente.",
+            "Os olhos dela miravam na minha direção de vez em quando, ",
+            "como se estivesse checando minha reação."
+        ],
+        "11": [
+            "\\nl< >\"Err...? Então, depois de assistir isso... ",
+            "eu me tornarei uma garota má?",
+            "Serei punida por isso?\""
+        ],
+        "12": [
+            "\\nl< >\"Se \\str[121] pode assistir, ",
+            "então eu também posso, né...?   \\}",
+            "Assistir em segredo assim...\""
+        ],
+        "13": [
+            "Sua curiosidade pareceu ter sido despertada. ",
+            "Embora ela tenha imediatamente coberto os olhos com as mãos,",
+            "eu pude vê-la claramente espiando por entre os dedos,  ",
+            "olhando atentamente para a tela da TV."
+        ],
+        "14": [
+            "\\nl< >\"G-garota má... está falando de mim, \\str[121]?",
+            "Isso é tudo culpa do \\str[121], afinal...!\""
+        ],
+        "15": [
+            "Ela inflou as bochechas e esticou os pezinhos, ",
+            "cutucando minha perna com seus dedos de vez em quando.",
+            "A pressão era suave e carecia de qualquer força real, em vez de um protesto,",
+            "parecia mais que ela estava agindo de forma mimada e petulante."
+        ],
+        "16": [
+            "\"Certo, só estou brincando. ",
+            "Eu realmente quero assistir.",
+            "Então, você me fará companhia?\""
+        ],
+        "17": [
+            "Lendo suas reações corporais,",
+            "fui até a TV com a fita e a coloquei no videocassete."
+        ],
+        "18": [
+            "\\nl< >\"Já que é assim... ",
+            "acho que não tenho escolha a não ser ficar com você.",
+            "Se... se houver alguma cena que seja muito estranha,",
+            "você precisa me dizer com antecedência, ok...?\""
+        ],
+        "19": [
+            "\\str[120] murmurou com a respiração, ",
+            "e aproveitando-se de sua atuação mimada, ",
+            "ela calculou o momento perfeitamente, assim que me sentei, ",
+            "para sentar-se no meu colo."
+        ],
+        "20": [
+            "Como se tentasse se esconder, ",
+            "ela se agarrou firmemente ao meu peito e segurou meus braços com força,",
+            "parecendo querer abafar o som do coração acelerado dela."
+        ],
+        "21": [
+            "\\nl< >\"Ehehe... \\str[121]’s assento especial~!\""
+        ],
+        "22": [
+            "\\c[27]\"Ei... ▓▓▓▓, se os deuses nos vissem fazendo isso...",
+            "seríamos jogados no inferno?\""
+        ],
+        "23": [
+            "\\c[27]\"...Hmph. Contanto que eu esteja com você,",
+            "não me importo nem se for o inferno.\""
+        ],
+        "24": [
+            "\\c[27]\"Uuu... Eu também...",
+            "Não quero mais ser só uma ▓▓▓▓...!\""
+        ],
+        "25": [
+            "\\c[27](Narração em off: E assim, eles se apaixonaram e ",
+            "começaram uma sessão de sexo que durou 2 horas e 14 minutos—)"
+        ],
+        "26": [
+            "\"É-é tão grande... Vou quebrar...!",
+            "A coisa do \\str[121]... está mexendo minhas entranhas até virar mingau...!!",
+            "Aaaaahhh! Haaah! Haaah! ♥\""
+        ],
+        "27": [
+            "...Isso é sem esperança. Não importa como olhe, ",
+            "isso é só um filme pornô vagabundo de baixo orçamento.",
+            "A atuação é tão exagerada que dá risada, e o orçamento claramente ",
+            "foi todo gasto nas cenas eróticas sem graça do final... ",
+            "\\{Pensando bem, o resto da barra de progresso é tudo esse tipo de conteúdo?!",
+            "a barra de progresso realmente é todo esse tipo de conteúdo?!"
+        ],
+        "28": [
+            "E ainda por cima com um tema tão constrangedor...",
+            "Deixar \\str[120] ver uma coisa dessas... ",
+            "deve ser um choque e tanto pra ela."
+        ],
+        "29": [
+            "Agarrei o controle remoto rapidamente e abaixei o volume para ",
+            "impedir que aqueles gemidos sem alma e secos continuassem agredindo nossos ouvidos.",
+            "Quando olhei para o lado com preocupação, ",
+            "percebi que \\str[120] já estava bem abalada."
+        ],
+        "30": [
+            "Sssssss!",
+            "\\w[30]\\^"
+        ],
+        "31": [
+            "Por mais tapada que ela seja sobre o assunto pássaros e abelhas, ",
+            "ao ver imagens tão explícitas na TV,",
+            "\\str[120] finalmente percebeu o quão vergonhoso ",
+            "era realmente o conteúdo que estava assistindo.",
+            "Suas bochechas ficaram instantaneamente vermelhas como brasa, ",
+            "como se eu pudesse ouvir o som de vapor saindo da cabeça dela."
+        ],
+        "32": [
+            "\\nl< >\"I-isso... é assim que é... \\w[120]",
+            "fazer... coisas indecentes?\""
+        ],
+        "33": [
+            "Minha \\str[120] abalada começou a gaguejar, ",
+            "mas os olhos dela continuaram grudados na tela, sem se mexer."
+        ],
+        "34": [
+            "\"É... se for demais pra você, a gente pode—\""
+        ],
+        "35": [
+            "\\nl< >\"E-eu tô bem! Você sempre... \\w[120]",
+            "fica brincando com meu corpo mesmo... Uma coisa dessas... \\w[120]",
+            "E-eu já me preparei para isso há muito tempo!\""
+        ],
+        "36": [
+            "\\nl< >\"É você, \\str[121]...! \\w[120]",
+            "Depois de ver isso... você não tá... \\w[120]",
+            "pensando em alguma ideia ruim pra me zoar de novo, né...!\""
+        ],
+        "37": [
+            "Como se tentasse se encorajar, ela intencionalmente ",
+            "esticou o peito, se remexendo inquieta nos meus braços. ",
+            "A sensação macia e elástica contra minhas coxas",
+            "fez minha respiração travar por um instante."
+        ],
+        "38": [
+            "Nossa... essa garota. Não só aprendeu a falar firme,",
+            "como já começou a contra-atacar sem nem perceber—",
+            "Bom, se você chegou nesse ponto, que tal isso aqui~?"
+        ],
+        "39": [
+            "\"Você tem razão. Ver eles se pegando tão intensamente na TV,",
+            "meu próprio corpo também tá querendo experimentar isso a sério—\""
+        ],
+        "39.5": [
+            "Levanta Camisola"
+        ],
+        "40": [
+            "Antes que ela pudesse reagir, subi a camisola fina dela.",
+            "Livres da restrição, seus seios fartos e alvos ",
+            "balançaram levemente no ar assim que o tecido saiu do caminho."
+        ],
+        "40.1": [
+            "\\nl< >\"...Eh!? \\str[121]... \\w[120]",
+            "você já não aguenta mais...!?\""
+        ],
+        "40.2": [
+            "Embora surpresa com o ataque repentino,",
+            "ela não fugiu em pânico como faria normalmente. ",
+            "Em vez disso, sua respiração apenas ficou mais ofegante."
+        ],
+        "40.3": [
+            "Os suspiros dela começaram a se sobrepor e ressoar ",
+            "com os gemidos que vinham da TV,",
+            "e o ar instantaneamente ficou quente e denso de tensão."
+        ],
+        "40.4": [
+            "\"Você ainda tá tão curiosa sobre o que ",
+            "acontece depois no filme, mesmo assim...?",
+            "Parece que \\str[120] tá virando uma garota bem safada...\""
+        ],
+        "40.5": [
+            "\\nl< >\"S-safada...? \\w[120]",
+            "\\str[121], você... odeia garotas safadas...?\""
+        ],
+        "40.6": [
+            "A atmosfera atual, ",
+            "quente e ambígua, a obrigava a suportar em silêncio",
+            "aquela estranha excitação que subia de ",
+            "de dentro do corpo dela, apesar da vergonha."
+        ],
+        "40.7": [
+            "\"Contanto que seja você, ",
+            "eu vou te amar do jeito que você for...",
+            "Se tem uma coisa, é que do jeito que você tá agora... ",
+            "você tá tão fofa que eu mal consigo me controlar.\""
+        ],
+        "40.8": [
+            "Minhas mãos começaram a passear lentamente pela pele exposta dela,",
+            "sentindo o calor e a elasticidade que ",
+            "só aumentavam conforme a temperatura corporal dela subia."
+        ],
+        "40.9": [
+            "\"Então, quer experimentar você mesma...",
+            "aquela sensação gostosa, igualzinho ao filme?\""
+        ],
+        "41": [
+            "\\nl< >\"E-eu não sei... \\w[120]",
+            "Agora, sinto que... \\w[120]",
+            "não consigo dizer não pra você...\""
+        ],
+        "41.1": [
+            "\\nl< >\"Mas... a garota da TV \\w[120]",
+            "parecia estar sentindo tanto prazer... \\w[120]",
+            "Eu tô um pouco... curiosa sobre essa sensação...\""
+        ],
+        "41.2": [
+            "Ao ver essa demonstração inocente, ",
+            "o fogo do meu desejo finalmente virou uma fogueira.",
+            "Minhas mãos errantes desceram pela cintura dela até ",
+            "a borda do shortinho.",
+            "Com um leve farfalhar, ",
+            "o tecido que cobria as partes íntimas caiu num instante."
+        ],
+        "41.3": [
+            "\\nl< >\"Ugh...! \\str[121]... \\w[120]",
+            "ficou tudo melado aqui embaixo...\""
+        ],
+        "41.4": [
+            "No momento em que a calcinha saiu, ",
+            "\\str[120] ficou chocada ao ver um fio brilhante e transparente",
+            "se esticando entre o corpo dela e o tecido.",
+            "As bochechas já vermelhas pareciam prestes a explodir em pânico."
+        ],
+        "41.5": [
+            "\"Tá tudo bem, você não tá doente...",
+            "só quer dizer que seu corpo tá sendo honesto ",
+            "e já tá desejando por mim."
+        ],
+        "41.6": [
+            "\\nl< >\"D-desejando? Esse lugar... \\w[120]",
+            "já quer você tanto assim...? \\w[120]",
+            "Depois... você vai... \\w[120]",
+            "continuar me zoando igualzinho ao filme?\""
+        ],
+        "41.7": [
+            "A voz dela já não estava mais cheia ",
+            "da vergonha e inquietação de antes.",
+            "No lugar, havia um desejo denso e pesado. ",
+            " ",
+            "Para responder a essa expectativa, ",
+            "passei os braços por baixo dos joelhos dela, levantando a virilha bem alto ",
+            "e expondo ela completamente sob a luz forte."
+        ],
+        "41.8": [
+            "\\nl< >\"...Kyaa~!",
+            "E-essa posição... é tão constrangedora...\""
+        ],
+        "41.9": [
+            "De repente forçada a uma pose humilhante, como se ",
+            "fosse fazer xixi bem na minha frente,",
+            "ela instintivamente tentou juntar as pernas. ",
+            " ",
+            "Mas minhas mãos a seguraram firme no lugar,",
+            "deixando o corpinho dela apenas tremendo sem poder fazer nada."
+        ],
+        "42": [
+            "\\nl< >\"Uuueeee... \\str[121], você é muito mau... \\w[120]",
+            "Por que... só eu que fiquei peladinha...\""
+        ],
+        "43": [
+            "Ela soltou um som fraco e choramingado como um bichinho pequeno.",
+            "Essa demonstração de submissão total misturada com dependência mimada",
+            "estimulava constantemente meu impulso sombrio de ",
+            "provocá-la sem piedade e ao mesmo tempo mimá-la."
+        ],
+        "44": [
+            "Mas meu pau já estava inchado de excitação, ",
+            "e o lugar docinho dela já estava encharcado...",
+            "A flecha já está na corda. ",
+            "Nossa paciência chegou ao limite!"
+        ],
+        "45": [
+            "Tirei minha própria calça rapidamente,",
+            "encostando minha vara grossa e pulsante nela e esfregando devagar."
+        ],
+        "46": [
+            "\\nl< >\"E-é isso... sua coisa, \\str[121]...? \\w[120]",
+            "Parece... ainda maior que a que eu acabei de ver na TV...\""
+        ],
+        "47": [
+            "Inserir na buceta",
+            "Inserir no cuzinho"
+        ],
+        "48": [
+            "Percebendo minha intenção de entrar, ",
+            "\\str[120] abaixou um pouco a cabeça,",
+            "olhando fixamente para o pau grosso e quente",
+            "que já estava encostado na entrada delicada dela."
+        ],
+        "49": [
+            "\\nl< >\"E-eu tô pronta agora… \\w[180]\\{",
+            "P-por favor… pode vir!\""
+        ],
+        "50": [
+            "Como se jogasse toda a cautela fora, ",
+            "\\str[120] fez uma declaração desajeitada."
+        ],
+        "51": [
+            "\"Pode doer um pouquinho... se for demais,",
+            "você tem que me avisar, tá bom?\""
+        ],
+        "52": [
+            "\\nl< >\"Mmh... tá tudo bem... ",
+            "V-vou tentar aguentar o máximo que puder...!\""
+        ],
+        "53": [
+            "A voz dela ainda estava tensa, a mão direita acariciando meu rosto sem rumo.",
+            "Sentindo meu pau inchar ainda mais de excitação, ",
+            "decidi soltar a tensão dos braços,",
+            "deixando o corpo dela descer devagar—"
+        ],
+        "54": [
+            "\\nl< >\"Ngh—Hngh~~~~!♥\""
+        ],
+        "55": [
+            "Impulsionado pela gravidade do corpo caindo,",
+            "o pau grosso forçou a abertura daquele caminho estreito e molhado,",
+            "penetrando direto até as profundezas mais íntimas dela.",
+            " ",
+            "O impacto de ser preenchida tão completamente fez ela",
+            "soltar um gemido atordoado, o corpo inteiro se contraindo",
+            "pela sensação intensa da invasão."
+        ],
+        "56": [
+            "Mas logo ela começou a se adaptar à presença dentro dela, ",
+            "até contraindo os músculos instintivamente.",
+            "A forma como ela estava — olhos marejados de dor por ser esticada, ",
+            "mas cedendo instintivamente — era incrivelmente erótica."
+        ],
+        "57": [
+            "\\nl< >\"Haa... ngh... ♥ \\w[120]",
+            "\\str[121]... será que... \\w[120]",
+            "já é o suficiente só de estarmos assim juntos...?\""
+        ],
+        "58": [
+            "Parecendo achar que tinha acabado, ",
+            "ela simplesmente se aninhou nos meus braços,",
+            "os pezinhos pequenos balançando no ar, ",
+            "oscilando suavemente com inquietação.",
+            "Comecei a fazer força com os braços, ",
+            "guiando o corpo dela para cima e para baixo com cuidado,",
+            "deixando meu pau deslizar continuamente dentro dela."
+        ],
+        "59": [
+            "\\nl< >\"Kyaa ♥ \\str[121]...!?",
+            "E-ele... tá se mexendo lá dentro... ♥",
+            "Ugh... hngh... ♥\""
+        ],
+        "60": [
+            "O movimento repentino interrompeu a pergunta inocente dela quando uma ",
+            "sensação de formigamento nunca sentida antes percorreu todo o corpo.",
+            "Como as pernas estavam penduradas, ",
+            "todo o peso dela ficou nos meus braços.",
+            "Sem forças para resistir, ",
+            "ela só podia me deixar controlar o ritmo, ",
+            "soltando um suspiro doce atrás do outro."
+        ],
+        "61": [
+            "Para aliviar a tensão dela e checar como ela estava,",
+            "me aproximei do ouvido corado e sussurrei de forma provocadora."
+        ],
+        "62": [
+            "\"Boa menina... não dói mais, né?",
+            "Me conta... como tá se sentindo agora?\""
+        ],
+        "63": [
+            "\"E... e agora?",
+            "Tá sentindo quentinho na barriguinha?\""
+        ],
+        "64": [
+            "\"Você tá indo tão bem...",
+            "Seu corpo já tá começando a gostar, né?\""
+        ],
+        "65": [
+            "\\nl< >\"Ugh... mm... não dói tanto mais... ♥",
+            "Mas é tão estranho... essa parte sua, ",
+            "parece que tá me enchendo toda...",
+            "Tá formigando lá dentro... e um pouco coçando... ugh... ♥\""
+        ],
+        "66": [
+            "\\nl< >\"Mgh... hngh... não dói mais... ♥",
+            "Mas sinto... minha barriga ficando tão pesada... ♥",
+            "Eu... já tô toda preenchida pelo \\str[121]... ♥\""
+        ],
+        "67": [
+            "\\nl< >\"Mgh... mm... ♥ Tá tão quente lá dentro...",
+            "Parece que... algo bem quente tá ",
+            "girando por aí... ♥\""
+        ],
+        "68": [
+            "\\nl< >\"Haa... hah... ♥ \\str[121], mais devagar... por favor...",
+            "Parece que peixinhos quentinhos estão nadando dentro de mim... ugh... ♥\""
+        ],
+        "69": [
+            "\\nl< >\"Kyaa ♥ \\str[121]... aí... ugh... ♥",
+            "Tá... tá ficando muito estranho... ",
+            "E-eu... não consigo mais pensar... ♥\""
+        ],
+        "70": [
+            "\\nl< >\"Hah... ah ♥ Mgh, mgh...! ♥",
+            "Tudo tá ficando branco... Eu... ngh...",
+            "V-vou derreter... mgh... haa... hah... ♥\""
+        ],
+        "71": [
+            "\\str[120] jogou a cabeça para trás confusa,",
+            "mas o corpo, começando a esquentar de prazer, ",
+            "já dava a resposta mais honesta."
+        ],
+        "72": [
+            "Ao ouvir a resposta suave e doce cheia de prazer, ",
+            "comecei a acelerar o ritmo.",
+            " ",
+            " ",
+            "ela só podia se inclinar para trás sem forças,",
+            "o corpo inteiro sacudindo violentamente com meus movimentos.",
+            "o corpo inteiro dela sacudindo violentamente com meus movimentos."
+        ],
+        "73": [
+            "Ela tinha caído num estado completamente atordoado, ",
+            "olhos olhando fixo para o vazio,",
+            "os dedinhos dos pés encolhidos com força pela estimulação intensa."
+        ],
+        "74": [
+            "Sentindo o toque arredondado da bundinha dela, ",
+            "senti um impulso repentino de experimentar a entrada de trás.",
+            "Pra ela, isso pode ser uma experiência totalmente nova... né?"
+        ],
+        "75": [
+            "\\nl< >\"Eh...!? Hm... \\str[121]... não aí...",
+            "Aquele lugar não é só pra... quando eu preciso fazer...?",
+            "Parece que... ia ficar tudo sujo e nojento.",
+            "Por que... você ia querer tocar num lugar desses...?\""
+        ],
+        "76": [
+            "Percebendo que eu tateava em direção ao traseiro, ",
+            "\\str[120] tensionou os ombros confusa. ",
+            "Ela simplesmente não fazia ideia de que até um lugar daqueles ",
+            "podia ser acariciado e amado também."
+        ],
+        "77": [
+            "Parece que esse tipo de brincadeira ainda é cedo demais pra ela...",
+            "Contive o impulso e decidi não forçar."
+        ]
+  },
+  "13": {
+        "1": [
+            "\\nl< >\"Haa... ngh... ♥ \\w[60]",
+            "\\str[121]... \\str[121]... minha barriga... \\w[60]",
+            "tá sendo preenchida... ♥\""
+        ],
+        "2": [
+            "\"Desculpa... acho que fui meio bruto no final das contas...",
+            "Tem algum lugar que tá incomodando?\""
+        ],
+        "3": [
+            "\\nl< >\"Não... sabe... \\str[121], você é muito gentil... \\w[60]",
+            "Poder vivenciar isso... também é \\w[60]",
+            "graças ao remédio que \\str[121] trouxe...\""
+        ],
+        "4": [
+            "\\nl< >\"Mesmo... \\str[121] ainda se esforçando tanto por mim... \\w[60]",
+            "Sinto que... não consigo fazer nada em retribuição...\""
+        ],
+        "5": [
+            "\\nl< >\"Então, se isso.. \\w[60]",
+            "puder fazer \\str[121] relaxar... \\w[60]",
+            "não importa quantas vezes... ",
+            "eu quero te dar... ♥\""
+        ],
+        "6": [
+            "\\nl< >\"Mesmo... \\str[121], em momentos assim... \\w[60]",
+            "você sempre me provoca e zoa de propósito... \\w[60]",
+            "mas... \\str[121] é \\str[121]...\""
+        ],
+        "7": [
+            "\\nl< >\\}\"Você é... meu... \\w[60]",
+            "único e exclusivo... \\w[60]",
+            "no mundo inteiro...\""
+        ],
+        "8": [
+            "A voz de \\str[120] foi ficando cada vez mais fraca, ",
+            "seguida pelo som da respiração calma e ritmada no meu ouvido.",
+            "Sabia que a resistência física já frágil dela tinha chegado ao limite."
+        ],
+        "9": [
+            "Mesmo com o Elixir Rubrum já fazendo efeito no corpo dela,",
+            "forçar mais seria passar dos limites mesmo...",
+            " ",
+            " ",
+            "Então, mantendo essa posição estranha e conectada, ",
+            "peguei \\str[120] gentilmente no colo,",
+            "e saí cuidadosamente da sala de estar."
+        ],
+        "10": [
+            "Embora ainda fosse cedo, ",
+            "vendo o corpo de \\str[120] tremendo levemente nos meus braços,",
+            "forcei a reprimir meu desejo que ainda não tinha se apagado."
+        ],
+        "11": [
+            "Observando o corpinho frágil tremer contra mim, ",
+            "meu pau finalmente amoleceu.",
+            "era hora de encerrar por hoje."
+        ],
+        "12": [
+            "O enredo porcaria na TV continuou rolando indiferente;",
+            "mesmo com o volume baixo, ",
+            "parecia absurdamente alto no silêncio.",
+            "Peguei o controle remoto tateando e apertei o botão de desligar com decisão—"
+        ],
+        "13": [
+            "\\nl< >\"O filme... a gente não terminou de ver...",
+            " \\str[121]...\""
+        ],
+        "14": [
+            "\"Já deu por hoje.",
+            "Seu corpo já chegou no limite.",
+            "Descansar é muito mais importante que qualquer filme—\""
+        ],
+        "15": [
+            "\\nl< >\"...Mmh♥",
+            "Da próxima... vamos assistir juntos de novo...♥\""
+        ]
+  }
+}

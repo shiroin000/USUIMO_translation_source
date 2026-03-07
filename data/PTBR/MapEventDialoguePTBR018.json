@@ -1,0 +1,46 @@
+{
+  "2": {
+        "0": [
+            "(... O que está acontecendo? A luz do sol está tão forte!?",
+            "E dói demais quando bate na minha pele!)"
+        ]
+  },
+  "4": {
+        "0": [
+            "Ainda é cedo.",
+            "Eu realmente vou voltar para casa agora?"
+        ],
+        "1": [
+            "Ainda tem um tempo antes do pôr do sol…",
+            "Eu vou mesmo voltar para casa agora?"
+        ],
+        "2": [
+            "Hoje está extremamente quente.",
+            "Talvez seja melhor ir embora mais cedo...?"
+        ],
+        "3": [
+            "Ir para Casa",
+            "Agora Não"
+        ]
+  },
+  "16": {
+        "0": [
+            " ",
+            " "
+        ]
+  },
+  "17": {
+        "0": [
+            "Também tem um bilhete dentro…     \\w[30]",
+            "Nele estão escritas algumas palavras tão bagunçadas que são quase ilegíveis—"
+        ],
+        "1": [
+            "\\py[24]“Minha juventude jaz enterrada aqui dentro…”",
+            "\\w[60]"
+        ],
+        "2": [
+            "(Isso parece tão…",
+            "tão insuportavelmente pesado…)"
+        ]
+  }
+}

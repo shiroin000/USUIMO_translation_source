@@ -1,0 +1,196 @@
+{
+  "gameTitle": [
+    "Uma Vida Simples com a Minha Discreta Irmãzinha "
+  ],
+  "goldHeld": [
+    "Gold"
+  ],
+  "quantityHeld": [
+    "\\fs[16]•Quantidade Possuída:\\c[17] ${} \\c[0]\\py[-8]"
+  ],
+  "autoUpdate": [
+    "Atualização disponível: Dados do jogo da versão ${} detectados. ",
+    "Deseja baixar e atualizar agora?"
+  ],
+  "fullScreen": [
+    "Tela Cheia"
+  ],
+  "masterVolume": [
+    "Volume Geral"
+  ],
+  "voiceVolume": [
+    "Volume da Voz"
+  ],
+  "BgmVolume": [
+    "Volume da Música"
+  ],
+  "BgsVolume": [
+    "Volume do Ambiente"
+  ],
+  "SeVolume": [
+    "Volume dos Efeitos Sonoros"
+  ],
+  "MaxPlayerMsgs": [
+    "Máx. de Mensagens por Jogador"
+  ],
+  "GameFAQ": [
+    "Guia do Jogo"
+  ],
+  "ShowWeaponDurability": [
+    "Mostrar Durabilidade da Arma"
+  ],
+  "DisableAutoUpdate": [
+    "Desativar Atualização Automática"
+  ],
+  "LockedFPS": [
+    "Travar a 60 FPS"
+  ],
+  "Language": [
+    "Idioma do Jogo"
+  ],
+  "SwitchLanguage": [
+    "Mudança de idioma do jogo detectado!",
+    "Reiniciando agora para aplicar as novas configurações de idioma!"
+  ],
+  "ErrorReport": [
+    "Um erro ocorreu. Pedimos que relate o bug no servidor do Discord do NLCH.",
+    "(Clique em 'OK' para abrir o link de convite)",
+    "(Anexe uma captura de tela do erro)"
+  ],
+  "UpdateComplete1": [
+    "Atualização do jogo concluída!",
+    "O jogo será reiniciado automaticamente após fechar esta janela.",
+    "Você pode carregar o salvamento automático para continuar sua jornada!"
+  ],
+  "UpdateComplete2": [
+    "Atualização do jogo concluída!",
+    "O jogo será reiniciado em breve para aplicar a atualização!"
+  ],
+  "RemindToUpdate": [
+    "Ocorreu um erro e o jogo está travado.",
+    "Um patch mais recente está disponível—",
+    "Por favor, use a atualização automática para corrigir o problema!"
+  ],
+  "bagFull": [
+    "Limite de inventário excedido!"
+  ],
+  "noStatusEffects": [
+    "Sem efeitos de status!"
+  ],
+  "unimplementedDoor": [
+    "Esta porta não vai abrir deste lado"
+  ],
+  "zipUpdateComplete": [
+    "Atualização instalada com sucesso. ",
+    "Reiniciando o jogo para aplicar a atualização!"
+  ],
+  "zipUpdateFail": [
+    "Erro ao extrair e instalar atualizações!",
+    "Por favor, tente atualizar automaticamente novamente ou",
+    "extraia manualmente os arquivos da atualização para instalar!"
+  ],
+  "fileDownloadedSuccessfully": [
+    "${} baixado com sucesso!"
+  ],
+  "fileDownloadFailed": [
+    "${} falhou ao baixar! Tente novamente agora!"
+  ],
+  "installPatch": [
+    "A atualização requer extração — instalando agora. Isso pode causar lentidão no jogo, por favor, seja paciente!"
+  ],
+  "totalFilesToUpdate": [
+    "Foram detectados ${} arquivo(s) para atualizar — começando a baixar os arquivos!"
+  ],
+  "renameCharacter": [
+    "Lembrei agora—",
+    "ela é..."
+  ],
+  "heroName": [
+    "Onii-chan"
+  ],
+  "heroineName": [
+    "Imouto"
+  ],
+  "nonHardwareAccelerated": [
+    "O jogo está sendo executado na placa gráfica integrada!",
+    "Se o seu PC tiver uma GPU dedicada, recomendamos configurar o Game.exe ",
+    "para usá-la no painel de controle gráfico, para uma experiência de jogo mais fluida."
+  ],
+  "isAmdCPU": [
+    "Seu CPU foi identificado como um processador AMD.",
+    "Alguns processadores AMD podem ter queda de quadros ao rodar vídeos VP9 (WebM) ",
+    "em um ambiente Chromium. Se você encontrar esse problema, tente forçar o jogo",
+    "a usar renderização via GPU ou atualize seus drivers para ajudar a amenizar a situação."
+  ],
+  "failedToLoad": [
+    "Este tipo de problema pode ser causado por:",
+    "① Arquivos do jogo corrompidos ou nomes de arquivos ilegíveis devido a problemas de codificação durante a extração/instalação.",
+    "② O desenvolvedor esqueceu de incluir o arquivo — aguarde uma atualização/patch para corrigir o problema."
+  ],
+  "LowResMode": [
+    "Modo Com Gráficos Reduzidos"
+  ],
+  "lowResModeWarning": [
+    "Essa função melhora o desempenho em dispositivos Android, essa função deve ter pouco ou nenhum efeito na versão de PC.",
+    "Quando ativada, o jogo renderiza mapas e imagens em uma resolução mais baixa e então faz o upscaling, ",
+    "reduzindo a carga da GPU em dispositivos móveis, baixando a temperatura e consumo de bateria.",
+    "Nota: Essa é uma função experimental e sua eficiência pode variar dependendo do dispositivo.",
+    "Você pode desabilitar essa função a qualquer momento para restaurar imediatamente a resolução da imagem."
+  ],
+  "cloudSaveServiceWarning": [
+    "Este recurso solicitará acesso ao seu Google Drive",
+    "para poder armazenar os arquivos de salvamento do jogo na pasta NLCH/save.",
+    "Os arquivos de salvamento enviados serão utilizados posteriormente para sincronização e para serem baixados novamente para o jogo.",
+    "Você concorda em conceder ao jogo acesso ao Google Drive?"
+  ],
+  "uploadSaveFile": [
+    "Baixar um arquivo de salvamento do Google Drive substituirá os dados de salvamento locais atuais!",
+    "Você deseja continuar?"
+  ],
+  "nearbyMonstersCount": [
+    "Monstro detectado nas proximidades"
+  ],
+  "nearbyTreasuresCount": [
+    "Tesouro detectado nas proximidades"
+  ],
+  "underwaterTreasuresCount": [
+    "Tesouro submerso detectado nas proximidades"
+  ],
+  "steamWishlist": [
+    "Nossa página na loja da Steam finalmente está ativa!",
+    "Por favor, adicione-nos a sua lista de desejos e apoie-nos! (*´∀`)~♥",
+    "⬇Clique abaixo para abrir a página da Steam."
+  ],
+  "AdventurersPathway": {
+    "mapName": "  – Caminho do Aventureiro – "
+  },
+  "ShallowRuinsLabyrinth": {
+    "mapName": "– Labirinto das Ruínas Rasas –",
+    "mapDescription": "Um vasto labirinto repleto de inúmeros mistérios "
+  },
+  "ForgottenCatacombe": {
+    "mapName": " – Catacumba Esquecida – \n"
+  },
+  "ForestofRuins": {
+    "mapName": " – Floresta das Ruínas – "
+  },
+  "AbandonedForest": {
+    "mapName": " – Floresta Abandonada – "
+  },
+  "ExcavationSite": {
+    "mapName": " – Sítio de Escavação – "
+  },
+  "TheFallenChurch": {
+    "mapName": " – A Igreja Caída – "
+  },
+  "DoorofStar": {
+    "mapName": " – Porta da Estrela – "
+  },
+  "ScorchingLavaZone": {
+    "mapName": "– Zona de Lava Escaldante –",
+    "mapDescription": " Uma terra ardente entrelaçada pelo fogo, onde as provações queimam eternamente "
+  },
+  "Nibelungen": {
+    "mapName": " – Nibelungen – "
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "0": [
+    "✦Une tasse que \\str[120] aime,",
+    "présentant un étrange motif de lapin.",
+    "Cela semble être un best-seller chez NLCH."
+  ],
+  "1": [
+    "✦La petite lanterne laissée par Père,",
+    "semble être un outil alchimique.",
+    "Il est très durable malgré son âge et",
+    "dégage une lumière chaleureuse et réconfortante."
+  ],
+  "2": [
+    "✦Une jolie petite veilleuse avec un éclairage doux,",
+    "parfait pour s'allumer au lever",
+    "aller aux toilettes la nuit."
+  ],
+  "3": [
+    "✦Une plante feuillue appelée \" Ficus umbellata \".",
+    "C'est florissant, et il semble que \\str[120] prenne",
+    "en prendre grand soin chaque jour."
+  ],
+  "4": [
+    "✦Une plante feuillue appelée \" Pothos \".",
+    "Ça n'a pas l'air très sain,",
+    "alors \\str[120] l'a placé près de la fenêtre.",
+    "Dois-je lui dire que le pothos est en fait",
+    "n'aime pas la lumière du soleil...?"
+  ],
+  "5": [
+    "✦Quelques livres que \\str[120] a choisis",
+    "du bureau de mon père.",
+    "Ce sont principalement des livres de philosophie et",
+    "complètement incompréhensible."
+  ],
+  "6": [
+    "✦J'ai ramassé une branche de bouleau séchée sur le",
+    "chemin du retour — j'ai pensé que ça avait l'air cool,",
+    "alors je l'ai montré à \\str[120].",
+    "Elle l'a mis tranquillement dans un vase."
+  ],
+  "7": [
+    "✦Un croquis d'oiseau dessiné par \\str[120],",
+    "apparemment basé sur les oiseaux qu'elle a repérés",
+    "en regardant par la fenêtre."
+  ],
+  "8": [
+    "✦Un petit ventilateur ancien avec un faible débit d'air.",
+    "Tu dois vous rapprocher vraiment de",
+    "sentir la brise fraîche."
+  ],
+  "9": [
+    "✦Un sèche-cheveux à la pointe de la technologie avec",
+    "flux d'air incroyablement fort.",
+    "Si vous le dirigez vers votre visage, vous aurez l'impression",
+    "comme si le vent pouvait vous arracher la peau."
+  ],
+  "10": [
+    "✦Une baignoire à température réglable",
+    "réglages, mais avec une plage de 99°C à -10°C...",
+    "Est-ce que c'est vraiment bien?"
+  ],
+  "11": [
+    "✦Un shampoing au parfum de fruits que \\str[120] adore.",
+    "Cela rend ses cheveux super soyeux,",
+    "mais ça s'épuise beaucoup trop vite.",
+    "Current Remaining:\\c[20]${$gameSelfVariables.value([6, 8, 'shampoo'])}%"
+  ],
+  "12": [
+    "✦On dirait des sous-vêtements",
+    "\\str[120] vient de retiré...",
+    "Ils sont soigneusement plié."
+  ],
+  "13": [
+    "✦Une console de jeu légendaire désormais extrêmement rare.",
+    "En posséder un ferait de vous une légende parmi les joueurs."
+  ],
+  "14": [
+    "✦Une poupée offerte à \\str[120] par son père",
+    "pour son anniversaire. Elle y tient profondément.",
+    "et la garde toujours à ses côtés."
+  ],
+  "15": [
+    "\\fr\\fs[20]\\c[10]Lost Magie Circle",
+    "\\fs[22]\\i[16]???\\fr",
+    "✦Un espace d'un autre monde créé par",
+    "une carte magique héritée du père.",
+    "Complètement insensible au temps,",
+    "les objets stockés ici ne disparaissent jamais.",
+    "Ce cercle est également relié à l'entrée de la maison,",
+    "permettant un retour stable et sûr.",
+    "Que cela ait été délibérément conçu par le père,",
+    "prévoyant la descente inévitable de son enfant",
+    "dans l'abîme, est désormais inconnu..."
+  ],
+  "16": [
+    "\\fr\\fs[28]\\c[114]Grand Labyrinthe",
+    "\\fr\\fs[22]\\i[16]???",
+    "✦L'entrée du Labyrinthe des Ruines,",
+    "envahi par des monstres de l'aura abyssale.",
+    "Bien que périlleux, il offre de grandes opportunités,",
+    "avec des rumeurs de secrets abyssaux cachés dans ses profondeurs.",
+    "Mais ce n'est qu'un des nombreux chemins qui mènent à l'Abîme."
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "1": {
+        "0": [
+            "Mmm, I can't seem to fall asleep..."
+		],
+		"1": [
+            "My stomach hurts... Is it indigestion?",
+			"Maybe that dinner was too much after all..."
+        ],
+        "2": [
+            "Ah, I suddenly woke up...!"
+        ],
+		"3": [
+            "It's still the middle of the night.",
+			"I can sleep a bit more...\\w[30].\\w[30].\\w[30].",
+			"Should I go check on \\str[120]?"
+        ],
+		"4": [
+            "To \\str[120]'s Room",
+			"Go to sleep"
+        ],
+		"5": [
+            "Just gonna sleep till morning...?"
+        ],	
+		"6": [
+            "Sleep",
+			"Hold on"
+        ],
+		"7": [
+            "\"Ahhhhhhhhhhh—!!?\""
+        ],
+		"8": [
+            "W-What? Oh, it was just a nightmare..."
+        ],
+		"9": [
+            "That scared me so bad... ",
+			"I think I saw a really terrifying version of \\str[120]."
+        ],		
+		"10": [
+            "…I should go check on \\str[120].",
+			"What if that dream—"
+        ],	
+		"11": [
+            "Yeah, that dream was so scary...",
+			"It’s better to get some rest early..."
+        ]			
+    },
+  "2": {
+        "0": [
+            "\\c[10]—Data update request detected from version \\str[1].  \\w[60]",
+			"Would you like to perform the auto-update now?"
+		],
+		"1": [
+            "Start Update",
+			"Never mind"
+        ],
+        "2": [
+            "...Is it morning already? ",
+			"I feel like I had some kind of dream about ",
+            "\\str[120], ",
+			"but I can’t remember it..."
+        ],
+        "3": [
+            "...Is it already morning? ",
+			"I don't feel like I slept well..."
+        ],
+        "4": [
+            "Ah, is it morning already? I slept so well."
+        ],
+        "5": [
+            "It's a nice day today...\\w[45]huh? ",
+			"Feels like the sunlight’s a bit too intense?"
+        ],
+        "6": [
+            "It's a nice day today."
+        ],
+        "7": [
+            "The weather doesn't look so great today."
+        ],
+        "8": [
+            "Is it raining? ",
+			"I hope it won't affect our adventure..."
+        ],
+        "9": [
+            "Haven’t checked on \\str[120] for a few days… ",
+			"Guess I should drop by today."
+        ],
+        "10": [
+            "Alright, I'm up. What’s the plan for today—"
+        ],
+        "11": [
+            "To \\str[120]'s Room",
+			"Head Out Now"
+        ],
+        "12": [
+            "Okay, let’s check on \\str[120]!"
+        ],
+        "13": [
+            "Okay, time to get everything in order ",
+			"and head out for an adventure!"
+        ]		
+    },
+
+  "3": {
+        "0": [
+            "My mind slowly clears... ",
+			"I finally realize I'm not in my usual bedroom.",
+			"Something warm and soft is pressed tight against me, ",
+			"their breathing rhythmic and gentle."
+		],
+		"1": [
+            "It's just \\str[120]...",
+			"Memories begin to flood back—         \\w[120]",
+			"Right, the two of us were tangled together ",
+			"until deep into the night..."
+        ],
+		"2": [
+            "Looking at her defenseless sleeping face, ",
+			"still bearing a faint flush of last night's afterglow,",
+			"I can't help but reach out, my fingertips sinking softly ",
+			"into her hair, smooth as silk."
+        ],
+		"3": [
+            "\\nl< >\"Uu... mm... ♥\""
+        ],
+		"4": [
+            "As if sensing the affection, she lets out a hazy, ",
+			"satisfied hum, subconsciously nuzzling into my palm."
+        ],
+		"5": [
+            "\"It's morning already. Can you get up?\""
+        ],
+		"6": [
+            "I gently nudge her shoulder, ",
+			"trying to wake her from her slumber."
+        ],
+		"6.5": [
+            "\\nl< >\".................. Nnn.\""
+        ],
+		"7": [
+            "After her long eyelashes flutter a few times, ",
+			"she finally opens her eyes slowly.",
+			" ",
+			" ",
+			"She stares blankly into the void for a moment,",
+			"then tilts her head to look at me right beside her, ",
+			"her pupils filled with the haze of sleep."
+        ],
+		"8": [
+            "\\nl< >\"Eh... \\str[121]...?     \\w[150]",
+			"Why... are you in bed too...?\""
+        ],
+		"9": [
+            "It seems her brain hasn't quite finished booting up. ",
+			"she just tilts her head, staring at me foolishly for a long time."
+        ],
+		"10": [
+			"Not until the fragmented memories of last night ",
+			"piece themselves back together does the blood rush ",
+            "to her cheeks at a visible speed."
+        ],
+		"11": [
+            "\\nl< >\"Uu... ♥                   \\w[120]",
+			"G-good morning... \\str[121]...    \\w[120]",
+			"About last night... um... thank you...\""
+        ],
+		"12": [
+            "Completely at a loss as to how to handle such a bashful ",
+			"predicament, she just lowers her head,",
+			"whispering a word of thanks that was somewhat nonsensical."
+        ],
+		"13": [
+			"The atmosphere becomes subtle and cramped.",
+            "We silently dress with our backs to each other, ",
+			"then, maintaining an indescribable tacit understanding,",
+            "we walk into the washroom together."
+        ],
+		"14": [
+            "\\nl< >\"...Mmuu... nya...♥         \\w[120]",
+			"\\str[121]... not there... it's no good...\""
+        ],
+		"15": [
+            "She only let out a muffled murmur, ",
+			"clutching her pillow and burying her face even deeper."
+        ],
+		"16": [
+			"Though I'm curious what kind of wonderful dream she's having, ",
+			"since she's still so sound asleep,",
+            "it's better not to force her awake..."
+        ],
+		"17": [
+            "Last night's exertion was too much of a burden for her after all,",
+            "I should let her sleep a bit longer..."
+        ],
+		"18": [
+            "Holding my breath, ",
+			"I gently peel away her arm still wrapped around me,",
+            "leaving the warm bed without making a single sound."
+        ],
+		"19": [
+            "Taking one last look at her quiet profile, ",
+			"slightly pale in the morning light,",
+            "I quietly exit the room and softly click the door shut."
+        ],
+		"20": [
+            "Watching her defenseless sleeping face though I know she needs rest,",
+            "the quiet unique to this morning and the scent ",
+			"she radiates keep provoking my sanity."
+        ],
+		"21": [
+            "I meant to just pat her head, ",
+			"but my fingertips involuntarily slide down her slender neck.",
+			"From her rounded shoulder to the slight curve of her waist, ",
+			"I greedily feel every inch of her skin."
+        ],
+		"22": [
+            "\\nl< >\"...Hnngh ♥      \\w[180]",
+			"Uu... nnh... ah... ♥\""
+        ],
+		"23": [
+			"Even as she slept, her body that had just shed its innocence ",
+			"was already reacting to my touch.",
+            "She let out a few unconscious whimpers as she felt ",
+			"the warmth radiating from my fingertips."
+        ],
+		"24": [
+			"...No! What am I thinking!",
+            "How could I do this to her so early in the morning...",
+            "I'd better just get up!"
+        ],
+		"25": [
+            "\\nl< >\"Poke... poke...\""
+        ],
+		"26": [
+            "My consciousness was still drifting on the edge of a hazy fog,",
+            "when clear, soft whispers reached my ears, ",
+			"accompanied by intermittent touches on my cheek."
+        ],
+		"27": [
+            "\\nl< >\"Poke... poke...      \\w[150]",
+			"\\str[121] just won't wake up at all...\""
+        ],
+		"28": [
+            "It felt as if someone beside me was tirelessly tapping ",
+			"and poking at my face."
+        ],		
+		"29": [
+            "\"Pinch... Now your nose is caught...        \\w[150]",
+			"How many seconds can you hold out, \\str[121]~?\""
+        ],
+		"29.2": [
+            "My breathing became difficult in an instant.",
+            "I could feel someone pinching my nostrils with two fingers,",
+            "and I could even hear her shallow, ",
+			"rapid breaths as she stifled a laugh."
+        ],
+		"29.4": [
+            "............It's \\str[120], isn't it?",
+            "Memories began to flood back—",
+            "Right, we ended up sleeping together last night."
+        ],
+		"30": [
+            "I was surprised she had woken up before me,",
+            "but facing such a cute prank, ",
+			"I didn't intend to expose myself just yet."
+        ],
+		"31": [
+			"I secretly took a deep breath through my mouth, ",
+			"which wasn't restricted,",
+            "then concentrated all my energy on my nose ",
+			"and blew out a sudden, sharp gust of air!"
+        ],
+		"32": [
+            "\\{\\nl< >\"W-Woaah~~! \\str[121] exploded~~!?\"",
+			"\\w[90] "
+        ],
+		"33": [
+			"The sudden force acted like a miniature air pump, ",
+			"instantly popping her fingers off.",
+            "Not expecting this, \\str[120] let out a cry that ",
+			"was a mix of startle and excitement."
+        ],
+		"34": [
+            "\\nl< >\"...But he's still not awake~     \\w[120]",
+			"How strange, was that just a sneeze?\""
+        ],
+		"35": [
+            "\\nl< >\"Poke... poke...    \\w[150]",
+			"\\str[121] really won't wake up~\""
+        ],
+		"36": [
+			"Seeing that I remained unresponsive with my eyes closed, ",
+			"she leaned in with a hint of frustration,",
+            "her fingers restlessly testing the edges of my lips once more."
+        ],
+		"37": [
+            "\\{\"Gawuu~~~~!!\"     \\w[60]\\^"
+        ],
+		"38": [
+            "The moment her fingertips neared my mouth again,",
+			"I seized the opportunity and snapped my jaw open, ",
+			"taking the whole finger inside."
+        ],
+		"39": [
+            "\\{\\nl< >\"Wueeeeee~~!? I got bitten—    \\w[90]",
+			"No, I'm being licked~~!\""
+        ],
+		"40": [
+            "\\nl< >\"\\str[121]! ",
+			"You've been awake this whole time, haven't you~!   \\w[90]",
+			"Let go of my hand already~~!\""
+        ],
+		"41": [
+            "Having been countered for the second time,",
+			"\\str[120] let out another startled squeak.",
+            "By now, she clearly realized she had been played ",
+			"from the very beginning."
+        ],		
+		"42": [
+            "\"Impudent girl!",
+			"To dare trespass into the dragon's lair,",
+			"prepare yourself to be devoured!\""
+        ],
+		"43": [
+            "Feeling the timing was right, I snapped my eyes open.",
+            "Even with her finger still in my mouth, ",
+			"I deliberately used a deep, gravelly voice to let out a monster-like growl."
+        ],
+		"44": [
+            "\\nl< >\"I'm not afraid of that one bit~!",
+			"The Great Evil Dragon was sleeping like a log just a second ago...!\""
+        ],
+		"45": [
+            "\\str[120] squirmed and struggled under the covers, ",
+			"reacting to the slick, ticklish sensation against her finger.",
+			"In her clear, satisfied giggles, there wasn't a single trace of fear."
+        ],
+		"46": [
+            "This defenseless, completely vulnerable appearance of hers",
+            "caused the desire suppressed through the night to ",
+			"swell to its peak at this very moment—"
+        ],
+		"47": [
+            "\"Rawr—! The Dragon is on the move!\""
+        ],
+		"48": [
+            "\\nl< >\"Hahahaha... it tickles!",
+			"\\str[121]... stop it!",
+			"Not there... ha, haha!\""
+        ],
+		"49": [
+			"...Today will surely be another peaceful and tranquil day.",
+            "I kept licking the side of her neck and ear, ",
+			"which had grown hot from her blushing.",
+			"\\w[30]",
+            "Listening to her lovely laughter, ",
+			"I prayed from the bottom of my heart that ",
+			"this life could last forever..."
+        ]
+    },	
+  "4": {
+        "0": [
+            "\"...Huh!?\\w[60]...Wait, \\w[60]",
+			"is it already morning...?\""
+		],
+		"1": [
+            "My head feels dizzy... ",
+			"Did I just fall asleep like that last night...?"
+        ],
+		"2": [
+            "\"I can't remember what happened last night...  \\w[90]",
+			"Oh well, I was probably just too exhausted.\""
+        ]
+    }		
+}

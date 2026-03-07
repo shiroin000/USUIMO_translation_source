@@ -1,0 +1,117 @@
+{
+  "1": {
+    "0": [
+      "Mmm, je n'arrive pas à m'endormir..."
+    ],
+    "1": [
+      "J'ai mal au ventre... Est-ce une indigestion?",
+      "Peut-être que ce dîner était trop copieux après tout..."
+    ],
+    "2": [
+      "Ah, je me suis réveillé soudainement...!"
+    ],
+    "3": [
+      "Il est encore au milieu de la nuit.",
+      "Je peux dormir un peu plus...\\w[30].\\w[30].\\w[30].",
+      "Dois-je aller voir ma sœur?"
+    ],
+    "4": [
+      "Dans la chambre de \\str[120]",
+      "Aller dormir"
+    ],
+    "5": [
+      "Je vais juste dormir jusqu'au matin...?"
+    ],
+    "6": [
+      "Dormir",
+      "Attendez"
+    ],
+    "7": [
+      "Ahhhhhhhhhhhhhh—!!?"
+    ],
+    "8": [
+      "Q-Quoi? Oh, c'était juste un cauchemar..."
+    ],
+    "9": [
+      "Ça m'a fait tellement peur...",
+      "Je crois que j'ai vu une version vraiment terrifiante de \\str[120]."
+    ],
+    "10": [
+      "…je devrais aller voir \\str[120].",
+      "Et si ce rêve…"
+    ],
+    "11": [
+      "Ouais, ce rêve était si effrayant...",
+      "Il vaut mieux se reposer tôt..."
+    ]
+  },
+  "2": {
+    "0": [
+      "\\c[10]— Demande de mise à jour des données détectée à partir de la version \\str[1]. \\w[60]",
+      "Souhaitez-vous effectuer la mise à jour automatique maintenant?"
+    ],
+    "1": [
+      "Démarrer la mise à jour",
+      "Pas grave"
+    ],
+    "2": [
+      "...C'est déjà le matin?",
+      "J'ai l'impression d'avoir fait une sorte de rêve à propos de",
+      "\\str[120],",
+      "mais je ne m'en souviens pas..."
+    ],
+    "3": [
+      "...C'est déjà le matin?",
+      "Je n'ai pas l'impression d'avoir bien dormi..."
+    ],
+    "4": [
+      "Ah, c'est déjà le matin? J'ai si bien dormi."
+    ],
+    "5": [
+      "C'est une belle journée aujourd'hui...\\w[45]hein?",
+      "Tu avez l'impression que la lumière du soleil est un peu trop intense?"
+    ],
+    "6": [
+      "C'est une belle journée aujourd'hui."
+    ],
+    "7": [
+      "Le temps n'a pas l'air très beau aujourd'hui."
+    ],
+    "8": [
+      "Est-ce qu'il pleut?",
+      "J'espère que cela n'affectera pas notre aventure..."
+    ],
+    "9": [
+      "Je n'ai pas pris de nouvelles de ma sœur depuis quelques jours…",
+      "Je suppose que je devrais passer aujourd'hui."
+    ],
+    "10": [
+      "Bon, je suis debout. Quel est le programme pour aujourd'hui?"
+    ],
+    "11": [
+      "Dans la chambre de \\str[120]",
+      "Partez maintenant"
+    ],
+    "12": [
+      "Okay, let’s check on \\str[120]!"
+    ],
+    "13": [
+      "Ok, il est temps de tout mettre en ordre",
+      "et partez à l'aventure!"
+    ]
+  },
+  "4": {
+    "0": [
+      "...Hein!?\\w[60]...Attends, \\w[60]",
+      "est-ce déjà le matin...?"
+    ],
+    "1": [
+      "J'ai la tête qui tourne...",
+      "Est-ce que je me suis endormi comme ça la nuit dernière...?"
+    ],
+    "2": [
+      "Je ne me souviens pas de ce qui s'est passé la nuit dernière... \\w[90]",
+      "Eh bien, j'étais probablement trop épuisé."
+    ]
+  }
+}

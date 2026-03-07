@@ -1,0 +1,635 @@
+{
+  "autoUpdateReminder": {
+        "0": [
+            "O processo de atualização começará automaticamente quando você acordar no dia seguinte.",
+            "Certifique-se de que sua conexão com a ‘internet’ esteja estável durante todo o processo!",
+            "\\w[120]"
+        ],
+        "1": [
+            "Falha ao abrir o log de atualização!",
+            "Pode ter ocorrido uma falha na conexão com a internet!",
+            "\\w[120]"
+        ]
+  },
+  "usingItem": {
+        "0": [
+            "Retirou \\ii[\\v[90]]  ",
+            "o que eu devo fazer…?"
+        ],
+        "1": [
+            "Usar",
+            "Deixa para lá",
+            "Descartar"
+        ]
+  },
+  "Abyss": {
+        "0": [
+            " Torre Eterna Abandonada "
+        ]
+  },
+  "ElixirCraft": {
+        "0": [
+            " Criar Elixir"
+        ],
+        "1": [
+            " Elixir de Rubrum criado com sucesso! "
+        ]
+  },
+  "gainRedHeart": {
+        "0": [
+            " Coração Florescendo "
+        ],
+        "1": [
+            " O coração da \\str[120] acabou de disparar! "
+        ]
+  },
+  "gainWhiteHeart": {
+        "0": [
+            "Transbordando amor"
+        ],
+        "1": [
+            " Ela estava cheia! "
+        ]
+  },
+  "gainGoldenHeart": {
+        "0": [
+            "Luxúria Dourada"
+        ],
+        "1": [
+            " Perdido em um oceano de ouro "
+        ]
+  },
+  "NinjasFate": {
+        "0": [
+            " O destino do ninja "
+        ],
+        "1": [
+            "Apague-se de si mesmo e empunhe a lâmina pelos camaradas"
+        ]
+  },
+  "unlockJackalope": {
+        "0": [
+            " Jackalope "
+        ],
+        "1": [
+            "Apareceu no abismo"
+        ]
+  },
+  "maidBunnyBoss": {
+        "0": [
+            "Não há realmente nada de especial à frente!",
+            "Então não precisa conferir, pyon!"
+        ],
+        "1": [
+            "N-não tem nada aqui, de verdade! N-não chegue mais perto!",
+            "J-juro que não tem absolutamente nada escondido aqui, pyon!"
+        ],
+        "2": [
+            "...Pyon?",
+            "Que barulho estranho é esse?"
+        ],
+        "3": [
+            "...Pyon!?",
+            "Como você encontrou este lugar—!"
+        ],
+        "4": [
+            "...Pyon!?",
+            "Um humano...!!"
+        ],
+        "5": [
+            "Pyonnnn, seu bastardo—                        \\w[45]",
+            "\\{Você Está aqui para roubar minhas cenouras! \\w[60]\\^"
+        ],
+        "6": [
+            "Pyon!? Minhas cenouras!         \\w[45]",
+            "\\{Um Ladrão das cenouras! \\w[60]\\^"
+        ]
+  },
+  "noBombFishing": {
+        "0": [
+            "Pesca com bombas é estritamente proibida!",
+            "Faça por sua conta e risco!"
+        ]
+  },
+  "nekoTruck": {
+        "0": [
+            "Quer comprar \\v[84]?",
+            "Custa \\c[6]\\v[85]\\c[0]yen!"
+        ],
+        "1": [
+            "comprar!",
+            "Deixa pra lá…",
+            "Pegar sorrateiramente…"
+        ],
+        "10": "Não há uma área suficientemente larga!",
+        "11": "Há obstáculos na pista!",
+        "12": "O carro (Chariot) foi invocado com sucesso!",
+        "13": "O carro (Chariot) não pode ser invocado nesta área!"
+  },
+  "sela": {
+        "1": [
+            "(Parece que ela não vai acordar tão cedo…",
+            "Acho melhor voltar mais tarde…)"
+        ],
+        "2": [
+            "…Hummm?",
+            "Nós já chegamos… na estação?"
+        ],
+        "3": [
+            "Hã? Espere — este não é o vagão do trem?",
+            "Estava tão quente há pouco…"
+        ],
+        "4": [
+            "Uma fogueira… ah…",
+            "E é por isso que está tão quente."
+        ],
+        "5": [
+            "Mas… que estranho… agora a pouco, ",
+            "Ainda estava vendo o rio de estrelas pela da janela…"
+        ],
+        "6": [
+            "Eu devo ter ficado muito fascinada…",
+            "E acabei perdendo minha parada."
+        ],
+        "7": [
+            "Você está perguntando o que um \"trem\" é…?",
+            "Hehe… um \"trem\", hein—"
+        ],
+        "8": [
+            "É barulhento, coisa barulhenta que leva todo mundo,",
+            "Brilhando enquanto plana pelas estrelas como diamantes espalhados~"
+        ],
+        "9": [
+            "Seu apito —",
+            "Soa como uma baleia cantadora, sabe?"
+        ],
+        "10": [
+            "Hehe, ainda não entendeu?",
+            "Então deixe-me mostrar-lhe um bilhete, talvez isso ajudará~"
+        ],
+        "11": [
+            "O bilhete para o trem Galático,",
+            "É também muito—"
+        ],
+        "12": [
+            "Hã? Hã!?",
+            "O bilhete… sumiu…"
+        ],
+        "13": [
+            "Esse bilhete com os padrões de videira pretos e",
+            "Uma estranha cruz no meio… desapareceu…"
+        ],
+        "14": [
+            "Desculpe… Não posso lhe mostrar a galáxia apesar de tudo…",
+            "Parece que perdi meu bilhete…"
+        ],
+        "15": [
+            "Sem ele, nunca poderei voltar para o trem…",
+            "Uuu… Uuu…"
+        ],
+        "16": [
+            "O que farei agora? Suponho que vou apenas esperar aqui…",
+            "Talvez o próximo trem me encontre."
+        ],
+        "17": [
+            "E também… Me desculpe…",
+            "O fogo aqui está muito quente…"
+        ],
+        "18": [
+            "Quando eu me sentei, bateu aquela moleza…",
+            "Como uma cama quente… me chamando para soneca…"
+        ],
+        "19": [
+            "(esta pessoa…",
+            "Realmente adormeceu!)"
+        ],
+        "20": [
+            "Aqui está realmente quente.",
+            "Mas… e diferente da luz do sol."
+        ],
+        "21": [
+            "A luz solar é o calor de \"fora.\"",
+            "Uma fogueira… é o calor da “viagem”."
+        ],
+        "22": [
+            "…Humm?",
+            "O trem está vindo me buscar?"
+        ],
+        "23": [
+            "Hum? Ah!",
+            "É você novamente, aventureiro!"
+        ],
+        "24": [
+            "Eu estava agora mesmo falando com você mais cedo",
+            "Mas parece que muito tempo se passou desde então"
+        ],
+        "25": [
+            "\"Será que eu me lembro onde eu perdi meu bilhete\"?",
+            "Hmm… não mesmo… está tudo embaralhado agora…"
+        ],
+        "26": [
+            "Não é pesado como as moedas deste mundo…",
+            "É leve — mais leve do que uma pena de cisne~"
+        ],
+        "27": [
+            "Sua cor parece um ‘lago adormecido’ congelado dentro dela,",
+            "E se você olhar contra a luz, pode ver a poeira estelar fluindo dentro de~"
+        ],
+        "28": [
+            "Isso pode ter…",
+            "Caído em qualquer lugar…"
+        ],
+        "29": [
+            "Talvez num campo cheio de sálvia azul,",
+            "Ou tomado por uma raposa destemida de volta para sua toca,"
+        ],
+        "30": [
+            "Ou talvez… transformou-se na primeira gota do orvalho da manhã,",
+            "Pendurado na borda da janela de alguém."
+        ],
+        "31": [
+            "(Isto é… um enigma?",
+            "Eu não faço a menor ideia do que ela está falando sobre…)"
+        ],
+        "32": [
+            "Me desculpe… a única coisa que consigo me lembrar,",
+            "São essas… imagens obscurecidas, fracas…"
+        ],
+        "33": [
+            "Aqui... Isso é para você...",
+            "Eu adorava ler isso no trem também..."
+        ],
+        "34": [
+            "Está cheio de muitas... anotações interessantes...",
+            "Acredito que também pode ser útil para você, aventureiro..."
+        ],
+        "35": [
+            "(Ela está concentrada nos desenhos dela...",
+            "Melhor não atrapalhar ela…)"
+        ],
+        "36": [
+            "(Estou um pouco curioso...",
+            "O que ela está desenhando…?)"
+        ],
+        "37": [
+            "(Espere... ",
+            "O é que isso!?)"
+        ],
+        "38": [
+            "(Eu acredito que acabei de ver...",
+            "Algo que eu definitivamente não deveria ter visto…)"
+        ]
+  },
+  "PhilosophersFragment": {
+        "title": [
+            "Fragmento do Filósofo"
+        ],
+        "description50": [
+            "Um fragmento especial obtido da Besta Vermelha",
+            "Se vários fragmentos forem coletados",
+            "Pode ajudar a melhorar a condição de ${}"
+        ],
+        "description56": [
+            "Um fragmento especial obtido da coelha empregada",
+            "Se vários fragmentos forem coletados",
+            "Podem ajudar a melhorar a condição de ${}"
+        ]
+  },
+  "imoutoAhoge": {
+        "0": [
+            "Arranquei sem querer o ahoge da \\str[120]."
+        ],
+        "1": [
+            "Ela não pareceu notar nada de estranho, ",
+            "E ele cresceu de volta rapidamente.",
+            "...Será que isso pode ser algum tipo de recurso renovável?"
+        ],
+        "2": [
+            "\\n l< >\"...O que houve, \\str[121]?\"",
+            "Você está com uma cara bem séria.\""
+        ],
+        "3": [
+            "Como parece complicado, ",
+            "é melhor eu não pensar muito sobre isso."
+        ],
+        "4": [
+            "Melhor não tocar nisso de novo..."
+        ],
+        "5": [
+            "\\nl< >\"...Minha cabeça está coçando um pouco. \\w[30]",
+            "Você fez alguma coisa, \\str[121]?\""
+        ],
+        "6": [
+            "“E-eu não fiz nada… Juro mesmo!”"
+        ]
+  },
+  "cookingSystem": {
+        "0": [
+            "\\ii[\\v[\\v[85]]] está pronto. O que devo fazer?"
+        ],
+        "1": [
+            "Trocar Isso",
+            "Remover isso"
+        ],
+        "2": [
+            "Ainda coletando ingredientes!!"
+        ]
+  },
+  "inventoryExpansion": {
+        "0": [
+            "Parece que usar isso \\ii[312]",
+            "Pode expandir a capacidade da bolsa..."
+        ],
+        "1": [
+            "Expandir espaços para armas",
+            "Expandir espaços para equipamentos",
+            "Deixa para lá"
+        ],
+        "2": [
+            "A quantidade de \\ii[312]",
+            "Parece insuficiente..."
+        ]
+  },
+  "loadingEasterEgg": {
+        "0": [
+            "\\nl< >\"Carne de hambúrguer é a comida mais deliciosa.\"  \\w[180] \\^"
+        ],
+        "1": [
+            "\\nl< >\"\\str[121] com certeza vai trazer ",
+            "Uma montanha de carne para sua \\str[120]...\"   \\w[360] \\^"
+        ],
+        "2": [
+            "Minha imouto parece estar falando alguma coisa..."
+        ],
+        "3": [
+            "\\nl< >\"Mas pimentas-verdes são o verdadeiro inimigo.   \\w[120]",
+            "\\str[121], Você tem que comer tudo…       \\w[120]",
+            "Vá e derrote o inimigo verde~!\"               \\w[120]\\^"
+        ],
+        "4": [
+            "\\nl< >\"Ah? você acordou…     \\w[60]",
+            "\\str[121], Você dormiu bem?\""
+        ],
+        "5": [
+            "\"Não muito… A propósito, ",
+            "tenho ouvido uns sons estranhos ",
+            "já faz um tempinho…\""
+        ],
+        "6": [
+            "\\nl< >\"Eh hehe, foi por causa    \\w[60]",
+            "ajuda especial para dormir, só para você, \\str[121]!\""
+        ],
+        "7": [
+            "\\nl< >\"Minha imouto é tão fofa...               \\w[120]",
+            "Ela é a minha garota favorita em todo o mundo...  \\w[210]",
+            "Minha imouto é————                              \\w[150]\\^"
+        ],
+        "8": [
+            "Minha irmã parece estar falando alguma coisa..."
+        ],
+        "9": [
+            "\\nl< >\"Ah, \\str[121]! Boa noite—!\""
+        ],
+        "10": [
+            "\\nl< >\"Hum... Você ouviu o que falei?\""
+        ],
+        "11": [
+            "\\nl< >\"\\str[121], o seu rostinho enquanto dormia ",
+            "estava tão engraçado agora a pouco~\""
+        ],
+        "12": [
+            "\\nl< >\"É raro ver você cochilando~\""
+        ]
+  },
+  "rubberDuck": {
+        "0": [
+            "Um patinho de borracha solitário ",
+            "flutua sob a água..."
+        ],
+        "1": [
+            "Pegar",
+            "Deixar no lugar"
+        ],
+        "2": [
+            "Será que alguém jogou aqui?",
+            "Parece meio triste, né…"
+        ],
+        "3": [
+            "Parando pra pensar…",
+            "Eu fui levado pela correnteza abaixo também..."
+        ],
+        "4": [
+            "Se eu levá-lo para casa...",
+            "Será que minha imouto ficará feliz?"
+        ],
+        "5": [
+            "Mas está meio sujo,",
+            "talvez eu deva deixá-lo aí..."
+        ]
+  },
+  "drowning": {
+        "0": [
+            "Ahhh... essa foi por pouco... ",
+            "Eu escorreguei na beira do rio e quase me afoguei!"
+        ]
+  },
+  "mecha": {
+        "0": [
+            "Um estranho mech, coberto por uma grossa camada de poeira, está aqui...",
+            "Não responde mesmo quando tocado."
+        ],
+        "1": [
+            "Hã...?",
+            "Algo está aqui?"
+        ],
+        "2": [
+            "Uma parte caída?",
+            "Parece que ainda pode estar ativado..."
+        ]
+  },
+  "erohon": {
+        "0": [
+            "(Deve haver pessoas ou monstros por perto...",
+            "melhor eu não pegar esse livro.)"
+        ]
+  },
+  "ninja": {
+        "0": [
+            "Não acredito que tem uma sala secreta em um lugar como este.",
+            "Quem poderia ter construído…?"
+        ],
+        "1": [
+            "Oopa…!?",
+            "Tem até uma garota desmaiada aqui…"
+        ],
+        "2": [
+            "Pensando bem, eu ouvi uns barulhos estrondosos esquisitos…",
+            "Foi o estômago dela que fez esses barulhos…?"
+        ],
+        "3": [
+            "Ugh…",
+            "Que fome…"
+        ],
+        "4": [
+            "…………",
+            "Ela está tão faminta que quase ficou inconsciente…?"
+        ],
+        "5": [
+            "Tm uma fogueira aqui, perfeito.",
+            "Vou cozinhar algo para ela comer!"
+        ],
+        "6": [
+            "Devo usar somente \\ii[\\v[90]]     ",
+            "e preparar algo simples?"
+        ],
+        "7": [
+            "Vamos Nessa!",
+            "Deixa para Lá."
+        ],
+        "8": [
+            "Hmm… Talvez eu deva trocar por",
+            "ingredientes melhores…"
+        ],
+        "9": [
+            "Ei~ Eu fiz um pouco de comida quente para você!",
+            "Você acha que consegue comer?"
+        ],
+        "10": [
+            "Sniff Sniff… sniff Sniff…",
+            "Esse cheiro… É comida?"
+        ],
+        "11": [
+            "O cheiro de comida!!"
+        ],
+        "12": [
+            "\\{Maravilha, vou devorar!!"
+        ],
+        "13": [
+            "Você… ora, sua…",
+            "Eu que fiz, sabe…"
+        ],
+        "14": [
+            "(Ela terminou em apenas algumas mordidas…",
+            "Ela realmente deve estar faminta…)"
+        ],
+        "15": [
+            "Munch munch… Você realmente me salvou!",
+            "Não como há dias… munch munch…"
+        ],
+        "16": [
+            "Pensei que estava me transformando em um fantasma faminto",
+            "que assombraria este calabouço… Grrr…"
+        ],
+        "17": [
+            "Ei… coma um pouco mais devagar… a propósito,",
+            "por que você está sozinha em um lugar como este?"
+        ],
+        "18": [
+            "Ah! Então—!",
+            "Eu estava trabalhando seriamente em minha missão, ok!"
+        ],
+        "19": [
+            "Eu queria procurar pelo tesouro escondido nesta área,",
+            "então escavei uma sala secreta em um lugar isolado!"
+        ],
+        "20": [
+            "Mas então… munch munch.",
+            "Depois que entrei, a entrada ficou bloqueada por uma pedra!"
+        ],
+        "21": [
+            "Ugh, eu não esperava isso,",
+            "então minhas rações acabaram muito rápido… e aí…"
+        ],
+        "22": [
+            "Um ninja se deparando com uma confusão dessas…",
+            "Não consigo encarar a organização agora…"
+        ],
+        "23": [
+            "Hã… Hã? Mas por que você até",
+            "escavou uma sala secreta, em primeiro lugar…"
+        ],
+        "24": [
+            "Porque esse tesouro nem sempre aparece,",
+            "Então tive que estar pronto para uma longa estadia… munch munch."
+        ],
+        "25": [
+            "Além disso, não posso deixar ninguém saber disso,",
+            "esta é uma missão super secreta diretamente do chefe!"
+        ],
+        "26": [
+            "Se mais alguém descobrir…",
+            "o que você acha que irá acontecer…"
+        ],
+        "27": [
+            "Claro, eu teria que cuidar deles silenciosamente…",
+            "caso contrário, eu seria um pésssimo ninja… munch munch."
+        ],
+        "28": [
+            "…Espere, o quê?",
+            "Acabei de vazar informação!"
+        ],
+        "29": [
+            "Hum… Eu prometo que não direi nada…",
+            "então, uh…"
+        ],
+        "30": [
+            "…Hã!?"
+        ],
+        "31": [
+            "Não consigo acreditar que eu estraguei tudo de novo…",
+            "Ugh… mesmo que você me tenha salvo…"
+        ],
+        "32": [
+            "E-espere um pouco!",
+            "Você vai me matar só por isso!?"
+        ],
+        "33": [
+            "É isso o que significa ser um ninja…",
+            "Você tem que lutar para sobreviver…"
+        ],
+        "34": [
+            "Quero dizer, eu também não quero te machucar,",
+            "mas ainda lhe devo uma refeição…"
+        ],
+        "35": [
+            "S-se é assim —",
+            "\\^"
+        ],
+        "36": [
+            "Então, só há uma resposta —",
+            "Você tem que se tornar um ninja também!"
+        ],
+        "37": [
+            "Se você se juntar ao nosso grupo,",
+            "Não há razão para lutarmos um contra o outro!"
+        ],
+        "38": [
+            "E-Espere um segundo!",
+            "Eu realmente não tenho uma escolha aqui, não é!?"
+        ],
+        "39": [
+            "Está tudo bem,",
+            "Eu serei gentil…"
+        ],
+        "40": [
+            "…Quê!?",
+            "Fique longe de mim!!"
+        ],
+        "41": [
+            "Você realmente tem talento para este lance de ninja…!",
+            "Você aprendeu tudo apenas com um pouco de prática!"
+        ],
+        "42": [
+            "Agora,",
+            "você também é um de nós!"
+        ],
+        "43": [
+            "Mas terei de esperar até que minha missão esteja concluída",
+            "antes que eu possa te apresentar ao chefe!"
+        ],
+        "44": [
+            "Nesse momento,",
+            "Nada mais importa…"
+        ]
+  }
+}

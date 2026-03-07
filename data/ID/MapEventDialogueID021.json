@@ -1,0 +1,117 @@
+﻿{
+  "1": {
+    "0": [
+      "Mmm, sepertinya aku tidak bisa tidur..."
+    ],
+    "1": [
+      "Perutku sakit... Apa itu gangguan pencernaan?",
+      "Mungkin makan malam itu terlalu banyak..."
+    ],
+    "2": [
+      "Ah, aku tiba-tiba terbangun...!"
+    ],
+    "3": [
+      "Ini masih tengah malam.",
+      "Saya bisa tidur lebih lama...\\w[30].\\w[30].\\w[30].",
+      "Haruskah aku memeriksa adikku?"
+    ],
+    "4": [
+      "Ke Kamar \\str[120]",
+      "Tidurlah"
+    ],
+    "5": [
+      "Hanya akan tidur sampai pagi...?"
+    ],
+    "6": [
+      "Tidur",
+      "Tunggu"
+    ],
+    "7": [
+      "Ahhhhhhhhhhhh - !!?"
+    ],
+    "8": [
+      "A-Apa? Ah, itu hanya mimpi buruk..."
+    ],
+    "9": [
+      "Itu membuatku sangat takut...",
+      "Saya rasa saya melihat versi \\str[120] yang sangat menakutkan."
+    ],
+    "10": [
+      "…Saya harus memeriksa \\str[120].",
+      "Bagaimana jika mimpi itu—"
+    ],
+    "11": [
+      "Ya, mimpi itu sangat menakutkan...",
+      "Lebih baik istirahat lebih awal..."
+    ]
+  },
+  "2": {
+    "0": [
+      "\\c[10]—Permintaan pembaruan data terdeteksi dari versi \\str[1].  \\w[60]",
+      "Apakah Anda ingin melakukan pembaruan otomatis sekarang?"
+    ],
+    "1": [
+      "Mulai Pembaruan",
+      "Sudahlah"
+    ],
+    "2": [
+      "...Apakah ini sudah pagi?",
+      "Aku merasa seperti sedang bermimpi",
+      "adik kecilku,",
+      "tapi aku tidak dapat mengingatnya..."
+    ],
+    "3": [
+      "...Apakah ini sudah pagi?",
+      "Aku tidak merasa tidurku nyenyak..."
+    ],
+    "4": [
+      "Ah, apakah ini sudah pagi? Saya tidur nyenyak."
+    ],
+    "5": [
+      "Hari ini menyenangkan...\\w[45]ya?",
+      "Terasa sinar matahari terlalu terik?"
+    ],
+    "6": [
+      "Ini hari yang menyenangkan hari ini."
+    ],
+    "7": [
+      "Cuacanya tidak terlihat bagus hari ini."
+    ],
+    "8": [
+      "Apakah sedang hujan?",
+      "Saya harap itu tidak akan mempengaruhi petualangan kita..."
+    ],
+    "9": [
+      "Sudah beberapa hari tidak memeriksa adikku…",
+      "Sepertinya aku harus mampir hari ini."
+    ],
+    "10": [
+      "Baiklah, aku bangun. Apa rencananya hari ini—"
+    ],
+    "11": [
+      "Ke Kamar \\str[120]",
+      "Keluar Sekarang"
+    ],
+    "12": [
+      "Oke, mari kita periksa \\str[120]!"
+    ],
+    "13": [
+      "Oke, waktunya membereskan semuanya",
+      "dan pergi berpetualang!"
+    ]
+  },
+  "4": {
+    "0": [
+      "...Hah!?\\w[60]...Tunggu, \\w[60]",
+      "apakah ini sudah pagi...?"
+    ],
+    "1": [
+      "Kepalaku terasa pusing...",
+      "Apa aku baru saja tertidur seperti itu tadi malam...?"
+    ],
+    "2": [
+      "Saya tidak ingat apa yang terjadi tadi malam... \\w[90]",
+      "Oh baiklah, aku mungkin terlalu kelelahan."
+    ]
+  }
+}

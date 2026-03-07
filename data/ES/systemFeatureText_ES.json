@@ -1,0 +1,184 @@
+{ 
+  "gameTitle": [ 
+    "Una vida sencilla con mi chica discreta " 
+  ], 
+  "goldHeld": [ 
+    "Oro" 
+  ], 
+  "quantityHeld": [ 
+    "\\fs[16]•Cantidad retenida:\\c[17] ${} \\c[0]\\py[-8]" 
+  ], 
+  "autoUpdate": [ 
+    "Actualización disponible: Se detectaron datos del juego de la versión ${}. ", 
+    "¿Quieres descargar y actualizar ahora?" 
+  ], 
+  "fullScreen": [ 
+    "Pantalla completa" 
+  ], 
+  "masterVolume": [ 
+    "Volumen maestro" 
+  ], 
+  "voiceVolume": [ 
+    "Volumen de voz" 
+  ],     
+  "BgmVolume": [ 
+    "Volumen de música de fondo" 
+  ], 
+  "BgsVolume": [ 
+    "Volumen de música de fondo" 
+  ], 
+  "SeVolume": [ 
+    "Volumen de SE" 
+  ], 
+  "MaxPlayerMsgs": [ 
+    "Mensajes máximos del jugador" 
+  ], 
+  "GameFAQ": [ 
+    "Guía del juego" 
+  ], 
+  "ShowWeaponDurability": [ 
+    "Mostrar durabilidad del arma" 
+  ], 
+  "DisableAutoUpdate": [ 
+    "Deshabilitar actualización automática" 
+  ], 
+  "LockedFPS": [ 
+    "60 FPS bloqueados" 
+  ], 
+  "Language": [ 
+    "Idioma del juego" 
+  ], 
+  "SwitchLanguage": [ 
+    "¡Cambio de idioma del juego detectado!", 
+    "¡Reiniciando ahora para aplicar la nueva configuración de idioma!" 
+  ], 
+  "ErrorReport": [ 
+    "Se ha producido un error. Por favor, informe del error en el servidor de Discord de NLCH.", 
+    "(Haga clic en <Aceptar> para abrir el enlace de invitación)", 
+    "(Adjunte una captura de pantalla del error)" 
+  ], 
+  "UpdateComplete1": [ 
+    "¡Actualización del juego completada!", 
+    "El juego se reiniciará automáticamente después de cerrar esta ventana.", 
+    "¡Puedes cargar el guardado automático para reanudar el progreso!" 
+  ], 
+  "UpdateComplete2": [ 
+    "¡Actualización del juego completada!", 
+    "¡El juego se reiniciará en breve para aplicar la actualización!" 
+  ], 
+  "RemindToUpdate": [ 
+    "Se ha producido un error y el juego está congelado.", 
+    "Hay un parche más reciente disponible—", 
+    "¡Utilice la actualización automática para solucionar el problema!" 
+  ],
+  "bagFull": [ 
+    "¡Límite de inventario excedido!" 
+  ], 
+  "noStatusEffects": [ 
+    "¡Sin efectos de estado!" 
+  ], 
+  "unimplementedDoor": [ 
+    "Esta puerta no se abre desde este lado" 
+  ], 
+  "zipUpdateComplete": [ 
+    "Parche instalado correctamente. ",
+	"¡Reiniciando el juego para aplicar la actualización!" 
+  ], 
+  "zipUpdateFail": [ 
+    "¡Error al extraer e instalar el parche!", 
+    "Por favor, intenta la actualización automática de nuevo o", 
+    "extrae manualmente los archivos del parche para instalarlo!" 
+  ], 
+  "fileDownloadedSuccessfully": [ 
+    "¡${} se descargó correctamente!" 
+  ], 
+  "fileDownloadFailed": [ 
+    "¡${} no se pudo descargar! ¡Intentando de nuevo!" 
+  ], 
+  "installPatch": [ 
+    "El parche requiere extracción; se está instalando. Esto puede causar que el juego se ralentice, ¡ten paciencia! " 
+  ], 
+  "totalFilesToUpdate": [ 
+    "¡Se detectaron ${} archivos para actualizar; se está iniciando la descarga!" 
+  ], 
+  "renameCharacter": [ 
+    "Ahora lo recuerdo—", 
+	"ella es..." 
+  ], 
+  "heroName": [ 
+    "Onii-chan" 
+  ], 
+  "heroineName": [ 
+    "Imouto" 
+  ],   
+  "nonHardwareAccelerated": [ 
+    "¡El juego se está ejecutando con gráficos integrados!", 
+	"Si tu PC tiene una GPU dedicada, te recomendamos configurar Game.exe", 
+	"para usarlo en el panel de control de gráficos y disfrutar de una experiencia de juego más fluida." 
+  ],   
+  "isAmdCPU": [ 
+    "Tu CPU se detecta como un procesador AMD.", 
+	"Algunos chips AMD pueden experimentar caídas de fotogramas al reproducir vídeos VP9 (WebM)", 
+	"en un entorno Chromium. Si te encuentras con este problema, intenta forzar el juego para que ",
+	"use el renderizado de la GPU o actualiza los controladores para solucionar el problema." 
+  ],   
+  "failedToLoad": [ 
+    "Este tipo de problema puede deberse a:", 
+    "① Archivos del juego dañados o nombres de archivo ilegibles debido a problemas de codificación durante la extracción/instalación.", 
+    "② El desarrollador olvidó incluir el archivo; espera una actualización del parche para solucionarlo." 
+  ], 
+  "LowResMode": [ 
+    "Modo de gráficos bajos" 
+  ],     
+  "lowResModeWarning": [ 
+    "Esta función es principalmente para optimizar el rendimiento en dispositivos Android y puede tener poco efecto en la versión para PC.", 
+	"Cuando está habilitada, el juego renderiza mapas e imágenes a una resolución más baja y luego los amplía,", 
+	"reduciendo la carga de la GPU en dispositivos móviles y disminuyendo la generación de calor y el consumo de energía.", 
+	"Nota: Esta es una función experimental. y su efectividad puede variar según el dispositivo.", 
+	"Puedes desactivar esta función en cualquier momento para restaurar inmediatamente la claridad total de la imagen." 
+  ], 
+  "nearbyMonstersCount": [ 
+    "Monstruos cercanos detectados" 
+  ], 
+  "nearbyTreasuresCount": [
+    "Tesoros cercanos detectados" 
+  ], 
+  "underwaterTreasuresCount": [ 
+    "Tesoros submarinos detectados" 
+  ], 
+  "steamWishlist": [ 
+    "¡Nuestra página de la tienda de Steam finalmente está activa!", 
+	"¡Por favor, agréganos a tu lista de deseos y apóyanos! (*´∀`)~♥", 
+	"⬇Haz clic a continuación para abrir la página de Steam." 
+  ], 
+  "AdventurersPathway": { 
+    "mapName": " -Sendero del Aventurero- " 
+  }, 
+  "ShallowRuinsLabyrinth": { 
+    "mapName": " -Laberinto de Ruinas Superficiales- " 
+  }, 
+  "ForgottenCatacombe": { 
+    "mapName": " -Catacumba Olvidada- " 
+  }, 
+  "ForestofRuins": { 
+    "mapName": " -Bosque de Ruinas- " 
+  }, 
+  "AbandonedForest": { 
+    "mapName": " -Bosque Abandonado- " 
+  }, 
+  "ExcavationSite": { 
+    "mapName": " -Sitio de Excavación- " 
+  }, 
+  "TheFallenChurch": { 
+    "mapName": " -La Iglesia Caída- " 
+  }, 
+  "DoorofStar": { 
+    "mapName": " -Puerta de la Estrella- " 
+  }, 
+  "ScorchingLavaZone": { 
+    "mapName": " -Zona de Lava Abrasadora- " 
+  }, 
+  "Nibelungen": { 
+    "mapName": " -Nibelungos- " 
+  }       
+}

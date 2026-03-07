@@ -1,0 +1,1316 @@
+{
+    "1": {
+        "name": [
+            "Anvil"
+        ],
+        "subtitle": "",
+        "description": [
+            "A heavy anvil from a blacksmith’s workshop, somehow carried ",
+            "around as equipment. Its hardness and weight make it perfect for",
+			"sharpening weapons, though it may be tough for the inexperienced..."
+        ],
+        "ability": [
+            "Senpo changes to pulling out the anvil to repair weapons",
+			"Cannot repair magic weapons or golden-quality weapons"
+        ]
+    },
+    "2": {
+        "name": [
+            "Jeweled Armament"
+        ],
+        "subtitle": "",
+        "description": [
+            "Minerals slumbering underground are good alchemical media",
+            "This dagger-shaped magitech device channels the power of precious ",
+            "gems, but its costly use led most alchemists to abandon it…"
+        ],
+        "ability": [
+            "Randomly consumes a gem on attack to charge and enhance damage",
+			"The more precious the gem, the greater the added magic damage"
+        ]
+    },		
+    "3": {
+        "name": [
+            "Odd Hair Accessory"
+        ],
+        "subtitle": "",
+        "description": [
+            "A hair accessory adorned with an unusual ornament",
+            "Is it a rabbit… or a bun…?"
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "5": {
+        "name": [
+            "Safety Gloves"
+        ],
+        "subtitle": "",
+        "description": [
+            "Protective gloves made from insulating materials, ",
+			"originally used by workers as everyday safety gear. Surprisingly, ",
+            "they also provide strong resistance against magical attacks..."
+        ],
+        "ability": [
+            "Greatly reduces the effect of lightning when equipped"
+        ]
+    },
+    "6": {
+        "name": [
+            "Birth of Misfortune"
+        ],
+        "subtitle": "",
+        "description": [
+            "Parasitized by a Philosopher Stone, a weak creature was forcibly",
+            "infused with endless vitality, endlessly cycling between life and",
+            "death until madness took over. Even removed, this power remains"
+        ],
+        "ability": [
+            "Increases HP. Enhances HP recovery effects by 25%",
+            "Grants automatic regeneration when equipped"
+        ]
+    },
+    "7": {
+        "name": [
+            "Cursed Fetus"
+        ],
+        "subtitle": "",
+        "description": [
+            "An undeveloped cursed fetus that, despite everything,",
+            "remains alive.Its intense will to survive and overflowing",
+            "vitality can even influence its bearer"
+        ],
+        "ability": [
+            "Increases HP. Enhances HP recovery effects by 20%"
+        ]
+    },
+    "8": {
+        "name": [
+            "Mana Crystal Cluster"
+        ],
+        "subtitle": "",
+        "description": [
+            "A mineral shaped by the Great Labyrinth, containing trace mana",
+            "Carrying it enhances magical understanding"
+        ],
+        "ability": [
+            "Equipping it boosts casting speed and magic power",
+			"Magical weapons’ attacks deal an extra 5% magic damage"
+        ]
+    },
+    "9": {
+        "name": [
+            "Abyssal Mana Cluster"
+        ],
+        "subtitle": "",
+        "description": [
+            "A rare cluster infused with dense mana,",
+            "radiating palpable magical waves. Highly sought after by alchemists"
+        ],
+        "ability": [
+            "Equipping it boosts casting speed and magic power",
+			"Magical weapons’ attacks deal an extra 10% magic damage"
+        ]
+    },
+    "10": {
+        "name": [
+            "Focus Circlet"
+        ],
+        "subtitle": "",
+        "description": [
+            "A circlet worn by the great sage during their youth as an",
+            "adventurer. It helps focus the mind and blocks external distractions"
+        ],
+        "ability": [
+            "Immune to Stun",
+            "Enhances magic power and casting scale"
+        ]
+    },
+    "11": {
+        "name": [
+            "Mana Draining Gloves"
+        ],
+        "subtitle": "",
+        "description": [
+            "Gloves worn by the great sage during their youth as",
+            "an adventurer. They gather mana naturally,",
+            "imbuing weapons with magical properties"
+        ],
+        "ability": [
+            "When equipped, the held weapon transforms into a magical weapon",
+			"Magical weapons’ attacks deal an extra 30% magic damage"
+        ]
+    },
+    "12": {
+        "name": [
+            "Borrowed Neko Claws"
+        ],
+        "subtitle": [
+            " \"...Meow~?\""		
+		],
+        "description": [
+            "Neko claws hidden inside a Neko Slime, seemingly infused",
+            "with a cat’s spirit. Equipping them boosts your agility!"
+        ],
+        "ability": [
+            "Increases attack power and attack speed"
+        ]
+    },
+    "13": {
+        "name": [
+            "Borrowed Neko Paws"
+        ],
+        "subtitle": [
+            " \"...Meow~?\""	
+		],
+        "description": [
+            "Neko paws hidden inside a Neko Slime, seemingly infused",
+            "with a cat’s spirit. Equipping them boosts your agility!"
+        ],
+        "ability": [
+            "Increases attack and movement speed, reduces Senpo cooldown"
+        ]
+    },
+    "14": {
+        "name": [
+            "Fragrant Grass Ring"
+        ],
+        "subtitle": "",
+        "description": [
+            "A ring woven from leaves and rhizomes, emitting a herbal scent",
+            "Once a charm for travelers, it symbolizes vitality and energy"
+        ],
+        "ability": [
+            "Max HP +\\c[29]${QJ.MPMZ.tl.ex_fragrantGrassRingEffectResolve()}\\c[0]",
+            "Wearing multiple of this gear enhances its effect"
+        ]
+    },
+    "15": {
+        "name": [
+            "Neko Plush Suit"
+        ],
+        "subtitle": "",
+        "description": [
+            "A soft and cuddly cat plush costume — fluffy and oversized",
+            "Its roomy design wraps you up and even hides extra goodies~"
+        ],
+        "ability": [
+            "Extra carry capacity for weapons +10",
+            "Extra carry capacity for gears +20"
+        ]
+    },
+    "16": {
+        "name": [
+            "Piercing Spike Helmet"
+        ],
+        "subtitle": "",
+        "description": [
+            "A spiked metal armor exuding danger from every angle,",
+            "offering solid defense and automatically damaging nearby enemies"
+        ],
+        "ability": [
+            "Automatically damages nearby enemies"
+        ]
+    },
+    "17": {
+        "name": [
+            "Piercing Spike Armour"
+        ],
+        "subtitle": "",
+        "description": [
+            "A spiked metal armor exuding danger from every angle,",
+            "offering solid defense and automatically damaging nearby enemies"
+        ],
+        "ability": [
+            "Automatically damages nearby enemies"
+        ]
+    },
+    "18": {
+        "name": [
+            "Piercing Spike Gauntlets"
+        ],
+        "subtitle": "",
+        "description": [
+            "A spiked metal armor exuding danger from every angle,",
+            "offering solid defense and automatically damaging nearby enemies"
+        ],
+        "ability": [
+            "Automatically damages nearby enemies when attacking"
+        ]
+    },
+    "19": {
+        "name": [
+            "Piercing Spike Boots"
+        ],
+        "subtitle": "",
+        "description": [
+            "A spiked metal armor exuding danger from every angle,",
+            "offering solid defense and automatically damaging nearby enemies"
+        ],
+        "ability": [
+            "Automatically damages nearby enemies when moving"
+        ]
+    },
+    "20": {
+        "name": [
+            "Knight's Helmet"
+        ],
+        "subtitle": "",
+        "description": [
+            "The standard armor of court knights. Its ornate and sturdy design",
+            "symbolizes their adherence to the chivalric code"
+        ],
+        "ability": [
+            "Increases defense when HP is below \\c[10]30%\\c[0]"
+        ]
+    },
+    "21": {
+        "name": [
+            "Knight's Armour"
+        ],
+        "subtitle": "",
+        "description": [
+            "The standard armor of court knights. Its ornate and sturdy design",
+            "symbolizes their adherence to the chivalric code"
+        ],
+        "ability": [
+            "Increases defense when HP is below \\c[10]30%\\c[0]"
+        ]
+    },
+    "22": {
+        "name": [
+            "Knight's Gauntlets"
+        ],
+        "subtitle": "",
+        "description": [
+            "The standard armor of court knights. Its ornate and sturdy design",
+            "symbolizes their adherence to the chivalric code"
+        ],
+        "ability": [
+            "Increases attack and defense when HP is below \\c[10]30%\\c[0]"
+        ]
+    },
+    "23": {
+        "name": [
+            "Knight's Greaves"
+        ],
+        "subtitle": "",
+        "description": [
+            "The standard armor of court knights. Its ornate and sturdy design",
+            "symbolizes their adherence to the chivalric code"
+        ],
+        "ability": [
+            "Increases movement speed when HP is below \\c[10]30%\\c[0]"
+        ]
+    },
+    "24": {
+        "name": [
+            "Hunter’s Garb"
+        ],
+        "subtitle": "",
+        "description": [
+            "Stitched from thick hide and tough linen, it was once the everyday ",
+			"gear of forest hunters. Though defense is limited, it’s light and ",
+            "flexible, letting the wearer move quickly through the woods"
+        ],
+        "ability": [
+            "Slowly regenerates HP when standing on grassy terrain"
+        ]
+    },
+    "25": {
+        "name": [
+            "Hunter’s Belt"
+        ],
+        "subtitle": "",
+        "description": [
+            "Crafted from sturdy leather and adorned with durable buckles",
+            "and pouches. Once essential for forest hunters on their journeys, ",
+			"it remains light and unburdensome even during long treks"
+        ],
+        "ability": [
+		    "Max HP +20, movement speed increased",
+            "Extra carry capacity for weapons +5, for gear +5"
+        ]
+    },	
+    "26": {
+        "name": [
+            "Feather of Firebird"
+		],
+		"subtitle": [
+		    ""
+		],
+        "description": [
+            "A Firebird feather.",
+			"symbolizing eternal life, still burning with a warm flame.",
+			"Even a single feather holds the power to revive the dead."
+		],
+        "ability": [
+            "Activates when HP drops to zero, fully restores HP",
+			"The item is destroyed after activation"
+		]
+    },
+    "27": {
+        "name": [
+            "Toilet Paper"
+        ],
+        "subtitle": "",
+        "description": [
+            "A Toilet Paper take from Home",
+            "A handy item for adventurers who suddenly need",
+            "a toilet break in a dangerous dungeon"
+        ],
+        "ability": [
+            "Reduces Bleed damage taken by \\c[10]30%\\c[0]"
+        ]
+    },
+    "28": {
+        "name": [
+            "Oni Hand"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "A massive arm brimming with the brute strength of the Oni clan",
+			"It symbolizes a power so fierce it can easily crush solid rock",
+			"For humans, it is a force far too difficult to control"
+        ],
+        "ability": [
+            "Physical attack power +100%. Attack speed decreases",
+            "Weapons are more likely to break during attacks"
+        ]
+    },
+    "29": {
+        "name": [
+            "Saucy Jacky"
+        ],
+        "subtitle": [
+            "\"This one craves screams...\""		
+		],
+        "description": [
+            "One of the deadly weapons of a notorious killer,",
+            "still twitching with anticipation"
+        ],
+        "ability": [
+            "Deals more damage to lower HP foes, up to \\c[10]30%\\c[0]"
+        ]
+    },
+    "30": {
+        "name": [
+            "Hunter's Dagger"
+        ],
+        "subtitle": [
+            "\"Death from the muzzle, fortune from the blade\""
+        ],
+        "description": [
+            "A small, sharp dagger that fits easily in a boot",
+			"To a hunter, it always draws out the prey’s final offering"
+        ],
+        "ability": [
+            "Increases chances of meat drops"
+        ]
+    },
+    "31": {
+        "name": [
+            "Misty Night Phantom"
+        ],
+        "subtitle": [
+            "\"This one longs to vanish...\""
+        ],
+        "description": [
+            "One of the deadly tools of a notorious murderer,",
+			"crafted to conceal its presence"
+        ],
+        "ability": [
+            "Periodically enters an invisible state",
+			"Assassinations while invisible deal double damage"
+        ]
+    },
+    "32": {
+        "name": [
+            "Neko Punch"
+        ],
+        "subtitle": "",
+        "description": [
+            "\"Hyaa—!! Don’t mess with me nya!\"",
+            "Soft-padded cat paw gloves, the prized weapon of a certain catgirl",
+            "Wearing them grants feline agility—and a craving for fish…"
+        ],
+        "ability": [
+            "Attack speed increased. Extra attack hits +1",
+            "Chance of extra attack hits triggering special effects is halved"
+        ]
+    },
+    "33": {
+        "name": [
+            "Apple Headgear"
+        ],
+        "subtitle": "",
+        "description": [
+            "A headgear made from apples, so you can't",
+            "really expect any defense. But the apples are so delicious"
+        ],
+        "ability": [
+            "There’s a chance to activate healing when injured"
+        ]
+    },
+    "34": {
+        "name": [
+            "Sharpblade Ring"
+        ],
+        "subtitle": "",
+        "description": [
+            "Legend says an adventurer, too afraid of fighting barehanded, ",
+            "embedded a sword into a ring. It’s far too small to use, ",
+			"but it sure boosts one’s presence"
+        ],
+        "ability": [
+            "Physical attack power +15%"
+        ]
+    },
+    "35": {
+        "name": [
+            "Wakizashi"
+        ],
+        "subtitle": "",
+        "description": [
+            "A finely crafted short blade, often carried by foreign samurai ",
+			"as a sidearm. Though short, its edge can tear flesh wide open,",
+			"leaving wounds that won’t easily stop bleeding"
+        ],
+        "ability": [
+            "Normal attack count with melee weapons +1",
+			"Extra attack has a chance to inflict Bleed"
+        ]
+    },
+    "36": {
+        "name": [
+            "Maneki Neko"
+        ],
+        "subtitle": "",
+        "description": [
+            "A greedy little Servant with a perpetually unsatisfied look",
+            "It eagerly gathers all dropped items, regardless of their value"
+        ],
+        "ability": [
+            "Maneki Neko automatically collects all types of drops for you",
+            "Equipping multiple will only increase the collection range"
+        ]
+    },
+    "37": {
+        "name": [
+            " Piggy Bank"
+        ],
+        "subtitle": "",
+        "description": [
+            "A cute Servant that stores collected money",
+            "Something might happen when full, but for now, it's just fragile"
+        ],
+        "ability": [
+            "Happily collects money. Current savings: \\c[6]${$gameSelfVariables.value([1, 110, 'deposit'])}\\c[0]yen!",
+            "Easily breaks when attacked, losing all stored money"
+        ]
+    },
+    "38": {
+        "name": [
+            " Greedy Piggy Bank"
+        ],
+        "subtitle": "",
+        "description": [
+            "A piggy bank overflowing with wealth, a dream come true",
+            "Yet, even with a belly full of gold, its greed knows no bounds"
+        ],
+        "ability": [
+            "Emits Mamon’s Demand aura. Current savings: \\c[6]${$gameSelfVariables.value([1, 110, 'deposit'])}\\c[0]yen!",
+            "Collects money endlessly, spitting out interest every 10 seconds"
+        ]
+    },
+    "39": {
+        "name": [
+            "Green Turtle Shell"
+        ],
+        "subtitle": "",
+        "description": [
+            "A tough and heavy turtle shell",
+            "Carrying it on land makes it impossible to lift your feet…!"
+        ],
+        "ability": [
+            "Slows movement speed, but increases swimming speed"
+        ]
+    },
+    "40": {
+        "name": [
+            "Maid Uniform"
+        ],
+        "subtitle": "",
+        "description": [
+            "A trophy obtained after teaching a lesson to the mischievous",
+            "rabbit-eared girl. It still carries the scent of dirt and carrots"
+        ],
+        "ability": [
+            "When equipped, disguises as a monster but cannot attack",
+            "Equipping it makes you best friends with Maid Bunny"
+        ]
+    },
+    "41": {
+        "name": [
+            "Moe Bunny Ears"
+        ],
+        "subtitle": "",
+        "description": [
+            "A detachable bunny ear accessory",
+            "No matter who wears it, they’ll look absolutely adorable!"
+        ],
+        "ability": [
+            "Blessed with luck! Items are more likely to drop!"
+        ]
+    },
+    "42": {
+        "name": [
+            "Bomb Fiend's Soul"
+        ],
+        "subtitle": [
+            "\"Explo————sion!!\""		
+		],
+        "description": [
+            "A will that sacrificed everything for explosions",
+            "Now that you bear it, won’t you strive for even bigger blasts?"
+        ],
+        "ability": [
+            "Small chance to trigger an explosion when attacking or hit",
+            "Reduce self-taken explosion damage by 50%"
+        ]
+    },
+    "43": {
+        "name": [
+            "Bladekeepers’ Badge"
+        ],
+        "subtitle": [
+		    "\"You adventurers make me sick!",
+			"Swinging your blades only to kill, never caring about their pain!\""
+		],
+        "description": [
+            "A badge worn only by comrades who believe in weapon preservation"
+        ],
+        "ability": [
+            "Attack power -20%, max attack capped at 200",
+			"Reduces all weapon durability loss by 20%"
+        ]
+    },
+    "44": {
+        "name": [
+            "◉▽◉"
+        ],
+        "subtitle": [
+		    "\"The Sacabambaspis has seen it all before.\""
+		],
+        "description": [
+            "A legendary ancient Servant—though it’s a fish, it can’t swim",
+			"It has tough skin, and its special move is a Cyclone Jet Cannon!"
+        ],
+        "ability": [
+            "Can lift up the Saccabankame turtle and throw it as an attack",
+			"Once it falls into the water, it can’t get back out..."
+        ]
+    },
+    "45": {
+        "name": [
+            "Venomous Embrace"
+        ],
+        "subtitle": [
+            "\"This dagger's loaded with deadly poison, y'know— (lick\""		
+		],
+        "description": [
+            "A poisonous magical shortsword—keep your distance"
+        ],
+        "ability": [
+            "An auto-orbiting Servant",
+            "High chance to inflict Poison on contact"
+        ]
+    },
+    "46": {
+        "name": [
+            "Fist of Fury"
+        ],
+        "subtitle": [
+		    "\"Left hand hits hard, right hand hits harder.\""
+		],
+        "description": [
+            "A powerful magical fist",
+            "Seething with unknown rage, it remains tightly clenched…"
+        ],
+        "ability": [
+            "An auto-orbiting Servant",
+            "Knocks back any enemy it touches"
+        ]
+    },
+    "47": {
+        "name": [
+            "Xerise’s Cursed Hand"
+        ],
+        "subtitle": "",
+        "description": [
+            "A severed hand imbued with undead power",
+            "Even without a body, it remains lively and aggressive"
+        ],
+        "ability": [
+            "An auto-orbiting Servant",
+            "Curses any target it points its middle finger at"
+        ]
+    },
+    "48": {
+        "name": [
+            "Chain SpellBinding Contract"
+        ],
+        "subtitle": [
+            "\"When the one you love dies, you must take your own life.",
+			"When the one you love dies, there is no other way.\""
+        ],
+        "description": [
+            "To save his familiar, a certain alchemist forged this contract…"
+        ],
+        "ability": [
+            "Link with your servant—any damage they take will be yours",
+			"Each linked servant grants you a healing effect"
+        ]
+    },
+    "49": {
+        "name": [
+            "Red Horn"
+        ],
+        "subtitle": [
+            "\"Don't you ever stop！\""
+        ],
+        "description": [
+            "A crimson horn filled with the Jackalope’s magic",
+			"If magic could be supplied endlessly, it might keep accelerating ",
+			"until it became a comet streaking across the sky!"
+        ],
+        "ability": [
+            "When fully charged, Senpo has no cooldown and moves faster",
+			"Once the charge is depleted, it will auto-recharge"
+        ]
+    },
+    "50": {
+        "name": [
+            "Potato Chips"
+        ],
+        "subtitle": "",
+        "description": [
+            "Freshly fried with a warm,",
+            "savory aroma. Watch out for seagulls!"
+        ],
+        "ability": [
+            "Attracts seagulls that steal your chips"
+        ]
+    },
+    "52": {
+        "name": [
+            "Shadowcrawler Gift"
+        ],
+        "subtitle": "",
+        "description": [
+            "Said to be a symbol from the depths where shadows creep",
+            "holding it makes you feel as if something is ",
+			"quietly writhing behind you—"
+        ],
+        "ability": [
+            "Movement speed increases",
+			"Gain the attention of ▓▓▓▓▓▓▓"
+        ]
+    },
+    "53": {
+        "name": [
+            "Hanged Man's Bone Ring"
+        ],
+        "subtitle": "",
+        "description": [
+            "A ring made from the bones of the deceased Hanged Man",
+            "Though most of its power is lost,",
+            "it still grants the wearer a bit of freedom from gravity"
+        ],
+        "ability": [
+            "Reduces fall damage by 66%"
+        ]
+    },
+    "54": {
+        "name": [
+            "Incomplete Golden Grail"
+        ],
+        "subtitle": "",
+        "description": [
+            "A saint’s relic yet to be filled, it blesses the holder with",
+            "immense luck. The source of this blessing remains unknown,",
+            "as it quietly awaits the day it will be complete"
+        ],
+        "ability": [
+            "Greatly increases luck. Doubles money earned"
+        ]
+    },
+    "55": {
+        "name": [
+            "Arsonist’s Gloves"
+        ],
+        "subtitle": [
+            "\"Hah, Such filthy fireworks.\""		
+		],
+        "description": [
+            "Thick, heatproof gloves reeking of gunpowder"
+        ],
+        "ability": [
+            "+30% explosion radius for self-triggered bombs",
+            "Bombs have a chance to trigger chain explosions"
+        ]
+    },
+    "56": {
+        "name": [
+            "Saint Maiden’s Mercy"
+        ],
+        "subtitle": [
+            "\"Good child, good child...\""		
+		],
+        "description": [
+            "One of the nun's attires, silky smooth to the touch, unforgettable",
+            "Holy radiance flows through its fibers, offering comfort"
+        ],
+        "ability": [
+            "Forcibly enters Sage Mode",
+            "Gain more affinity when patting \\str[120]’s head"
+        ]
+    },
+    "57": {
+        "name": [
+            "Ichigo Wo Torimodose!!"
+        ],
+        "subtitle": [
+		    ""
+		],
+        "description": [
+           "ASABA, consumed by grief over the lost strawberry, ",
+           "unleashes his ultimate art. Once targeted, you’re swallowed",
+           "by an unavoidable storm of combos… But sorrow lingers—",
+		   "burned by fate’s emotions, you too inherit this forbidden technique! "
+        ],
+        "ability": [
+           "Unleash a special move with the right command ",
+		   "The lower your HP, the stronger the special move"
+        ]
+    },
+    "59": {
+        "name": [
+            "Rubrum Pendant"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+		    "The Fallen Magician’s Precious Relic. ",
+            "A pendant crafted from a small amount of Philosopher's Fragment ",
+			"imbued with a faint yet everlasting alchemical power"
+        ],
+        "ability": [
+		    "Boosts magic attack based on held Philosopher's Fragment count",
+            "Reduces weapon durability use when casting magic by \\c[6]24%\\c[0]"
+        ]
+    },
+    "60": {
+        "name": [
+            "Fallen Mage's Circlet"
+        ],
+        "subtitle": "",
+        "description": [
+            "A cursed circlet tainted by dark magic,",
+            "haunted by a stubborn grudge that gnaws at the flesh"
+        ],
+        "ability": [
+            "Magic attack power +100%",
+			"Max HP -50%"
+        ]
+    },
+    "61": {
+        "name": [
+            "Fallen Mage's Cloak"
+        ],
+        "subtitle": "",
+        "description": [
+            "A cursed cloak tainted by dark magic,",
+            "haunted by a vengeful spirit craving retribution"
+        ],
+        "ability": [
+            "Afterimages created by Senpo linger longer",
+			"Objects touched by them are frozen in place"
+        ]
+    },
+    "62": {
+        "name": [
+            "Fallen Mage's Gloves"
+        ],
+        "subtitle": "",
+        "description": [
+            "Cursed gloves tainted by dark magic,",
+            "infused with a vengeful spirit eager to attack"
+        ],
+        "ability": [
+            "Projectiles track nearby enemies"
+        ]
+    },
+    "63": {
+        "name": [
+            "Fallen Mage's Shoes"
+        ],
+        "subtitle": "",
+        "description": [
+            "Cursed shoes tainted by dark magic,",
+            "infused with a vengeful spirit that grants ghost-like agility"
+        ],
+        "ability": [
+            "Boosts movement speed, grants void state when using Senpo"
+        ]
+    },
+    "65": {
+        "name": [
+            "Determination Headband"
+        ],
+        "subtitle": [
+            "\"Who the hell do you think I am!?\""		
+		],
+        "description": [
+            "A headband that stirs passion when worn",
+            "No real effect, but its unyielding spirit is unmatched"
+        ],
+        "ability": [
+            "reduces abnormal status chance",
+            "Has a small chance to resist fatal damage"
+        ]
+    },
+    "67": {
+        "name": [
+            "Martial Artist's Bracers"
+        ],
+        "subtitle": "",
+        "description": [
+            "Bandaged bracers worn by martial artists during sparring",
+            "They protect joints while improving movement precision"
+        ],
+        "ability": [
+            "-12% weapon durability consumption",
+            "Increased attack speed & boosted unarmed combo damage"
+        ]
+    },
+    "68": {
+        "name": [
+            "Martial Artist's Shoes"
+        ],
+        "subtitle": "",
+        "description": [
+            "Shoes commonly worn by martial artists who have",
+            "mastered their craft, radiating a powerful aura"
+        ],
+        "ability": [
+            "Movement speed increased. Senpo enhanced"
+        ]
+    },
+    "69": {
+        "name": [
+            "Face Breaker"
+		],
+		"subtitle": [
+		    "\"Damn it... I just wanna punch someone in the face...!\""
+		],
+        "description": [
+            "Punching gloves left behind by a legendary boxer.",
+			"You can still feel the overwhelming force lingering on them."
+		],
+        "ability": [
+            "Cannot use weapons while equipped",
+			"Punch attacks may deal bonus damage based on target HP"
+		]
+    },
+    "70": {
+        "name": [
+            "Scarecrow's Heart"
+        ],
+        "subtitle": "",
+        "description": [
+            "A hollow body of a scarecrow",
+            "No warmth, no heartbeat—yet it can live in your place"
+        ],
+        "ability": [
+            "Prevents all forms of HP recovery while equipped",
+            "At 0 HP, you remain active a bit longer before falling"
+        ]
+    },
+    "73": {
+        "name": [
+            "Lava Ring"
+        ],
+        "subtitle": "",
+        "description": [
+            "A ring forged from rock flowing with scorching magma",
+            "Wearing it eases the pain from both frost and flame"
+        ],
+        "ability": [
+            "Greatly reduces the chance of being frozen",
+            "Reduces the chance of being burned"
+        ]
+    },
+    "74": {
+        "name": [
+            "Volumen Salamandrae"
+        ],
+        "subtitle": [
+		    "\"Yes, they do like chili peppers...\""
+		],
+        "description": [
+            "A grimoire bound with salamander scales. Though it resembles",
+            "an encyclopedia, its records of volcano-dwelling salamanders ",
+			"grant deeper insight into fire when studied."
+        ],
+        "ability": [
+            "Strengthens the damage and form of fire-element magic"
+        ]
+    },
+    "75": {
+        "name": [
+            "Demon Eyeball"
+        ],
+        "subtitle": "",
+        "description": [
+            "An eyeball taken from a demon. It’s still watching.  ",
+            "Demons skilled at manipulating minds often possess the ability ",
+			"to see through things. Perhaps it allows you to notice details ",
+			"that would otherwise be overlooked..."
+        ],
+        "ability": [
+            "Reveals hidden objects and paths while equipped"
+        ]
+    },
+    "77": {
+        "name": [
+            "A Maiden's Prayer"
+        ],
+        "subtitle": [
+            "\"Fish… so many fish… piles of salmon…\""
+        ],
+        "description": [
+            "A prayer offered by an archdemon obsessed with eating salmon",
+            "Saying it can warp reality might be a bit of an exaggeration…",
+			"but she is genuinely, earnestly waiting for offerings to arrive"
+        ],
+        "ability": [
+            "More likely to obtain \\ii[142] and \\ii[143]"
+        ]
+    },	
+    "80": {
+        "name": [
+            "Royal Decree"
+        ],
+        "subtitle": "",
+        "description": [
+            "A ring symbolizing the supreme glory of a true king",
+            "Greatly boosts follower morale!"
+        ],
+        "ability": [
+            "Slightly increases all stats",
+            "Enlarges all servants and enhances their special attributes"
+        ]
+    },
+    "100": {
+        "name": [
+            "Unit I Nexus"
+        ],
+        "subtitle": "",
+        "description": [
+            "A core far more advanced than modern tech, its surface glowing ",
+            "with mysterious energy circuits. Even with most parts missing, ",
+			"it still shows incredible computational and sensing power"
+        ],
+        "ability": [
+            "Grants area detection when equipped",
+            "Detected object types increase as the core’s level rises"
+        ]
+    },
+    "125": {
+        "name": [
+            "Atsu Atsu Bouzu"
+        ],
+        "subtitle": "",
+        "description": [
+            "A cloth doll made with someone's heartfelt prayers. It carries",
+            "wishes, bringing slight changes to regular weather patterns",
+            "However, The doll quietly disappears afterward"
+        ],
+        "ability": [
+            "Ensures scorching hot weather the next day when equipped"
+        ]
+    },
+    "126": {
+        "name": [
+            "Teru Teru Bouzu"
+        ],
+        "subtitle": "",
+        "description": [
+            "A cloth doll made with someone's heartfelt prayers. It carries",
+            "wishes, bringing slight changes to regular weather patterns",
+            "However, The doll quietly disappears afterward"
+        ],
+        "ability": [
+            "Ensures sunny weather the next day when equipped"
+        ]
+    },
+    "127": {
+        "name": [
+            "Kumo Kumo Bouzu"
+        ],
+        "subtitle": "",
+        "description": [
+            "A cloth doll made with someone's heartfelt prayers. It carries",
+            "wishes, bringing slight changes to regular weather patterns",
+            "However, The doll quietly disappears afterward"
+        ],
+        "ability": [
+            "Ensures cloudy weather the next day when equipped"
+        ]
+    },
+    "128": {
+        "name": [
+            "Ame Ame Bouzu"
+        ],
+        "subtitle": "",
+        "description": [
+            "A cloth doll made with someone's heartfelt prayers. It carries",
+            "wishes, bringing slight changes to regular weather patterns",
+            "However, The doll quietly disappears afterward"
+        ],
+        "ability": [
+            "Ensures rainy weather the next day when equipped"
+        ]
+    },
+    "129": {
+        "name": [
+            "A girl's smile"
+        ],
+        "subtitle": [
+            "\"\\str[121], you kept your promise well!\""		
+		],
+        "description": [
+            "The perfect smile finally shown by \\str[120] ",
+            "who has always admired and worried about \\str[121]—",
+            "a smile that becomes his motivation to keep moving forward"
+        ],
+        "ability": [
+            "Desire up, all stats increased"
+        ]
+    },
+    "130": {
+        "name": [
+            "\\str[120]'s removed panties"
+        ],
+        "subtitle": [
+            "\"It still carries \\str[120]'s scent...\""		
+		],
+        "description": [
+            "Panties received from \\str[120] due to a misunderstanding",
+            "Although no suitable chance to return it has ever come up,",
+			"deep down inside, a faint sense of joy quietly lingers..."
+        ],
+        "ability": [
+            "Automatically regenerates HP when below 50%"
+        ]
+    },
+    "131": {
+        "name": [
+            "Bunny Plush"
+        ],
+        "subtitle": [
+            "\"Waaah—! Don’t break it~~!\""
+        ],
+        "description": [
+            "A stuffed bunny plush that \\str[120] always carries in ",
+			"her arms, filled with her scent",
+			"Come to think of it… why is this in my hands?"
+        ],
+        "ability": [
+            ""
+        ]
+    },	
+    "147": {
+        "name": [
+            "Woundplast"
+        ],
+        "subtitle": "",
+        "description": [
+            ""
+        ],
+        "ability": []
+    },
+    "150": {
+        "name": [
+            "Bonus T-shirt"
+        ],
+        "subtitle": "",
+        "description": [
+            "A custom-made outfit from the knight,",
+            "supposedly for promoting the game",
+            "But I don’t really want to wear it"
+        ],
+        "ability": []
+    },
+    "152": {
+        "name": [
+            "\\str[120]’s Pajamas"
+        ],
+        "subtitle": "",
+        "description": [
+            "A camisole pajama that \\str[120] usually wears, ",
+			"decorated with the bows she loves.",
+            "Come to think of it… why is this in my hands?"
+        ],
+        "ability": []
+    },
+    "153": {
+        "name": [
+            "\\str[120]’s Shorts"
+        ],
+        "subtitle": "",
+        "description": [
+            "Soft and fluffy shorts that \\str[120] usually wears, ",
+			"decorated with the bows she loves.",
+            "Come to think of it… why is this in my hands?"
+        ],
+        "ability": []
+    },
+    "154": {
+        "name": [
+            "Blue white panties"
+        ],
+        "subtitle": "",
+        "description": [
+		    ""
+        ],
+        "ability": []
+    },
+    "155": {
+        "name": [
+            "Pink white panties"
+        ],
+        "subtitle": "",
+        "description": [
+            ""
+        ],
+        "ability": []
+    },
+    "156": {
+        "name": [
+            "White panties"
+        ],
+        "subtitle": "",
+        "description": [
+            ""
+        ],
+        "ability": []
+    },
+    "157": {
+        "name": [
+            "Woundplast"
+        ],
+        "subtitle": "",
+        "description": [
+            ""
+        ],
+        "ability": []
+    },
+    "159": {
+        "name": [
+            "No panties..."
+        ],
+        "subtitle": "",
+        "description": [
+            ""
+        ],
+        "ability": []
+    },
+    "296": {
+        "name": [
+            "Ruika’s Lucky Mallet"
+        ],
+        "subtitle": [
+            "\"Head Maid Ruika always uses it to bonk the disobedient bunnies.\""
+        ],
+        "description": [
+		    "A hidden treasure of Maid Bunnies, said to be why they took over the ",
+			"market so fast. With a light swing, it grants the wielder’s wishes—",
+			"Adventurers often see it fixing machines broken by troublemakers"
+        ],
+        "ability": [
+            "Increases money and item drop rates"
+        ]
+    },
+    "297": {
+        "name": [
+            "Mio’s First Aid Kit"
+        ],
+        "subtitle": [
+            "\"Oh my god! I fell into the hole again!?\""
+        ],
+        "description": [
+		    "Originally a tool the admin used to test the healing system",
+			"but he forgot to delete it later. Still, it’s useless ",
+			"against instant-death mechanics"
+        ],
+        "ability": [
+            "Restores 100% HP per second when equipped"
+        ]
+    },
+    "298": {
+        "name": [
+            "Shiroin’s Golden Finger"
+        ],
+        "subtitle": [
+            "\"You know this thing will ruin the game, right?\"",
+			"\"I know.\"",
+			"\"And you still want to equip it?\"",
+			"\"Of course.\""
+        ],
+        "description": [
+		    "A relic that turns touch to gold — the Bladekeepers’ ultimate dream"
+        ],
+        "ability": [
+            "Weapons no longer break from attacks"
+        ]
+    },
+    "299": {
+        "name": [
+            "Absolute Territory"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "The sacred space between a girl's miniskirt and thigh-high socks",
+            "Not only does it grant high magic resistance, but also the absurd ",
+			"ability to pull out all sorts of items from under the skirt at will"
+        ],
+        "ability": [
+            "Extra carry capacity for weapons +99",
+            "Extra carry capacity for gears +99"
+        ]
+    },
+    "300": {
+        "name": [
+            "Catalyst Amatoria"
+        ],
+        "subtitle": [
+            "\"Give me your love—! Otherwise, let’s just die together~~~!\""
+        ],
+        "description": [
+            "A forbidden artifact forged by a certain yandere archdemon",
+            "It forcibly makes anyone it touches fall in love with the wearer",
+			"ignoring their will"
+        ],
+        "ability": [
+            "Greatly boosts the stats gained when patting \\str[120]"
+        ]
+    }
+}

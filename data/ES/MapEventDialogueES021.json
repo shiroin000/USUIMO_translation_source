@@ -1,0 +1,117 @@
+{ 
+  "1": { 
+        "0": [ 
+            "Mmm, parece que no puedo dormirme..." 
+		], 
+		"1": [ 
+            "Me duele el estómago... ¿Es indigestión?", 
+			"Tal vez la cena fue demasiado después de todo..." 
+        ], 
+        "2": [ 
+            "¡Ah, me desperté de repente...!" 
+        ], 
+		"3": [ 
+            "Todavía es media noche.", 
+			"Puedo dormir un poco más...\\w[30].\\w[30].\\w[30]", 
+			"¿Debería ir a ver a mi hermana?" 
+        ], 
+		"4": [ 
+            "A la habitación de \\str[120]", 
+			"Duerme" 
+        ], 
+		"5": [ 
+            "¿Vas a dormir hasta la mañana...?" 
+        ],	 
+		"6": [ 
+            "Duerme", 
+			"Espera" 
+        ], 
+		"7": [ 
+            "\"¡Ahhhhhhhhhhh—!\"" 
+        ], 
+		"8": [ 
+            "¿Q-Qué? Oh, solo fue una pesadilla..." 
+        ], 
+		"9": [ 
+            "Eso me asustó muchísimo... ", 
+			"Creo que vi una versión realmente aterradora de \\str[120]." 
+        ],		 
+		"10": [ 
+            "…Debería ir a ver a \\str[120]", 
+			"¿Y si ese sueño—" 
+        ],	 
+		"11": [ 
+            "Sí, ese sueño fue muy aterrador...", 
+			"Es mejor descansar un poco temprano..." 
+        ]			 
+    }, 
+  "2": { 
+        "0": [ 
+            "\\c[10]—Solicitud de actualización de datos detectada de la versión \\str[1]. \\w[60]", 
+			"¿Quieres realizar la actualización automática ahora?" 
+		], 
+		"1": [ 
+            "Iniciar actualización", 
+			"No importa" 
+        ], 
+        "2": [ 
+            "...¿Ya es de mañana? ", 
+			"Siento que tuve algún tipo de sueño sobre ", 
+            "mi hermanita, ", 
+			"pero no puedo recordarlo..." 
+        ], 
+        "3": [ 
+            "...¿Ya es de mañana? ", 
+			"No siento que haya dormido bien..." 
+        ], 
+        "4": [ 
+            "Ah,¿Ya es de mañana? Dormí muy bien." 
+        ], 
+        "5": [ 
+            "Hace un día bonito hoy... ¿eh? ", 
+			"¿Parece que el sol es demasiado intenso?" 
+        ], 
+        "6": [ 
+            "Hace un día bonito hoy." 
+        ], 
+        "7": [ 
+            "El tiempo no pinta muy bien hoy."
+        ], 
+        "8": [ 
+            "¿Está lloviendo?", 
+			"Espero que no afecte nuestra aventura..." 
+        ], 
+        "9": [ 
+            "Llevo unos días sin ver a mi hermana...", 
+			"Creo que debería pasarme hoy." 
+        ], 
+        "10": [ 
+            "Bueno, ya estoy despierto. ¿Cuál es el plan para hoy?" 
+        ], 
+        "11": [ 
+            "A la habitación de \\str[120]", 
+			"Salir ya" 
+        ], 
+        "12": [ 
+            "Bueno, ¡vamos a ver cómo está \\str[120]!" 
+        ], 
+        "13": [ 
+            "Bueno, es hora de poner todo en orden", 
+			"¡y salir a la aventura!" 
+        ]		 
+    }, 
+  "4": { 
+        "0": [ 
+            "\"...¡¿Eh!?\\w[60]...Espera, \\w[60]", 
+			"¿ya es de mañana...?\"" 
+		], 
+		"1": [ 
+            "Tengo la cabeza mareada... ", 
+			"¿Me quedé dormido así anoche...?" 
+        ], 
+		"2": [ 
+            "\"No puedo recordar qué pasó anoche... \\w[90]", 
+			"Bueno, probablemente estaba demasiado cansado.\"" 
+        ] 
+    }		 
+}

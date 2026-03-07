@@ -1,0 +1,761 @@
+{
+  "1": {
+    "name": [
+      "Épée en bois dur"
+    ],
+    "subtitle": "",
+    "description": [
+      "On dit que le héros a également commencé sa",
+      "voyage depuis le village de départ avec une épée en bois",
+      "C'est devenu un objectif à imiter pour de nombreux aventuriers."
+    ],
+    "ability": [
+      "Inflige des dégâts supplémentaires lorsque l'arme est sur le point de se briser"
+    ]
+  },
+  "2": {
+    "name": [
+      "Bâton de bois dur"
+    ],
+    "subtitle": "",
+    "description": [
+      "Un bâton en bois robuste et de grande forme",
+      "parfait pour les enfants, c'est aussi une bonne arme"
+    ],
+    "ability": [
+      "Inflige des dégâts supplémentaires lorsque l'arme est sur le point de se briser"
+    ]
+  },
+  "3": {
+    "name": [
+      "Hache à bois"
+    ],
+    "subtitle": "",
+    "description": [
+      "Un compagnon fiable pour les aventuriers ou les pionniers en exploration",
+      "forêts. Cependant, comme il n'est pas conçu pour le combat,",
+      "ne comptez pas trop dessus au combat"
+    ],
+    "ability": [
+      "Inflige des dégâts accrus aux arbres"
+    ]
+  },
+  "4": {
+    "name": [
+      "Poing fermé"
+    ],
+    "subtitle": "",
+    "description": [
+      "Pas d'arme équipée? Alors, déchaînez une rafale de coups!",
+      "C'est peut-être une solution rapide, mais une poignée de courage peut avoir un impact sérieux.",
+      "Pourquoi utiliser une arme quand tes poings peuvent faire le travail?"
+    ],
+    "ability": [
+      "Les dégâts des coups de poing augmentent avec le PV max!"
+    ]
+  },
+  "5": {
+    "name": [
+      "épée de chevalier"
+    ],
+    "subtitle": "",
+    "description": [
+      "Une arme utilisée par son père dans sa jeunesse,",
+      "bien entretenu et apparemment délivré aux chevaliers de la cour"
+    ],
+    "ability": [
+      "Lorsque PV<\\c[10]30%\\c[0], l'attaque de cette arme double"
+    ]
+  },
+  "6": {
+    "name": [
+      "Bâton de lave"
+    ],
+    "subtitle": "",
+    "description": [
+      "Une baguette fabriquée à partir de minéraux volcaniques, facilement",
+      "concentre les éléments du feu Cependant, une légère erreur",
+      "peut le faire exploser, engloutissant l'utilisateur"
+    ],
+    "ability": [
+      "Maintenez le bouton droit de la souris enfoncé pour lancer \\c[27]Crimson Lotus Meteor\\c[0]"
+    ]
+  },
+  "7": {
+    "name": [
+      "Bâton de glace"
+    ],
+    "subtitle": "",
+    "description": [
+      "Une baguette faite de cristaux magiques, libère une large gamme",
+      "Gel. Très difficile à contrôler. J'ai l'impression qu'il me gèle la main."
+    ],
+    "ability": [
+      "Maintenez le bouton droit de la souris enfoncé pour lancer \\c[27]Frozen Spell\\c[0]"
+    ]
+  },
+  "8": {
+    "name": [
+      "Plume étrange"
+    ],
+    "subtitle": "",
+    "description": [
+      "Une plume d'oiseau étrange. Extrêmement légère et peut",
+      "générer facilement suffisamment de force pour faire exploser quelqu'un"
+    ],
+    "ability": [
+      "La vitesse de déplacement augmente lors de l'utilisation de Whirlwind Slash",
+      "Enters a float state immune to falling after spin speed increases"
+    ]
+  },
+  "9": {
+    "name": [
+      "épée de chevalier"
+    ],
+    "subtitle": "",
+    "description": [
+      "Armes attribuées aux chevaliers du palais",
+      "Ils symbolisent le chemin de protection des chevaliers"
+    ],
+    "ability": [
+      "Lorsque PV<\\c[10]30%\\c[0], l'attaque de cette arme double"
+    ]
+  },
+  "10": {
+    "name": [
+      "Grande épée d'argent"
+    ],
+    "subtitle": "",
+    "description": [
+      "Une grande épée, apparemment forgée en argent,",
+      "rayonnant d'une lueur éblouissante. Sa surface brille froide et dure,",
+      "bien que sa véritable matière reste inconnue"
+    ],
+    "ability": [
+      "Lorsque le PV tombe en dessous de \\c[29]400\\c[0], le potentiel total de l'arme est limité!"
+    ]
+  },
+  "11": {
+    "name": [
+      "Heavy Mallet"
+    ],
+    "subtitle": "",
+    "description": [
+      "Un marteau en bois volumineux",
+      "Recevoir un coup sur la tête vous laissera certainement étourdi!"
+    ],
+    "ability": [
+      "33 % de chances d'infliger un état d'étourdissement lors d'une attaque",
+      "Lorsque le PV tombe en dessous de \\c[29]400\\c[0], le potentiel total de l'arme est limité!"
+    ]
+  },
+  "12": {
+    "name": [
+      "batte de baseball"
+    ],
+    "subtitle": "",
+    "description": [
+      "Un club de métal. On dit qu'il est utilisé pour le sport,",
+      "mais c'est aussi très bien pour frapper les gens."
+    ],
+    "ability": [
+      "Augmentation de la durabilité!",
+      "Les dégâts sont multipliés pour les projectiles repoussés"
+    ]
+  },
+  "13": {
+    "name": [
+      "Arête de poisson pourrie"
+    ],
+    "subtitle": [
+      "Ça sent trop mauvais, jette-le!"
+    ],
+    "description": [
+      "Restes d'arêtes d'un gros poisson, avec de la viande en décomposition",
+      "s'accrochant toujours à eux, dégageant une puanteur insupportable"
+    ],
+    "ability": [
+      "Il continuera à émettre une odeur nauséabonde",
+      "Il dégage une odeur si nauséabonde que même les monstres s'enfuient !"
+    ]
+  },
+  "14": {
+    "name": [
+      "Pince de crabe géante"
+    ],
+    "subtitle": "",
+    "description": [
+      "A massive crab claw that clamps on tight and won’t let go",
+      "Une fois qu'il s'accroche à quelque chose, bonne chance pour l'enlever"
+    ],
+    "ability": [
+      "Lorsqu'il est lancé, il se fixe sur la cible, infligeant des dégâts constants.",
+      "Ne peut être récupéré que si la cible meurt"
+    ]
+  },
+  "15": {
+    "name": [
+      "Lune de givre"
+    ],
+    "subtitle": [
+      "J'ai léché la lame et ma langue s'est coincée... Si froid, si douloureux!",
+      "\\str[121], ne lèche pas des trucs au hasard!"
+    ],
+    "description": [
+      "Une épée magique faite de glace, juste à côté, envoie un froid glacial"
+    ],
+    "ability": [
+      "50 % de chances d'infliger un état de gel lors d'une attaque"
+    ]
+  },
+  "16": {
+    "name": [
+      "Épée électrique qui fuit"
+    ],
+    "subtitle": [
+      "Zap... zap...!"
+    ],
+    "description": [
+      "Une épée maudite remplie d'énergie sauvage, mais elle est toujours défectueuse",
+      "Soyez prudent, cela pourrait également choquer l'utilisateur"
+    ],
+    "ability": [
+      "50 % de chances d'infliger l'état de foudre lors d'une attaque"
+    ]
+  },
+  "17": {
+    "name": [
+      "Éruption solaire"
+    ],
+    "subtitle": [
+      "\\str[121], ça a l'air effrayant, s'il te plaît, ne le tiens pas."
+    ],
+    "description": [
+      "Une épée magique qui a absorbé l'énergie solaire au fil du temps",
+      "Il semble particulièrement efficace contre certains monstres"
+    ],
+    "ability": [
+      "40 % de chances d'infliger un état de brûlure lors d'une attaque"
+    ]
+  },
+  "18": {
+    "name": [
+      "Hache en os d'orc"
+    ],
+    "subtitle": "",
+    "description": [
+      "Une grande hache fabriquée à partir des os d'ennemis vaincus. Non",
+      "très tranchant, et les orcs préfèrent souvent le lancer plutôt que",
+      "utilisez-le en combat rapproché"
+    ],
+    "ability": [
+      "Inflige des dégâts supplémentaires lorsque l'arme est lancée"
+    ]
+  },
+  "19": {
+    "name": [
+      "Nichirin"
+    ],
+    "subtitle": "",
+    "description": [
+      "Une réplique forgée à l'image de la légendaire",
+      "épée démoniaque interdite. Bien sûr, elle ne peut pas invoquer",
+      "le feu infernal qui brûle la terre comme l'originale."
+    ],
+    "ability": [
+      "Peut invoquer une météorite qui frappe un endroit aléatoire lors d'une attaque."
+    ]
+  },
+  "20": {
+    "name": [
+      "Épée en fer rouillée"
+    ],
+    "subtitle": "",
+    "description": [
+      "Une vieille épée en fer recouverte de rouille, qui a depuis longtemps perdu son tranchant",
+      "D'un autre point de vue, la corrosion elle-même est dangereusement mortelle..."
+    ],
+    "ability": [
+      "15 % de chances d'infliger l'état Poison lors d'une attaque",
+      "Inflige toujours Poison aux cibles qui saignent."
+    ]
+  },
+  "21": {
+    "name": [
+      "De l'enfer"
+    ],
+    "subtitle": [
+      "Cette chose a soif de sang..."
+    ],
+    "description": [
+      "L'une des armes utilisées par un tueur en série notoire,",
+      "c'est couvert de sang"
+    ],
+    "ability": [
+      "45 % de chances d'infliger un état de saignement lors d'une attaque"
+    ]
+  },
+  "22": {
+    "name": [
+      "Marteau de forge"
+    ],
+    "subtitle": [],
+    "description": [
+      "Un lourd marteau autrefois utilisé par les forgerons pour forger le métal",
+      "Maintenant tenu dans la main de quelqu'un et utilisé à toutes sortes de fins étranges"
+    ],
+    "ability": [
+      "Frapper une arme posée sur l'enclume la répare",
+      "Retirer cet équipement dissipe également l'enclume invoquée"
+    ]
+  },
+  "24": {
+    "name": [
+      "Hache d'orque de tempête"
+    ],
+    "subtitle": "",
+    "description": [
+      "Une grande hache maniée par un orc en phase avec le pouvoir de la nature.",
+      "Chaque coup déchire la terre et envoie des coups de vent hurlants avec la lame"
+    ],
+    "ability": [
+      "A une chance de déclencher une rafale de vent lors d'une attaque",
+      "Lorsque le PV tombe en dessous de \\c[29]400\\c[0], le potentiel total de l'arme est limité!"
+    ]
+  },
+  "25": {
+    "name": [
+      "Le chant de Tidewyrm"
+    ],
+    "subtitle": "",
+    "description": [
+      "Un bâton fabriqué à partir de cristaux magiques humides, toujours ruisselant d'eau.",
+      "Il ne révèle sa véritable puissance que lorsqu'il utilise l'eau comme milieu.",
+      "très peu pratique !"
+    ],
+    "ability": [
+      "Jeter un sort près de l'eau renforce sa magie",
+      "Maintenez le bouton droit de la souris enfoncé pour lancer Ripple Thrust."
+    ]
+  },
+  "26": {
+    "name": [
+      "Nuit étoilée"
+    ],
+    "subtitle": "",
+    "description": [
+      "Un bâton orné de pierres précieuses qui scintillent comme le lait",
+      "Chemin. Il a le pouvoir de créer un fort champ gravitationnel,",
+      "attirer les intrus dans les profondeurs de l'obscurité"
+    ],
+    "ability": [
+      "Maintenez le bouton droit de la souris enfoncé pour lancer un trou noir"
+    ]
+  },
+  "27": {
+    "name": [
+      "Lame de spores toxiques"
+    ],
+    "subtitle": "",
+    "description": [
+      "Une épée fine lâchée par des Champignons Marcheurs. Sa lame est émoussée.",
+      "est recouvert de spores toxiques, garantissant un poison à chaque coup",
+      "Bien que de faible durabilité, ses toxines le rendent très efficace"
+    ],
+    "ability": [
+      "Les attaques ont 50 % de chances d'infliger le statut Poison"
+    ]
+  },
+  "30": {
+    "name": [
+      "Canesada"
+    ],
+    "subtitle": "",
+    "description": [
+      "Un Katana bien-aimé qui accompagnait une fille luttant pour",
+      "le summum de l'escrime : ne jamais la quitter, même dans son sommeil",
+      "Qu'il soit tranchant ou non, il reste un témoin de son parcours"
+    ],
+    "ability": [
+      "Améliore considérablement les effets de toutes les compétences acquises"
+    ]
+  },
+  "35": {
+    "name": [
+      "Épée de lumière"
+    ],
+    "subtitle": [
+      "Hein? Je ne vois rien! Ce n'est pas une poignée d'épée?!"
+    ],
+    "description": [
+      "Bénie par la lumière, la lame courbe la lumière, devenant une épée invisible",
+      "Cela le rend extrêmement net et, lorsque cela est nécessaire, son éclat se libère."
+    ],
+    "ability": [
+      "Les attaques ignorent complètement la défense de la cible"
+    ]
+  },
+  "36": {
+    "name": [
+      "Tyrfing"
+    ],
+    "subtitle": "",
+    "description": [
+      "Une épée magique fabriquée par l'homme avec une lame forgée à partir de cristaux de mana",
+      "Chaque coup déclenche une vague d'épée tangible. Pour les épéistes expérimentés,",
+      "c'est une arme qui augmente considérablement leur puissance"
+    ],
+    "ability": [
+      "Les attaques génèrent des vagues d'épée qui infligent des dégâts"
+    ]
+  },
+  "40": {
+    "name": [
+      "Marteau anti-intimidation"
+    ],
+    "subtitle": [
+      "PAS D'INTIMIDATION!!"
+    ],
+    "description": [
+      "Une arme née pour punir les aventuriers maléfiques.",
+      "Même si ce n'est qu'un marteau jouet, se faire frapper fait toujours mal."
+    ],
+    "ability": [
+      "Inflige des dégâts de recul lorsqu'il est utilisé pour des actes maléfiques",
+      "Plus votre valeur de péché est faible, plus ses dégâts sont élevés."
+    ]
+  },
+  "42": {
+    "name": [
+      "Faux à main de Den"
+    ],
+    "subtitle": [
+      "Souvenez-vous de ceci, Whirlwind Slash s'utilise comme ça!"
+    ],
+    "description": [
+      "Une faux à manche court portée par un étranger avec une arme redoutable",
+      "un dessein et une volonté qui l'habitent. L'exercer trop longtemps",
+      "peut provoquer l'écho d'étranges voix dans votre esprit"
+    ],
+    "ability": [
+      "se dirige automatiquement vers les ennemis lorsqu'il est lancé",
+      "La puissante volonté vous confère la maîtrise d'une compétence de combat unique"
+    ]
+  },
+  "51": {
+    "name": [
+      "Mixed Flavor Popsicle"
+    ],
+    "subtitle": "",
+    "description": [
+      "Une arme comestible fabriquée avec soin par Kanban Musume de la NLCH.",
+      "Une glace à trois parfums combinant chocolat, crème et fraise.",
+      "Rafraîchissant et délicieux ! Mais veillez à le finir avant qu'elle ne fonde..."
+    ],
+    "ability": [
+      "Risque d'être mangé lors d'une attaque...",
+      "Fond et disparaît avec le temps lorsqu'elle est équipé..."
+    ]
+  },
+  "52": {
+    "name": [
+      "Unité 2"
+    ],
+    "subtitle": "",
+    "description": [
+      "Un appareil de communication acheté dans un magasin suspect",
+      "Criez simplement \" Feu! \" et vous recevrez le soutien d'un tireur d'élite.",
+      "quelque part. Mais tu dois payer la facture de téléphone toi-même."
+    ],
+    "ability": [
+      "Un clic droit coûte 400 yens et invoque un sniper de soutien.",
+      "Right-click to call a long-range snipe, 500 yen per use"
+    ]
+  },
+  "53": {
+    "name": [
+      "Grande épée conique"
+    ],
+    "subtitle": "",
+    "description": [
+      "Une arme comestible fabriquée avec soin par Kanban Musume du NLCH",
+      "Tout en conservant ses performances d'arme, il est également délicieux!"
+    ],
+    "ability": [
+      "Il y a un risque qu'il soit mangé lors d'une attaque…",
+      "Melts and disappears over time when equipped..."
+    ]
+  },
+  "54": {
+    "name": [
+      "Grande épée de carotte"
+    ],
+    "subtitle": "",
+    "description": [
+      "Une carotte de première qualité cultivée secrètement par la Maid Bunny",
+      "Imprégné du pouvoir de la pierre, il s'est transformé en un mets délicat",
+      "si tentant qu'il pourrait faire pleurer de désir un lapin domestique"
+    ],
+    "ability": [
+      "Lorsqu'il est lancé, il force la cible à manger",
+      "Lorsqu'il est lancé, il transperce et touche tous les ennemis sur son passage"
+    ]
+  },
+  "55": {
+    "name": [
+      "Grande épée de carotte"
+    ],
+    "subtitle": "",
+    "description": [
+      "Une carotte de première qualité cultivée secrètement par la Maid Bunny",
+      "Imprégné du pouvoir de la pierre, il s'est transformé en un mets délicat",
+      "si tentant qu'il pourrait faire pleurer de désir un lapin domestique"
+    ],
+    "ability": [
+      "Lorsqu'il est lancé, il force la cible à manger",
+      "Lorsqu'il est lancé, il transperce et touche tous les ennemis sur son passage"
+    ]
+  },
+  "56": {
+    "name": [
+      "Grande épée de carotte"
+    ],
+    "subtitle": "",
+    "description": [
+      "Une carotte de première qualité cultivée secrètement par la Maid Bunny",
+      "Imprégné du pouvoir de la pierre, il s'est transformé en un mets délicat",
+      "si tentant qu'il pourrait faire pleurer de désir un lapin domestique"
+    ],
+    "ability": [
+      "Lorsqu'il est lancé, il force la cible à manger",
+      "Lorsqu'il est lancé, il transperce et touche tous les ennemis sur son passage"
+    ]
+  },
+  "57": {
+    "name": [
+      "Grande épée de carotte"
+    ],
+    "subtitle": "",
+    "description": [
+      "Une carotte de première qualité cultivée secrètement par la Maid Bunny",
+      "Imprégné du pouvoir de la pierre, il s'est transformé en un mets délicat",
+      "si tentant qu'il pourrait faire pleurer de désir un lapin domestique"
+    ],
+    "ability": [
+      "Lorsqu'il est lancé, il force la cible à manger"
+    ]
+  },
+  "58": {
+    "name": [
+      "Grande épée de carotte"
+    ],
+    "subtitle": "",
+    "description": [
+      "Une carotte de première qualité cultivée secrètement par la Maid Bunny",
+      "Imprégné du pouvoir de la pierre, il s'est transformé en un mets délicat",
+      "si tentant qu'il pourrait faire pleurer de désir un lapin domestique"
+    ],
+    "ability": [
+      "Lorsqu'il est lancé, il force la cible à manger"
+    ]
+  },
+  "60": {
+    "name": [
+      "Banane?"
+    ],
+    "subtitle": [
+      "Est-ce vraiment une banane...?"
+    ],
+    "description": [
+      "Une banane pelée qui doit être tenue avec précaution"
+    ],
+    "ability": [
+      "À grande vitesse, il est facile de jeter la banane au loin... Aïe!?"
+    ]
+  },
+  "61": {
+    "name": [
+      "Aspirateur à escargot géant"
+    ],
+    "subtitle": "",
+    "description": [
+      "Un aspirateur fabriqué à partir d'une coquille d'escargot géant",
+      "Flux d'air modifié pour une aspiration puissante"
+    ],
+    "ability": [
+      "Maintenez la souris enfoncée pour rapprocher les objets"
+    ]
+  },
+  "62": {
+    "name": [
+      "Vestige d'un arbre ancien"
+    ],
+    "subtitle": "",
+    "description": [
+      "Une arme de branche bizarre, obtenue à partir d'un ancien tronc d'arbre,",
+      "dur mais débordant de vitalité et toujours en croissance"
+    ],
+    "ability": [
+      "Vaincre les ennemis répare automatiquement la durabilité des armes",
+      "L'excès de durabilité confère +1 ATK par 1 % au-dessus du maximum"
+    ]
+  },
+  "63": {
+    "name": [
+      "Lame parasitaire"
+    ],
+    "subtitle": "",
+    "description": [
+      "Une épée consumée par un arbre au fil des siècles, où le métal et",
+      "La vie fusionne en une mystérieuse harmonie. Sa lame palpite comme",
+      "il respire, rayonnant une étrange chaleur vers celui qui le porte"
+    ],
+    "ability": [
+      "Restaure \\c[29]${Math.floor(1.2*$gameParty.leader().paramPlus(2))}\\c[0] PV au porteur après avoir vaincu un ennemi"
+    ]
+  },
+  "70": {
+    "name": [
+      "Gloire antique"
+    ],
+    "subtitle": [
+      "Libérez le pouvoir doré ⬆⬆⬇⬇⬅⮕⬅⮕"
+    ],
+    "description": [
+      "Une épée démoniaque dorée éblouissante, l'un des trésors de",
+      "l'Administrateur Mondial. Cet homme l'a autrefois exercé,",
+      "se battre dans l'Abîme pendant trois jours et trois nuits sans repos"
+    ],
+    "ability": [
+      "Libère sa puissance lorsqu'une commande secrète est entrée"
+    ]
+  },
+  "80": {
+    "name": [
+      "Grande épée en feuille de saule"
+    ],
+    "subtitle": "",
+    "description": [
+      "Cueillez les feuilles, dispersez les fleurs, blessez tes ennemis",
+      "Une épée à deux mains très tranchante en forme de feuilles de saule"
+    ],
+    "ability": [
+      "A une chance de tirer des shurikens en feuilles de saule lors d'une attaque"
+    ]
+  },
+  "81": {
+    "name": [
+      "Lame infestée"
+    ],
+    "subtitle": [
+      "Ugh, le slime se tortille toujours... C'est dégoûtant!!"
+    ],
+    "description": [
+      "Une épée à deux mains infestée de boue résiliente et avide de vie",
+      "Son besoin de vitalité rend le slime férocement agressif"
+    ],
+    "ability": [
+      "Inflige des dégâts supplémentaires aux ennemis qui saignent",
+      "Draine le sang si la cible meurt pendant le saignement"
+    ]
+  },
+  "101": {
+    "name": [
+      "Arc en bois dur"
+    ],
+    "subtitle": "",
+    "description": [
+      "Un arc long en bois dur",
+      "Il peut tirer des flèches, mais ses performances sont très moyennes"
+    ],
+    "ability": [
+      "Maintenez le clic droit pour charger et relâcher une \\c[27]Flèche perçante\\c[0]",
+      "Les flèches perforantes perdent des dégâts par cible percée"
+    ]
+  },
+  "102": {
+    "name": [
+      "Arc du chasseur"
+    ],
+    "subtitle": "",
+    "description": [
+      "Un arc long composite qui réduit la force de traction",
+      "Moins de dégâts, mais un tir rapide plus facile"
+    ],
+    "ability": [
+      "Vitesse d'attaque, -20% de dégâts, -20% de perte de durabilité",
+      "Maintenez le clic droit pour charger et relâcher une \\c[27]Flèche perçante\\c[0]"
+    ]
+  },
+  "103": {
+    "name": [
+      "Nuage au coucher du soleil"
+    ],
+    "subtitle": "",
+    "description": [
+      "Un arc magique rempli d'énergie de feu",
+      "Non seulement brûle les ennemis, mais tire également des flèches explosives"
+    ],
+    "ability": [
+      "Maintenez le clic droit pour charger et relâcher une \\c[27]Flèche explosive\\c[0]",
+      "Les flèches explosives explosent à l'impact"
+    ]
+  },
+  "104": {
+    "name": [
+      "Surveillance de la neige"
+    ],
+    "subtitle": "",
+    "description": [
+      "Un arc magique recouvert de glace. Tire des flèches de glace.",
+      "et peut geler une large zone avec un tir chargé"
+    ],
+    "ability": [
+      "Maintenez le clic droit pour charger et relâchez une \\c[27]Icebound Arrow\\c[0]",
+      "La flèche glacée gèle les cibles lorsqu'elle est touchée"
+    ]
+  },
+  "105": {
+    "name": [
+      "Chidori"
+    ],
+    "subtitle": "",
+    "description": [
+      "Un arc d'or capable d'invoquer le tonnerre,",
+      "nommé d'après son bourdonnement rappelant la foudre",
+      "Attention cependant, il est très conducteur."
+    ],
+    "ability": [
+      "Maintenez le clic droit pour charger et relâchez un \\c[27]Thunder Arrow\\c[0]"
+    ]
+  },
+  "106": {
+    "name": [
+      "Arc maudit du Chien de l'Enfer"
+    ],
+    "subtitle": "",
+    "description": [
+      "Produit de l'Abysse, cet arc aux formes étranges peut",
+      "tirer plusieurs flèches simultanément. Cependant,",
+      "cet arc magique étrange reste scellé, avec son véritable pouvoir non libéré"
+    ],
+    "ability": [
+      "Maintenez le clic droit pour charger et relâcher une \\c[27]Flèche perçante\\c[0]"
+    ]
+  },
+  "107": {
+    "name": [
+      "Chasse au sang"
+    ],
+    "subtitle": "",
+    "description": [
+      "Un arc long taché de sang.",
+      "Chaque tirage laisse la corde mouillée du sang de son porteur,",
+      "jusqu'à ce que la flèche revienne avec une offrande plus douce"
+    ],
+    "ability": [
+      "Maintenez le clic droit pour charger et relâchez une \\c[27]Flèche perçant le sang\\c[0]",
+      "Consomme des PV pour renforcer les tirs. Les flèches mortelles drainent le sang."
+    ]
+  }
+}

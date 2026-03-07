@@ -1,0 +1,779 @@
+{ 
+  "3": { 
+    "name": [], 
+    "subtitle": [ 
+	  "" 
+	], 
+    "description": [ 
+      "" 
+    ], 
+	"variants": { 
+		"0": { 
+		   "subtitle": [ 
+	         "\"Sintiendo inquietud...\"" 
+	       ], 
+           "description": [ 
+             "Nivel de emoción:\\c[2]\\v[25]%\\c[0]" 
+           ] 
+		},		 
+		"1": { 
+		   "subtitle": [ 
+	         "\"El cuerpo anhela una emoción...\"" 
+	       ], 
+           "description": [ 
+             "Nivel de emoción:\\c[10]\\v[25]%\\c[0]" 
+           ] 
+		}, 
+		"2": { 
+		   "subtitle": [ 
+	         "\"¡Perdiendo el control...!\"" 
+	       ], 
+           "description": [ 
+             "Nivel de emoción:\\c[18]\\v[25]%\\c[0]" 
+           ] 
+		} 
+	} 
+  }, 
+  "4": { 
+    "name": [], 
+    "subtitle": [ 
+	  "\"¡Uwoooo...!\"" 
+	], 
+    "description": [ 
+      "¡Transformado en una Bestia enloquecida por el deseo! Nivel de emoción::\\c[18]???%\\c[0]" 
+    ] 
+  }, 
+  "5": { 
+    "name": [], 
+    "subtitle": [ 
+      "\"El veneno ha infectado tu cuerpo\"" 
+    ], 
+    "description": [ 
+      "¡Recibe más daño con el tiempo!" 
+    ] 
+  }, 
+  "6": { 
+    "name": [], 
+    "subtitle": [ 
+      "\"El sangrado no se detiene\"" 
+    ], 
+    "description": [ 
+      "¡Recibe daño según su HP máximo!" 
+    ] 
+  }, 
+  "7": { 
+    "name": [], 
+    "subtitle": [ 
+      "\"¡Mira, le cayó un rayo!\"" 
+    ], 
+    "description": [ 
+      "¡Totalmente paralizado, no puede moverse en absoluto!" 
+    ] 
+  }, 
+  "8": { 
+    "name": [], 
+    "subtítulo": [ 
+      "\"¡Caliente, caliente, caliente, caliente!\"" 
+    ], 
+    "descripción":[ 
+      "¡Aplica quema continua a todas las unidades dentro del alcance!" 
+    ] 
+  }, 
+  "9": { 
+    "name": [], 
+    "subtitle": [ 
+      "\"¡Conviértete en una paleta de hielo!\"" 
+    ], 
+    "description": [ 
+      "¡Congelado!" 
+    ] 
+  }, 
+  "11": { 
+    "name": [], 
+    "subtitle": [ 
+      "\"¡Mareado y desorientado!\"" 
+    ], 
+    "description": [
+      "¡Incapaz de actuar!" 
+    ] 
+  }, 
+  "13": { 
+    "name": [], 
+    "subtitle": [ 
+      "\"Fufu, esto es lo que obtienes por desafiarme~♥\"" 
+    ], 
+    "description": [ 
+      "Maldito por ese pequeño demonio..." 
+    ] 
+  }, 
+  "14": { 
+    "name": [], 
+    "subtitle": [ 
+      "\"Hace tanto calor...\"" 
+    ], 
+    "description": [ 
+      "me siento débil por el calor..." 
+    ] 
+  }, 
+  "15": { 
+    "name": [], 
+    "subtitle": [ 
+      "\"A los ojos de los monstruos, solo eres un lamentable y feo bebé prematuro...\"" 
+    ], 
+    "description": [ 
+      "Disfrazado de monstruo, ¡los monstruos no te atacarán activamente!" 
+    ] 
+  }, 
+  "16": { 
+    "name": [], 
+    "subtitle": [ 
+      "\"¿Ni siquiera puedes jugar a un juego tan simple? Qué ZAKO~\"" 
+    ], 
+    "description": [ 
+      "¡Certificada como ZAKO por hacer trampa!" 
+    ] 
+  },     
+  "28": { 
+    "name": [], 
+    "subtitle": [ 
+	  "Juegos " 
+	], 
+    "description": [ 
+      ""	 
+    ], 
+	"variants": { 
+		"0": { 
+           "description": [ 
+             "Está muy concentrada en el juego, ", 
+			 "Mejor no molestarla demasiado..." 
+           ] 
+		},		 
+		"1": { 
+           "description": [ 
+			 "Sigue jugando...", 
+			 "¿Debería molestarla un poco?" 
+           ] 
+		} 
+	}	 
+  },    
+  "29": { 
+    "name": [], 
+    "subtitle": [ 
+	  "Bañarse " 
+	], 
+    "description": [ 
+      ""	 
+    ], 
+	"variants": { 
+		"0": { 
+           "description": [ 
+             "\\str[120] está en el baño; puedo", 
+			 "distinguir vagamente su silueta" 
+           ] 
+		},		 
+		"1": { 
+           "description":[ 
+			 "\\str[120] se está secando el pelo ", 
+			 "con una toalla" 
+           ] 
+		} 
+	}	 
+  }, 
+  "30": { 
+    "name": [], 
+    "subtitle": [ 
+	  "Descansando " 
+	], 
+    "description": [ 
+      "" 
+    ], 
+	"variants": { 
+		"0": { 
+           "description": [
+             "\\str[120] se ve muy feliz,", 
+			 "¿Pasó algo interesante?" 
+           ] 
+		},		 
+		"1": { 
+           "description": [ 
+             "\\str[120] se está poniendo más linda", 
+			 "¡Quizás dale unas palmaditas!" 
+           ] 
+		}, 
+		"2": { 
+           "description": [ 
+             "\\str[120] solo está sentada", 
+			 "ahí. Intenta hablar con ella…" 
+           ] 
+		}, 
+		"3": { 
+           "description": [ 
+             "\\str[120] se ve un poco triste", 
+			 "¿Quizás intentes consolarla?" 
+           ] 
+		}, 
+		"4": { 
+           "description": [ 
+             "\\str[120] parece un poco rara", 
+			 "Me pregunto qué se podría hacer…" 
+           ] 
+		}, 
+		"5": { 
+           "description": [ 
+             "\\str[120] se ve somnolienta", 
+			 "¿Quizás es hora de dormir?" 
+           ] 
+		} 
+	} 
+  },     
+  "31": { 
+    "name": [], 
+    "subtitle": [ 
+	  "Durmiendo " 
+	], 
+    "description": [ 
+      "" 
+    ], 
+	"variants": { 
+		"0": { 
+           "description": [ 
+             "Dormida como una planta…", 
+			 "incapaz de ser despertada…" 
+           ] 
+		},		 
+		"1": { 
+           "description": [ 
+             "Profundamente dormida…", 
+			 "Parece difícil despertarla" 
+           ] 
+		}, 
+		"2": { 
+           "description": [ 
+             "Durmiendo profundamente", 
+			 "completamente inmersa en sus sueños…" 
+           ] 
+		}, 
+		"3": { 
+           "description": [ 
+             "Sus pestañas se mueven", 
+			 "como si murmurara en un sueño" 
+           ] 
+		}, 
+		"4": { 
+           "description": [ 
+             "Parece medio despierta", 
+			 "murmurando sin querer" 
+           ] 
+		}, 
+		"5": { 
+           "description":[ 
+             "\\str[120] está casi despierta", 
+			 "pero sus sentidos aún están nublados" 
+           ] 
+		} 
+	} 
+  },    
+  "32": { 
+    "name": [], 
+    "subtitle": [ 
+	  "Hambrienta " 
+	], 
+    "description": [ 
+      ""	 
+    ], 
+	"variants": { 
+		"0": {
+           "description": [ 
+             "\\str[120] está esperando tranquilamente ", 
+			 "la cena" 
+           ] 
+		},		 
+		"1": { 
+           "description": [ 
+			 "\\str[120] parece un poco preocupada", 
+			 "por el sabor de la cena…" 
+           ] 
+		}, 
+		"2": { 
+           "description": [ 
+			 "\\str[120] parece ", 
+			 "quiere ayudar" 
+           ] 
+		} 
+	}	 
+  },    
+  "33": { 
+    "name": [], 
+    "subtitle": [ 
+	  "Relajándose " 
+	], 
+    "description": [ 
+      ""	 
+    ], 
+	"variants": { 
+		"0": { 
+           "description": [ 
+             "\\str[120] está lamiendo su paleta…", 
+			 "parece demasiado indefensa..." 
+           ] 
+		} 
+	}	 
+  },    
+  "34": { 
+    "name": [], 
+    "subtitle": [ 
+	  "Cepillando " 
+	], 
+    "description": [ 
+      ""	 
+    ], 
+	"variants": { 
+		"0": { 
+           "description": [ 
+             "\\str[120] cepillarse los dientes perezosamente", 
+			 "todavía con aspecto de estar medio dormida..." 
+           ] 
+		} 
+	}	 
+  }, 
+  "35": { 
+    "name": [], 
+    "subtitle": [], 
+    "description": [ 
+      "✦(Siente como si el cuerpo se estuviera ", 
+	  "volviendo tan ligero...)" 
+    ] 
+  }, 
+  "36": { 
+    "name": [], 
+    "subtitle": [], 
+    "description": [ 
+      "✦la mente empieza a relajarse—" 
+    ] 
+  }, 
+  "40": { 
+    "name": [], 
+    "subtitle": [ 
+      "Llorando "	 
+	],	 
+    "description": [ 
+      "" 
+    ], 
+	"variants": { 
+		"0": { 
+           "description": [ 
+             "\\c[10]Comió demasiada comida picante..." 
+           ] 
+		} 
+	}	 
+  }, 
+  "41": { 
+    "name": [],
+    "subtítulo": [], 
+    "descripción": [ 
+      "✦Satisfecho después de comer", 
+      "\\str[120] ¡se siente feliz!" 
+    ] 
+  },   
+  "42": { 
+    "name": [], 
+    "subtítulo": [ 
+	  "\\str[120] viendo la televisión" 
+	], 
+    "descripción": [ 
+      ""	 
+    ], 
+	"variantes": { 
+		"0": {
+           "description": [ 
+             "\\str[120] se acurruca como un gatito, ", 
+			 "me mira furtivamente." 
+           ] 
+		}, 
+		"1": { 
+           "description": [ 
+             "Se apretó contra la mía, ", 
+			 "como si estuviera sosteniendo una almohada cálida." 
+           ] 
+		} 
+	}	 
+  },    
+  "43": { 
+    "name": [], 
+    "subtitle": [ 
+	  "Asustada \\str[120]" 
+	], 
+    "description": [ 
+      ""	 
+    ], 
+	"variants": { 
+		"0": { 
+           "description": [ 
+             "\\str[120] se aferró fuertemente a mí, ", 
+			 "su cuerpo temblaba ligeramente…" 
+           ] 
+		}, 
+		"1": { 
+           "description": [ 
+             "Nuestros cuerpos estaban completamente entrelazados, ", 
+			 "intercambiando calor el uno con el otro…" 
+           ] 
+		}	 
+	}	 
+  },   
+  "45": { 
+    "name": [], 
+    "subtitle": [ 
+      "\"Se lo prometí a mi querida hermana, así que debo cumplirlo\"" 
+    ], 
+    "description": [ 
+      "No vuelvas a casa malherida…" 
+    ] 
+  }, 
+  "46": { 
+    "name": [], 
+    "subtitle": [ 
+      "\"Se lo prometí a mi querida hermana, así que debo cumplirlo\"" 
+    ], 
+    "description": [ 
+      "Cocina un plato de carne" 
+    ] 
+  }, 
+  "54": { 
+    "name": [], 
+    "subtitle": [ 
+      "\"crujido... crujido...\"" 
+    ], 
+    "description": [ 
+      "Un grupo de pequeñas criaturas te vigila de cerca..." 
+    ] 
+  }, 
+  "55": { 
+    "name": [], 
+    "subtitle": [ 
+      "\"Este es mi dominio, así que no se permiten travesuras~♥\"" 
+    ], 
+    "description": [ 
+      "¡Ataque prohibido! ¡Los monstruos cercanos están llenos de miedo!" 
+    ] 
+  }, 
+  "57": { 
+    "name": [], 
+    "subtitle": [ 
+      "\"Siento que puedo hacer cualquier cosa ahora mismo\"" 
+    ],
+    "description": [ 
+      "Modo Sabio activado, todas las estadísticas aumentaron" 
+    ] 
+  }, 
+  "58": { 
+    "name": [], 
+    "subtitle": [ 
+      "\"Comí algo en mal estado...\"" 
+    ], 
+    "description": [ 
+      "¡El dolor de estómago no para!" 
+    ] 
+  }, 
+  "59": { 
+    "name": [],
+    "subtitle": [], 
+    "description": [ 
+      "...¿Olvidaste algo importante? Quizás vuelva más tarde." 
+    ] 
+  }, 
+  "60": { 
+    "name": [], 
+    "subtitle": [], 
+    "description": [ 
+      "Desprende un hedor constante..." 
+    ] 
+  }, 
+  "61": { 
+    "name": [], 
+    "subtitle": [ 
+      "\"Me arde el trasero...\"" 
+    ], 
+    "description": [ 
+      "¡No puedo correr ni escabullirme por el dolor de trasero!" 
+    ] 
+  }, 
+  "62": { 
+    "name": [], 
+    "subtitle": [], 
+    "description": [ 
+      "Concentración para el siguiente golpe, velocidad de movimiento reducida" 
+    ] 
+  }, 
+  "63": { 
+    "name": [], 
+    "subtitle": [ 
+	  "\"Triplica la velocidad de True Red\"" 
+	], 
+    "description": [ 
+      "" 
+    ] 
+  }, 
+  "64": { 
+    "name": [], 
+    "subtitle": [], 
+    "description": [ 
+      "¡Senpo en enfriamiento!" 
+    ] 
+  }, 
+  "65": { 
+    "name": [], 
+    "subtitle": [], 
+    "description": [ 
+      "Me siento mareado..." 
+    ] 
+  }, 
+  "67": { 
+    "name": [], 
+    "subtitle": [], 
+    "description": [ 
+      "Flotando en el agua. Movimientos ralentizados, ¡no puedo atacar!" 
+    ] 
+  }, 
+  "68": { 
+    "name": [], 
+    "subtitle": [], 
+    "description": [ 
+      "¡Cantando un hechizo!" 
+    ] 
+  }, 
+  "71": { 
+    "name": [], 
+    "subtitle": [ 
+      "\"Comí algo delicioso, cálido y acogedor por dentro~\"" 
+    ], 
+    "description": [ 
+      "Recupera una pequeña cantidad de salud cada segundo" 
+    ] 
+  }, 
+  "72": { 
+    "name": [], 
+    "subtitle": [ 
+      "\"¡Poder... surgiendo a través de mí!\"" 
+    ], 
+    "description":[ 
+      "Poder de ataque\\c[10]+50%\\c[0]" 
+    ] 
+  }, 
+  "73": { 
+    "name": [], 
+    "subtitle": [ 
+      "\"Estoy empezando a entenderlo todo\"" 
+    ], 
+    "description": [ 
+      "Poder de ataque mágico\\c[10]+50%\\c[0]" 
+    ] 
+  }, 
+  "74": { 
+    "name": [], 
+    "subtitle": [ 
+      "\"¿Puedes seguir mi ritmo... de VELOCIDAD?\""
+    ], 
+    "description": [ 
+      "Aumenta la velocidad de movimiento" 
+    ] 
+  }, 
+  "75": { 
+    "name": [], 
+    "subtitle": [ 
+      "\"Descenso de arma divina\"" 
+    ], 
+    "description": [ 
+      "¡Arma Gigantificada, aumento de daño!" 
+    ] 
+  }, 
+  "77": { 
+    "name": [], 
+    "subtitle": [ 
+      "\"Llama de renacimiento\"" 
+    ], 
+    "description": [ 
+      "Permite una resurrección mientras el efecto está activo" 
+    ] 
+  }, 
+  "78": { 
+    "name": [], 
+    "subtitle": [ 
+      "\"Giro del destino...\"" 
+    ], 
+    "description": [ 
+      "¡Bendecido por el destino: es más probable que sucedan cosas buenas!" 
+    ] 
+  }, 
+  "79": { 
+    "name": [],  
+    "subtitle": [ 
+      "\"Giro del destino...\"" 
+    ], 
+    "description": [ 
+      "¡Bendecido por el destino: es más probable que sucedan cosas tristes!" 
+    ] 
+  }, 
+  "80": { 
+    "name": [], 
+    "subtitle": [ 
+	  "\"Triple velocidad de Rojo Verdadero\"" 
+	], 
+    "description": [ 
+      "" 
+    ] 
+  }, 
+  "85": { 
+    "name": [], 
+    "subtitle": [ 
+      "\"Pero sabe fatal...\"" 
+    ], 
+    "description": [ 
+      "Rebosante de vitalidad: ¡PUNTOS DE VIDA MÁXIMOS MÁS!" 
+    ] 
+  }, 
+  "86": { 
+    "name": [], 
+    "subtitle": [ 
+      "\"PROBLEMA DE HABILIDAD\"" 
+    ], 
+    "description": [ 
+      "¡Te han provocado sin piedad! ¡Tu defensa y suerte han disminuido considerablemente!" 
+    ] 
+  }, 
+  "90": { 
+    "name": [], 
+    "subtitle": [ 
+      "「¡No mires al arbusto, idiota!」" 
+    ], 
+    "description": [ 
+      "Estar en el arbusto se siente seguro... Los puntos de vida se regeneran automáticamente" 
+    ] 
+  }, 
+  "98": { 
+    "name": [],
+    "subtitle": [ 
+      "\"Siento que mi hermana está a mi lado...\"" 
+    ], 
+    "description": [ 
+      "¡Regenerando HP!" 
+    ] 
+  }, 
+  "99": { 
+    "name": [], 
+    "subtitle": [ 
+      "\"¡Somos los guardianes!\"" 
+    ], 
+    "description": [ 
+      "Poder de ataque +30" 
+    ] 
+  }, 
+  "101": {
+    "name": [], 
+    "subtitle": [ 
+      "\"¡MIRA EN MIS OJOS MALVADOS Y VERÁS ALGO DENTRO!\"" 
+    ], 
+    "description": [ 
+      "¡Se vuelve invisible brevemente cada \\v[221] segundos!" 
+    ] 
+  }, 
+  "104": { 
+    "name": [], 
+    "subtitle": [ 
+      "\"¡Irradias gloria!\"" 
+    ], 
+    "description": [ 
+      "Todos los atributos aumentan, invencibilidad temporal" 
+    ] 
+  }, 
+  "105": { 
+    "name": [], 
+    "subtitle": [ 
+      "\"Comparte esta bendición contigo\"" 
+    ], 
+    "description": [ 
+      "duplicando el dinero ganado" 
+    ] 
+  }, 
+  "106": { 
+    "name": [], 
+    "subtitle": [ 
+      "\"No... No puedo levantarla...\"" 
+    ], 
+    "description": [ 
+      "¡No tengo suficiente fuerza para usar el arma por completo!" 
+    ] 
+  }, 
+  "107": { 
+    "name": [], 
+    "subtitle": [ 
+      "\"¡Somos los guardianes!\"" 
+    ], 
+    "description": [ 
+      "¡Velocidad de movimiento aumentada!" 
+    ] 
+  }, 
+  "108": { 
+    "name": [], 
+    "subtitle": [ 
+      "\"¡Somos los guardianes!\"" 
+    ], 
+    "description": [ 
+      "¡Ataque y defensa aumentados!" 
+    ] 
+  }, 
+  "109": { 
+    "name": [], 
+    "subtitle": [ 
+      "\"¡Somos los guardianes!\"" 
+    ], 
+    "description": [ 
+      "¡Defensa aumentada!" 
+    ] 
+  }, 
+  "110": { 
+    "name": [], 
+    "subtitle": [ 
+      "\"¡Somos los guardianes!\"" 
+    ], 
+    "description": [ 
+      "¡VIT y defensa máximas aumentadas!" 
+    ] 
+  }, 
+  "115": { 
+    "name": [], 
+    "subtitle": [ 
+      "\"El corazón del espantapájaros inmortal, pero la decadencia es el destino\"" 
+    ], 
+    "description":[ 
+      "¡No recuperas HP!" 
+    ] 
+  }, 
+  "116": { 
+    "name": [], 
+    "subtitle": [ 
+      "\"La codicia sin fin te ha encontrado—\"" 
+    ], 
+    "description": [ 
+      "¡Suelta el dinero retenido al recibir daño!" 
+    ] 
+  }, 
+  "117": { 
+    "name": [], 
+    "subtitle": [ 
+      "\"Así obtendrás la gloria del mundo, y toda la oscuridad huirá\"" 
+    ],
+    "description": [ 
+      "" 
+    ] 
+  }, 
+  "122": { 
+    "name": [], 
+    "subtitle": [ 
+      "\"Je, je, sobreviviré, lo juro\"" 
+    ], 
+    "description": [ 
+      "Restaura HP de forma permanente y automática" 
+    ] 
+  } 
+}

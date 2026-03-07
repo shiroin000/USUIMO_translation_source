@@ -1,0 +1,247 @@
+{
+	"gameTitle": [
+		"Cuộc Sống Giản Dị Bên Em Gái Dịu Dàng Của Tôi "
+	],
+	"goldHeld": [
+		"Yên"
+	],
+	"quantityHeld": [
+		"\\fs[16]•Số lượng hiện có:\\c[17] ${} \\c[0]\\py[-8]"
+	],
+	"autoUpdate": [
+		"Có bản cập nhật khả dụng: Đã phát hiện dữ liệu game phiên bản ${}. ",
+		"Bạn có muốn tải xuống và cập nhật ngay bây giờ không?"
+	],
+	"fullScreen": [
+		"Chế độ toàn màn hình"
+	],
+	"masterVolume": [
+		"Âm lượng tổng"
+	],
+	"voiceVolume": [
+		"Âm lượng thoại"
+	],
+	"BgmVolume": [
+		"Âm lượng nhạc nền"
+	],
+	"BgsVolume": [
+		"Âm lượng hiệu ứng nền"
+	],
+	"SeVolume": [
+		"Âm lượng hiệu ứng"
+	],
+	"MaxPlayerMsgs": [
+		"Số tin nhắn tối đa"
+	],
+	"GameFAQ": [
+		"Hướng dẫn chơi game"
+	],
+	"ShowWeaponDurability": [
+		"Hiển thị độ bền vũ khí"
+	],
+	"DisableAutoUpdate": [
+		"Tắt cập nhật tự động"
+	],
+	"LockedFPS": [
+		"Khoá ở 60 FPS"
+	],
+	"Language": [
+		"Ngôn ngữ game"
+	],
+	"SwitchLanguage": [
+		"Phát hiện thay đổi ngôn ngữ game!",
+		"Khởi động lại để áp dụng cài đặt ngôn ngữ mới!"
+	],
+	"ErrorReport": [
+		"Đã xảy ra lỗi. Vui lòng báo lỗi trên server Discord của NLCH.",
+		"(Nhấn 'OK' để mở liên kết mời Discord)",
+		"(Đính kèm ảnh chụp màn hình của lỗi)"
+	],
+	"UpdateComplete1": [
+		"Cập nhật game đã hoàn tất!",
+		"Game sẽ tự động khởi động lại sau khi đóng cửa sổ này.",
+		"Bạn có thể load file auto-save để tiếp tục tiến trình!"
+	],
+	"UpdateComplete2": [
+		"Cập nhật game đã hoàn tất!",
+		"Game sẽ khởi động lại trong giây lát để áp dụng bản cập nhật!"
+	],
+	"RemindToUpdate": [
+		"Đã xảy ra lỗi và game bị treo.",
+		"Một bản vá mới hơn đã có sẵn—",
+		"Vui lòng sử dụng cập nhật tự động để khắc phục sự cố!"
+	],
+	"bagFull": [
+		"Vượt quá giới hạn kho đồ!!"
+	],
+	"noStatusEffects": [
+		"Không có bất kì hiệu ứng nào!!"
+	],
+	"unimplementedDoor": [
+		"Cánh cửa này không thể mở được từ phía này"
+	],
+	"zipUpdateComplete": [
+		"Bản vá đã được cài đặt thành công. ",
+		"Đang khởi động lại game để áp dụng cập nhật!"
+	],
+	"zipUpdateFail": [
+		"Không thể giải nén và cài đặt bản vá!",
+		"Vui lòng thử cập nhật tự động lại hoặc",
+		"giải nén thủ công các tệp bản vá để cài đặt!"
+	],
+	"fileDownloadedSuccessfully": [
+		"${} tải xuống thành công!"
+	],
+	"fileDownloadFailed": [
+		"${} tải xuống thất bại! Đang thử lại!"
+	],
+	"installPatch": [
+		"Bản vá cần được giải nén và cài đặt. Quá trình này có thể làm game giật lag, vui lòng kiên nhẫn!"
+	],
+	"totalFilesToUpdate": [
+		"Phát hiện ${} tệp cần cập nhật—bắt đầu quá trình tải xuống!"
+	],
+	"silentUpdateSuccess": [
+    	"Nội dung bản vá mới cho ${} đã được cài đặt thành công và sẽ có hiệu lực sau lần khởi động lại tiếp theo."
+  	],
+	"outdatedVersionWarning": [
+		"Phiên bản trò chơi hiện tại của bạn đã cũ. Phiên bản mới nhất là ${}.",
+		"Các bản cập nhật lớn không hỗ trợ cập nhật tự động. ",
+		"Vui lòng tải lại trò chơi từ nguồn chính thức."
+  	],
+	"renameCharacter": [
+		"Tôi nhớ ra rồi—",
+		"em ấy là..."
+	],
+	"heroName": [
+		"Onii-chan"
+	],
+	"heroineName": [
+		"Em gái"
+	],
+	"nonHardwareAccelerated": [
+		"Game hiện đang chạy trên card đồ họa tích hợp!",
+		"Nếu PC của bạn có card đồ họa rời, chúng tôi khuyến nghị thiết lập Game.exe ",
+		"để sử dụng card đó trong graphics control panel để có trải nghiệm mượt mà hơn."
+	],  
+	"isAmdCPU": [
+		"Hệ thống phát hiện CPU của bạn là bộ xử lý AMD.",
+		"Một số chip AMD có thể gặp hiện tượng giật khung hình khi phát video VP9 (WebM) ",
+		"trong môi trường Chromium. Nếu gặp vấn đề này, hãy thử để game ",
+		"sử dụng GPU rendering hoặc cập nhật driver để cải thiện."
+	],
+	"failedToLoad": [
+		"Loại sự cố này có thể do:",
+		"① Tệp game bị hỏng hoặc tên tệp bị lỗi do vấn đề mã hóa trong quá trình giải nén/cài đặt.",
+		"② Nhà phát triển quên không đưa tệp vào—hãy chờ bản vá cập nhật để khắc phục."
+	],
+	"LowResMode": [
+		"Chế độ đồ họa thấp"
+	],
+	"lowResModeWarning": [
+		"Tính năng này chủ yếu dùng để tối ưu hiệu suất trên thiết bị Android và có thể ít tác dụng trên phiên bản PC.",
+		"Khi bật, trò chơi sẽ hiển thị bản đồ và hình ảnh ở độ phân giải thấp hơn rồi phóng to lên, ",
+		"giúp giảm tải cho GPU trên thiết bị di động, đồng thời giảm nhiệt và tiết kiệm pin.",
+		"Lưu ý: Đây là một tính năng thử nghiệm, hiệu quả có thể khác nhau tùy theo thiết bị.",
+		"Bạn có thể tắt tính năng này bất cứ lúc nào để khôi phục ngay chất lượng hình ảnh đầy đủ."
+	],
+	"cloudSaveServiceWarning": [
+		"Do cơ sở dữ liệu lưu trữ đám mây vẫn đang trong quá trình phát triển,",
+		"tính năng này sẽ tạm thời yêu cầu quyền truy cập vào Google Drive của bạn",
+		"để lưu các tệp save game trong thư mục NLCH/save.",
+		"Các bản lưu được tải lên sẽ chỉ được dùng cho việc đồng bộ trong tương lai ",
+		"và tải ngược trở lại vào trò chơi, sẽ không được sử dụng cho bất kỳ mục đích nào khác.",
+		"Bạn có đồng ý cấp quyền để trò chơi truy cập Google Drive của mình không?"
+	],
+	"uploadSaveFile": [
+		"Việc tải tệp save lên Google Drive sẽ ghi đè dữ liệu save hiện tại của bạn!",
+		"Bạn có muốn tiếp tục không?"
+	],
+	"nearbyMonstersCount": [
+		"Phát hiện quái vật đang ở gần"
+	],
+	"nearbyTreasuresCount": [
+		"Phát hiện Kho báu đang ở gần"
+	],
+	"underwaterTreasuresCount": [
+		"Phát hiện Kho báu dưới nước đang ở gần"
+	],
+  	"steamWishlist": [
+		"Trang Steam của chúng tôi cuối cùng cũng đã mở!",
+		"Hãy thêm thêm tựa game vào Wishlist của bạn và ủng hộ bọn tôi nhé! (*´∀`)~♥",
+		"⬇Nhấn vào bên dưới để mở trang Steam."
+	],
+	"memberMenu": {
+		"firstTimeNotice": [
+			"Tính năng xác minh quyền sở hữu này hiện vẫn đang trong giai đoạn thử nghiệm.",
+			"Bạn có thể đăng nhập Patreon tại đây, ",
+			"hoặc liên kết tài khoản Itch để xác minh quyền sở hữu.",
+			"Nếu bạn có đăng ký Patreon đang hoạt động ",
+			"hoặc đã sở hữu trò chơi trên Itch,",
+			"bạn có thể sử dụng các tính năng như tự động cập nhật phiên bản lớn.",
+			"",
+			"Xin lưu ý:",
+			"Hiện tại, xác minh chỉ khả dụng cho người chơi ",
+			"đã mua trò chơi trên Itch hoặc Patreon, ",
+			"hoặc người chơi có đăng ký Patreon trả phí."
+		],
+		"shortHint": " Đã có thể bật lưu trữ đám mây & cập nhật phiên bản lớn",
+		"waitingLogin": "Đang chờ việc hoàn tất đăng nhập...",
+		"notLoggedIn": "Chưa đăng nhập",
+		"RequestingLogin": "Đang tạo link đăng nhập...",
+		"openingWindow": "Đang mở cửa sổ đăng nhập Patreon...",
+		"cloudSave": "Sử dụng lưu trữ đám mây",
+		"logInFirst": "Vui lòng nhấn nút này để đăng nhập trước",
+		"CheckUpdates": "Cập nhật lên phiên bản mới nhất",
+		"Subscribed": "Đã xác nhận đăng ký!",
+		"subscribedAndItchUser": "Đã xác nhận đăng ký! (Đã xác minh quyền sở hữu trên Itch)",
+		"NotSubscribed": "Không phát hiện đăng ký đang hoạt động. Một số tính năng sẽ không khả dụng.",
+		"lastCheck": "Lần kiểm tra cuối: ",
+		"checkLatestVersion": "Đang kiểm tra phiên bản mới nhất, vui lòng chờ...",
+		"isLatestVersion": "Bạn đã ở phiên bản mới nhất!",
+		"notSponsor": "Người dùng chưa xác minh cần đăng ký!",
+		"ImoutoFavorite": "Được Imouto yêu thích!",
+		"itchUser": "Đã xác nhận người dùng Itch!",
+		"nonItchUser": "Không tìm thấy trò chơi này trong thư viện Itch của bạn!",
+		"itchVerifyNotice": "Bạn có thể xác minh quyền sở hữu bản Itch tại đây",
+		"itchVerifyAlert": "Vui lòng đăng nhập trước khi kiểm tra bản Itch!",
+		"majorUpdateFailed": [
+			"Cập nhật phiên bản lớn thất bại!",
+			"Mã lỗi: ${}",
+			"Vui lòng thử đăng nhập để xác minh rồi bắt đầu cập nhật lại,",
+			"hoặc gửi ảnh chụp màn hình này lên Discord của chúng tôi để được hỗ trợ!"
+		]
+  	},
+	"AdventurersPathway": {
+    	"mapName": " -Đại Lộ Nhà Thám Hiểm- "
+  	},
+  	"ShallowRuinsLabyrinth": {
+    	"mapName": " -Mê Cung Tàn Tích Tầng Nông- ",
+		"mapDescription": " Một mê cung rộng lớn chứa đầy những bí ẩn vô tận "
+ 	},
+  	"ForgottenCatacombe": {
+    	"mapName": " -Địa Quật Bị Lãng Quên- "
+  	},
+  	"ForestofRuins": {
+    	"mapName": " -Rừng Phế Tích- "
+  	},
+  	"AbandonedForest": {
+    	"mapName": " -Rừng Hoang Phế- "
+  	},
+  	"ExcavationSite": {
+    	"mapName": " -Khu Khai Quật- "
+  	},
+  	"TheFallenChurch": {
+    	"mapName": " -Nhà Thờ Sa Ngã- "
+  	},
+  	"DoorofStar": {
+    	"mapName": " -Cánh Cổng Tinh Quang- "
+  	},
+  	"ScorchingLavaZone": {
+    	"mapName": " -Hoả Diệm Chi Vực- ",
+		"mapDescription": " Một vùng đất bừng cháy được dệt nên từ lửa, nơi những thử thách thiêu đốt vĩnh hằng "
+  	},
+  	"Nibelungen": {
+    	"mapName": " -Vùng Đất Nibelungen- "
+  	}
+}

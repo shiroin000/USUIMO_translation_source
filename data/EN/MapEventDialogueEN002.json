@@ -1,0 +1,75 @@
+{
+  "father": [	              
+            "Man"
+    ],
+  "2": {
+        "0": [
+            "A heavy, suffocating air filled the dimly lit room."
+		],
+		"1": [
+            "\"Cough\\w[30]... cough, cough...\\w[30]\""
+        ],
+        "2": [
+            "The man lay weakly on the bed,",
+            "the fabric covering him trembling with his ",
+			"shallow breaths, as if it might stop moving ",
+			"at any moment."
+        ],
+        "3": [
+            "Even as a naive boy,",
+			"I instinctively sensed from that frail body ",
+			"and pale face that this was what it looked like ",
+			"when a life was about to burn out."
+        ],
+        "4": [
+            "\"You’ll probably have a tough time after this...\""
+        ],
+        "5": [
+            "His voice was hoarse and weak, each word sounding ",
+			"like it drained what little life he had left,",
+			"painfully forced out of his throat."
+        ],
+        "6": [
+            "\"I know this isn’t something a father should say...  \\w[30]",
+			"but I still hope you can promise me—\""
+        ],
+        "7": [
+            "\"…………？\""
+        ],
+        "8": [
+            "I stood there in a daze, ",
+			"unable to process this sudden final message, ",
+			"my mind completely blank."
+        ],
+        "9": [
+            "Ah... these were important words, ",
+			"and yet I couldn’t focus at all",
+			"I could only stare blankly at my father's face ",
+			"as the light slowly left it."
+        ],	
+        "10": [
+            "\"…Please take care of her,  \\w[30]",
+			"from now on, treat her as your ○○—"
+        ],	
+        "11": [
+            "His voice faded like smoke in the wind, ",
+			"too faint to finish his final words. ",
+			"He slowly turned his head toward ",
+			"a shadowed corner of the room."
+        ],	
+        "12": [
+            "That corner was shrouded in heavy shadows,",
+			"as if it concealed something of great importance."
+        ],
+        "13": [
+            "This man, who was both my father and my master,",
+			"took his last breath just like that.",
+			"His eyes remained open, ",
+			"but the light of life had already left them."
+        ],
+        "14": [
+            "Unconsciously, my eyes followed his gaze as well,",
+			"looking toward that mysterious corner—————"
+        ]		
+    }
+}

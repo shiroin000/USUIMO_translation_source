@@ -1,0 +1,112 @@
+{ 
+  "0": [ 
+    "✦Una taza que le gusta a \\str[120], ", 
+    "con un extraño diseño de conejo. ", 
+    "Parece ser un éxito de ventas en NLCH." 
+  ], 
+  "1": [ 
+    "✦La pequeña linterna que dejó Padre, ", 
+    "parece ser una herramienta alquímica.", 
+    "Es muy duradera a pesar de su edad y ", 
+    "emite una luz cálida y reconfortante." 
+  ], 
+  "2": [ 
+    "✦Una linda lamparita de noche con iluminación suave, ", 
+    "perfecta para encender al levantarse", 
+    "para usar el baño por la noche." 
+  ], 
+  "3": [ 
+    "✦Una planta frondosa llamada “Ficus umbellata”. ", 
+    "Está prosperando y parece que \\str[120] la cuida ", 
+    "muy bien todos los días." 
+  ], 
+  "4": [ 
+    "✦Una planta frondosa llamada “Pothos”.", 
+    "No se ve muy saludable, ", 
+    "así que \\str[120] la colocó junto a la ventana.", 
+    "¿Debería decirle que al pothos en realidad ", 
+    "no le gusta la luz del sol...? " 
+  ], 
+  "5": [ 
+    "✦Algunos libros que \\str[120] recogió ", 
+    "del estudio de papá.", 
+    "Son en su mayoría libros de filosofía y ", 
+    "completamente incomprensibles. " 
+  ], 
+  "6": [ 
+    "✦Recogí una rama de abedul seca en el ", 
+    "camino a casa; pensé que se veía genial, ", 
+    "así que se la mostré a \\str[120].", 
+    "Ella la puso silenciosamente en un jarrón." 
+  ], 
+  "7": [ 
+    "✦Un boceto de pájaro dibujado por \\str[120], ", 
+    "aparentemente basado en pájaros que vio ", 
+    "mientras miraba por la ventana." 
+  ], 
+  "8": [ 
+    "✦Un ventilador pequeño y viejo con poco flujo de aire.", 
+    "Tienes que acercarte mucho para", 
+    "sentir la brisa fresca." 
+  ], 
+  "9": [ 
+    "✦Un secador de pelo de última generación con", 
+    "un flujo de aire increíblemente fuerte.", 
+    "Si lo apuntas a la cara, se siente",
+    "como si el viento te pudiera arrancar la piel." 
+  ], 
+  "10": [ 
+    "✦Una bañera con ajustes de temperatura,", 
+	"pero con un rango de 99 °C a -10 °C...",
+    "¿De verdad está bien?" 
+  ], 
+  "11": [ 
+    "✦Un champú con aroma a frutas que le encanta a \\str[120].", 
+    "Le deja el pelo súper sedoso", 
+    "pero se acaba demasiado rápido.", 
+    "Actual restante:\\c[20]${$gameSelfVariables.value([6, 8, 'shampoo'])}%" 
+  ], 
+  "12": [ 
+    "✦Parece la ropa interior ",
+    "\\str[120] acaba de despegar...", 
+    "Está perfectamente doblada." 
+  ], 
+  "13": [ 
+    "✦Una consola de juegos legendaria que ahora es extremadamente rara.", 
+    "Tener una te convertiría en una leyenda entre los jugadores." 
+  ], 
+  "14": [ 
+    "✦Una muñeca que papá le regaló a \\str[120] ", 
+    "en su cumpleaños. La atesora profundamente ", 
+    "y siempre la tiene a su lado." 
+  ], 
+  "15": [ 
+    "\\fr\\fs[20]\\c[10]Círculo Mágico Perdido", 
+    "\\fs[22]\\i[16]???\\fr", 
+    "✦Un Espacio de Otro Mundo creado por ", 
+    "una carta mágica heredada de su padre.", 
+    "Completamente inafectado por el tiempo, ", 
+    "los objetos almacenados aquí nunca desaparecen.", 
+    "Este círculo también está conectado a la entrada de la casa, ", 
+    "lo que permite un regreso estable y seguro.", 
+    "Si esto fue diseñado deliberadamente por su padre, ", 
+    "previendo el inevitable descenso de su hijo, ", 
+    "al abismo, ahora se desconoce..." 
+  ], 
+  "16": [ 
+    "\\fr\\fs[28]\\c[114]Gran Laberinto", 
+    "\\fr\\fs[22]\\i[16]???", 
+    "✦La leyenda habla de corredores abandonados por los dioses, ", 
+	"que se extienden aquí hacia Infinito.", 
+    "Bajo cúpulas desmoronadas y antiguas enredaderas entrelazadas, ", 
+	"el resplandor de una civilización perdida aún perdura.", 
+    "Innumerables aventureros se han aventurado en su interior, para nunca regresar—", 
+    "El Laberinto no rechaza a ningún huésped; solo decide quién puede irse." 
+  ], 
+  "17": [ 
+    "✦Un televisor de 85 pulgadas construido con la última tecnología.", 
+    "Sin embargo, no recibe muchos", 
+	"canales de transmisión. Para ver programas más interesantes, ", 
+	"tengo que encontrar algunas cintas de video de alguna manera." 
+  ] 
+}

@@ -1,0 +1,146 @@
+{
+  "gameTitle": [
+    "Une vie simple avec ma sœur discrète"
+  ],
+  "quantityHeld": [
+    "\\fs[16]•Quantité en stock:\\c[17] ${} \\c[0]\\py[-8]"
+  ],
+  "autoUpdate": [
+    "Mise à jour disponible : données de jeu de la version ${} détectées.",
+    "Souhaitez-vous télécharger et mettre à jour maintenant?"
+  ],
+  "fullScreen": [
+    "Plein écran"
+  ],
+  "masterVolume": [
+    "Volume principal"
+  ],
+  "voiceVolume": [
+    "volume de la voix"
+  ],
+  "BgmVolume": [
+    "Volume de la musique de fond"
+  ],
+  "BgsVolume": [
+    "Volume BGS"
+  ],
+  "SeVolume": [
+    "SE Volume"
+  ],
+  "MaxPlayerMsgs": [
+    "Messages max. du joueur"
+  ],
+  "GameFAQ": [
+    "FAQ du jeu"
+  ],
+  "ShowWeaponDurability": [
+    "Afficher la durabilité de l'arme"
+  ],
+  "DisableAutoUpdate": [
+    "Désactiver la mise à jour automatique"
+  ],
+  "LockedFPS": [
+    "Verrouillé à 60 FPS"
+  ],
+  "Language": [
+    "Langue du jeu"
+  ],
+  "SwitchLanguage": [
+    "Changement de langue du jeu détecté!",
+    "Redémarrage maintenant pour appliquer les nouveaux paramètres de langue!"
+  ],
+  "ErrorReport": [
+    "Une erreur s'est produite. Merci de signaler le bug sur le serveur Discord NLCH.",
+    "(Cliquez sur \" OK \" pour ouvrir le lien d'invitation)",
+    "(Joindre une capture d'écran de l'erreur)"
+  ],
+  "UpdateComplete1": [
+    "Mise à jour du jeu terminée!",
+    "Le jeu redémarrera automatiquement après la fermeture de cette fenêtre.",
+    "Tu peux charger la sauvegarde automatique pour reprendre la progression!"
+  ],
+  "UpdateComplete2": [
+    "Mise à jour du jeu terminée!",
+    "Le jeu va bientôt redémarrer pour appliquer la mise à jour!"
+  ],
+  "RemindToUpdate": [
+    "Une erreur s'est produite et le jeu est gelé.",
+    "Un nouveau patch est disponible—",
+    "Merci de utiliser la mise à jour automatique pour résoudre le problème!"
+  ],
+  "bagFull": [
+    "Limite d'inventaire dépassée!!"
+  ],
+  "unimplementedDoor": [
+    "Cette porte ne s'ouvre pas de ce côté"
+  ],
+  "zipUpdateComplete": [
+    "Patch installé avec succès.",
+    "Redémarrer le jeu pour appliquer la mise à jour!"
+  ],
+  "zipUpdateFail": [
+    "Échec de l'extraction et de l'installation du patch!",
+    "Merci de réessayer la mise à jour automatique ou",
+    "extrayez manuellement les fichiers de correctifs à installer!"
+  ],
+  "fileDownloadedSuccessfully": [
+    "${} téléchargé avec succès!"
+  ],
+  "fileDownloadFailed": [
+    "Échec du téléchargement de ${}! Réessayez!"
+  ],
+  "installPatch": [
+    "Le patch doit être extrait — installation en cours. Cela peut entraîner un ralentissement du jeu, veuillez patienter !"
+  ],
+  "totalFilesToUpdate": [
+    "Fichier(s) ${} détecté(s) à mettre à jour — démarrage du processus de téléchargement!"
+  ],
+  "noStatusEffects": [
+    "Aucun effet de statut !"
+  ],
+  "renameCharacter": [
+    "Je me souviens maintenant...",
+    "elle est..."
+  ],
+  "heroName": [
+    "Onii-chan"
+  ],
+  "heroineName": [
+    "Imouto"
+  ],
+  "nonHardwareAccelerated": [
+    "Le jeu fonctionne actuellement avec la carte graphique intégrée !",
+    "Si votre PC dispose d'un GPU dédié, nous vous recommandons de configurer Game.exe ",
+    "pour l'utiliser dans votre panneau de configuration graphique afin de bénéficier d'une expérience de jeu plus fluide."
+  ],
+  "isAmdCPU": [
+    "Votre processeur est détecté comme étant un processeur AMD.",
+    "Certaines puces AMD peuvent subir des baisses de fréquence d'images lors de la lecture de vidéos VP9 (WebM). ",
+    "dans un environnement Chromium. Si vous rencontrez ce problème, essayez de forcer le jeu à",
+    "Utilisez le rendu GPU ou mettez à jour vos pilotes pour aider à atténuer le problème."
+  ],
+  "failedToLoad": [
+    "Ce type de problème peut être causé par:",
+    "① Fichiers du jeu corrompus ou noms de fichiers illisibles en raison de problèmes d'encodage lors de l'extraction/l'installation.",
+    "② Le développeur a oublié d'inclure le fichier. Veuillez patienter jusqu'à la mise à jour du correctif pour corriger ce problème"
+  ],
+  "LowResMode": [
+    "Mode graphique faible"
+  ],
+  "lowResModeWarning": [
+    "Cette fonctionnalité sert principalement à optimiser les performances sur les appareils Android et peut avoir peu d'effet sur la version PC.",
+    "Lorsque cette option est activée, le jeu affiche les cartes et les images à une résolution inférieure, puis les agrandit, ",
+    "ce qui réduit la charge du processeur graphique sur les appareils mobiles et diminue la production de chaleur et la consommation d'énergie.",
+    "Remarque : il s'agit d'une fonctionnalité expérimentale dont l'efficacité peut varier en fonction de l'appareil.",
+    "Vous pouvez désactiver cette fonctionnalité à tout moment pour rétablir immédiatement la clarté totale de l'image."
+  ],
+  "nearbyMonstersCount": [
+    "Monstres détectés à proximité"
+  ],
+  "nearbyTreasuresCount": [
+    "Trésors détectés à proximité"
+  ],
+  "underwaterTreasuresCount": [
+    "Trésors sous-marins détectés"
+  ]
+}

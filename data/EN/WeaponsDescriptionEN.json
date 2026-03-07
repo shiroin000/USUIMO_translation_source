@@ -1,0 +1,823 @@
+{
+    "1": {
+        "name": [
+            "Hardwood sword"
+        ],
+        "subtitle": "",
+        "description": [
+            "It's said that the hero also began his",
+            "journey from the starting village with a wooden sword",
+            "This has become a goal for many adventurers to emulate"
+        ],
+        "ability": [
+            "Deals extra damage when the weapon nears breaking"
+        ]
+    },
+    "2": {
+        "name": [
+            "Hardwood stick"
+        ],
+        "subtitle": "",
+        "description": [
+            "A great shape sturdy wooden stick ",
+            "perfect for kids,It’s also decent as a weapon"
+        ],
+        "ability": [
+            "Deals extra damage when the weapon nears breaking"
+        ]
+    },
+    "3": {
+        "name": [
+            "Lumber Axe"
+        ],
+        "subtitle": "",
+        "description": [
+            "A reliable companion for adventurers or pioneers exploring",
+            "forests. However, as it’s not designed for combat,",
+            "don’t rely on it too much in battle"
+        ],
+        "ability": [
+            "Deals increased damage to trees"
+        ]
+    },
+    "4": {
+        "name": [
+            "Clenched Fist"
+        ],
+        "subtitle": "",
+        "description": [
+            "No weapon equipped? Then just unleash a flurry of punches!",
+            "It may be a quick fix, but a fist full of spirit packs a serious punch",
+            "Why use a weapon when your fists can do the job?"
+        ],
+        "ability": [
+            "Punch damage scales with max HP!"
+        ]
+    },
+    "5": {
+        "name": [
+            "Knight's sword"
+        ],
+        "subtitle": "",
+        "description": [
+            "A weapon used by father in his youth,",
+            "well-maintained and seemingly issued to court knights"
+        ],
+        "ability": [
+            "When HP<\\c[10]30%\\c[0], this weapon's attack doubles"
+        ]
+    },
+    "6": {
+        "name": [
+            "Lava Staff"
+        ],
+        "subtitle": "",
+        "description": [
+            "A wand made from volcanic minerals,easily",
+            "concentrates fire elements However, a slight mistake",
+            "can cause it to explode, engulfing the user"
+        ],
+        "ability": [
+            "Hold right mouse button to cast \\c[27]Crimson Lotus Meteor\\c[0]"
+        ]
+    },
+    "7": {
+        "name": [
+            "Ice Staff"
+        ],
+        "subtitle": "",
+        "description": [
+            "A wand made from magic crystals, unleashes wide-range",
+            "frost. Very hard to control.Feels like it’s freezing my hand"
+        ],
+        "ability": [
+            "Hold right mouse button to cast \\c[27]Frozen Spell\\c[0]"
+        ]
+    },
+    "8": {
+        "name": [
+            "Weird Feather"
+        ],
+        "subtitle": "",
+        "description": [
+            "A feather from a weird bird. Extremely light and can",
+            "easily generate enough force to blow someone away"
+        ],
+        "ability": [
+            "Movement speed increases when using Whirlwind Slash",
+			"Enters a float state immune to falling after spin speed increases"
+        ]
+    },
+    "9": {
+        "name": [
+            "Knight's sword"
+        ],
+        "subtitle": "",
+        "description": [
+            "Weapons assigned to the palace knights",
+            "They symbolize the path of protection for the knights"
+        ],
+        "ability": [
+            "When HP<\\c[10]30%\\c[0], this weapon's attack doubles"
+        ]
+    },
+    "10": {
+        "name": [
+            "Silver Greatsword"
+        ],
+        "subtitle": "",
+        "description": [
+            "A greatsword, seemingly forged from silver,",
+            "radiating a dazzling glow. Its surface shines cold and hard,",
+            "though its true material remains unknown"
+        ],
+        "ability": [
+            "When HP falls below \\c[29]400\\c[0], the weapon’s full potential is limited!"
+        ]
+    },
+    "11": {
+        "name": [
+            "Heavy Mallet"
+        ],
+        "subtitle": "",
+        "description": [
+            "A bulky wooden hammer",
+            "Getting hit on the head is sure to leave you dizzy!"
+        ],
+        "ability": [
+            "33% chance to inflict Stun state on attack",
+            "When HP falls below \\c[29]400\\c[0], the weapon’s full potential is limited!"
+        ]
+    },
+    "12": {
+        "name": [
+            "Baseball Bat"
+        ],
+        "subtitle": "",
+        "description": [
+            "A metal club. It’s said to be used for sports, ",
+            "but it’s also great for whacking people."
+        ],
+        "ability": [
+            "Durability Boost!",
+			"Reflected projectiles move faster and deal more damage"
+        ]
+    },
+    "13": {
+        "name": [
+            "Rotten Fishbone"
+        ],
+        "subtitle": [
+            "\"It's too smelly, throw it away!\""
+		],
+        "description": [
+            "Leftover bones from a large fish, with rotting meat",
+            "still clinging to them, emitting an unbearable stench"
+        ],
+        "ability": [
+            "66% chance to inflict Poison state on attack",
+			"Gives off a stench so foul, even monsters flee!"
+        ]
+    },
+    "14": {
+        "name": [
+            "Giant Crab Claw"
+        ],
+        "subtitle": "",
+        "description": [
+            "A massive crab claw that clamps on tight and won’t let go",
+            "Once it latches onto something, good luck getting it off"
+        ],
+        "ability": [
+            "When thrown, it clamps to the target, dealing constant damage",
+            "Cannot be retrieved unless the target dies"
+        ]
+    },
+    "15": {
+        "name": [
+            "Frostmoon"
+        ],
+        "subtitle": [
+		    "\"Licked the blade and got my tongue stuck… So cold, so painful!\"",
+			"\"\\str[121], don't lick random stuff!\""
+		],
+        "description": [
+            "A magic sword made of ice, just near it sends a chilling cold"
+        ],
+        "ability": [
+            "50% chance to inflict Freeze state on attack"
+        ]
+    },
+    "16": {
+        "name": [
+            "Leaky Electric Sword"
+        ],
+        "subtitle": [
+            "\"Zap... zap...!\""		
+		],
+        "description": [
+            "A cursed sword filled with wild energy, but it's still faulty",
+            "Be careful—it might shock the user as well"
+        ],
+        "ability": [
+            "50% chance to inflict Lightning state on attack"
+        ]
+    },
+    "17": {
+        "name": [
+            "Sunflare"
+        ],
+        "subtitle": [
+            "\"\\str[121], it looks scary, please don't hold it.\""		
+		],
+        "description": [
+            "A magic sword that has absorbed solar energy over time",
+            "It seems particularly effective against certain monsters"
+        ],
+        "ability": [
+            "40% chance to inflict Burn state on attack"
+        ]
+    },
+    "18": {
+        "name": [
+            "Orc Bone Axe"
+        ],
+        "subtitle": "",
+        "description": [
+            "A large axe made from the bones of defeated foes. Not",
+            "very sharp, and orcs often prefer to throw it rather than",
+            "use it in close combat"
+        ],
+        "ability": [
+            "Deals extra damage when the weapon is thrown"
+        ]
+    },
+    "19": {
+        "name": [
+            "Nichirin"
+        ],
+        "subtitle": "",
+        "description": [
+            "A replica forged in imitation of the forbidden blazing demon",
+            "sword from myth. Naturally, it cannot summon the earth-scorching ",
+			"hellfire like the true original."
+        ],
+        "ability": [
+            "May summon a meteor to strike a random location when attacking"
+        ]
+    },
+    "20": {
+        "name": [
+            "Rusty Iron Sword"
+        ],
+        "subtitle": "",
+        "description": [
+            "An old iron sword covered in rust, long since lost its sharpness",
+            "From another perspective, the corrosion itself is dangerously lethal..."
+        ],
+        "ability": [
+            "15% chance to inflict Poison state on attack",
+			"Always inflicts Poison on bleeding targets"
+        ]
+    },
+    "21": {
+        "name": [
+            "From Hell"
+        ],
+        "subtitle": [
+            "\"This thing thirsts for blood...\""		
+		],
+        "description": [
+            "One of the weapons used by a notorious serial killer,",
+            "it's covered in blood"
+        ],
+        "ability": [
+            "45% chance to inflict Bleeding state on attack"
+        ]
+    },
+    "22": {
+        "name": [
+            "Forging Hammer"
+        ],
+        "subtitle": [
+        ],
+        "description": [
+            "A heavy hammer once used by blacksmiths to forge metal",
+			"Now held in someone’s hand and used for all sorts of odd purposes"
+        ],
+        "ability": [
+            "Striking a weapon placed on the anvil repairs it",
+			"Unequipping this hammer also dispels the summoned anvil"
+        ]
+    },
+    "25": {
+        "name": [
+            "Tidewyrm’s Song"
+        ],
+        "subtitle": "",
+        "description": [
+            "A staff crafted from damp magic crystals, always dripping wet",
+            "It only reveals its true power when using water as a medium",
+			"quite inconvenient!"
+        ],
+        "ability": [
+		    "Casting near water enhances magic",
+            "Hold right mouse button to cast Ripple Thrust"
+        ]
+    },
+    "24": {
+        "name": [
+            "Storm Orc Axe"
+        ],
+        "subtitle": "",
+        "description": [
+            "A greataxe wielded by an orc attuned to nature’s power.",
+            "Each swing tears the earth and sends gales howling with the blade"
+        ],
+        "ability": [
+            "Has a chance to unleash a burst of wind when attacking",
+            "When HP falls below \\c[29]400\\c[0], the weapon’s full potential is limited!"
+        ]
+    },
+    "26": {
+        "name": [
+            "Starlit Night"
+        ],
+        "subtitle": "",
+        "description": [
+            "A staff adorned with gemstones that sparkle like the Milky",
+            "Way. It has the power to create a strong gravitational field,",
+            "pulling intruders into the depths of darkness"
+        ],
+        "ability": [
+            "Hold right mouse button to cast Black Hole"
+        ]
+    },
+    "27": {
+        "name": [
+            "Toxic Spore Blade"
+        ],
+        "subtitle": "",
+        "description": [
+            "A slim sword dropped by Walking Mushrooms. Its dull blade",
+            "is coated with toxic spores, guaranteeing poison on every strike",
+            "Though low in durability, its toxins make it highly effective"
+        ],
+        "ability": [
+            "Attacks have a 50% chance to inflict Poison status"
+        ]
+    },
+    "29": {
+        "name": [
+            "Pest Bane Staff"
+        ],
+        "subtitle": "",
+        "description": [
+            "A special staff modified by an alchemist long tormented",
+            "by pests. It can instantly generate a toxic gas to kill",
+            "small creatures, and is said to also deodorize and disinfect"
+        ],
+        "ability": [
+            "Hold left mouse button to cast Extermination Magic"
+        ]
+    },
+    "30": {
+        "name": [
+            "Kanesada"
+        ],
+        "subtitle": "",
+        "description": [
+            "A beloved Katana that accompanied a girl striving for",
+            "swordsmanship's peak—never leaving her grasp, even in sleep",
+            "Whether sharp or not, it remains a witness to her journey"
+        ],
+        "ability": [
+            "Greatly enhances the effects of all learned skills"
+        ]
+    },
+    "35": {
+        "name": [
+            "Claíomh Solais"
+        ],
+        "subtitle": [
+            "\"Huh? I can't see anything! This isn't a sword hilt!?\""		
+		],
+        "description": [
+            "Blessed by light, the blade bends light, becoming an invisible sword",
+            "This makes it razor-sharp, and when needed, its radiance unleashes"
+        ],
+        "ability": [
+            "Attacks completely ignore the target's defense"
+        ]
+    },
+    "36": {
+        "name": [
+            "Tyrfing"
+        ],
+        "subtitle": "",
+        "description": [
+            "A man-made magic sword with a blade forged from mana crystals",
+            "Each slash unleashes a tangible sword wave. For skilled swordsmen,",
+            "it’s a weapon that greatly enhances their power"
+        ],
+        "ability": [
+            "Attacks generate sword waves that deal damage"
+        ]
+    },
+    "40": {
+        "name": [
+            "Anti-Bullying Hammer"
+        ],
+        "subtitle": [
+		    "\"NO BULLYING!!\""
+		],
+        "description": [
+            "A weapon born to punish evil adventurers. ",
+            "Though just a toy hammer, getting bonked still hurts."
+        ],
+        "ability": [
+            "Deals recoil damage when used for evil deeds",
+			"The lower your Sin value, the higher its damage"
+        ]
+    },
+    "42": {
+        "name": [
+            "Den’s Hand Scythe"
+        ],
+        "subtitle": [
+		    "\"Remember this, Whirlwind Slash is used like this! \""
+		],
+        "description": [
+            "A short-handled scythe carried by an outsider with a fearsome",
+            "design and a will dwelling within. Wielding it too long",
+			"may cause strange voices to echo in your mind"
+        ],
+        "ability": [
+            "Automatically returns to hand after being thrown and hitting",
+			"When catching the returning weapon, can throw it again"
+        ]
+    },
+    "51": {
+        "name": [
+            "Mixed Flavor Popsicle"
+        ],
+        "subtitle": "",
+        "description": [
+            "A edible weapon crafted with care by Kanban Musume of the NLCH",
+            "A tri-flavored popsicle combining chocolate, cream, and strawberry",
+			"Refreshing and delicious! But be sure to finish it before it melts..."
+        ],
+        "ability": [
+            "Might get eaten when attacking...",
+			"Melts and disappears over time when equipped..."
+        ]
+    },
+    "52": {
+        "name": [
+            "Unit 2"
+        ],
+        "subtitle": "",
+        "description": [
+            "A communication device bought from a suspicious shop",
+            "Just shout 'Fire!' and you'll receive sniper support from",
+            "somewhere. But, you have to pay phone bill yourself"
+        ],
+        "ability": [
+		    "Left-click to call support fire, 1000 yen per use",
+            "Right-click to call a long-range snipe, 500 yen per use"
+        ]
+    },
+    "53": {
+        "name": [
+            "Cone Greatsword"
+        ],
+        "subtitle": "",
+        "description": [
+            "A edible weapon crafted with care by Kanban Musume of the NLCH",
+            "While keeping its weapon performance, it's also delicious!"
+        ],
+        "ability": [
+            "Might get eaten when attacking...",
+			"Melts and disappears over time when equipped..."
+        ]
+    },
+    "54": {
+        "name": [
+            "Carrot Greatsword"
+        ],
+        "subtitle": "",
+        "description": [
+            "A top-grade carrot secretly cultivated by the Maid Bunny",
+            "Infused with the power of stone, it overgrew into a delicacy ",
+			"so tempting it could make a Maid Bunny cry with desire"
+        ],
+        "ability": [
+            "Might get eaten when attacking...",
+			"When thrown, it pierces and hits all units in its path"
+        ]
+    },
+    "55": {
+        "name": [
+            "Frozen Carrot Greatsword"
+        ],
+        "subtitle": "",
+        "description": [
+            "A top-grade carrot secretly cultivated by the Maid Bunny",
+			"After being frozen, it’s rock-hard and impossible to bite into",
+            "Rumor has it this was the maid bunny’s winter stash"
+        ],
+        "ability": [
+            "40% chance to inflict Freeze state on attack",
+			"When thrown, it pierces and hits all units in its path"
+        ]
+    },
+    "56": {
+        "name": [
+            "Moldy Carrot Greatsword"
+        ],
+        "subtitle": "",
+        "description": [
+            "A top-grade carrot secretly cultivated by the Maid Bunny",
+			"Stored for too long, it’s now moldy and rotten...",
+			"no longer edible—the maid bunny keeps it to drive away enemies"
+        ],
+        "ability": [
+            "40% chance to inflict Poison state on attack",
+			"When thrown, it pierces and hits all units in its path"
+        ]
+    },
+    "57": {
+        "name": [
+            "Carrot?"
+        ],
+        "subtitle": "",
+        "description": [
+            "A top-grade carr...",
+            "Huh? Is this really… a carrot!?"
+        ],
+        "ability": [
+            "When thrown, it pierces and hits all units in its path"
+        ]
+    },
+    "60": {
+        "name": [
+            "Banana?"
+        ],
+        "subtitle": [
+            "\"Is this really a banana...?\""		
+		],
+        "description": [
+            "A peeled banana that must be held carefully"
+        ],
+        "ability": [
+            "At high speeds, it’s easy to fling the banana away... Eek!?"
+        ]
+    },
+    "61": {
+        "name": [
+            "Giant Snail Vacuum"
+        ],
+        "subtitle": "",
+        "description": [
+            "A vacuum made from a giant snail's shell",
+            "Modified airflow for powerful suction"
+        ],
+        "ability": [
+            "Hold mouse to pull objects closer"
+        ]
+    },
+    "62": {
+        "name": [
+            "Ancient Tree Remnant"
+        ],
+        "subtitle": "",
+        "description": [
+            "A bizarre branch weapon, obtained from an ancient tree trunk,",
+            "hard yet brimming with vitality and still growing"
+        ],
+        "ability": [
+            "Defeating enemies auto-repairs weapon durability",
+            "Excess durability grants +1 ATK per 1% above max"
+        ]
+    },
+    "63": {
+        "name": [
+            "Parasitic Blade"
+        ],
+        "subtitle": "",
+        "description": [
+            "A sword consumed by a tree over centuries, where metal and",
+            "life fused into mysterious harmony. Its blade pulses like",
+            "it’s breathing, radiating a strange warmth to the wielder"
+        ],
+        "ability": [
+            "Restores \\c[29]${Math.floor(1.2*$gameParty.leader().paramPlus(2))}\\c[0] HP to the wielder upon defeating an enemy"
+        ]
+    },
+    "66": {
+        "name": [
+            "Pillar of Ritual"
+        ],
+        "subtitle": [
+		    "\"——most adventurers just call this thing the Deer Pipe.\""
+		],
+        "description": [
+            "A weapon commonly used by the Lust Demon, said to have ",
+			"originally been some kind of ritual implement.",
+            "Its material and inner magic remain impossible to analyze.",
+            "It also works surprisingly well as an alarm clock…!"
+        ],
+        "ability": [
+            "At the top of each hour, gain a blessing that boosts all stats"
+        ]
+    },
+    "70": {
+        "name": [
+            "Ancient Glory"
+        ],
+        "subtitle": [
+            "\"Unleash the Golden Power ⬆⬆⬇⬇⬅⮕⬅⮕\""
+        ],
+        "description": [
+            "A dazzling golden demon sword, one of the treasures of ",
+            "the World Administrator. That man once wielded it, ",
+			"battling in the Abyss for three days and nights without rest"
+        ],
+        "ability": [
+            "Unleashes its power when a secret command is entered"
+        ]
+    },
+    "80": {
+        "name": [
+            "Willow Leaf Greatsword"
+        ],
+        "subtitle": "",
+        "description": [
+            "\"Pluck leaves, scatter flowers, wound your foes\"",
+            "A very sharp greatsword shaped like willow leaves"
+        ],
+        "ability": [
+            "Has a chance to fire willow leaf shurikens when attacking"
+        ]
+    },
+    "81": {
+        "name": [
+            "Infested Blade"
+        ],
+        "subtitle": [
+            "\"Ugh, the slime is still wriggling... So gross!!\""		
+		],
+        "description": [
+            "A greatsword infested with resilient, life-hungry slime",
+            "Its craving for vitality makes the slime fiercely aggressive"
+        ],
+        "ability": [
+            "Deals extra damage to Bleeding enemies",
+			"Drains blood if the target dies while Bleeding"
+        ]
+    },
+    "82": {
+        "name": [
+            "Hercules's Broken Horn"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "A sword forged from the sturdy horn of a rhinoceros beetle",
+            "Though once broken in fierce battle, its hardness remains genuine",
+			"Because of that, it became extremely durable when reforged"
+        ],
+        "ability": [
+            "The lower the damage, the less durability is consumed",
+			"No durability is consumed if damage is ${QJ.MPMZ.tl.herculesBrokenHornEffectProcess()} or below"
+        ]
+    },
+    "101": {
+        "name": [
+            "Hardwood Bow"
+        ],
+        "subtitle": "",
+        "description": [
+            "A longbow made of Hardwood",
+            "It can shoot arrows, but its performance is very average"
+        ],
+        "ability": [
+            "Hold right-click to charge and release a \\c[27]Piercing Arrow\\c[0]",
+            "Piercing Arrow lose damage per target pierced"
+        ]
+    },
+    "102": {
+        "name": [
+            "Hunter's Bow"
+        ],
+        "subtitle": "",
+        "description": [
+            "A composite longbow that reduces draw strength",
+            "Less damage, but easier rapid fire"
+        ],
+        "ability": [
+            "+Attack Speed, -20% Damage, -20% Durability Loss",
+            "Hold right-click to charge and release a \\c[27]Piercing Arrow\\c[0]"
+        ]
+    },
+    "103": {
+        "name": [
+            "Sunset Cloud"
+        ],
+        "subtitle": "",
+        "description": [
+            "A magical bow filled with fire energy",
+            "Not only burns enemies, but also fires explosive arrows"
+        ],
+        "ability": [
+            "Hold right-click to charge and release a \\c[27]Explosive Arrow\\c[0]",
+            "Explosive Arrow explode on hit"
+        ]
+    },
+    "104": {
+        "name": [
+            "Snow Watch"
+        ],
+        "subtitle": "",
+        "description": [
+            "A magical bow covered in ice. Shoots ice arrows",
+            "and can freeze a wide area with a charged shot"
+        ],
+        "ability": [
+            "Hold right-click to charge and release a \\c[27]Icebound Arrow\\c[0]",
+            "Icebound Arrow freeze targets on hit"
+        ]
+    },
+    "105": {
+        "name": [
+            "Chidori"
+        ],
+        "subtitle": "",
+        "description": [
+            "A golden bow capable of summoning thunder,",
+            "named for its buzzing sound reminiscent of lightning",
+            "However, be careful—it’s highly conductive"
+        ],
+        "ability": [
+            "Hold right-click to charge and release a \\c[27]Thunder Arrow\\c[0]"
+        ]
+    },
+    "106": {
+        "name": [
+            "Hellhound Cursed Bow"
+        ],
+        "subtitle": "",
+        "description": [
+            "A product of the Abyss, this oddly shaped bow can",
+            "fire multiple arrows simultaneously. However,",
+            "this eerie magic bow remains sealed, with its true power unreleased"
+        ],
+        "ability": [
+            "Hold right-click to charge and release a \\c[27]Piercing Arrow\\c[0]"
+        ]
+    },
+    "107": {
+        "name": [
+            "Blood Hunt"
+        ],
+        "subtitle": "",
+        "description": [
+            "A blood-stained longbow.",
+            "Each draw leaves the string wet with its wielder’s own blood,",
+            "until the arrow returns with a sweeter offering"
+        ],
+        "ability": [
+            "Hold right-click to charge and release a \\c[27]Blood Piercing Arrow\\c[0]",
+			"Consumes HP to empower shots. Killing arrows drain blood"
+        ]
+    },
+    "250": {
+        "name": [
+            "Hellstone Pickaxe"
+        ],
+        "subtitle": "",
+        "description": [
+            "An exotic pickaxe processed and forged from Hellstone Ingots",
+            "With its astonishing hardness and the mana entwined around it,",
+			"it can shatter most objects in the world with a single strike"
+        ],
+        "ability": [
+            "Greatly increases damage dealt to destructible entities"
+        ]
+    },
+    "251": {
+        "name": [
+            "Hellstone Shovel"
+        ],
+        "subtitle": "",
+        "description": [
+            "An exotic shovel processed and forged from Hellstone Ingots",
+            "With its astonishing hardness and the mana entwined around it,",
+			"even solid ground will be forcibly torn apart beneath it"
+        ],
+        "ability": [
+            "Can break through terrain, creating a passage to lower layers"
+        ]
+    }
+}

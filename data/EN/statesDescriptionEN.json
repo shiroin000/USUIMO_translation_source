@@ -1,0 +1,785 @@
+{
+  "3": {
+    "name": [],
+    "subtitle": [
+	  ""
+	],
+    "description": [
+      ""
+    ],
+	"variants": {
+		"0": {
+		   "subtitle": [
+	         "\"Feeling restless...\""
+	       ],
+           "description": [
+             "Excitement Level:\\c[2]\\v[25]%\\c[0]"
+           ]
+		},		
+		"1": {
+		   "subtitle": [
+	         "\"The body craves a thrill...\""
+	       ],
+           "description": [
+             "Excitement Level:\\c[10]\\v[25]%\\c[0]"
+           ]
+		},
+		"2": {
+		   "subtitle": [
+	         "\"Losing control...!\""
+	       ],
+           "description": [
+             "Excitement Level:\\c[18]\\v[25]%\\c[0]"
+           ]
+		}
+	}
+  },
+  "4": {
+    "name": [],
+    "subtitle": [
+	  "\"Uwoooo...!\""
+	],
+    "description": [
+      "Warped into a desire-crazed Beast!  Excitement Level::\\c[18]???%\\c[0]"
+    ]
+  },
+  "5": {
+    "name": [],
+    "subtitle": [
+      "\"Poison has infected your body\""
+    ],
+    "description": [
+      "Takes more damage over time!"
+    ]
+  },
+  "6": {
+    "name": [],
+    "subtitle": [
+      "\"The bleeding won't stop\""
+    ],
+    "description": [
+      "Takes damage based on max HP!"
+    ]
+  },
+  "7": {
+    "name": [],
+    "subtitle": [
+      "\"Look, he got struck by lightning!\""
+    ],
+    "description": [
+      "Fully paralyzed—can’t move at all!"
+    ]
+  },
+  "8": {
+    "name": [],
+    "subtitle": [
+      "\"Hot, hot, hot, hot—!\""
+    ],
+    "description": [
+      "Applies continuous burning to all units in range!"
+    ]
+  },
+  "9": {
+    "name": [],
+    "subtitle": [
+      "\"Turn into an ice pop!\""
+    ],
+    "description": [
+      "Frozen solid!"
+    ]
+  },
+  "11": {
+    "name": [],
+    "subtitle": [
+      "\"Dizzy and disoriented!\""
+    ],
+    "description": [
+      "Unable to act!"
+    ]
+  },
+  "13": {
+    "name": [],
+    "subtitle": [
+      "\"Fufu, this is what you get for defying me~♥\""
+    ],
+    "description": [
+      "Cursed by that little demon..."
+    ]
+  },
+  "14": {
+    "name": [],
+    "subtitle": [
+      "\"It’s so hot...\""
+    ],
+    "description": [
+      "feeling weak from the heat..."
+    ]
+  },
+  "15": {
+    "name": [],
+    "subtitle": [
+      "\"In the eyes of monsters, you’re just a pitiful, ugly little preemie…\""
+    ],
+    "description": [
+      "Disguised as a monster – monsters won’t actively attack you!"
+    ]
+  },
+  "16": {
+    "name": [],
+    "subtitle": [
+      "\"You can’t even play such a simple game? What a ZAKO~\""
+    ],
+    "description": [
+      "Certified as a ZAKO for cheating!"
+    ]
+  },    
+  "28": {
+    "name": [],
+    "subtitle": [
+	  "Gaming \\str[120]"
+	],
+    "description": [
+      ""	
+    ],
+	"variants": {
+		"0": {
+           "description": [
+             "She’s really focused on the game, ",
+			 "Best not to bother her too much..."
+           ]
+		},		
+		"1": {
+           "description": [
+			 "She’s still playing...",
+			 "Should I tease her a bit?"
+           ]
+		}
+	}	
+  },   
+  "29": {
+    "name": [],
+    "subtitle": [
+	  "Bathing \\str[120]"
+	],
+    "description": [
+      ""	
+    ],
+	"variants": {
+		"0": {
+           "description": [
+             "\\str[120]’s in the bath— I can",
+			 "vaguely make out her silhouette"
+           ]
+		},		
+		"1": {
+           "description": [
+			 "\\str[120] is drying her hair ",
+			 "with a towel"
+           ]
+		}
+	}	
+  },
+  "30": {
+    "name": [],
+    "subtitle": [
+	  "Resting \\str[120]"
+	],
+    "description": [
+      ""
+    ],
+	"variants": {
+		"0": {
+           "description": [
+             "\\str[120] looks very happy,",
+			 "Anything interesting happen?"
+           ]
+		},		
+		"1": {
+           "description": [
+             "\\str[120] is getting cuter",
+			 "Maybe give her a pats!"
+           ]
+		},
+		"2": {
+           "description": [
+             "\\str[120] is just sitting",
+			 "there. Try talking to her…"
+           ]
+		},
+		"3": {
+           "description": [
+             "\\str[120] looks a bit sad",
+			 "Maybe try comforting her?"
+           ]
+		},
+		"4": {
+           "description": [
+             "\\str[120] seems a bit off",
+			 "Wonder what could be done…"
+           ]
+		},
+		"5": {
+           "description": [
+             "\\str[120] looks sleepy",
+			 "Maybe it's time for bed?"
+           ]
+		}
+	}
+  },    
+  "31": {
+    "name": [],
+    "subtitle": [
+	  "Sleeping \\str[120]"
+	],
+    "description": [
+      ""
+    ],
+	"variants": {
+		"0": {
+           "description": [
+             "Asleep like a plant…",
+			 "unable to be roused…"
+           ]
+		},		
+		"1": {
+           "description": [
+             "Deep asleep…",
+			 "It seems hard to wake her"
+           ]
+		},
+		"2": {
+           "description": [
+             "Sleeping soundly,",
+			 "completely immersed in her dreams…"
+           ]
+		},
+		"3": {
+           "description": [
+             "Her eyelashes twitch",
+			 "as if murmuring in a dream"
+           ]
+		},
+		"4": {
+           "description": [
+             "She seems half-awake",
+			 "murmuring unintentionally"
+           ]
+		},
+		"5": {
+           "description": [
+             "\\str[120] is almost awake",
+			 "but her senses are still hazy"
+           ]
+		},
+		"6": {
+           "description": [
+		     "Defenseless in sleep, lost in ",
+             "last night's blissful exhaustion"
+           ]
+		}
+	}
+  },   
+  "32": {
+    "name": [],
+    "subtitle": [
+	  "Hungry \\str[120]"
+	],
+    "description": [
+      ""	
+    ],
+	"variants": {
+		"0": {
+           "description": [
+             "\\str[120] is quietly waiting ",
+			 "for dinner"
+           ]
+		},		
+		"1": {
+           "description": [
+			 "\\str[120] seems a bit worried",
+			 "about the dinner taste…"
+           ]
+		},
+		"2": {
+           "description": [
+			 "\\str[120] looks like ",
+			 "she wants to help"
+           ]
+		}
+	}	
+  },   
+  "33": {
+    "name": [],
+    "subtitle": [
+	  "Relaxing \\str[120]"
+	],
+    "description": [
+      ""	
+    ],
+	"variants": {
+		"0": {
+           "description": [
+             "\\str[120]’s licking her popsicle…",
+			 "looks way too defenseless..."
+           ]
+		}
+	}	
+  },   
+  "34": {
+    "name": [],
+    "subtitle": [
+	  "Brushing \\str[120]"
+	],
+    "description": [
+      ""	
+    ],
+	"variants": {
+		"0": {
+           "description": [
+             "\\str[120]’s lazily brushing her teeth",
+			 "still looking half-asleep..."
+           ]
+		}
+	}	
+  },
+  "35": {
+    "name": [],
+    "subtitle": [],
+    "description": [
+      "✦(Feels like body is ",
+	  "becoming so light...)"
+    ]
+  },
+  "36": {
+    "name": [],
+    "subtitle": [],
+    "description": [
+      "✦mind begins to loosen up—"
+    ]
+  },
+  "40": {
+    "name": [],
+    "subtitle": [
+      "Crying \\str[120]"	
+	],	
+    "description": [
+      ""
+    ],
+	"variants": {
+		"0": {
+           "description": [
+             "\\c[10]She ate too much spicy food..."
+           ]
+		}
+	}	
+  },
+  "41": {
+    "name": [],
+    "subtitle": [],
+    "description": [
+      "✦Satisfied after eating,",
+      "\\str[120] feels happy!"
+    ]
+  },  
+  "42": {
+    "name": [],
+    "subtitle": [
+	  "\\str[120] watching TV"
+	],
+    "description": [
+      ""	
+    ],
+	"variants": {
+		"0": {
+           "description": [
+             "\\str[120] curls up like a kitten, ",
+			 "sneaking glances at me."
+           ]
+		},
+		"1": {
+           "description": [
+             "She pressed close to mine, ",
+			 "like holding a warm pillow."
+           ]
+		}
+	}	
+  },   
+  "43": {
+    "name": [],
+    "subtitle": [
+	  "Frightened \\str[120]"
+	],
+    "description": [
+      ""	
+    ],
+	"variants": {
+		"0": {
+           "description": [
+             "\\str[120] clung tightly to me,",
+			 "her body trembling slightly…"
+           ]
+		},
+		"1": {
+           "description": [
+             "Our bodies were completely entwined, ",
+			 "exchanging warmth with each other…"
+           ]
+		}	
+	}	
+  },  
+  "45": {
+    "name": [],
+    "subtitle": [
+      "\"I promised my dear sister, so I have to keep it\""
+    ],
+    "description": [
+      "Don’t go home badly injured…"
+    ]
+  },
+  "46": {
+    "name": [],
+    "subtitle": [
+      "\"I promised my dear sister, so I have to keep it\""
+    ],
+    "description": [
+      "Cook a meat dish"
+    ]
+  },
+  "54": {
+    "name": [],
+    "subtitle": [
+      "\"rustle... rustle...\""
+    ],
+    "description": [
+      "You are being closely watched by a group of small creatures..."
+    ]
+  },
+  "55": {
+    "name": [],
+    "subtitle": [
+      "\"This is my domain, so no mischief allowed~♥\""
+    ],
+    "description": [
+      "Attack prohibited! Nearby monsters are filled with fear!"
+    ]
+  },
+  "57": {
+    "name": [],
+    "subtitle": [
+      "\"I feel like I can do anything right now\""
+    ],
+    "description": [
+      "Kenja Mode activated, all stats increased"
+    ]
+  },
+  "58": {
+    "name": [],
+    "subtitle": [
+      "\"Ate something bad...\""
+    ],
+    "description": [
+      "Stomachache won't stop!"
+    ]
+  },
+  "59": {
+    "name": [],
+    "subtitle": [],
+    "description": [
+      "...Forgot something important? Maybe it’ll come back later."
+    ]
+  },
+  "60": {
+    "name": [],
+    "subtitle": [],
+    "description": [
+      "Giving off a constant stench..."
+    ]
+  },
+  "61": {
+    "name": [],
+    "subtitle": [
+      "\"My ass is on fire...\""
+    ],
+    "description": [
+      "Can't run or dash due to butt pain!"
+    ]
+  },
+  "62": {
+    "name": [],
+    "subtitle": [],
+    "description": [
+      "Focuses for the next strike, movement speed reduced"
+    ]
+  },
+  "63": {
+    "name": [],
+    "subtitle": [
+	  "\"Triple speed of True Red\""
+	],
+    "description": [
+      ""
+    ]
+  },
+  "64": {
+    "name": [],
+    "subtitle": [],
+    "description": [
+      "Senpo on cooldown!"
+    ]
+  },
+  "65": {
+    "name": [],
+    "subtitle": [],
+    "description": [
+      "Feeling dizzy..."
+    ]
+  },
+  "67": {
+    "name": [],
+    "subtitle": [],
+    "description": [
+      "Floating on the water. Movement slowed, can’t attack!"
+    ]
+  },
+  "68": {
+    "name": [],
+    "subtitle": [],
+    "description": [
+      "Chanting a spell!"
+    ]
+  },
+  "71": {
+    "name": [],
+    "subtitle": [
+      "\"Ate something delicious—warm and cozy inside~\""
+    ],
+    "description": [
+      "Recovers a small amount of health every second"
+    ]
+  },
+  "72": {
+    "name": [],
+    "subtitle": [
+      "\"Power... surging through me!\""
+    ],
+    "description": [
+      "Attack power\\c[10]+50%\\c[0]"
+    ]
+  },
+  "73": {
+    "name": [],
+    "subtitle": [
+      "\"I'm starting to understand everything\""
+    ],
+    "description": [
+      "Magic attack power\\c[10]+50%\\c[0]"
+    ]
+  },
+  "74": {
+    "name": [],
+    "subtitle": [
+      "\"Can you keep up... with my SPEED?!\""
+    ],
+    "description": [
+      "Movement speed increases"
+    ]
+  },
+  "75": {
+    "name": [],
+    "subtitle": [
+      "\"Divine Weapon Descent\""
+    ],
+    "description": [
+      "Weapon Gigantify, Damage Boost!"
+    ]
+  },
+  "77": {
+    "name": [],
+    "subtitle": [
+      "\"Flame of Rebirth\""
+    ],
+    "description": [
+      "Allows one revival while the effect is active"
+    ]
+  },
+  "78": {
+    "name": [],
+    "subtitle": [
+      "\"Twist of Fate...\""
+    ],
+    "description": [
+      "Blessed by fate—good things are more likely to happen!"
+    ]
+  },
+  "79": {
+    "name": [],
+    "subtitle": [
+      "\"Twist of Fate...\""
+    ],
+    "description": [
+      "Blessed by fate—sad things are more likely to happen!"
+    ]
+  },
+  "80": {
+    "name": [],
+    "subtitle": [
+	  "\"Triple speed of True Red\""
+	],
+    "description": [
+      ""
+    ]
+  },
+  "85": {
+    "name": [],
+    "subtitle": [
+      "\"But it really tastes awful...\""
+    ],
+    "description": [
+      "Overflowing with vitality—max HP increased!"
+    ]
+  },
+  "86": {
+    "name": [],
+    "subtitle": [
+      "\"SKILL ISSUE\""
+    ],
+    "description": [
+      "You’ve been mercilessly taunted! Defense and luck greatly decreased!"
+    ]
+  },
+  "90": {
+    "name": [],
+    "subtitle": [
+      "「Don’t face-check the bush, you fool!?」"
+    ],
+    "description": [
+      "Being in the bush feels safe… HP auto-regenerates"
+    ]
+  },
+  "98": {
+    "name": [],
+    "subtitle": [
+      "\"It feels like my sister is right beside me...\""
+    ],
+    "description": [
+      "Regenerating HP!"
+    ]
+  },
+  "99": {
+    "name": [],
+    "subtitle": [
+      "\"We are the guardians!\""
+    ],
+    "description": [
+      "Attack power +30"
+    ]
+  },
+  "101": {
+    "name": [],
+    "subtitle": [
+      "\"LOOK INTO MY EVIL EYEZ SEE SOMETHIN' INSIDE!\""
+    ],
+    "description": [
+      "Briefly turns invisible every \\v[221] seconds!"
+    ]
+  },
+  "104": {
+    "name": [],
+    "subtitle": [
+      "\"You radiate glory!\""
+    ],
+    "description": [
+      "All attributes increase, temporary invincibility"
+    ]
+  },
+  "105": {
+    "name": [],
+    "subtitle": [
+      "\"Share this blessing with thee\""
+    ],
+    "description": [
+      "doubling money earned"
+    ]
+  },
+  "106": {
+    "name": [],
+    "subtitle": [
+      "\"I... I can't lift it...\""
+    ],
+    "description": [
+      "Not enough strength to use the weapon fully!"
+    ]
+  },
+  "107": {
+    "name": [],
+    "subtitle": [
+      "\"We are the guardians!\""
+    ],
+    "description": [
+      "Movement speed increased!"
+    ]
+  },
+  "108": {
+    "name": [],
+    "subtitle": [
+      "\"We are the guardians!\""
+    ],
+    "description": [
+      "Attack and defense increased!"
+    ]
+  },
+  "109": {
+    "name": [],
+    "subtitle": [
+      "\"We are the guardians!\""
+    ],
+    "description": [
+      "Defense increased!"
+    ]
+  },
+  "110": {
+    "name": [],
+    "subtitle": [
+      "\"We are the guardians!\""
+    ],
+    "description": [
+      "Max HP and defense increased!"
+    ]
+  },
+  "115": {
+    "name": [],
+    "subtitle": [
+      "\"The immortal scarecrow's heart, yet decay is fate\""
+    ],
+    "description": [
+      "No HP recovery!"
+    ]
+  },
+  "116": {
+    "name": [],
+    "subtitle": [
+      "\"Endless greed has found you—\""
+    ],
+    "description": [
+      "Drop held money when taking damage!"
+    ]
+  },
+  "117": {
+    "name": [],
+    "subtitle": [
+      "\"Thus shall you gain the world's glory, and all darkness shall flee\""
+    ],
+    "description": [
+      ""
+    ]
+  },
+  "122": {
+    "name": [],
+    "subtitle": [
+      "\"Heh heh I'll survive, I swear it\""
+    ],
+    "description": [
+      "Permanently restores HP automatically"
+    ]
+  }
+}

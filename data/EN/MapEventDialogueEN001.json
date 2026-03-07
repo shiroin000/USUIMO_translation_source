@@ -1,0 +1,1720 @@
+{
+  "possibleDrops": [
+    "Possible Drops"
+  ],
+  "7": {
+    "objectName": [
+      "Bonfire"
+    ],
+    "sentouryoku": [
+      "???"
+    ],
+    "description": [
+      ""
+    ],
+    "1": [
+      "Found a bonfire...",
+      "now what should I do?"
+    ],
+    "2": [
+      "Take a rest",
+      "Do nothing"
+    ]
+  },
+  "8": {
+    "objectName": [
+      "\\c[116]A↗SA↘BA↗"
+    ],
+    "sentouryoku": [
+      "2333"
+    ],
+    "subtitle": [
+      "Dwelling in Adventurer's Path"
+    ],
+    "bossName": [
+      "The Berry Devourer"
+    ],
+    "description": [
+      "A strange creature that loves eating strawberries",
+      "It has tough skin and absurd defense, but since ",
+      "it’s so focused on strawberries,  ",
+      "it lacks much urge to attack. Because of that,",
+      "passing adventurers often end up feeding it…"
+    ],
+    "1": [
+      "ASABA looks at me with anticipation—",
+      "Did it smell something on me...?"
+    ],
+    "2": [
+      "ASABA looks at me curiously—",
+      "Did it smell something on me...?"
+    ],
+    "3": [
+      "ASABA looks at me with disgust—",
+      "Did I really upset it...?"
+    ],
+    "4": [
+      "Should I try feeding ASABA?"
+    ],
+    "5": [
+      "Feed it!",
+      "Don’t want to"
+    ],
+    "6": [
+      "ASABA finished the food with a blank look—",
+      "Maybe it didn’t like it..."
+    ],
+    "7": [
+      "ASABA seems very pleased with the strawberry—",
+      "Granted a strange blessing by ASABA!"
+    ],
+    "8": [
+      "ASABA looks at me with disgust—",
+      "Was it that bad...? The food just now..."
+    ],
+    "9": [
+      ".................?!  \\w[45]",
+      "ASABA is... broken!!"
+    ],
+    "10": [
+      "ASABA is already full—"
+    ],
+    "11": [
+      "………………!",
+      "now ASABA holds a grudge against me…"
+    ]
+  },
+  "9": {
+    "objectName": [
+      "\\c[116]Fish"
+    ],
+    "sentouryoku": [
+      "1"
+    ],
+    "description": [
+      "A fish shadow swimming underwater that quickly ",
+      "flees when it senses someone approaching.",
+      "What could be the right way to catch them...?"
+    ]
+  },
+  "10": {
+    "objectName": [
+      "Mysterious Swordswoman"
+    ],
+    "sentouryoku": [
+      "?99"
+    ],
+    "description": [
+      "A cat eared girl from a small village, ",
+      "looking both cute and energetic.",
+      "The katana at her waist hints that ",
+      "she is far from ordinary.",
+      "She travels around seeking duels with ",
+      "strong opponents, though her flashy behavior ",
+      "always makes one worry she might attract ",
+      "some shady adults..."
+    ],
+    "1": [
+      "I’m just here to challenge myself. I’m not really ",
+      "interested in the truth of the Grand Labyrinth."
+    ],
+    "2": [
+      "That thing you’re carrying is...!",
+      "Are you also a fan of yuusha-sama!?"
+    ],
+    "3": [
+      "A wooden sword of such high quality",
+      "isn’t easy to come by..."
+    ],
+    "4": [
+      "Um—!",
+      "If you don’t mind..."
+    ],
+    "5": [
+      "Would you like to spar with me?",
+      "I really want to see how we measure up as rivals."
+    ],
+    "6": [
+      "Accept",
+      "Decline"
+    ],
+    "7": [
+      "That’s great!",
+      "Let’s start right away!"
+    ],
+    "8": [
+      "I see...",
+      "That’s a shame."
+    ],
+    "9": [
+      "But if you ever become interested,",
+      "I’ll be happy to fight you anytime."
+    ],
+    "10": [
+      "Born in Shiri Village...",
+      "My ambition is to become a Sword Saint!"
+    ],
+    "11": [
+      "\\{…Koko ni mairi mashita!"
+    ],
+    "12": [
+      "Ahh... you seem to be alright.",
+      "That’s such a relief!"
+    ],
+    "13": [
+      "I’m terribly sorry",
+      "for proposing such a duel earlier!"
+    ],
+    "14": [
+      "It seems I may have gone ",
+      "a bit too far... But!"
+    ],
+    "15": [
+      "Since it’s a duel, I’ll give it ",
+      "it my all without holding back."
+    ],
+    "16": [
+      "Challenge her!",
+      "Never mind"
+    ],
+    "17": [
+      "That’s some impressive fighting spirit!",
+      "Needless to say, I won’t refuse your challenge!"
+    ],
+    "18": [
+      "Hah... hah...",
+      "I’ve lost..."
+    ],
+    "19": [
+      "You’re truly amazing.",
+      "That final strike was beautiful."
+    ],
+    "20": [
+      "That unpredictable fighting style",
+      "was truly eye opening!"
+    ],
+    "21": [
+      "Dragging you into such an unreasonable duel",
+      "without offering any reward feels wrong..."
+    ],
+    "22": [
+      "Please take this—it's a skill I developed myself.",
+      "I’m sure it’ll be useful to you!"
+    ],
+    "23": [
+      "It might sound a bit boastful,",
+      "but I’m already the strongest in my village."
+    ],
+    "24": [
+      "Still, thanks to you, I’ve learned that ",
+      "there’s always someone stronger out there."
+    ],
+    "25": [
+      "Well then—",
+      "Time to train harder with my sword!!"
+    ]
+  },
+  "11": {
+    "objectName": [
+      "Weird Knight"
+    ],
+    "sentouryoku": [
+      "???"
+    ],
+    "description": [
+      "A knight clad in armor that radiates an ominous ",
+      "aura. Because the helmet is tightly sealed, ",
+      "their voice is muffled, making it impossible to ",
+      "determine their gender or age.",
+      "they claims to be a game developer and, ",
+      "in search of creative inspiration, ",
+      "asks adventurers about their journeys ",
+      "and offers material support in return. ",
+      "Also, they seems to know the Abyss well—"
+    ],
+    "1": [
+      "……Ohhh! Have you also come here ",
+      "in pursuit of the Grand Labyrinth?"
+    ],
+    "2": [
+      "You may have heard of me—",
+      "I am but a humble game developer by trade."
+    ],
+    "3": [
+      "Drawn in by this Grand Labyrinth,",
+      "I wished to share its mysterious allure with the world."
+    ],
+    "4": [
+      "Yet, I must admit with some shame that I am no warrior,",
+      "and can only express this passion through creation."
+    ],
+    "5": [
+      "…Hm?Are you perhaps ",
+      "curious about this armor?"
+    ],
+    "6": [
+      "Hahaha… It’s nothing more ",
+      "than a personal hobby of mine!"
+    ],
+    "7": [
+      "By donning such equipment like this,",
+      "I can at least feel somewhat like an adventurer."
+    ],
+    "8": [
+      "Of course—it’s incredibly heavy!",
+      "In fact, I can barely move under its weight…"
+    ],
+    "9": [
+      "But even so…!",
+      "I will never give in!"
+    ],
+    "10": [
+      "So many heroes and legends gather in this place,",
+      "and I must continue gathering inspiration and materials."
+    ],
+    "11": [
+      "That being said, if you don’t mind,",
+      "would you be willing to try my humble work?"
+    ],
+    "12": [
+      "I’m certain it will be of help",
+      "in your exploration——"
+    ],
+    "13": [
+      "…What!? You don’t know who I am,",
+      "and lack a device capable of running games!?"
+    ],
+    "14": [
+      "Fear not! To prepare for such situations,",
+      "I always carry missionary tools with me!"
+    ],
+    "15": [
+      "Our meeting here is a kind of fate,",
+      "so I shall offer the device at cost price!"
+    ],
+    "16": [
+      "Furthermore, to aid fellow adventurers,",
+      "I also happen to run a small shop——"
+    ],
+    "17": [
+      "Naturally, this is also because I must",
+      "secure funds to continue development…"
+    ],
+    "18": [
+      "So if you find yourself interested,",
+      "I would greatly appreciate your patronage!"
+    ],
+    "19": [
+      "Hahaha, then the pact is sealed.",
+      "I await your thoughts after you have played."
+    ],
+    "20": [
+      "And should you be willing to share your tales,",
+      "they may yet inspire my future creations."
+    ],
+    "30": [
+      "Talk",
+      "Trade",
+      "Share Tales"
+    ],
+    "31": [
+      "Oh? We meet again!",
+      "my fellow."
+    ],
+    "32": [
+      "We cross paths once more.",
+      "Well then—",
+      "have you found any interest in ",
+      "taking part in my great undertaking?"
+    ],
+    "33": [
+      "Well then? Have you ",
+      "taken anything away from my game?"
+    ],
+    "34": [
+      "So you seek an antidote for your family—",
+      "A resolve worthy of respect."
+    ],
+    "35": [
+      "Regrettably, ",
+      "I must confess my own inadequacy.",
+      "Of the alchemical secret known as Elixir Rubrum, ",
+      "I know but little..."
+    ],
+    "36": [
+      "At your present level of arms and equipment,",
+      "The descent into the Abyss will not be an easy trial."
+    ],
+    "37": [
+      "I advise you to prepare more supplies,",
+      "Or to take time and study the true nature of your weapons."
+    ],
+    "38": [
+      "Many alchemical remnants from bygone eras ",
+      "lie scattered here.",
+      "Observe them carefully—",
+      "you may yet uncover their true purpose."
+    ],
+    "39": [
+      "I too collect items of practical use.",
+      "Should you wish, I would welcome your patronage."
+    ],
+    "40": [
+      "Among monsters dwell intelligent races, versed in human speech,",
+      "Some of whom bear no ill will toward mankind."
+    ],
+    "41": [
+      "Should you encounter them on your journey,",
+      "Do not be surprised— ",
+      "you may even trade for valuable information.",
+      " "
+    ],
+    "42": [
+      "Take care on your journey,",
+      "my fellow."
+    ],
+    "43": [
+      "There is no need to hurry.",
+      "Return when the need arises."
+    ],
+    "44": [
+      "You require \\ii[\\v[84]]?",
+      "Then the price shall be \\c[6]\\v[85]\\c[0] yen."
+    ],
+    "45": [
+      "You require \\ii[\\v[84]]?",
+      "For a fellow kindred, \\c[6]\\v[85]\\c[0] yen will suffice."
+    ],
+    "46": [
+      "Purchase",
+      "Leave it"
+    ],
+    "47": [
+      "May this item Help you ",
+      "overcome the trials before you."
+    ],
+    "48": [
+      "A wise decision. May it ",
+      "serve you well when it matters most."
+    ],
+    "49": [
+      "You seem somewhat impatient.",
+      "Even among adventurers, all trades require fair terms."
+    ],
+    "50": [
+      "Do not force yourself.",
+      "Return when your purse is better prepared."
+    ],
+    "51": [
+      "Impressive—you have purchased everything.",
+      "That is all I can offer for today."
+    ],
+    "52": [
+      "My stock is now exhausted.",
+      "That these items found their way to you is satisfaction enough."
+    ],
+    "53": [
+      "Ah. ",
+      "this oversight is mine.",
+      "Were you looking for this? ",
+      "To find it at my feet… how curious."
+    ],
+    "54": [
+      "Now then, Has fortune ",
+      "brought you anything of interest?"
+    ],
+    "55": [
+      "(Hmm… there doesn’t seem to be",
+      "anything worth sharing…)"
+    ],
+    "56": [
+      "Shared some thoughts about ",
+      "\\str[120] playing Shadow Souls."
+    ],
+    "57": [
+      "Oh! To receive praise from your family—",
+      "it truly is a great honor for me."
+    ],
+    "58": [
+      "With that, I feel even more ",
+      "motivated to work on updates."
+    ],
+    "59": [
+      "That said, it seems I still haven’t",
+      "heard your own evaluation yet."
+    ],
+    "60": [
+      "Hm? Big… white…",
+      "and very soft?"
+    ],
+    "61": [
+      "…Is there really something in my game",
+      "that would inspire such an impression?"
+    ],
+    "62": [
+      "Oh no. I got too absorbed in that ",
+      "sensation and misspoke…"
+    ],
+    "63": [
+      "Shared information that the mushrooms growing on ",
+      "walking mushrooms are actually quite tasty."
+    ],
+    "64": [
+      "Monster cuisine, you say! What a novel idea!",
+      "As expected of you."
+    ],
+    "65": [
+      "Shared information that the strange birds in the dungeon",
+      "have extremely noisy cries."
+    ],
+    "66": [
+      "A juvenile Garuda, perhaps… I wonder which would be ",
+      "more overwhelming compared to the legendary dragon roar."
+    ],
+    "67": [
+      "Shared information that orc meat",
+      "is remarkably delicious."
+    ],
+    "68": [
+      "Shared information about a hidden passage in the Labyrinth",
+      "that connects to the outside world."
+    ],
+    "69": [
+      "It looks like a passage left behind by a previous engineering team.",
+      "I heard they once planned to excavate the entire Labyrinth."
+    ],
+    "70": [
+      "However, the project suddenly stalled halfway through.",
+      "No one knows what kind of trouble they ran into."
+    ],
+    "71": [
+      "Shared information about a strange mushroom house",
+      "at the end of the forest where people get lost."
+    ],
+    "72": [
+      "I’ve heard many adventurers lose their way inside…",
+      "but as expected of you, you managed to make it through safely."
+    ],
+    "73": [
+      "As for that enormous mushroom house…",
+      "it certainly makes one curious what kind of creature lives within."
+    ],
+    "74": [
+      "Shared an experience of unfortunately",
+      "falling into a pit inside the dungeon."
+    ],
+    "75": [
+      "Hahaha…! That truly is an embarrassing experience.",
+      "As an adventurer, one must always be aware of their surroundings."
+    ],
+    "76": [
+      "Shared information about discovering a mech",
+      "in an unknown area."
+    ],
+    "77": [
+      "I see… what a remarkable encounter. As expected,",
+      "the Great Labyrinth still hides traces of ancient civilizations."
+    ],
+    "78": [
+      "…So it has already vanished.",
+      "I have no reason to doubt your account."
+    ],
+    "79": [
+      "This must be a matter of fate.",
+      "Someday, it will surely appear once again."
+    ],
+    "80": [
+      "Shared information that jelly made from slimes",
+      "surprisingly has quite a good texture."
+    ],
+    "81": [
+      "Oh, my fellow!",
+      "Come and take this!"
+    ],
+    "82": [
+      "During these days, you’ve given me ",
+      "quite a lot of interesting inspiration.",
+      "If I didn’t offer at least a small token of thanks, ",
+      "it would hardly feel right."
+    ],
+    "83": [
+      "This is an outfit I personally designed",
+      "for promoting the game.",
+      "Please accept it as a gift that ",
+      "represents my appreciation."
+    ],
+    "84": [
+      "(Huh... a bonus T-shirt...?",
+      "W-what should I do...)"
+    ],
+    "85": [
+      "(I really don’t want to wear ",
+      "something like this outside...",
+      "I wonder if \\str[120] would like ",
+      "this kind of outfit...)"
+    ],
+    "86": [
+      "…I see. Are you looking for something ",
+      "interesting to watch late at night?"
+    ],
+    "87": [
+      "What a coincidence! I’ve collected",
+      "quite a number of tapes for inspiration."
+    ],
+    "88": [
+      "There are plenty of interesting ones among them—",
+      "I wouldn’t mind letting you have one."
+    ],
+    "89": [
+      "As always, I hope ",
+      "you’ll continue to support my business…!"
+    ]    
+  },
+  "12": {
+    "objectName": [
+      "Vending Machine"
+    ],
+    "sentouryoku": [
+      "1"
+    ],
+    "description": [
+      "It seems to be a machine operated and ",
+      "managed by the Maid Bunny.",
+      "It’s not entirely clear why monsters would want ",
+      "to imitate humans and run a business,",
+      "but everyone has naturally come to accept it.",
+      "By the way, carrot milk has the worst reviews."
+    ],
+    "1": [
+      "A strange vending machine...",
+      "A bottle of drink... \\c[6]\\v[86]\\c[0] yen."
+    ],
+    "2": [
+      "Buy one",
+      "Never mind"
+    ],
+    "3": [
+      "No...",
+      "I don't have enough money..."
+    ],
+    "4": [
+      "\"Due to damage by unknown individuals, ",
+      "a temporary repair penalty has been added...\"",
+      "Until the penalty is fully paid... ",
+      "a bottle of drink... \\c[6]\\v[86]\\c[0] yen!?"
+    ],
+    "5": [
+      "(There’s already…",
+      "no drinks left inside.)"
+    ]
+  },
+  "13": {
+    "objectName": [
+      "Shione"
+    ],
+    "subtitle": [
+      "Demonic Sister of The Fallen Church"
+    ],
+    "bossName": [
+      "The Pride Demon"
+    ],
+    "garble": true
+  },
+  "14": {
+    "objectName": [
+      "\\c[116]Mysterious Bubble"
+    ],
+    "sentouryoku": [
+      "1"
+    ],
+    "description": [
+      "There seems to be something under the water..."
+    ]
+  },
+  "15": {
+    "objectName": [
+      "\\c[115]Jackalope"
+    ],
+    "sentouryoku": [
+      "555"
+    ],
+    "description": [
+      "A high-rank monster evolved from the ",
+      "Horned Rabbit. For monster, horns serve both ",
+      "as weapons and as cores for storing mana.",
+      "Unlike the Horned Rabbit, it’s highly aggressive",
+      "When excited, its body turns red as mana surges, ",
+      "and it launches rapid, repeated charges."
+    ]
+  },
+  "16": {
+    "objectName": [
+      "The Unnameable C"
+    ],
+    "sentouryoku": [
+      "9"
+    ],
+    "description": [
+      "A being so infamous that even its name ",
+      "became taboo. In theory, it’s almost harmless—",
+      "but its terrifying appearance and unpredictable ",
+      "movements are enough to throw everyone ",
+      "present into chaos."
+    ]
+  },
+  "18": {
+    "objectName": [
+      "Stele of the End"
+    ],
+    "sentouryoku": [
+      "1"
+    ],
+    "description": [
+      "A long-neglected stone monument, ",
+      "now cracked and weathered.",
+      "You can tell it was once exquisitely carved.",
+      "Even after all these years, it still",
+      "carries an aura that inspires quiet awe."
+    ]
+  },
+  "22": {
+    "objectName": [
+      "\\c[116]Tower Zealot"
+    ],
+    "sentouryoku": [
+      "800"
+    ],
+    "description": [
+      "Fanatics devoted to the Abyssal power ",
+	  "and the Tower's curse.",
+      "They believe this untamable power will bring ",
+      "the world rebirth, even if it is built upon ",
+	  "the suffering of all—"
+    ]
+  },
+  "24": {
+    "objectName": [
+      "\\c[114]Maid Bunny"
+    ],
+    "sentouryoku": [
+      "?77"
+    ],
+    "description": [
+      "A strange girl always dressed as a maid with rabbit ears.",
+      "Possesses the ability to teleport, ",
+      "appearing from all sorts of strange holes.",
+      "Frequently teases adventurers but is mostly harmless."
+    ],
+    "1": [
+      "……Usa?",
+      "Why are you so ugly usa…?"
+    ],
+    "2": [
+      "Usa…… I smell…",
+      "you have the scent of carrots, usa…"
+    ]
+  },
+  "28": {
+    "objectName": [
+      "Giant Sacabambaspis"
+    ],
+    "subtitle": [
+      "Dwelling in the water"
+    ],
+    "bossName": [
+      "The River Lord—wasn’t it extinct!?"
+    ],
+    "sentouryoku": [
+      "999"
+    ],
+    "description": [
+      ""
+    ]
+  },
+  "29": {
+    "objectName": [
+      "\\c[10]The Lust Demon"
+    ],
+    "subtitle": [
+      "Still Under Suppression"
+    ],
+    "bossName": [
+      "The Lust Demon"
+    ],
+    "garble": true,
+    "sentouryoku": [
+      "6666"
+    ],
+    "description": [
+      "A Lust Demon freed from the tower, ",
+	  "its true power still suppressed.",
+	  "Surprisingly gentlemanly and talkative for ",
+	  "a demon of its kind. However, once piqued, ",
+	  "its thick ritual implement will leave",
+	  "its opponent with deep psychological scars."
+    ]
+  },  
+  "32": {
+    "objectName": [
+      "Mysterious Gacha"
+    ],
+    "sentouryoku": [
+      "9"
+    ],
+    "description": [
+      "A gacha machine summoned by a Tarot card.",
+      "It eats up whatever adventurers offer it.",
+      "When satisfied, it happily spins and ",
+      "finally spits out a reward-filled capsule.",
+      "But be careful not to overfeed it—though it's",
+      "a machine, it seems to get food poisoning..."
+    ],
+    "1": [
+      "Still in the river!"
+    ],
+    "2": [
+      "I found a weird gacha machine...",
+      "Its expression looks like \\str[120]'s..."
+    ],
+    "3": [
+      "Try inserting money",
+      "Try feeding it"
+    ],
+    "4": [
+      "But I don’t have enough money to feed it…"
+    ],
+    "5": [
+      "Should I really feed it ",
+      "\\ii[\\v[90]]…?"
+    ],
+    "6": [
+      "Yeah",
+      "Nope"
+    ]
+  },
+  "41": {
+    "objectName": [
+      "\\c[114]NLCH Delivery!"
+    ],
+    "sentouryoku": [
+      "?999"
+    ],
+    "description": [
+      "A mobile shop run by two catgirls.",
+      "They show up flashily when adventurers call.",
+      "Goods are mostly Abyss junk they found.",
+      "Watch out, prices can be a total ripoff.",
+      "Look down on them, and get beaten up...",
+      "PS:\\c[2]Blacklisted by the Maid Bunnies ",
+      "\\c[2]for stealing customers."
+    ],
+    "1": [
+      "Hi~! Welcome, nya♪ Take your time looking around,",
+      "and feel free to ask me anything, nya!"
+    ]
+  },
+  "43": {
+    "objectName": [
+      "Walking Shroom"
+    ],
+    "sentouryoku": [
+      "120"
+    ],
+    "description": [
+      "A strange monster often found in jungles, ",
+      "much larger than regular mushrooms.",
+      "It can freely walk on its legs and is aggressive.",
+      "However, it's delicious, making it a favorite ",
+      "target for adventurers and chefs alike."
+    ]
+  },
+  "47": {
+    "objectName": [
+      "\\c[114]Door of Star"
+    ],
+    "sentouryoku": [
+      "1"
+    ],
+    "description": [
+      "A passable door summoned by the Star Tarot.",
+      "The stars are believed to guide one back home.",
+      "Passing through this door returns the traveler ",
+      "to a safe area. Adventurers often use it ",
+      "to return to a place of rest, or to retreat ",
+      "temporarily when the situation turns unfavorable."
+    ]
+  },
+  "51": {
+    "objectName": [
+      "\\c[116]Lesser Orc"
+    ],
+    "sentouryoku": [
+      "320"
+    ],
+    "description": [
+      "A young orc still in its growth phase, ",
+      "already about the size of a human.",
+      "It reacts to living beings and greedily ",
+      "absorbs their life force."
+    ]
+  },
+  "53": {
+    "objectName": [
+      "Zombie"
+    ],
+    "sentouryoku": [
+      "210"
+    ],
+    "description": [
+      "A corpse reanimated through necromancy.",
+      "It still retains aggression and possesses ",
+      "considerable combat ability."
+    ]
+  },
+  "59": {
+    "objectName": [
+      "Wonderland’s White Rabbit"
+    ],
+    "subtitle": [
+      "Dwelling in Forest of Ruins"
+    ],
+    "bossName": [
+      "Wonderland’s White Rabbit"
+    ],
+    "sentouryoku": [
+      "???"
+    ],
+    "description": [
+      ""
+    ]
+  },
+  "65": {
+    "objectName": [
+      "\\c[116]Monstrous Bird"
+    ],
+    "sentouryoku": [
+      "260"
+    ],
+    "description": [
+      "A massive avian beast.",
+      "It charges at adventurers with its large body,",
+      "and also uses sonic attacks, so beware."
+    ]
+  },
+  "66": {
+    "objectName": [
+      "\\c[114]Orange Tabby Cat Slime"
+    ],
+    "sentouryoku": [
+      "?10"
+    ],
+    "description": [
+      "A slime that mutated after mistakenly ",
+      "eating an adorable kitty,",
+      "and became cute itself as a result.",
+      "It has lost its will to attack,",
+      "but will puff up like a cat when threatened..."
+    ],
+    "1": [
+      "The cat slime seems to ",
+      "really like me..."
+    ]
+  },
+  "67": {
+    "objectName": [
+      "\\c[114]Striped Calico Cat Slime"
+    ],
+    "sentouryoku": [
+      "?10"
+    ],
+    "description": [
+      "A slime that mutated after mistakenly ",
+      "eating an adorable kitty,",
+      "and became cute itself as a result.",
+      "It has lost its will to attack,",
+      "but will puff up like a cat when threatened..."
+    ],
+    "1": [
+      "The cat slime seems to ",
+      "really like me..."
+    ]
+  },
+  "68": {
+    "objectName": [
+      "\\c[114]White Tabby Cat Slime"
+    ],
+    "sentouryoku": [
+      "?10"
+    ],
+    "description": [
+      "A slime that mutated after mistakenly ",
+      "eating an adorable kitty,",
+      "and became cute itself as a result.",
+      "It has lost its will to attack,",
+      "but will puff up like a cat when threatened..."
+    ],
+    "1": [
+      "The cat slime seems to ",
+      "really like me..."
+    ]
+  },
+  "69": {
+    "objectName": [
+      "\\c[114]Siamese Cat Slime"
+    ],
+    "sentouryoku": [
+      "?10"
+    ],
+    "description": [
+      "A slime that mutated after mistakenly ",
+      "eating an adorable kitty,",
+      "and became cute itself as a result.",
+      "It has lost its will to attack,",
+      "but will puff up like a cat when threatened..."
+    ],
+    "1": [
+      "The cat slime seems to ",
+      "really like me..."
+    ]
+  },
+  "70": {
+    "objectName": [
+      "Banana Fairy"
+    ],
+    "sentouryoku": [
+      "?10"
+    ],
+    "description": [
+      "A creature…? shaped like a banana.",
+      "A fairy born from the influence of the Abyssal ",
+      "aura, It poses little threat to adventurers.",
+      "However, there are rumors it can ",
+      "easily send people flying…"
+    ]
+  },
+  "71": {
+    "objectName": [
+      "Apple Fairy"
+    ],
+    "sentouryoku": [
+      "?10"
+    ],
+    "description": [
+      "A creature…? shaped like an apple.",
+      "A fairy born from the influence of the Abyssal ",
+      "aura, It poses little threat to adventurers.",
+      "However, there are rumors it can ",
+      "easily send people flying…"
+    ]
+  },
+  "72": {
+    "objectName": [
+      "\\c[115]Fallen Mage’s Severed Hand"
+    ],
+    "sentouryoku": [
+      "480"
+    ],
+    "description": [
+      "The severed limb of a dead mage.",
+      "No one knows what its original owner went through,",
+      "But infused with necromancy, this hand stays active.",
+      "Adventurers often see it make obvious gestures ",
+      "when attacking."
+    ]
+  },
+  "73": {
+    "objectName": [
+      "WaterWeird"
+    ],
+    "sentouryoku": [
+      "180"
+    ],
+    "description": [
+      "An alchemical elemental creature composed of  ",
+      "water that wields elemental magic.",
+      "It has high resistance to physical attacks,",
+      "but cannot survive in environments without water."
+    ]
+  },
+  "77": {
+    "objectName": [
+      "\\c[115]Demon Cat"
+    ],
+    "sentouryoku": [
+      "300"
+    ],
+    "description": [
+      "A stray cat possessed by demonic power.",
+      "It gained the ability to fly along with ",
+      "dark magical powers. But in the end, ",
+      "it’s still just a cat—",
+      "At most, it just shoots small magic blasts."
+    ]
+  },
+  "78": {
+    "objectName": [
+      "\\c[115]Vengeful Spirit"
+    ],
+    "sentouryoku": [
+      "400"
+    ],
+    "description": [
+      "A magical creature born from a dead soul’s grudge ",
+      "through necromancy. It endlessly roams graveyards ",
+      "and has high resistance to physical attacks,",
+      "and can spit out deadly ghost fire."
+    ]
+  },
+  "80": {
+    "bossName": [
+      "Frenzied Crimson Beast"
+    ],
+    "subtitle": [
+      "Dwelling in Forgotten Catacomb"
+    ],
+    "sentouryoku": [
+      "1600"
+    ],
+    "description": [
+      ""
+    ]
+  },
+  "87": {
+    "objectName": [
+      "Herbivore Slime"
+    ],
+    "sentouryoku": [
+      "60"
+    ],
+    "description": [
+      "A common monster found in the outskirts of ",
+      "the Abyss. It evolved a green color due to its ",
+      "habit of feeding on plants. When approached ",
+      "suddenly, it becomes agitated,and starts ",
+      "spraying corrosive slime."
+    ]
+  },
+  "88": {
+    "objectName": [
+      "Jack Slime"
+    ],
+    "sentouryoku": [
+      "999"
+    ],
+    "description": [
+      "A slime that accidentally consumed a Jack Bomb.",
+      "Though it didn’t explode right away, ",
+      "it remains extremely unstable, and becomes ",
+      "agitated and self-destructive when provoked."
+    ]
+  },
+  "89": {
+    "objectName": [
+      "\\c[116]Wraith Slime"
+    ],
+    "sentouryoku": [
+      "340"
+    ],
+    "description": [
+      "A mutated slime influenced by the environment ",
+      "of a graveyard. It aggressively attacks adventurers ",
+      "like a zombie, becoming more vicious,  ",
+      "and the deathly aura surrounding.",
+      "its body can infect others on contact,",
+      "causing instant death if you're not careful..."
+    ]
+  },
+  "90": {
+    "objectName": [
+      "\\c[116]Frost Slime"
+    ],
+    "sentouryoku": [
+      "400"
+    ],
+    "description": [
+      "A slime mutated after absorbing magic from ",
+      "an unknown source. It thrives in watery areas ",
+      "and creates thick armor of ice using its magic. ",
+      "It absorbs large amounts of water, ",
+      "rapidly cools it, and blasts it at adventurers."
+    ]
+  },
+  "91": {
+    "objectName": [
+      "\\c[116]Crackling Slime"
+    ],
+    "sentouryoku": [
+      "280"
+    ],
+    "description": [
+      "A sparkling slime that can discharge electricity ",
+      "all over its body. Even slimes don’t know what it ",
+      "ate to mutate like this. But in its current state of ",
+      "freely discharging electricity, getting close is dangerous..."
+    ]
+  },
+  "92": {
+    "objectName": [
+      "Ore Slime"
+    ],
+    "sentouryoku": [
+      "350"
+    ],
+    "description": [
+      "A slime that consumed magic-infused crystals, ",
+      "hardening its body. Tough minerals grow on its ",
+      "surface, forming deadly weapons.",
+      "While tougher, it’s still a slime at heart. ",
+      "Also, the ore it drops seems to be quite valuable…"
+    ]
+  },
+  "101": {
+    "objectName": [
+      "\\c[116]Red Cub"
+    ],
+    "sentouryoku": [
+      "380"
+    ],
+    "description": [
+      "A grotesque creature born from an egg.",
+      "Its malformed, unnatural growth environment ",
+      "has twisted its body into a mass of tangled tissues.",
+      "It possesses a fierce urge to attack, ",
+      "driven by the desire to devour flesh and be reborn."
+    ]
+  },
+  "102": {
+    "objectName": [
+      "Trash Bin"
+    ],
+    "sentouryoku": [
+      "???"
+    ],
+    "description": [
+      "Even in the deadly Abyss, littering isn’t cool.",
+      "Still, Whatever you toss vanishes by next day...",
+      "Feels like someone’s cleaning up.",
+      "But be careful—don’t toss in flammable stuff.",
+      "Treat it too rough, ",
+      "and you might trigger something nasty."
+    ],
+    "1": [
+      "Found a trash can...",
+      "What to do with it?"
+    ],
+    "2": [
+      "Search Around",
+      "Drop Weapon",
+      "Drop Gear"
+    ],
+    "3": [
+      "It’s just the stuff ",
+      "I just threw away..."
+    ],
+    "4": [
+      "(Ugh... My backpack is completely full...",
+      "I’ll have to toss everything at once...)"
+    ],
+    "5": [
+      "Throw all away!",
+      "Think again..."
+    ],
+    "6": [
+      "...Should I really throw these away?",
+      "\\str[8]"
+    ],
+    "7": [
+      "\\fr${itemIcon}\\fr and ${itemLength} equipment in total."
+    ]
+  },
+  "106": {
+    "objectName": [
+      "Chili Pepper Tree"
+    ],
+    "sentouryoku": [
+      "1"
+    ],
+    "description": [
+      "Wait, do peppers grow on trees?",
+      "Although \\str[120] really hates it, ",
+      "I, as an adventurer, ",
+      "can’t afford to be picky with food."
+    ]
+  },
+  "107": {
+    "objectName": [
+      "Potato"
+    ],
+    "sentouryoku": [
+      "1"
+    ],
+    "description": [
+      "Easy to mistake for weeds ",
+      "if you do not look closely. ",
+      "Dig beneath the soil and you will find ",
+      "tasty potatoes."
+    ]
+  },
+  "108": {
+    "objectName": [
+      "Tomato Tree"
+    ],
+    "sentouryoku": [
+      "1"
+    ],
+    "description": [
+      "Tomatoes brimming with juice and ",
+      "a gentle fragrance, ",
+      "as if someone had raised them with great care..."
+    ]
+  },
+  "109": {
+    "objectName": [
+      "Strawberry Tree"
+    ],
+    "sentouryoku": [
+      "1"
+    ],
+    "description": [
+      "A fruit tree laden with strawberries ",
+      "that looks absolutely delicious.",
+      "It often attracts a certain creature to come ",
+      "and steal a bite."
+    ]
+  },
+  "110": {
+    "objectName": [
+      "Scarecrow"
+    ],
+    "sentouryoku": [
+      "???"
+    ],
+    "description": [
+      "\"I'm just a scarecrow.",
+      "Since I don't have a heart, ",
+      "I can't feel pain.\""
+    ]
+  },
+  "113": {
+    "objectName": [
+      "Horned Rabbit"
+    ],
+    "sentouryoku": [
+      "50"
+    ],
+    "description": [
+      "A wild rabbit mutated by magical contamination—",
+      "the horn on its head is the mark of this change.",
+      "However, it’s still in its growth stage ",
+      "and not particularly dangerous.",
+      "Also, its meat remains tender and delicious."
+    ]
+  },
+  "115": {
+    "objectName": [
+      "\\c[115]Burning Slime"
+    ],
+    "sentouryoku": [
+      "620"
+    ],
+    "description": [
+      "A slime engulfed in blazing flames—",
+      "just getting close to it radiates intense heat.",
+      "Normal attacks are nearly useless against it,",
+      "and adventurers can only be thankful",
+      "that this kind of monster only appears in ",
+      "extreme environments like lava fields."
+    ]
+  },
+  "119": {
+    "objectName": [
+      "\\c[10]Death Devil"
+    ],
+    "garble": [
+      "true"
+    ],
+    "sentouryoku": [
+      "???"
+    ],
+    "description": [
+      "A mere shadow of the ",
+      "Death Devil's will—",
+      "no mortal survives its price.",
+      "Even this echo brings death ",
+      "to all it sees,",
+      "summoner included. "
+    ]
+  },
+  "97": {
+    "objectName": [
+      "\\c[10]Aki"
+    ],
+    "sentouryoku": [
+      "\\c[10]It's rude to ask a girl's stats~♥"
+    ],
+    "description": [
+      "Looks like a harmless little girl,",
+      "but is actually a free-spirited Archdemon.",
+      "Friendly toward humans, but loves teasing them ",
+      "and savoring their flustered reactions.",
+      "She runs a shop out of whim, ",
+      "with items and prices changing on a whim as well.",
+      "Basically, she just wants to get her favorite salmon",
+      "from humans however she can..."
+    ],
+    "1": [
+      "Oh my~ What a rare guest~ Hehe~",
+      "I’ve got some good stuff here, take your time♥"
+    ],
+    "2": [
+      "Yaho~! What a coincidence~ So nice to see you again~!",
+      "Is it fate~? Or maybe you're just super lucky~?"
+    ],
+    "3": [
+      "Hehe, either way~! When luck’s on your side,",
+      "you better watch out—someone might just snatch it away♥"
+    ],
+    "4": [
+      "My shop’s a special one, you know~",
+      "I sell things you won’t find anywhere else~"
+    ],
+    "5": [
+      "Mhm~ What’s up? Your face is all red~ \\w[45]Hehe~ \\w[45]",
+      "Did I charm you or something? You’re just too cute~"
+    ],
+    "6": [
+      "These items are…",
+      "Who even are you…?"
+    ],
+    "7": [
+      "Aha♥ Spiii~cy~ Adull~t~ only~",
+      "You’re into this kind of thing, huh?"
+    ],
+    "8": [
+      "Of course~ I’ve got them♥",
+      "onii-san... are you interested~?"
+    ],
+    "9": [
+      "Oh~ wanna know more about me?",
+      "Fair enough~ I haven’t introduced myself, have I~"
+    ],
+    "10": [
+      "Well then, I’m~ The Archdemon from",
+      "the depths of the Abyss! Aki~!"
+    ],
+    "11": [
+      "Hey now! Don’t give me that scary face~",
+      "I’m just here to make a little trade today~!"
+    ],
+    "12": [
+      "Sniff sniff…",
+      "\\w[90]\\^"
+    ],
+    "13": [
+      "Yes! That smell!",
+      "That’s it! Gimme it♥ Pleaaaase~!"
+    ],
+    "14": [
+      "Come on~",
+      "You’ll give it to me, won’t you♥"
+    ],
+    "15": [
+      "(Ah, so it was the salmon in my bag",
+      "that lured her in...)"
+    ],
+    "16": [
+      "Mhm mhm~! This is exactly what I wanted!",
+      "I’ll make sure to thank you properly♥"
+    ],
+    "17": [
+      "Please~ Even just a little bit is fine…",
+      "Share it with me? Pretty please♥"
+    ],
+    "18": [
+      "(What should I do… Looks like",
+      "this brat really wants some salmon…)"
+    ],
+    "19": [
+      "Give nothing"
+    ],
+    "20": [
+      "Hoh~    \\w[45]",
+      "Are you trying to defy Lady Aki?"
+    ],
+    "21": [
+      "Tsk tsk~ Such a naughty boy~!",
+      "Guess I’ll have to punish you properly♥"
+    ],
+    "22": [
+      "\\>\\c[10]《Demonic Contract Ritual: Purehearted Human’s Absolute Curse =",
+      "\\>From Today, Your Life Is Hell Mode》!!     \\w[90]"
+    ],
+    "23": [
+      "And with that—",
+      "You’ve been cursed—"
+    ],
+    "24": [
+      "So much salmon for me♥ You're too sweet, onii-san~",
+      "Trying to win my heart, huh~?"
+    ],
+    "25": [
+      "So cute♥ I just can’t resist~",
+      "Hehe~!"
+    ],
+    "26": [
+      "Take this little cutie with you~",
+      "If you want to find me, just send it with a message~♥"
+    ],
+    "27": [
+      "You want to buy this item?",
+      "Sure~ I’ll sell it to you~!"
+    ],
+    "28": [
+      "Ah! But you know, I don’t really care about money~",
+      "For a demon like me, that stuff’s totally worthless~"
+    ],
+    "29": [
+      "Hmm, you’ve got some decent muscles there,",
+      "So I’m sure you can manage~!"
+    ],
+    "30": [
+      "...Hehe, if you want this item~!",
+      "Then trade it for some salmon~!"
+    ],
+    "31": [
+      "There’s water all over the place nearby, right?",
+      "Shouldn’t be that hard for you to catch a few fish~?"
+    ],
+    "32": [
+      "If you thought that was the end, you’re soooo wrong~♥",
+      "Unless you properly reflect, I’m never letting you off the hook!"
+    ],
+    "33": [
+      "Also~ This curse? ",
+      "It’s gonna stick around for a while~♥"
+    ],
+    "34": [
+      "Ahaha♥ What a pain, huh~?",
+      "Bet this is super annoying for you, onii-san♥"
+    ],
+    "35": [
+      "Aww~ Wanna beg me to lift the curse~?",
+      "What should I do~♥"
+    ],
+    "36": [
+      "And what if I say no~? What’ll you do~?",
+      "Aww, don’t make that face~ That’s not gonna work on me~"
+    ],
+    "37": [
+      "Now I just wanna bully you more, onii-san♥",
+      "No curse lifting for you~ Ahaha♥"
+    ],
+    "38": [
+      "Wow, you’re really desperate, huh? Such a ZAKO♥",
+      "Show me you’re sorry with more sincerity~♥"
+    ],
+    "39": [
+      "(If I wanna break the curse…",
+      "I guess I really do have to offer her some fish…)"
+    ],
+    "40": [
+      "Waa~! Thanks a bunch",
+      "onii-san~♥"
+    ],
+    "41": [
+      "So much salmon for me♥ sluuurp♥",
+      "Ahh~ It’s salmon heaven♥"
+    ],
+    "42": [
+      "Alrighty~! The curse is lifted now~!",
+      "Hope we can play again soon, onii-san♥"
+    ],
+    "43": [
+      "Well well~ Long time no see, onii-san~",
+      "You showed up at just the right time~♥"
+    ],
+    "44": [
+      "Wanna try out a brand-new item?",
+      "It's a Mizumanju I made myself~"
+    ],
+    "45": [
+      "The effect, you ask? Hehe~!",
+      "It makes your body extra sensitive♥"
+    ],
+    "46": [
+      "And it doesn't just work on humans~",
+      "It’s super effective on monsters too!"
+    ],
+    "47": [
+      "So, what do you think? Just ten salmon~?",
+      "Wanna buy it? No? Hurry up and decide♥"
+    ],
+    "48": [
+      "I’ll buy it!",
+      "Never mind…"
+    ],
+    "49": [
+      "Seriously, ZAKO onii-san, even your brain turned to ZAKO~?",
+      "Can’t even cough up a few fish… so useless♥"
+    ],
+    "50": [
+      "No money, no salmon—what a weak, pathetic onii-san~",
+      "No wonder you're single and still a virgin~"
+    ],
+    "51": [
+      "If you change your mind someday, come back and buy it~",
+      "Not that I care or anything♥"
+    ],
+    "52": [
+      "Tch~ So boring, nya~",
+      "Can’t believe you passed on something this amazing♥"
+    ],
+    "53": [
+      "Thanks for the purchase, nya~",
+      "Now I can go eat sooo much salmon again~"
+    ],
+    "54": [
+      "Tch~ So boring, nya~",
+      "Can’t believe you passed on something this amazing♥"
+    ],
+    "55": [
+      "Ah~ I mean, probably nothing will happen♥",
+      "But onii-san, you do look suuuper weak~"
+    ],
+    "56": [
+      "So I figured I better warn you~",
+      "This, you know, you can use it on yourself too~"
+    ],
+    "57": [
+      "And yeah, the effect is making your body suuuper sensitive♥",
+      "So like, definitely don’t try it on yourself, okay~?"
+    ],
+    "58": [
+      "Or wait, you actually want to use it?",
+      "onii-san’s totally a hopeless little masochist, huh♥"
+    ],
+    "59": [
+      "Kidding~♥ Well then,",
+      "come visit me again next time, okay~♥"
+    ],
+    "60": [
+      "Too bad~ It's already sold out~?",
+      "Geez, onii-san, you really are that desperate, huh♥"
+    ],
+    "61": [
+      "If you want more, you’ll have to wait till next time~",
+      "Buuut if you bring me salmon, I might make an exception♥"
+    ],
+    "62": [
+      "Oh my♥ You want more? So greedy~!",
+      "Buying this much... are you planning something naughty~?"
+    ],
+    "63": [
+      "Whoaaa—♥ Such high-quality salmon—!",
+      "you should’ve brought this out way earlier~"
+    ],
+    "64": [
+      "If it’s that kind~",
+      "Just give me one and I’ll sell it to you~♥"
+    ],
+    "65": [
+      "Hehe~ looking for something to watch late at night~?",
+      "Picking this time… what kind of spicy stuff are you hoping for~?"
+    ],
+    "66": [
+      "Wanna watch it with Imouto~? onii-san, you’re ",
+      "getting more and more suspicious, aren’t you~? ♥"
+    ],
+    "67": [
+      "But you’re super lucky, onii-san~",
+      "I just so happen to have something like that right here~"
+    ],
+    "68": [
+      "If you want it,",
+      "trade me some salmon~"
+    ],
+    "69": [
+      "Not that boring, everyday salmon though~",
+      "I want something higher quality ♥"
+    ],
+    "70": [
+      "Whaaat~? onii-san, you’re such a ZAKO~",
+      "You seriously can’t even get premium salmon?"
+    ],
+    "71": [
+      "ZAKO~",
+      "Such a ZAKO~"
+    ],
+    "72": [
+      "But fine, ",
+      "I’ll give you a little help ♥",
+      "That way… you’ll be able to ",
+      "catch fish more easily, right~?"
+    ],
+    "73": [
+      "Ooh~~!",
+      "That smell~~"
+    ],
+    "74": [
+      "Well well~ onii-san, you’re not totally useless~",
+      "You caught such high-quality salmon ♥"
+    ],
+    "75": [
+      "Alright ♥ Here, this is what I promised~",
+      "Go enjoy it properly, onii-san~"
+    ],
+    "76": [
+      "Even with my help~",
+      "onii-san, you’re so pathetic~"
+    ]    
+  },
+  "98": {
+    "objectName": [
+      "Candy Machine"
+    ],
+    "sentouryoku": [
+      "???"
+    ],
+    "description": [
+      "A candy machine filled with all sorts of ",
+      "colorful sweets. All of them are handmade konpeitō ",
+      "by the shop owner.",
+      "It seems to be made with some special ingredients, ",
+      "giving off a strange but pleasant aroma…",
+      "But even if you ask out of curiosity what’s inside,",
+      "All you’ll get is a meaningful smile from the girl..."
+    ],
+    "1": [
+      "found a candy machine ",
+      "filled with brightly colored sweets—"
+    ],
+    "2": [
+      "Let’s see... One spin costs... ",
+      "\\w[60]\\^"
+    ],
+    "3": [
+      "\\>Let’s see... One spin costs...",
+      "\\c[6]\\v[86]\\c[0]yen!? \\< That’s expensive!!"
+    ],
+    "4": [
+      "\\str[120] might like these kinds of snacks...",
+      "What should I do? Should I give it a try?"
+    ],
+    "5": [
+      "Let’s see... One spin costs... \\w[60]\\c[6]\\v[86]\\c[0]yen",
+      "What should I do? Should I give it a try?"
+    ],
+    "6": [
+      "Pay with money",
+      "Trade with fish"
+    ],
+    "7": [
+      "But... I don’t have ",
+      "that much money on me..."
+    ],
+    "8": [
+      "Yes, yes~♥",
+      "Just offer a bit more salmon then..."
+    ]
+  }
+}

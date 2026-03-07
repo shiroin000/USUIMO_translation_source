@@ -1,0 +1,1723 @@
+{
+  	"possibleDrops": [
+		"Vật phẩm có thể rơi"  
+    ],
+  	"7": {
+		"objectName": [
+		    "Lửa trại"
+		],	  
+		"sentouryoku": [
+		    "???"
+		],	  
+        "description": [
+            ""
+		],
+		"1": [
+            "Tìm thấy lửa trại...",
+			"bây giờ tôi nên làm gì?"
+        ],
+        "2": [
+            "Nghỉ ngơi",
+            "Không làm gì"
+        ]
+    },
+  	"8": {
+		"objectName": [
+		    "\\c[116]A↗SA↘BA↗"
+		],	  
+		"sentouryoku": [
+		    "2333"
+		],	  
+        "description": [
+            "Một sinh vật lạ thích ăn dâu tây. Nó có lớp da cứng",
+			"và phòng thủ phi lý, nhưng vì nó quá tập trung vào",
+			"dâu tây nên nó ít có xu hướng tấn công. Vì lý do đó,",
+			"những nhà mạo hiểm giả đi ngang thường kết thúc,",
+			"bằng việc cho nó ăn..."
+			
+		],
+		"subtitle": [
+      		"Ngụ tại Con Đường Của Mạo Hiểm Giả"
+		],
+		"bossName": [
+			"Kẻ Nuốt Dâu"
+		],		
+		"1": [
+            "ASABA nhìn tôi đầy mong chờ—",
+            "Nó có ngửi thấy gì trên người tôi không...?"
+        ],
+        "2": [
+            "ASABA nhìn tôi tò mò—",
+			"Nó có ngửi thấy gì trên người tôi không...?"
+        ],
+        "3": [
+            "ASABA nhìn tôi với vẻ chán ghét—",
+			"Liệu tôi có làm nó khó chịu không...?"
+        ],
+        "4": [
+            "Tôi có nên thử cho ASABA ăn không?"
+        ],
+        "5": [
+            "Cho ăn!",
+			"Không cho"
+        ],
+        "6": [
+            "ASABA ăn hết thức ăn với vẻ mặt vô cảm—",
+			"Có lẽ nó không thích..."
+        ],
+        "7": [
+            "ASABA dường như rất thích dâu tây—",
+			"Được ASABA ban phước lạ!"
+        ],
+        "8": [
+            "ASABA nhìn tôi với vẻ ghét bỏ—",
+			"Có tệ đến vậy không...? Món ăn vừa nãy..."
+        ],
+        "9": [
+            ".................?!  \\w[45]",
+			"ASABA... hỏng rồi!!"
+        ],
+		"10": [
+      		"ASABA đã no bụng—"
+		],
+		"11": [
+			"………………!",
+			"giờ ASABA đã ôm hận với tôi..."
+		]
+    },
+	"9": {
+		"objectName": [
+		    "\\c[116]Cá"
+		],	  
+		"sentouryoku": [
+		    "1"
+		],	  
+        "description": [
+            "Hình bóng con cá đang bơi dưới nước nhanh chóng ",
+			"bỏ chạy khi cảm nhận có người đến gần.",
+			"Liệu có cách nào để bắt được chúng không...?"
+		]	
+    },
+	"10": {
+		"objectName": [
+		    "Nữ Kiếm Sĩ Bí Ẩn"
+		],	  
+		"sentouryoku": [
+		    "?99"
+		],	  
+        "description": [
+            "Một cô gái tai mèo đến từ một ngôi làng nhỏ, ",
+			"trông vừa dễ thương vừa tràn đầy sức sống.",
+			"Thanh katana bên hông cô cho thấy ",
+			"cô hoàn toàn không hề tầm thường.",
+			"Cô phiêu bạt khắp nơi để tìm kiếm những trận quyết đấu ",
+			"với các đối thủ mạnh, nhưng phong cách quá nổi bật ",
+			"của cô luôn khiến người ta lo rằng cô có thể thu hút ",
+			"những kẻ đáng ngờ nào đó..."
+		],
+        "1": [
+		    "Tôi chỉ đến đây để thử thách bản thân thôi. Tôi không hẳn",
+		    "hứng thú với sự thật đằng sau Đại Mê Cung đâu."
+        ],
+        "2": [
+            "Thứ anh đang mang theo kia là...!",
+            "Chẳng lẽ anh cũng là fan của yuusha-sama sao!?"
+        ],
+        "3": [
+            "Một thanh kiếm gỗ có chất lượng cao như vậy",
+            "đâu phải dễ kiếm…..."
+        ],
+        "4": [
+		    "Um—!",
+			"Nếu anh không phiền thì..."
+        ],
+        "5": [
+		    "Anh có muốn đấu tập với tôi không? Tôi thật sự rất muốn xem",
+			"chúng ta so tài với tư cách đối thủ thì sẽ thế nào."
+        ],
+        "6": [
+		    "Chấp nhận",
+			"Từ chối"
+        ],
+        "7": [
+        	"Tuyệt quá!",
+        	"Vậy bắt đầu ngay thôi!"
+        ],
+        "8": [
+		    "Ra vậy…...",
+			"tiếc thật.."
+        ],
+        "9": [
+        	"Nhưng nếu sau này anh có hứng thú,",
+        	"tôi luôn sẵn sàng đấu với anh bất cứ lúc nào."
+        ],	
+        "10": [
+		    "Sinh ra tại Làng Shiri...",
+			"Tham vọng của tôi là trở thành Thánh Kiếm!"
+        ],	
+        "11": [
+		    "\\{…Koko ni mairi mashita!"
+        ],	
+        "12": [
+		    "Ahh... trông anh vẫn ổn cả.",
+			"Thật là nhẹ nhõm quá!"
+        ],	
+        "13": [
+        	"Tôi thật sự xin lỗi vì đã đề nghị",
+        	"trận đấu như vậy lúc nãy!"
+        ],	
+        "14": [
+		    "Có vẻ tôi đã hơi ",
+			"quá đà rồi... Nhưng mà!"
+        ],	
+        "15": [
+		    "Đã là quyết đấu thì tôi sẽ dốc toàn lực ",
+			"không hề nương tay đâu."
+        ],
+        "16": [
+		    "Thách đấu cô ấy!",
+			"Thôi vậy"
+        ],
+        "17": [
+		    "Tinh thần chiến đấu thật đáng khâm phục!",
+			"Khỏi phải nói, tôi sẽ không từ chối lời thách đấu của anh!"
+        ],
+        "18": [
+		    "Hah... hah...",
+			"Tôi thua rồi..."
+        ],
+        "19": [
+		    "Anh thật sự rất lợi hại.",
+			"Đòn đánh cuối cùng ấy đẹp đến mức hoàn hảo."
+        ],
+        "20": [
+		    "Lối chiến đấu khó đoán đó",
+			"đúng là mở mang tầm mắt cho tôi!"
+        ],
+        "21": [
+        	"Kéo anh vào một trận quyết đấu vô lý như vậy",
+        	"mà lại không có phần thưởng gì thì thật là thất lễ."
+        ],
+        "22": [
+          	"Xin hãy nhận lấy thứ này—đó là kỹ năng do chính tôi tự phát triển.",
+          	"Tôi chắc chắn nó sẽ rất hữu ích cho anh!"
+        ],
+        "23": [
+          	"Nghe có hơi tự mãn,",
+          	"nhưng hiện tại tôi đã là người mạnh nhất trong làng mình rồi."
+        ],
+        "24": [
+         	"Dẫu vậy, nhờ có anh mà tôi học được rằng ",
+         	"ngoài kia luôn có những kẻ còn mạnh hơn."
+        ],
+        "25": [
+		    "Vậy thì—",
+			"đã đến lúc tôi phải luyện kiếm chăm chỉ hơn nữa rồi!!"
+        ]			
+    },
+	"11": {
+		"objectName": [
+		    "Hiệp Sĩ Kỳ Lạ"
+		],	  
+		"sentouryoku": [
+		    "???"
+		],	  
+        "description": [
+            "Một hiệp sĩ khoác trên mình bộ giáp tỏa ra một bầu",
+			"không khí đáng sợ. Vì chiếc mũ giáp được bịt kín ",
+			"hoàn toàn, giọng nói của họ bị bóp nghẹt,",
+			"không thể xác định giới tính hay tuổi tác.",
+			"Họ tự xưng là một nhà phát triển game và để tìm kiếm",
+			"cảm hứng sáng tạo, thường hỏi các nhà thám hiểm",
+			"về những chuyến hành trình của họ ",
+			"và đổi lại sẽ cung cấp sự hỗ trợ về vật chất. ",
+			"Ngoài ra, họ dường như cũng rất am hiểu về Vực Thẳm—"
+		],
+        "1": [
+		    "……Ohhh! Cậu cũng đến đây để ",
+		    "truy tìm Đại Mê Cung à? "
+        ],
+        "2": [
+		    "Có lẽ anh bạn đã từng nghe qua về tôi—",
+		    "tôi chỉ là một nhà phát triển game bình thường mà thôi."
+        ],
+        "3": [
+		    "Bị sức hút của Đại Mê Cung này cuốn lấy,",
+		    "tôi mong muốn có thể chia sẻ vẻ huyền bí của nó cho cả thế giới."
+        ],
+        "4": [
+    	    "Tuy nhiên, cũng phải thú nhận một cách xấu hổ rằng tôi không phải",
+    	    "là một chiến binh, và chỉ có thể bày tỏ niềm đam mê ấy thông qua việc sáng tạo."
+        ],
+        "5": [
+		    "…Hm?Anh bạn đang tò mò ",
+			"về bộ giáp này sao?"
+        ],
+        "6": [
+		    "Hahaha… Chỉ là một sở thích ",
+			"cá nhân nho nhỏ của tôi thôi!"
+        ],
+        "7": [
+		    "Khoác lên những trang bị như thế này,",
+			"ít nhất tôi cũng có thể cảm thấy mình giống một nhà thám hiểm phần nào."
+        ],
+        "8": [
+		    "Tất nhiên là—nó nặng khủng khiếp thật!",
+			"Thực tế là tôi gần như không thể cử động nổi dưới sức nặng ấy…"
+        ],
+        "9": [
+		    "Nhưng dù là vậy…!",
+			"Tôi sẽ không bao giờ bỏ cuộc!"
+        ],
+        "10": [
+    	    "Biết bao anh hùng và huyền thoại hội tụ tại nơi này,",
+    	    "và tôi phải tiếp tục thu thập cảm hứng cùng tư liệu."
+        ],
+        "11": [
+    	    "Đã nói vậy rồi, nếu cậu không phiền,",
+    	    "anh bạn có sẵn lòng thử tác phẩm khiêm tốn của tôi không? "
+        ],
+        "12": [
+		    "Tôi tin chắc nó sẽ giúp ích",
+			"cho hành trình thám hiểm của cậu—"
+        ],
+        "13": [
+		    "…Cái gì!? Cậu không biết tôi là ai,",
+			"lại còn không có thiết bị để chơi game á!? "
+        ],
+        "14": [
+		    "Đừng lo! Để đề phòng những tình huống như thế này, ",
+			"tôi lúc nào cũng mang theo bộ dụng cụ truyền giáo bên mình! "
+        ],
+        "15": [
+    		"Cuộc gặp gỡ của chúng ta ở đây cũng xem như là một loại duyên phận,",
+    		"nên tôi sẽ nhượng lại thiết bị với giá gốc! "
+        ],
+        "16": [
+		    "Hơn nữa, để hỗ trợ các nhà thám hiểm đồng hành,",
+			"tôi cũng tiện thể mở một cửa hàng nhỏ— "
+        ],
+        "17": [
+		    "Tất nhiên, điều này cũng là để tôi có thể",
+			"xoay đủ vốn tiếp tục phát triển nữa…"
+        ],
+        "18": [
+		    "Vì vậy, nếu anh bạn thấy hứng thú,",
+			"tôi sẽ vô cùng cảm kích nếu cậu ghé ủng hộ! "
+        ],
+        "19": [
+		    "Hahaha, vậy thì thỏa ước đã được thành lập.",
+			"Tôi mong được nghe cảm nhận của cậu sau khi trải nghiệm."
+        ],
+        "20": [
+		    "Và nếu anh sẵn lòng chia sẻ những câu chuyện hành trình của mình,",
+			"biết đâu chúng sẽ trở thành nguồn cảm hứng cho những sáng tác sau này của tôi."
+        ],		
+        "30": [
+		    "Trò chuyện",
+		    "Giao dịch",
+            "Chia sẻ hành trình"
+        ],
+        "31": [
+		    "Oh? Lại gặp nhau rồi này!",
+		    "Người anh em của tôi."
+        ],
+        "32": [
+		    "Chúng ta lại chạm mặt lần nữa rồi.",
+		    "Vậy thì—",
+			"cậu có nảy sinh hứng thú muốn tham gia ",
+			"vào sự nghiệp vĩ đại của tôi chưa?"
+        ],
+        "33": [
+		    "Vậy sao rồi? Anh đã rút ra được điều gì ",
+			"từ trò chơi của tôi chưa?"
+        ],
+        "34": [
+    		"Ra là cậu đang tìm thuốc giải cho gia đình mình—",
+    		"một quyết tâm thật đáng kính trọng."
+        ],
+        "35": [
+    	    "Đáng tiếc thay, ",
+			"tôi cũng phải thú nhận sự bất lực của bản thân.",
+    	    "Về bí thuật giả kim được gọi là Elixir Rubrum, ",
+			"tôi chỉ biết rất ít..."
+        ],
+        "36": [
+    	    "Với trình độ chiến đấu và trang bị hiện tại của cậu,",
+    	    "việc tiến sâu xuống Vực Thẳm sẽ không phải là một thử thách dễ dàng đâu."
+        ],
+        "37": [
+    	    "Tôi khuyên anh bạn nên chuẩn bị thêm vật tư,",
+    	    "hoặc dành thời gian nghiên cứu kỹ vũ khí mình đang sử dụng."
+        ],
+        "38": [
+    	    "Rất nhiều tàn tích giả kim từ thời đại xa xưa ",
+			"đang nằm rải rác tại nơi này.",
+    	    "Hãy quan sát chúng cẩn thận—",
+			"biết đâu cậu sẽ khám phá ra mục đích thực sự của chúng."
+        ],
+        "39": [
+    	    "Bản thân tôi cũng sưu tầm những vật phẩm có tính thực dụng.",
+    	    "Nếu anh bạn có nhu cầu, tôi rất hân hạnh khi được cậu ủng hộ."
+		],
+        "40": [
+    	    "Giữa loài quái vật cũng tồn tại những chủng tộc có trí tuệ,",
+    	    "thông thạo ngôn ngữ của con người, và một số trong đó không hề mang ác ý với nhân loại."
+        ],
+        "41": [
+    	    "Nếu anh bạn chạm trán họ trên hành trình,",
+    	    "đừng lấy làm ngạc nhiên— ",
+			"cậu thậm chí còn có thể trao đổi để lấy những thông tin quý giá.",
+			" "
+        ],
+        "42": [
+		    "Hãy cẩn thận trên chuyến hành trình của cậu,",
+		    "Người anh em của tôi."
+        ],
+        "43": [
+		    "Không cần phải vội vàng thế.",
+		    "Khi nào cần thì hãy quay lại."
+        ],
+        "44": [
+		    "Anh bạn cần \\ii[\\v[84]] à?",
+		    "Vậy giá sẽ là \\c[6]\\v[85]\\c[0] yên nhé."
+        ],
+        "45": [
+		    "Anh bạn cần \\ii[\\v[84]] à?",
+		    "Chỗ anh em quen biết, lấy \\c[6]\\v[85]\\c[0] yên thôi."
+        ],
+        "46": [
+		    "Mua",
+		    "Thôi vậy"
+        ],
+        "47": [
+		    "Mong rằng vật phẩm này sẽ giúp cậu ",
+		    "vượt qua những thử thách phía trước."
+        ],
+        "48": [
+		    "Một quyết định sáng suốt. Hy vọng ",
+		    "nó sẽ phát huy tác dụng đúng lúc cậu cần nhất."
+        ],
+        "49": [
+		    "Có vẻ cậu hơi vội vàng. Dù là giữa các nhà thám hiểm,",
+		    "mọi giao dịch cũng cần những điều khoản công bằng."
+        ],
+        "50": [
+		    "Đừng ép bản thân quá.",
+		    "Hãy quay lại khi ví của anh bạn đã sẵn sàng hơn."
+        ],
+        "51": [
+		    "Thật ấn tượng, anh bạn đã mua hết toàn bộ.",
+		    "Hôm nay tôi chỉ có thể cung cấp đến vậy thôi."
+        ],
+        "52": [
+		    "Hàng hóa của tôi đã cạn.",
+		    "Việc những món đồ này tìm được đến tay cậu đã là đã thỏa mãn rồi."
+        ],
+        "53": [
+		    "Ah. ",
+			"Do sơ suất của tôi rồi.",
+		    "Cậu đang tìm thứ này sao? ",
+			"Nó lại nằm ngay dưới chân tôi… thật kỳ lạ."
+        ],
+        "54": [
+		    "Vậy thì, vận may có mang đến ",
+		    "cho anh bạn điều gì thú vị không?"
+        ],
+        "55": [
+		    "(Hmm… hình như chẳng có gì",
+			"đáng để chia sẻ…)"
+        ],
+        "56": [
+		    "Đã chia sẻ vài suy nghĩ về việc ",
+		    "\\str[120] chơi Shadow Souls."
+        ],
+        "57": [
+		    "Oh! Được gia đình cậu khen ngợi—",
+			"đó thực sự là một vinh dự lớn đối với tôi."
+        ],
+        "58": [
+  		    "Như vậy càng khiến tôi có thêm động lực ",
+  		    "để tiếp tục phát triển các bản cập nhật."
+        ],
+        "59": [
+			"Nói vậy chứ, hình như tôi vẫn chưa",
+			"nghe được đánh giá của chính anh bạn thì phải."
+        ],
+        "60": [
+			"Hm? To… trắng…",
+			"và rất mềm?"
+        ],
+        "61": [
+			"…Trong trò chơi của tôi thật sự có thứ gì",
+			"có thể gợi lên ấn tượng như thế à?"
+        ],
+        "62": [
+			"Ôi chết. Tôi mải đắm chìm trong ",
+			"cảm giác đó quá nên lỡ lời rồi…"
+        ],
+        "63": [
+		    "Đã chia sẻ thông tin rằng những cây nấm mọc ",
+		    "trên nấm biết đi thực ra khá là ngon."
+        ],
+        "64": [
+		    "Ẩm thực quái vật sao! Một ý tưởng thật mới lạ!",
+		    "Quả nhiên là anh bạn."
+        ],
+        "65": [
+		    "Đã chia sẻ thông tin rằng những con chim kỳ lạ",
+		    "trong hầm ngục có tiếng kêu cực kỳ ồn ào."
+        ],
+        "66": [
+		    "Có lẽ là một Garuda non chăng… Không biết so với tiếng gầm ",
+		    "rồng huyền thoại thì bên nào sẽ kinh khủng hơn nhỉ."
+        ],
+        "67": [
+		    "Đã chia sẻ thông tin rằng thịt orc",
+		    "ngon một cách đáng kinh ngạc."
+        ],
+        "68": [
+		    "Đã chia sẻ thông tin về một lối đi bí mật trong Mê Cung",
+		    "nối thẳng ra bên ngoài."
+        ],
+        "69": [
+  		    "Có vẻ đó là con đường để lại bởi một đội kỹ sư từ trước.",
+  		    "Tôi nghe nói họ từng có kế hoạch đào xuyên toàn bộ Mê Cung."
+        ],
+        "70": [
+  	  	    "Thế nhưng dự án đột ngột bị đình trệ giữa chừng.",
+  	   	    "Không ai biết họ đã gặp phải rắc rối gì nữa."
+        ],
+        "71": [
+		    "Đã chia sẻ thông tin về một ngôi nhà nấm kỳ lạ",
+		    "nằm sâu trong khu rừng, nơi người ta thường bị lạc."
+        ],
+        "72": [
+  	    	"Tôi nghe nói rất nhiều nhà thám hiểm đã mất phương hướng bên trong đó…",
+  	    	"nhưng đúng là anh bạn, vẫn có thể an toàn vượt qua"
+        ],
+        "73": [
+  	    	"Còn về ngôi nhà nấm khổng lồ ấy… thật khiến người ta tò mò",
+  	    	"không biết sinh vật nào đang cư ngụ bên trong."
+        ],
+        "74": [
+      	    "Đã chia sẻ trải nghiệm không may rơi xuống",
+      	    "một cái hố trong hầm ngục."
+        ],
+        "75": [
+    	    "Hahaha…! Đúng là một kỷ niệm thật đáng xấu hổ.",
+    	    "Là một nhà thám hiểm, lúc nào cũng phải chú ý đến xung quanh mình mới được."
+        ],
+        "76": [
+  	    	"Đã chia sẻ thông tin về việc phát hiện",
+  	        "một cỗ máy cơ khí ở một khu vực chưa xác định."
+        ],
+        "77": [
+		    "Ra vậy… thật là một cuộc gặp gỡ đáng kinh ngạc",
+			"Đúng như dự đoán, Đại Mê Cung vẫn còn ẩn giấu dấu vết của những nền văn minh cổ đại."
+        ],
+        "78": [
+		    "…Vậy là nó đã biến mất rồi sao.",
+			"Tôi không có lý do gì để nghi ngờ lời kể của cậu."
+        ],
+        "79": [
+  		    "Đây hẳn là do số mệnh.",
+  		    "Một ngày nào đó, chắc chắn nó sẽ lại xuất hiện lần nữa."
+        ],
+        "80": [
+		    "Đã chia sẻ thông tin rằng thạch làm từ slime",
+			"có kết cấu bất ngờ là khá ngon."
+        ],
+        "81": [
+		    "Oh, Người anh em của tôi!",
+			"Lại đây và nhận lấy thứ này nào!"
+        ],
+        "82": [
+		    "Trong khoảng thời gian vừa qua ",
+			"cậu đã mang đến cho tôi rất nhiều nguồn cảm hứng thú vị.",
+			"Nếu tôi không đáp lại bằng một món quà nho nhỏ ",
+			"thì thật không phải phép."
+        ],
+        "83": [
+		    "Đây là một bộ trang phục do chính tay tôi",
+			"thiết kế để quảng bá cho trò chơi.",
+			"Hãy xem nó như một món quà thể hiện ",
+			"lòng cảm kích của tôi và nhận lấy nhé."
+        ],
+        "84": [
+		    "(Hở... áo thun tặng kèm sao...?",
+			"M-mình phải làm sao đây...)"
+        ],
+        "85": [
+		    "(Mình thật sự không muốn mặc ",
+			"thứ này ra ngoài chút nào...",
+			"Không biết \\str[120] có thích kiểu ",
+			"trang phục như thế này không nhỉ...)"
+        ],
+		"86": [
+			"…Ra vậy. Cậu đang tìm thứ gì đó ",
+			"thú vị để xem vào đêm khuya sao?"
+		],
+		"87": [
+			"Trùng hợp thật đấy! Tôi đã sưu tầm",
+			"khá nhiều băng đĩa để lấy cảm hứng."
+		],
+		"88": [
+			"Trong đó có không ít thứ thú vị—",
+			"tôi cũng không ngại tặng cậu một cuốn đâu."
+		],
+		"89": [
+			"Như mọi khi, tôi hy vọng ",
+			"cậu sẽ tiếp tục ủng hộ công việc của tôi…!"
+		]
+    },
+	"12": {
+		"objectName": [
+		    "Máy bán hàng tự động"
+		],	  
+		"sentouryoku": [
+		    "1"
+		],	  
+        "description": [
+            "Có vẻ đây là một cỗ máy được vận hành và  ",
+			"quản lý bởi Hầu Gái Thỏ.",
+			"Không ai thực sự rõ vì sao quái vật lại muốn bắt chước",
+			"con người và kinh doanh buôn bán, nhưng mọi người",
+			"dường như đã tự nhiên chấp nhận chuyện đó.",
+			"Nhân tiện thì… sữa cà rốt nhận được đánh giá tệ nhất."
+		],
+		"1": [
+			"Một chiếc máy bán hàng tự động kỳ lạ...",
+			"Một chai nước uống giá... \\c[6]\\v[86]\\c[0] yên."
+        ],
+        "2": [
+			"Mua một chai",
+			"Không có gì"
+        ],
+        "3": [
+			"Không...",
+			"Tôi không có đủ tiền..."
+        ],
+        "4": [
+			"\"Do bị phá hoại bởi những cá nhân không rõ danh tính, ",
+			"Một khoản phạt sửa chữa tạm thời đã được thêm vào....\"",
+			"Cho đến khi khoản tiền phạt được thanh toán đầy đủ.... ",
+			"Một chai nước uống giá... \\c[6]\\v[86]\\c[0] yên!?"
+        ],
+        "5": [
+			"(Đã hết…",
+			"đồ uống bên trong rồi.)"
+        ]	
+    },
+	"13": {
+		"objectName": [
+		    "Shione"
+		],	  
+		"subtitle": [
+		    "Nữ Tu Ác Quỷ của Nhà Thờ Sa Ngã"
+		],
+		"bossName": [
+		    "Ác Quỷ Kiêu Hãnh"
+		],
+		"garble": true
+    },
+  	"14": {
+		"objectName": [
+		    "\\c[116]Bong Bóng Bí Ẩn"
+		],	  
+		"sentouryoku": [
+		    "1"
+		],	  
+        "description": [
+            "Có vẻ như có thứ gì đó dưới mặt nước..."
+		]	
+    },
+	"15": {
+		"objectName": [
+		    "\\c[115]Jackalope"
+		],	  
+		"sentouryoku": [
+		    "555"
+		],	  
+        "description": [
+            "Một loài quái vật cấp cao được tiến hóa từ thỏ có sừng nai.",
+			"Cặp sừng vừa là vũ khí, vừa là lõi dùng để tích trữ ma lực.",
+			"Khác với Thỏ Mọc Sừng thông thường, nó cực kỳ hung hãn,",
+			"khi bị kích động, toàn thân nó chuyển sang màu đỏ.",
+			"Vì ma lực dâng trào, nó lao vào với những cú húc ",
+			"liên tiếp với tốc độ kinh hoàng."
+		]	
+    },
+	"16": {
+		"objectName": [
+		    "Thứ Không Thể Gọi Tên - G"
+		],	  
+		"sentouryoku": [
+		    "9"
+		],	  
+        "description": [
+            "Một thực thể khét tiếng đến mức ngay cả tên của nó",
+			"cũng trở thành điều cấm kỵ. Về lý thuyết, nó gần như",
+			"vô hại— nhưng vẻ ngoài kinh hãi cùng những chuyển động",
+			"khó lường cũng đủ để khiến tất cả những ai có mặt",
+			"rơi vào hỗn loạn."
+		]	
+    },
+  	"18": {
+		"objectName": [
+		    "Văn Phiến Hồi Kết"
+		],	  
+		"sentouryoku": [
+		    "1"
+		],	  
+        "description": [
+            "Một tấm bia đá bị lãng quên từ rất lâu, ",
+			"giờ đã nứt vỡ và phong hóa. Dễ dàng",
+			"nhận ra nó từng được chạm khắc vô cùng tinh xảo.",
+			"Dẫu trải qua bao năm tháng, nó vẫn",
+			"toát lên một khí chất khiến người ta lặng lẽ kính nể."
+		]	
+    },
+	"22": {
+		"objectName": [
+			"\\c[116]Tháp Cuồng Tín"
+		],
+		"sentouryoku": [
+			"800"
+		],
+		"description": [
+			"Những kẻ cuồng tín hiến dâng cho sức mạnh Vực Thẳm ",
+			"và lời nguyền của Tòa Tháp.",
+			"Chúng tin rằng nguồn lực không thể thuần phục ấy sẽ ",
+			"mang lại sự tái sinh cho thế giới, dù nó được xây dựng ",
+			"trên nỗi thống khổ của tất cả—"
+		]
+  	},
+  	"24": {
+		"objectName": [
+		    "\\c[114]Hầu Gái Thỏ"
+		],	  
+		"sentouryoku": [
+		    "?77"
+		],	  
+        "description": [
+            "Một cô gái kì lạ luôn mặc đồ hầu gái kèm tai thỏ.",
+			"Có khả năng dịch chuyển tức thời, ",
+			"xuất hiện từ đủ các loại lỗ kỳ quái.",
+			"Thường trêu chọc mạo hiểm giả nhưng hầu như vô hại."
+
+		],
+		"1": [
+            "......Usa?",
+			"Sao cậu xấu xí thế, usa...?"
+        ],
+        "2": [
+            "Usa...... tôi ngửi thấy...",
+            "cậu có mùi cà rốt, usa..."
+        ]	
+    },
+	"28": {
+		"objectName": [
+			"Sacabambaspis Khổng Lồ"
+		],
+		"subtitle": [
+			"Cư ngụ trong nước"
+		],
+		"bossName": [
+			"Chúa Tể Thủy Lưu!?"
+		],
+		"sentouryoku": [
+			"999"
+		],
+		"description": [
+			""
+		]
+  	},
+	"29": {
+		"objectName": [
+			"\\c[10]Sắc Dục Ma"
+		],
+		"subtitle": [
+			"Vẫn Đang Bị Trấn Áp"
+		],
+		"bossName": [
+			"Sắc Dục Ma"
+		],
+		"garble": true,
+		"sentouryoku": [
+			"6666"
+		],
+		"description": [
+			"Một Sắc Dục Ma được giải phóng khỏi Tòa Tháp, ",
+			"nhưng chân lực vẫn còn bị phong tỏa.",
+			"Đáng ngạc nhiên là khá lịch thiệp và lắm lời ",
+			"đối với một ác ma cùng loại. Tuy nhiên, một khi bị khơi gợi, ",
+			"pháp khí nghi thức to lớn của nó sẽ để lại",
+			"vết sẹo tâm lý sâu sắc cho đối thủ."
+		]
+  	},
+  	"32": {
+		"objectName": [
+		    "Máy Gacha Kỳ Lạ"
+		],	  
+		"sentouryoku": [
+		    "9"
+		],	  
+        "description": [
+            "Một cái máy gacha được triệu hồi bằng lá bài Tarot.",
+			"Nó ăn bất cứ thứ gì mạo hiểm giả đưa cho nó.",
+			"Khi thỏa mãn, nó quay vòng một cách vui vẻ và ",
+			"cuối cùng nhả ra một viên capsule đầy phần thưởng.",
+			"Nhưng cẩn thận đừng cho nó ăn quá nhiều mặc dù là",
+			"một cỗ máy, nó dường như cũng bị ngộ độc thực phẩm..."
+
+		],
+		"1": [
+            "Vẫn ở trong sông!"
+        ],
+        "2": [
+            "Tôi tìm thấy một máy gacha kỳ lạ...",
+            "Biểu cảm của nó giống như \\str[120]..."
+        ],
+        "3": [
+            "Thử bỏ tiền vào",
+            "Thử cho nó ăn"
+        ],
+        "4": [
+            "Nhưng tôi không có đủ tiền để cho nó ăn..."
+        ],
+        "5": [
+		    "Liệu tôi có nên thật sự cho nó ăn ",
+            "\\ii[\\v[90]]...?"
+        ],
+        "6": [
+		    "Được",
+            "Không"
+        ]	
+    },	  
+  	"41": {
+		"objectName": [
+		    "\\c[114]Dịch Vụ Giao Hàng NLCH!"
+		],	  
+		"sentouryoku": [
+		    "?999"
+		],	  
+        "description": [
+		    "Một cửa hàng di động do hai cô nàng mèo điều hành.",
+		    "Họ xuất hiện một cách lộng lẫy khi mạo hiểm giả gọi.",
+		    "Hàng hóa chủ yếu là rác từ Vực Thẳm mà họ tìm được.",
+		    "Cẩn thận, giá có thể đắt cắt cổ.",
+		    "Khinh thường họ, là sẽ bị đánh...",
+		    "PS:\\c[2]Bị các Hầu Gái Thỏ đưa vào danh sách đen ",
+			"\\c[2]vì chèo kéo khách hàng của họ."
+		],
+		"1": [
+		    "Hi~! Chào mừng, nya♪ Hãy thoải mái xem xung quanh,",
+			"và cứ tự nhiên hỏi tôi bất cứ điều gì, nya!"
+		]		
+    },	  
+  	"43": {
+		"objectName": [
+		    "Nấm Đi Bộ"
+		],	  
+		"sentouryoku": [
+		    "120"
+		],	  
+        "description": [
+            "Một quái vật lạ thường xuất hiện trong rừng rậm, ",
+			"lớn hơn nhiều so với các loại nấm thông thường.",
+            "Nó có thể đi lại bằng chân và khá hung hăng.",
+            "Tuy nhiên, nó ngon, trở thành mục tiêu yêu thích ",
+			"của cả mạo hiểm giả lẫn đầu bếp."
+		]	
+    },
+	"47": {
+		"objectName": [
+			"\\c[114]Cánh Cửa Vì Sao"
+		],
+		"sentouryoku": [
+			"1"
+		],
+		"description": [
+			"Một cánh cửa có thể đi qua được triệu hồi bởi Tarot Ngôi Sao.",
+			"Những vì sao được tin là sẽ dẫn lối người ta trở về nhà.",
+			"Bước qua cánh cửa này sẽ đưa lữ khách ",
+			"trở về một khu vực an toàn. Các mạo hiểm giả thường sử dụng nó ",
+			"để quay lại nghỉ ngơi, hoặc tạm thời rút lui ",
+			"khi tình hình trở nên bất lợi."
+		]
+	},
+  	"51": {
+		"objectName": [
+		    "\\c[116]Orc Nhỏ"
+		],	  
+		"sentouryoku": [
+		    "320"
+		],	  
+        "description": [
+            "Một orc trẻ vẫn đang trong giai đoạn phát triển, ",
+			"đã lớn cỡ một người trưởng thành.",
+            "Nó phản ứng với sinh vật sống và tham lam ",
+			"hấp thụ sinh lực của họ."
+		]	
+    },	  
+  	"53": {
+		"objectName": [
+		    "Xác Sống"
+		],	  
+		"sentouryoku": [
+		    "210"
+		],	  
+        "description": [
+            "Một xác chết được hồi sinh nhờ thuật necromancy.",
+			"Nó vẫn giữ sự hung hăng và sở hữu ",
+			"khả năng chiến đấu đáng kể."
+		]	
+    },
+	"59": {
+		"objectName": [
+			"Thỏ Trắng Xứ Wonderland"
+		],
+		"subtitle": [
+			"Cư ngụ trong Khu Rừng Tàn Tích"
+		],
+		"bossName": [
+			"Thỏ Trắng Xứ Wonderland"
+		],
+		"sentouryoku": [
+			"???"
+		],
+		"description": [
+			""
+		]
+  	},	  
+  	"65": {
+		"objectName": [
+		    "\\c[116]Chim Khổng Lồ"
+		],	  
+		"sentouryoku": [
+		    "260"
+		],	  
+        "description": [
+            "Một loài chim khổng lồ.",
+			"Nó lao vào mạo hiểm giả bằng cơ thể to lớn của mình,",
+			"và còn sử dụng các đòn tấn công âm thanh, nên cẩn thận."
+		]	
+    },	  
+  	"66": {
+		"objectName": [
+		    "\\c[114]Slime Mèo Mướp Cam"
+		],	  
+		"sentouryoku": [
+		    "?10"
+		],	  
+        "description": [
+            "Một con slime biến đổi sau khi vô tình ",
+			"ăn phải một chú mèo dễ thương,",
+            "và chính nó cũng trở nên dễ thương.",
+            "Nó đã mất ý chí tấn công,",
+            "nhưng sẽ phồng lên như mèo khi bị đe dọa..."
+		],
+        "1": [
+            "Slime mèo dường như ",
+			"rất thích tôi..."
+		]	
+    },	  
+  	"67": {
+		"objectName": [
+		    "\\c[114]Slime Mèo Sọc Tam Thể"
+		],	  
+		"sentouryoku": [
+		    "?10"
+		],	  
+        "description": [
+            "Một con slime biến đổi sau khi vô tình ",
+			"ăn phải một chú mèo dễ thương,",
+            "và chính nó cũng trở nên dễ thương.",
+            "Nó đã mất ý chí tấn công,",
+            "nhưng sẽ phồng lên như mèo khi bị đe dọa..."
+		],
+        "1": [
+            "Slime mèo dường như ",
+			"rất thích tôi..."
+		]	
+    },	  
+  	"68": {
+		"objectName": [
+		    "\\c[114]Slime Mèo Mướp Trắng"
+		],	  
+		"sentouryoku": [
+		    "?10"
+		],	  
+        "description": [
+            "Một con slime biến đổi sau khi vô tình ",
+			"ăn phải một chú mèo dễ thương,",
+            "và chính nó cũng trở nên dễ thương.",
+            "Nó đã mất ý chí tấn công,",
+            "nhưng sẽ phồng lên như mèo khi bị đe dọa..."
+		],
+        "1": [
+            "Slime mèo dường như ",
+			"rất thích tôi..."
+		]
+    },	  
+  	"69": {
+		"objectName": [
+		    "\\c[114]Slime Mèo Xiêm"
+		],	  
+		"sentouryoku": [
+		    "?10"
+		],	  
+        "description": [
+            "Một con slime biến đổi sau khi vô tình ",
+			"ăn phải một chú mèo dễ thương,",
+            "và chính nó cũng trở nên dễ thương.",
+            "Nó đã mất ý chí tấn công,",
+            "nhưng sẽ phồng lên như mèo khi bị đe dọa..."
+		],
+        "1": [
+            "Slime mèo dường như ",
+			"rất thích tôi..."
+		]
+    },	  
+  	"70": {
+		"objectName": [
+		    "Tiên Chuối"
+		],	  
+		"sentouryoku": [
+		    "?10"
+		],	  
+        "description": [
+            "Một sinh vật...? có hình dáng giống quả chuối.",
+            "Được sinh ra từ sức ảnh hưởng của Vực Thẳm. ",
+            "Nó hầu như không gây nguy hiểm cho mạo hiểm giả.",
+            "Tuy nhiên, có tin đồn rằng nó có thể ",
+			"dễ dàng làm người ta bay vút đi..."
+		]	
+    },	  
+  	"71": {
+		"objectName": [
+		    "Tiên Táo"
+		],	  
+		"sentouryoku": [
+		    "?10"
+		],	  
+        "description": [
+            "Một sinh vật...? có hình dáng giống quả táo.",
+            "Được sinh ra từ sức ảnh hưởng của Vực Thẳm. ",
+            "Nó hầu như không gây nguy hiểm cho mạo hiểm giả.",
+            "Tuy nhiên, có tin đồn rằng nó có thể ",
+			"dễ dàng làm người ta bay vút đi..."
+		]	
+    },		  
+  	"72": {
+		"objectName": [
+		    "\\c[115]Bàn Tay Đứt Rời Của Pháp Sư Lụi Tàn"
+		],	  
+		"sentouryoku": [
+		    "480"
+		],	  
+        "description": [
+            "Chi bị chặt của một pháp sư đã chết.",
+			"Không ai biết chủ nhân ban đầu đã trải qua gì,",
+			"Nhưng được truyền phép thuật necromancy, bàn tay này vẫn có thể cử động.",
+			"Mạo hiểm giả thường thấy nó đưa ra những cử chỉ rõ ràng ",
+			"khi tấn công."
+		]	
+    },	  
+  	"73": {
+		"objectName": [
+		    "Thủy Linh"
+		],	  
+		"sentouryoku": [
+		    "180"
+		],	  
+        "description": [
+            "Một sinh vật nguyên tố hóa học được tạo thành từ  ",
+			"nước và sử dụng phép thuật nguyên tố.",
+			"Nó có khả năng kháng các đòn tấn công vật lý cao,",
+			"nhưng không thể sống trong môi trường thiếu nước."
+		]	
+    },	  
+  	"77": {
+		"objectName": [
+		    "\\c[115]Mèo Quỷ"
+		],	  
+		"sentouryoku": [
+		    "300"
+		],	  
+        "description": [
+            "Một con mèo hoang bị chiếm hữu bởi sức mạnh quỷ dữ.",
+			"Nó có khả năng bay cùng với ",
+			"phép thuật bóng tối. Nhưng rốt cuộc, ",
+			"nó vẫn chỉ là một con mèo—",
+			"Bình thường, nó cũng chỉ phóng ra những tia ma thuật nhỏ."
+		]	
+    },	  
+  	"78": {
+		"objectName": [
+		    "\\c[115]Linh Hồn Oán Hận"
+		],	  
+		"sentouryoku": [
+		    "400"
+		],	  
+        "description": [
+            "Một sinh vật ma thuật sinh ra từ mối hận thù của linh hồn đã chết ",
+			"nhờ necromancy. Nó lang thang không ngừng trong các nghĩa trang, ",
+			"nó có khả năng kháng các đòn tấn công vật lý cao ",
+			"và có thể phun ra ngọn lửa ma quái chết người."
+		]	
+    },
+	"80": {
+		"bossName": [
+			"Cuồng Huyết Xích Thú"
+		],
+		"subtitle": [
+			"Ngụ tại Hầm Mộ Bị Lãng Quên"
+		],
+		"sentouryoku": [
+			"1600"
+		],
+		"description": [
+			""
+		]
+  	},	  
+  	"87": {
+		"objectName": [
+		    "Slime Ăn Cỏ"
+		],	  
+		"sentouryoku": [
+		    "60"
+		],	  
+        "description": [
+        	"Một quái phổ biến thường xuất hiện ở vùng ngoại ô ",
+        	"của Vực Thẳm. Nó biến đổi thành màu xanh do ",
+       	    "thói quen ăn thực vật. Khi bị tiếp cận ",
+        	"bất ngờ, nó sẽ trở nên kích động và bắt đầu ",
+			"phun chất nhầy ăn mòn."
+		]	
+    },	  
+  	"88": {
+		"objectName": [
+		    "Slime Jack"
+		],	  
+		"sentouryoku": [
+		    "999"
+		],	  
+        "description": [
+            "Một con slime vô tình nuốt phải một Quả Bom Jack.",
+			"Mặc dù nó không nổ ngay lập tức, ",
+			"nó vẫn cực kỳ bất ổn, trở nên ",
+			"kích động và tự hủy khi bị khiêu khích."
+		]	
+    },	  
+  	"89": {
+		"objectName": [
+		    "\\c[116]Slime Hồn Ma"
+		],	  
+		"sentouryoku": [
+		    "340"
+		],	  
+        "description": [
+            "Một con slime biến đổi chịu ảnh hưởng từ môi trường ",
+			"của nghĩa trang. Nó tấn công mạo hiểm giả một cách hung hăng ",
+			"như xác sống, trở nên độc ác hơn,  ",
+			"và hào quang tử thần bao quanh cơ thể.",
+			"Nó có thể lây nhiễm cho người khác khi tiếp xúc, ",
+			"gây tử vong ngay lập tức nếu không cẩn thận..."
+		]	
+    },	  
+  	"90": {
+		"objectName": [
+		    "\\c[116]Slime Băng"
+		],	  
+		"sentouryoku": [
+		    "400"
+		],	  
+        "description": [
+            "Một con slime biến đổi sau khi hấp thụ ma thuật từ ",
+			"một nguồn không rõ. Nó sinh trưởng tốt ở khu vực có nước ",
+			"và tạo ra lớp giáp băng dày bằng ma thuật của mình. ",
+			"Nó hấp thụ một lượng lớn nước, ",
+			"làm lạnh nhanh chóng và phun về phía mạo hiểm giả."
+		]	
+    },	  
+  	"91": {
+		"objectName": [
+		    "\\c[116]Slime Lôi"
+		],	  
+		"sentouryoku": [
+		    "280"
+		],	  
+        "description": [
+            "Một con slime lấp lánh có thể phóng điện khắp cơ thể. ",
+			"Ngay cả các slime khác cũng không biết nó đã ",
+			"ăn gì để biến đổi như vậy. Nhưng trong trạng thái hiện tại, ",
+			"nó có thể phóng điện một cách tự do, việc tiếp cận là rất nguy hiểm..."
+		]	
+    },	  
+  	"92": {
+		"objectName": [
+		    "Slime Quặng"
+		],	  
+		"sentouryoku": [
+		    "350"
+		],	  
+        "description": [
+            "Một con slime đã ăn phải những tinh thể ngấm ma thuật, ",
+			"làm cứng cơ thể nó. Các khoáng chất cứng mọc trên ",
+			"bề mặt, tạo thành những vũ khí chết người.",
+			"Mặc dù cứng cáp hơn, nhưng bản chất của nó vẫn là slime. ",
+			"Ngoài ra, quặng nó rơi ra có vẻ khá có giá trị..."
+		]	
+    },
+	"97": {
+		"objectName": [
+		    "\\c[10]Aki"
+		],		
+		"sentouryoku": [
+		    "\\c[10]Thật thô lỗ khi hỏi chỉ số của con gái đấy~♥"
+		],	  
+        "description": [
+            "Trông có vẻ như một cô bé vô hại,",
+			"nhưng thực ra là một linh hồn của Đại Ác Ma.",
+			"Thân thiện với con người, nhưng thích trêu chọc họ ",
+			"và tận hưởng phản ứng bối rối của họ.",
+			"Cô ấy mở một cửa hàng theo sở thích, ",
+			"với hàng hóa và giá cả thay đổi tuỳ hứng..",
+			"Cơ bản là cô ấy chỉ muốn lấy được cá hồi yêu thích",
+			"từ con người bằng bất cứ cách nào có thể..."
+		],
+        "1": [
+            "Ôi~ Một vị khách đặc biệt~ Hehe~",
+			"Em có một số vật phẩm ngon đây, cứ từ từ xem nhé♥"
+        ],
+        "2": [
+            "Yaho~! Thật trùng hợp~ Rất vui được gặp lại anh~!",
+			"Có phải là định mệnh~? Hay cậu chỉ may mắn thôi~?"
+        ],
+        "3": [
+		    "Hehe, dù sao cũng vậy~! Khi may mắn đang ở bên anh,",
+            "cẩn thận đấy—ai đó có thể cướp mất nó luôn đó♥"
+        ],
+        "4": [
+            "Cửa hàng của em đặc biệt lắm, biết không~",
+			"Em bán những thứ mà chỗ khác không có~"
+        ],
+        "5": [
+		    "Mhm~ Sao vậy? Mặt anh đỏ bừng rồi~ \\w[45]Hehe~ \\w[45]",
+            "Em đã làm anh bị mê hoặc rồi hay gì vậy? Anh dễ thương quá đấy~"
+        ],
+        "6": [
+		    "Những món này là...",
+            "Em rốt cuộc là ai...?"
+        ],
+        "7": [
+		    "Aha♥ Chỉ dành cho người trưởng thành thôi~",
+            "Anh thích thể loại này à?"
+        ],
+        "8": [
+		    "Tất nhiên~ Em có sẵn những món đó rồi♥",
+            "onii-san... anh quan tâm à~?"
+        ],
+        "9": [
+		    "Oh~ anh muốn biết thêm về em à?",
+            "Được thôi~ em chưa tự giới thiệu, phải không~"
+        ],
+        "10": [
+		    "Vậy thì, em là~ Đại Ác Ma từ",
+            "sâu trong Vực Thẳm! Tên là Aki~!"
+        ],
+        "11": [
+		    "Này! Đừng làm mặt sợ hãi thế chứ~",
+            "Em chỉ đến để làm một ít giao dịch thôi~!"
+        ],
+        "12": [
+		    "Ngửa ngửa...",
+			"\\w[90]\\^"
+        ],
+        "13": [
+		    "Đúng rồi! Mùi này!",
+            "Chính là nó! Cho em đi♥ Làm ơn~!"
+        ],
+        "14": [
+		    "Nào~",
+            "Anh sẽ đưa cho em chứ♥"
+        ],
+        "15": [
+		    "(À, hóa ra là cá hồi trong túi của tôi",
+			"đã dụ em ấy tới...)"
+        ],
+        "16": [
+		    "Mhm mhm~! Chính xác đó là thứ em muốn!",
+            "Em sẽ trả ơn anh thật hậu hĩnh♥"
+        ],
+        "17": [
+		    "Làm ơn~ Chỉ một miếng cá thôi cũng được...",
+			"Chia sẻ với em nhé? Làm ơn mà♥"
+        ],
+        "18": [
+		    "(Mình nên làm gì đây... Có vẻ",
+            "con nhóc này thực sự muốn cá hồi...)"
+        ],
+        "19": [
+		    "Không đưa"
+        ],
+        "20": [
+		    "Hoh~    \\w[45]",
+			"Anh đang chống đối lại quý cô Aki à?"
+        ],
+        "21": [
+		    "Tsk tsk~ Thật là một cậu bé hư đốn~!",
+            "Em đoán phải trừng phạt anh thật xứng đáng♥"
+        ],
+        "22": [
+		    "\\>\\c[10]《Nghi Lễ Hợp Đồng Ác Ma: Lời Nguyền tuyệt đối dành cho Con Người Thuần Khiết =",
+			"\\>Từ hôm nay, cuộc sống của anh là Chế Độ Địa Ngục》!!     \\w[90]"
+        ],
+        "23": [
+		    "Và với điều đó—",
+			"Anh đã bị nguyền rủa—"
+        ],
+        "24": [
+		    "Cá hồi nhiều quá♥ Anh thật ngọt ngào, onii-san~",
+			"Anh đang cố chiếm lấy trái tim em à~?"
+        ],
+        "25": [
+		    "Dễ thương quá♥ Em không thể cưỡng lại được~",
+			"Hehe~!"
+        ],
+        "26": [
+		    "Mang cái thứ đáng yêu này theo nhé~",
+			"Nếu muốn tìm em, anh chỉ cần gửi một tin nhắn~♥"
+        ],
+        "27": [
+		    "Anh muốn mua món này à?",
+			"Được thôi~ Em sẽ bán cho Anh~!"
+        ],
+        "28": [
+		    "Ah! Nhưng anh biết đấy, em không quan tâm đến tiền đâu~",
+			"Với một con quỷ như em, mấy thứ đó hoàn toàn vô giá trị~"
+        ],
+        "29": [
+		    "Hmm, cơ bắp của anh cũng khá đấy,",
+			"Em chắc chắn anh có thể xử lý~!"
+        ],
+        "30": [
+		    "...Hehe, nếu anh muốn món này~!",
+			"Thì trao đổi bằng cá hồi nhé~!"
+        ],
+        "31": [
+		    "Xung quanh có nhiều nước đúng không?",
+			"Chắc không khó để anh bắt được vài con cá đâu nhỉ~?"
+        ],
+        "32": [
+		    "Nếu anh nghĩ vậy đã là xong, thì anh sai rồi~♥",
+			"Trừ khi anh thật sự hối lỗi, em sẽ không tha cho anh đâu!"
+        ],
+        "33": [
+		    "Ngoài ra~ Lời nguyền này? ",
+			"Sẽ vẫn tồn tại một thời gian~♥"
+        ],
+        "34": [
+		    "Ahaha♥ Phiền phức quá nhỉ~?",
+			"Chắc anh sẽ cực kỳ khó chịu nhỉ, onii-san♥"
+        ],
+        "35": [
+		    "Aww~ Muốn van em để gỡ lời nguyền à~?",
+			"Làm sao bây giờ~♥"
+        ],
+        "36": [
+		    "Và nếu em nói không~? Thì anh sẽ làm gì~?",
+			"Aww, đừng làm mặt đó~ Không có hiệu quả đâu~"
+        ],
+        "37": [
+		    "Giờ thì em chỉ muốn bắt nạt anh nhiều hơn, onii-san♥",
+			"Không gỡ lời nguyền đâu~ Ahaha♥"
+        ],
+        "38": [
+		    "Wow, anh thực sự tuyệt vọng nhỉ? Thật là ZAKO♥",
+			"Cho em thấy sự hối lỗi của anh với lòng thành hơn đi~♥"
+        ],
+        "39": [
+		    "(Nếu tôi muốn phá vỡ lời nguyền...",
+			"Chắc tôi phải thật sự phải đưa cho em ấy một ít cá...)"
+        ],
+        "40": [
+		    "Waa~! Cảm ơn anh nhiều",
+			"onii-san~♥"
+        ],
+        "41": [
+		    "Cá hồi cho tôi nhiều quá♥ sluuurp♥",
+			"Ahh~ Thiên đường cá hồi♥"
+        ],
+        "42": [
+		    "Được rồi~! Lời nguyền đã được gỡ~!",
+			"Hy vọng chúng ta sẽ sớm gặp lại nhau, onii-san♥"
+        ],
+        "43": [
+			"Ôi cha~ Lâu rồi không gặp, onii-san~",
+			"Anh đến đúng lúc thật~♥"
+        ],
+        "44": [
+		    "Anh có muốn thử món mới không?",
+			"Đây là bánh Mizumanju em tự làm~"
+        ],
+        "45": [
+		    "Hiệu quả gì à? Hehe~!",
+			"Nó sẽ làm cơ thể trở nên cực kỳ nhạy cảm♥"
+        ],
+        "46": [
+		    "Nó không chỉ tác dụng với con người~",
+			"Mà còn cực kỳ hiệu quả với quái vật nữa!"
+        ],		
+        "47": [
+		    "Vậy anh nghĩ sao? Chỉ với mười con cá hồi~?",
+			"Anh muốn mua không? Không à? Nhanh quyết định đi♥"
+        ],
+        "48": [
+		    "Tôi sẽ mua!",
+			"Không mua..."
+        ],
+        "49": [
+		    "Thật sự, ZAKO onii-san, ngay cả não anh cũng thật ZAKO~?",
+			"Không thể kiếm được vài con cá... thật vô dụng♥"
+        ],
+        "50": [
+		    "Không tiền, không cá hồi—thật là một onii-san yếu ớt, thảm hại~",
+			"Không có gì ngạc nhiên khi anh vẫn độc thân và còn trinh~"
+        ],
+        "51": [
+		    "Nếu một ngày anh thay đổi ý định, nhớ quay lại mua nhé~",
+			"Không phải em quan tâm anh hay gì đâu♥"
+        ],
+        "52": [
+		    "Tch~ Chán quá, nya~",
+			"Không thể tin được là anh đã bỏ lỡ một thứ tuyệt vời thế này♥"
+        ],
+        "53": [
+		    "Cảm ơn vì đã mua, nya~",
+			"Giờ mình lại có thể ăn nhiều cá hồi nữa rồi~"
+        ],
+        "54": [
+		    "Tch~ Chán quá, nya~",
+			"Không thể tin được là anh đã bỏ lỡ một thứ tuyệt vời thế này♥"
+        ],
+        "55": [
+		    "Ah~ Ý em là, có lẽ sẽ không có gì xảy ra đâu♥",
+			"Nhưng onii-san này, anh trông cực kỳ yếu đấy~"
+        ],
+        "56": [
+		    "Vậy nên em nghĩ là phải cảnh nói với anh~",
+			"Anh biết đấy, anh cũng có thể dùng lên chính mình mà~"
+        ],
+        "57": [
+		    "Và vâng, hiệu quả là làm cơ thể cực kỳ nhạy cảm♥",
+			"Vậy nên, tuyệt đối đừng thử trên chính mình, được không~?"
+        ],
+        "58": [
+		    "Đợi đã, anh thật sự muốn thử à?",
+			"Onii-san, anh đúng là một kẻ khổ dâm tuyệt vọng nhỉ♥"
+        ],
+        "59": [
+		    "Đùa thôi~♥ Vậy thì,",
+			"lần sau ghé thăm tiệm em tiếp nhé~♥"
+        ],
+        "60": [
+		    "Tiếc quá~ Hàng đã hết rồi ư~?",
+			"Trời ơi, onii-san, anh thực sự tuyệt vọng nhỉ♥"
+        ],
+        "61": [
+		    "Nếu muốn nhiều hơn, phải đợi lần sau~",
+			"Nhưng nếu anh mang cá hồi, em có thể ngoại lệ cho anh♥"
+        ],
+        "62": [
+			"Ôi trời♥ Anh muốn nhiều hơn ư? Thật tham quá~!",
+			"Mua nhiều thế... anh định làm gì đó nghịch ngợm à~?"
+        ],
+        "63": [
+		    "Whoaaa—♥ Cá hồi chất lượng cao—!",
+			"Anh nên đưa cái này ra sớm hơn~"
+        ],
+        "64": [
+		    "Nếu là loại đó~",
+			"Chỉ đưa cho em một con và em sẽ bán cho anh~♥"
+        ],
+		"65": [
+			"Hehe~ tìm gì đó để xem vào đêm khuya à~?",
+			"Chọn đúng lúc ghê đó… onii-san đang mong chờ thứ mặn nồng cỡ nào đây~?"
+		],
+		"66": [
+			"Muốn xem cùng Imouto sao~? onii-san, ",
+			"càng ngày càng khả nghi đó nha~? ♥"
+		],
+		"67": [
+			"Nhưng onii-san may mắn lắm đó~",
+			"Trùng hợp là em vừa có đúng thứ như vậy ngay đây~"
+		],
+		"68": [
+			"Nếu muốn,",
+			"đổi cho em ít cá hồi đi~"
+		],
+		"69": [
+			"Nhưng không phải loại cá hồi thường ngày nhàm chán đâu~",
+			"Em muốn loại cao cấp hơn cơ ♥"
+		],
+		"70": [
+			"Gì cơ~? onii-san đúng là ZAKO~",
+			"Đến cả cá hồi hạng sang cũng không kiếm nổi sao?"
+		],
+		"71": [
+			"ZAKO~",
+			"Đúng là ZAKO~"
+		],
+		"72": [
+			"Thôi được rồi, ",
+			"em sẽ giúp onii-san một chút ♥",
+			"Như vậy… chắc sẽ dễ ",
+			"bắt cá hơn, đúng không~?"
+		],
+		"73": [
+			"Ooh~~!",
+			"Mùi này~~"
+		],
+		"74": [
+			"Ây da~ onii-san cũng không đến nỗi vô dụng~",
+			"Bắt được cá hồi chất lượng cao thế này cơ mà ♥"
+		],
+		"75": [
+			"Được rồi ♥ Đây, thứ em đã hứa đây~",
+			"Nhớ tận hưởng cho đàng hoàng đó, onii-san~"
+		],
+		"76": [
+			"Dù có em giúp rồi~",
+			"onii-san vẫn thảm hại ghê đó~"
+		]
+    },
+  	"98": {
+		"objectName": [
+		    "Máy Bán Kẹo"
+		],		
+		"sentouryoku": [
+		    "???"
+		],	  
+        "description": [
+            "Một cái máy kẹo chứa đầy đủ các loại ",
+			"kẹo màu sắc sặc sỡ. Tất cả đều là kẹo konpeitō thủ công ",
+			"do chủ cửa hàng làm ra.",
+			"Có vẻ được làm với một số nguyên liệu đặc biệt, ",
+			"tỏa ra mùi hương lạ nhưng dễ chịu...",
+			"Nhưng ngay cả khi tò mò hỏi bên trong có gì,",
+			"tất cả những gì bạn nhận được là một nụ cười từ cô gái..."
+		],
+        "1": [
+            "tìm thấy một cái máy bán kẹo ",
+			"đầy những viên kẹo màu sắc tươi sáng—"
+        ],
+        "2": [
+            "Xem nào... Một lần quay tốn... ",
+			"\\w[60]\\^"
+        ],
+        "3": [
+		    "\\>Xem nào... Một lần quay tốn...",
+            "\\c[6]\\v[86]\\c[0]yen!? \\< Đắt quá!!"
+        ],
+        "4": [
+            "\\str[120] có thể sẽ thích những loại đồ ăn vặt này...",
+			"Làm sao đây? Tôi nên thử không nhỉ?"
+        ],
+        "5": [
+		    "Xem nào... Một lần quay tốn... \\w[60]\\c[6]\\v[86]\\c[0]yen",
+            "Làm sao đây? Tôi nên thử không nhỉ?"
+        ],
+        "6": [
+		    "Trả bằng tiền",
+            "Đổi bằng cá"
+        ],
+        "7": [
+		    "Nhưng... Tôi không có ",
+            "nhiều tiền như vậy..."
+        ],
+        "8": [
+		    "Đúng rồi, đúng rồi~♥",
+            "Chỉ cần đưa thêm một ít cá hồi thôi..."
+        ]		
+    },	  
+  	"101": {
+		"objectName": [
+		    "\\c[116]Hồng Thú Non"
+		],	  
+		"sentouryoku": [
+		    "380"
+		],	  
+        "description": [
+            "Một sinh vật quái dị sinh ra từ một quả trứng.",
+			"Môi trường phát triển biến dạng, bất thường ",
+			"đã làm cơ thể nó trở thành một khối mô rối tung.",
+			"Nó sở hữu một ham muốn tấn công dữ dội, ",
+			"bị thúc đẩy bởi khao khát ăn thịt và tái sinh."
+		]	
+    },				  
+  	"102": {
+		"objectName": [
+		    "Thùng Rác"
+		],	  
+		"sentouryoku": [
+		    "???"
+		],	  
+        "description": [
+            "Ngay cả ở Vực Thẳm chết chóc, việc xả rác cũng không hay.",
+			"Dù sao, bất cứ thứ gì bạn ném đi sẽ biến mất vào ngày hôm sau...",
+			"Cảm giác như có ai đó đang dọn dẹp.",
+			"Nhưng cẩn thận, đừng nên ném đồ dễ cháy vào.",
+			"Đối xử với nó một cách thô bạo, ",
+			"và bạn có thể kích hoạt điều gì đó cục kì khó chịu."
+		],
+		"1": [
+            "Tìm thấy một thùng rác...",
+			"Làm gì với nó bây giờ?"
+        ],
+        "2": [
+            "Tìm xung quanh",
+            "Vứt vũ khí",
+			"Vứt trang bị"
+        ],
+        "3": [
+            "Chỉ toàn là thứ tôi ",
+			"vừa ném đi..."
+        ],
+        "4": [
+            "(Ôi... Ba lô của tôi đầy rồi...",
+			"Tôi sẽ phải ném hết mọi thứ cùng lúc...)"
+        ],
+        "5": [
+            "Vứt hết!",
+			"Suy nghĩ lại..."
+        ],
+        "6": [
+            "...Liệu tôi có nên ném những thứ này đi không?",
+			"\\str[8]"
+        ],
+        "7": [
+            "\\fr${itemIcon}\\fr và tổng cộng ${itemLength} trang bị."
+        ]	
+    },
+	"106": {
+		"objectName": [
+		    "Cây ớt"
+		],	  
+		"sentouryoku": [
+		    "1"
+		],	  
+        "description": [
+            "Khoan đã, ớt mọc trên cây sao?",
+			"Dù \\str[120] cực kì ghét nó, ",
+			"nhưng với tư cách là một nhà mạo hiểm, ",
+			"tôi không thể quá kén chọn đồ ăn được."
+		]	
+    },
+  	"107": {
+		"objectName": [
+		    "Khoai tây"
+		],	  
+		"sentouryoku": [
+		    "1"
+		],	  
+        "description": [
+            "Rất dễ bị nhầm với cỏ dại ",
+			"nếu không nhìn kỹ. ",
+			"Đào dưới lớp đất và bạn sẽ tìm thấy ",
+			"những củ khoai tây ngon lành."
+		]	
+    },
+  	"108": {
+		"objectName": [
+		    "Cây cà chua"
+		],	  
+		"sentouryoku": [
+		    "1"
+		],	  
+        "description": [
+            "Những quả cà chua mọng nước cùng ",
+			"mùi hương nhẹ nhàng, ",
+			"như thể đã được ai đó chăm sóc rất cẩn thận..."
+		]	
+    },
+  	"109": {
+		"objectName": [
+		    "Cây dâu tây"
+		],	  
+		"sentouryoku": [
+		    "1"
+		],	  
+        "description": [
+            "Một cây ăn quả trĩu đầy dâu tây ",
+			"trông vô cùng ngon miệng.",
+			"Nó thường thu hút một sinh vật nào đó ",
+			"đến và ăn vụng mất vài quả."
+		]	
+    },
+  	"110": {
+		"objectName": [
+		    "Bù Nhìn"
+		],	  
+		"sentouryoku": [
+		    "???"
+		],	  
+        "description": [
+            "\"Tôi chỉ là một con bù nhìn.",
+			"Vì tôi không có trái tim, ",
+			"nên tôi không thể cảm nhận đau đớn.\""
+		]
+    },	  
+  	"113": {
+		"objectName": [
+		    "Thỏ Mọc Sừng"
+		],	  
+		"sentouryoku": [
+		    "50"
+		],	  
+        "description": [
+            "Một con thỏ hoang bị biến đổi bởi sự ô nhiễm của ma thuật—",
+			"cái sừng trên đầu là dấu hiệu của sự thay đổi này.",
+			"Tuy nhiên, nó vẫn đang trong giai đoạn phát triển ",
+			"và không quá nguy hiểm.",
+			"Ngoài ra, thịt của nó vẫn mềm và ngon."
+		]	
+    },	  
+  	"115": {
+		"objectName": [
+		    "\\c[115]Slime Lửa"
+		],	  
+		"sentouryoku": [
+		    "620"
+		],	  
+        "description": [
+            "Một slime bị bao trùm trong ngọn lửa—",
+			"chỉ cần tiến gần cũng tỏa ra nhiệt lượng dữ dội.",
+			"Các đòn tấn công bình thường gần như vô dụng với nó,",
+			"và các mạo hiểm giả chỉ có thể cảm thấy biết ơn",
+			"vì loại quái vật này chỉ xuất hiện trong ",
+			"những môi trường khắc nghiệt như các cánh đồng dung nham."
+		]	
+    },
+  	"119": {
+		"objectName": [
+		    "\\c[10]Quỷ Tử Thần"
+		],
+		"garble": [
+		    "true"
+		],		
+		"sentouryoku": [
+		    "???"
+		],	  
+        "description": [
+            "Chỉ là một bóng ma của ",
+			"ý chí Quỷ Tử Thần—",
+			"không một phàm nhân nào sống sót trước cái giá của nó.",
+			"Ngay cả tiếng vọng này cũng mang lại cái chết ",
+			"cho tất cả những gì nó thấy,",
+			"bao gồm cả người triệu hồi nó. "
+		]
+    }	
+}

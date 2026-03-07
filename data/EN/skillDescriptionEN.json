@@ -1,0 +1,236 @@
+{
+	"skillToggle": [
+            "Activated",
+			"Inactive"
+    ],	
+    "1": {
+        "name": [
+            "Magic Storage Bag"
+        ],
+        "subtitle": [
+		    ""
+		],
+        "description": [
+            "A portable magical tool that allows you to carry ",
+            "far more items than usual. However, ",
+			"even magical tools have their storage limits.."
+        ],
+        "ability": [
+		    "Weapon capacity: ${QJ.MPMZ.tl.ex_playerCheckInventory('weapon')}",
+		    "Gear capacity: ${QJ.MPMZ.tl.ex_playerCheckInventory('gear')}"
+		]
+    },	
+    "2": {
+        "name": [
+            "Senpo"
+        ],
+        "subtitle": [
+		    ""
+		],
+        "description": [
+            "A quick step on the ground covers a short distance,",
+            "allowing you to dodge some attacks. It’s merely a starting dash ",
+			"technique, but the user insists on giving it a cool name"
+        ],
+        "ability": [
+		    "Hold Space Bar to activate"
+		]
+    },
+    "3": {
+        "name": [
+            "Senpo Tachi"
+        ],
+        "subtitle": [
+		    ""
+		],
+        "description": [
+            "A sword-drawing technique learned from the young Sword Master.",
+            "By combining with SenPo, you unleash a speed-enhanced  ",
+			"strike — enough to knock enemies away if timed right."
+        ],
+        "ability": [
+		    "Left Click during Senpo: Slash, damage scales with speed",
+		    "Hold Right Click during Senpo: Charge, effects scale with momentum"
+		],
+        "mobileAbility": [
+		    "Tap the skill button to slash, damage scales with movement speed",
+		    "Hold the skill button to charge, effect scales with momentum"
+		]		
+    },
+    "4": {
+        "name": [
+            "Whirlwind Slash"
+        ],
+        "subtitle": [
+		    ""
+		],
+        "description": [
+            "Spin while swinging your weapon to launch continuous attacks. ",
+            "The attack speed increases over time. For those who aren't great ",
+			"with sword techniques, this move is easy to learn and effective."
+        ],
+        "ability": [
+		    "Hold Right Click to activate the skill",
+		    "Cancel during spinning to throw your weapon"
+		],
+        "mobileAbility": [
+		    "Hold the skill button to activate the skill",
+		    "Cancel while spinning to throw your weapon"
+		]		
+    },
+    "6": {
+        "name": [
+            "Lucky Pervert"
+        ],
+        "subtitle": [
+		    "true"
+		],
+        "description": [
+            "A legendary perverted constitution that activates on its own, ",
+			"even without the user realizing it.",
+			"As if blessed and guided by an unseen goddess, irresistible forces ",
+			"push you into blush-inducing, heart-pounding fanservice scenarios…!"
+        ],
+        "ability": [
+		    "Always creates the perfect opportunities to trigger lewd events!"
+		]		
+    },
+    "7": {
+        "name": [
+            "Danger Sense"
+        ],
+        "subtitle": [
+		    ""
+		],
+        "description": [
+            "Often called ‘Mind's Eye’, but it's actually a sense ",
+            "sharpened by countless brushes with death.",
+			"In other words, more like a trauma reflex than an actual skill..."
+        ],
+        "ability": [
+		    "Hover the mouse over the target to view detailed info"
+		],
+        "mobileAbility": [
+		    "Tap the target to view detailed info"
+		]		
+    },	
+    "10": {
+        "name": [
+            "Breath Concealment"
+        ],
+        "subtitle": [
+		    "true"
+		],
+        "description": [
+            "A ninja technique. I only picked it up in a rush, but…",
+            "somehow, I got the hang of it pretty quickly."
+        ],
+        "ability": [
+		    "Press Shift while active to enter stealth",
+		    "Reduces the monster's detection range by \\c[17]${1+$gameParty.leader().skillMasteryLevel(10)}\\c[108] tile",
+			"Reduces \\str[120]’s alert increase rate during peeking by \\c[17]${15+15*$gameParty.leader().skillMasteryLevel(10)}%\\c[0]"
+		]
+    },	
+    "11": {
+        "name": [
+            "Backstab"
+        ],
+        "subtitle": [
+		    "true"
+		],
+        "description": [
+            "A ninja technique. Can be activated while in stealth",
+            "Strike an unguarded enemy from behind for massive damage!"
+        ],
+        "ability": [
+		    "Skill Proficiency: \\c[6]${$gameActors.actor(1).skillMasteryUses(11)}\\c[0]",
+		    "Assassination Damage Bonus: \\c[17]${Math.round(200 + (2333 - 200) * Math.pow($gameActors.actor(1).skillMasteryLevel(11) / 9, 1.8))}%\\c[0]"
+		]
+    },	
+    "12": {
+        "name": [
+            "Musou Burst Stream"
+        ],
+        "subtitle": [
+		    ""
+		],
+        "description": [
+            "A secret finisher inherited from ASABA, who embraced sorrow",
+			"In an instant too fast for the eye to see, a hundred strikes land—",
+			"leaving the enemy with nothing but final darkness!"
+        ],
+        "ability": [
+		    "Skill command:  \\{⬆⬇⬅⮕⬆⬇\\}",
+			"Each use of the skill consumes some HP"
+		]
+    },
+    "15": {
+        "name": [
+            "Crossdressing"
+        ],
+        "subtitle": [
+		    ""
+		],
+        "description": [
+            "You put on clothes not meant for you… and something inside you ",
+			"stirred. No combat bonus—might even mess with your head a little.",
+            "Your companions glance oddly, and enemies might pause… maybe.",
+			"After all, in this world—cuteness is justice!"
+        ],
+        "ability": [
+		    "Increases Sin based on the number of crossdressing items equipped!"
+		]
+    },		
+    "16": {
+        "name": [
+            "Bladekeepers"
+        ],
+        "subtitle": [
+		    ""
+		],
+        "description": [
+            "\"No matter how you swing your weapons!\" \"We’ll rise to call you out!\"",
+			"\"To stop the blades from wearing away!\" \"To protect the dignity of arms!\"",
+            "\"For we believe the sword is master, and humans are but servants!\"",
+			"\"The most absurd yet unshakable believers!\"",
+			"\"We are—Weapon Preservationists—the Bladekeepers!\""
+        ],
+        "ability": [
+		    "Wearing the badge makes you one of them now"
+		]
+    },			
+    "18": {
+        "name": [
+            "Weapon Break"
+        ],
+        "subtitle": [
+		    ""
+		],
+        "description": [
+            "All weapons have durability limits, ",
+			"and since the user isn’t good at precise attacks.",
+            "there’s a risk of breaking them. But when the weapon does break —",
+			"it’ll land a powerful critical hit!"
+        ],
+        "ability": [
+		    "Final hit damage boost: \\c[6]${200+(100*$gameActors.actor(1).skillMasteryLevel(48))}%\\c[0]"    
+		]
+    },		
+    "26": {
+        "name": [
+            "Swordsmanship Training"
+        ],
+        "subtitle": [
+		    "true"
+		],
+        "description": [
+            "Sought advice from a swordmaster girl on how to get stronger",
+			"All she said was ‘Just swing your sword 1,000 times every day!’",
+            "—Will that really work!? Anyway, let’s give it a try..."
+        ],
+        "ability": [
+		    "Practice Swings Completed: \\{\\c[6]${QJ.MPMZ.tl.playerSwordsmanshipTraining(1)}\\c[0]",
+			"Base attack damage of melee weapons increased by \\c[6]${QJ.MPMZ.tl.playerSwordsmanshipTraining(2)}%"
+		]
+    }	
+}

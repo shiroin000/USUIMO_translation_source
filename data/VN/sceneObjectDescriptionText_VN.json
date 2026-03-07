@@ -1,0 +1,118 @@
+{
+	"0": [
+		"✦Một chiếc cốc mà \\str[120] rất thích, ",
+		"nó có hoạ tiết hình thỏ kỳ lạ.",
+		"Có vẻ như là mặt hàng bán chạy tại NLCH."
+	],
+	"1": [
+		"✦Chiếc đèn lồng nhỏ mà cha đã để lại,",
+		"có vẻ là một dụng cụ giả kim.",
+		"Dù đã cũ kĩ, nhưng nó vẫn toả ra ánh ",
+		"sáng ấm áp, dễ chịu."
+	],
+	"2": [
+		"✦Một chiếc đèn ngủ nhỏ dễ thương với ánh ",
+		"sáng dịu nhẹ, rất thích hợp để bật lên",
+		"khi thức dậy để đi vệ sinh vào ban đêm."
+	],
+	"3": [
+		"✦Một loại cây tên là “Ficus umbellata”.",
+		"Nó đang phát triển rất tốt, và có vẻ như \\str[120] ",
+		"chăm sóc nó rất kỹ lưỡng mỗi ngày."
+	],
+	"4": [
+		"✦Một loại cây tên là “Pothos”, nó trông không",
+		"được khoẻ lắm, nên \\str[120] đã đặt nó cạnh",
+		"cửa sổ. Mình có nên nói cho em ấy biết là Pothos",
+		"không thích ánh nắng mặt trời không...?",
+		""
+	],
+	"5": [
+		"✦Một vài cuốn sách mà \\str[120]",
+		"đã lấy từ thư phòng của cha. ",
+		"Chúng hầu hết là sách triết",
+		"học và hoàn toàn khó hiểu."
+	],
+	"6": [
+		"✦Nhặt được một cành cây bạch dương khô ",
+		"trên đường về. Vì thấy nó trông rất",
+		"ngầu, nên tôi đã đưa nó cho \\str[120].",
+		"Em ấy lặng lẽ cắm nó vào một chiếc lọ."
+	],
+	"7": [
+		"✦Một bức phác họa chim do \\str[120] vẽ, ",
+		"có vẻ dựa trên những con chim mà em ấy",
+		"đã nhìn thấy khi ngắm bên ngoài cửa sổ."
+	],
+	"8": [
+		"✦Một chiếc quạt nhỏ, cũ với luồng gió yếu. ",
+		"Bạn phải đến thật gần mới có thể ",
+		"cảm nhận được làn gió mát."
+	],
+	"9": [
+		"✦Một chiếc máy sấy tóc hiện đại với ",
+		"luồng gió cực mạnh.",
+		"Nếu hướng vào mặt, nó khiến bạn cảm giác",
+		"như gió có thể lột cả da ra vậy."
+	],
+	"10": [
+		"✦Một chiếc bồn tắm có thể điều chỉnh ",
+		"nhiệt độ, nhưng lại trong khoảng từ 99°C đến -10°C...",
+		"Cái này thật sự ổn chứ?"
+	],
+	"11": [
+		"✦Một loại dầu gội hương trái cây mà \\str[120] rất thích.",
+		"Nó giúp tóc em ấy óng ả mượt mà như sunsilk,",
+		"nhưng lại hết quá nhanh.",
+		"Hiện tại còn lại:\\c[20]${$gameSelfVariables.value([6, 8, 'shampoo'])}%"
+	],
+	"12": [
+		"✦Có vẻ như đây là đồ lót mà ",
+		"\\str[120] vừa cởi ra...",
+		"Nó được gấp lại gọn gàng."
+	],
+	"13": [
+		"✦Một chiếc máy chơi game huyền thoại, giờ đây cực kỳ hiếm.",
+		"Sở hữu nó sẽ biến bạn thành huyền thoại trong giới game thủ."
+	],
+	"14": [
+		"✦Một con búp bê được tặng cho \\str[120] bởi bố ",
+		"nhân dịp ngày sinh nhật. Em ấy cực kì trân trọng ",
+		"và luôn giữ nó bên mình."
+	],
+	"15": [
+		"\\fr\\fs[20]\\c[10]Ma Pháp Trận Thất Lạc",
+		"\\fs[22]\\i[16]???\\fr",
+		"✦Một Không Gian Khác Giới được tạo ra bởi ",
+		"một lá bài ma pháp thừa hưởng từ cha.",
+		"Hoàn toàn không bị ảnh hưởng bởi thời gian, ",
+		"những vật phẩm cất giữ ở đây sẽ không bao giờ biến mất.",
+		"Ma pháp trận này cũng được kết nối với lối vào của ngôi nhà,",
+		"cho phép trở về một cách an toàn.",
+		"Việc đây có phải là sự sắp đặt có chủ ý của cha, ",
+		"để phòng trước cho việc đứa con mình lạc vào ",
+		"Vực Thẳm, giờ vẫn là điều không rõ.."
+	],
+	"16": [
+		"\\fr\\fs[28]\\c[114]Đại Mê Cung",
+		"\\fr\\fs[22]\\i[16]???",
+		"✦Tương truyền nơi đây những hành lang bị thần linh ruồng bỏ, ",
+    	"kéo dài vô tận đến tận cùng hư không.",
+    	"Bên dưới những mái vòm đổ nát và dây leo cổ xưa chằng chịt, ",
+   		"dư quang của một nền văn minh đã mất vẫn còn lưu lại.",
+    	"Vô số mạo hiểm giả đã đặt chân vào đó mà không bao giờ quay trở lại—",
+    	"Mê Cung không khước từ bất kỳ kẻ lữ hành nào; ",
+    	"nó chỉ quyết định ai được phép rời đi."
+	],
+  	"17": [
+		"✦Một chiếc TV 85 inch với những công nghệ mới nhất.",
+		"Tuy nhiên, nó không nhiều chương trình truyền hình. ",
+		"Để xem được các chương trình thú vị,",
+		"phải tìm được một số cuộn băng video ở đâu đó."
+  	],
+	"18": [
+		"✦Chiếc quần lót mà \\str[120] vừa cởi ra.",
+		"Nó vẫn còn giữ hơi ấm cơ thể của em ấy, và mảnh vải nhỏ ",
+		"ở chính giữa trông như đã ướt sũng."
+	]
+}

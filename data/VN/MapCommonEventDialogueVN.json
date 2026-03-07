@@ -1,0 +1,663 @@
+{
+    "autoUpdateReminder": {
+        "0": [
+            "Quá trình cập nhật sẽ tự động bắt đầu khi bạn thức dậy vào ngày hôm sau.",
+			"Vui lòng đảm bảo kết nối internet ổn định trong suốt quá trình!",
+			"\\w[120]"
+		],
+		"1": [
+            "Không thể xem nhật ký cập nhật!",
+			"Kết nối mạng có thể đã bị gặp lỗi!",
+			"\\w[120]"
+        ]
+    },
+    "usingItem": {
+        "0": [
+            "Đã lấy ra \\ii[\\v[90]]  ",
+            "nên làm gì đây…?"
+        ],
+        "1": [
+            "Dùng",
+            "Thôi vậy",
+            "Vứt bỏ"
+        ]
+    },
+    "skillOnCooldown": {
+        "0": [
+            "Đang hồi chiêu!"
+        ]
+    },
+    "takePhotoOfImouto": {
+        "0": [
+            "\\nl< >\"Hngh! \\str[121]!    \\w[60]",
+            "Anh lại chụp lén nữa!\""
+        ]
+    },
+    "sealingScroll": [
+            "Chưa có vật phẩm nào bị phong ấn",
+            "Đang bị phong ấn:"
+    ],
+    "inventoryOverweight": {
+        "weapon": [
+            "Không thể mang thêm vũ khí!"
+        ],
+        "gear": [
+            "Không thể mang thêm trang bị!"
+        ]		
+    },
+    "Abyss": {
+        "0": [
+            " Tòa Tháp Vĩnh Hằng Bị Ruồng Bỏ "
+		]
+    },
+    "ElixirCraft": {
+        "0": [
+            " Elixir Chế Tác "
+		],
+		"1": [
+            " Thành công tạo ra Elixir Rubrum! "
+        ]		
+    },	
+    "gainRedHeart": {
+        "0": [
+            " Trái Tim Nở Rộ "
+		],
+		"1": [
+            " Trái tim của \\str[120] vừa lỡ một nhịp! "
+        ]		
+    },
+    "gainWhiteHeart": {
+        "0": [
+            " Tình Yêu Dâng Trào"
+		],
+		"1": [
+            " Em ấy đã bị lấp đầy rồi! "
+        ]		
+    },
+    "gainGoldenHeart": {
+        "0": [
+            " Dục Vọng Hoàng Kim "
+		],
+		"1": [
+            " Lạc lối trong biển vàng lấp lánh "
+        ]		
+    },		
+    "NinjasFate": {
+        "0": [
+            " Định Mệnh Ninja "
+		],
+		"1": [
+            " Xoá bỏ cái tôi, và vung lưỡi kiếm vì đồng đội... "
+        ]		
+    },
+    "AbyssPillars": {
+        "0": [
+            " ▓▓▓▓ đã nhận thức được sự tồn tại của bạn "
+		]
+    },
+    "unlockJackalope": {
+        "0": [
+            " Thỏ Rừng "
+		],
+		"1": [
+            " đã xuất hiện trong Vực Thẳm! "
+        ]		
+    },
+    "maidBunnyBoss": {
+        "0": [
+            "Phía trước chẳng có gì đâu!",
+            "Nên không cần phải đi kiểm tra đâu—usa!"
+        ],
+        "1": [
+            "Ch-chỗ này thật sự không có gì hết! Đ-đừng lại gần hơn nữa!",
+            "T-tôi thề là hoàn toàn chẳng có gì được giấu ở đây đâu—usa!"
+        ],
+        "2": [
+            "...Usa?",
+            "Tiếng động lạ gì thế nhỉ?"
+        ],
+        "3": [
+            "...Usa!?",
+            "Ngươi tìm thấy nơi này như thế nào—!"
+        ],
+        "4": [
+            "...Usa!?",
+            "Con người...!!"
+        ],
+        "5": [
+            "Usaaaa, đồ khốn nạn—                        \\w[45]",
+            "\\{Ngươi đến đây để ăn cắp cà rốt của ta à!!       \\w[60]\\^"
+        ],
+        "6": [
+            "Usa!? Cà rốt của ta!!         \\w[45]",
+            "\\{Tên trộm cà rốt!!         \\w[60]\\^"
+        ]
+    },
+    "noBombFishing": {
+        "0": [
+            "Nghiêm cấm câu cá bằng boom!",
+            "Làm thì phải tự gánh hậu quả!"
+        ]
+    },
+    "nekoTruck": {
+        "0": [
+            "Muốn mua \\v[84] không?",
+            "Giá là \\c[6]\\v[85]\\c[0] yên!"
+        ],
+        "1": [
+            "Mua!",
+            "Thôi vậy…",
+            "Lén lấy…"
+        ],
+        "10": "Không có làn đường đủ rộng!",
+        "11": "Có chướng ngại vật trên làn đường!",
+        "12": "Cỗ Xe đã được triệu hồi thành công!",
+        "13": "Không thể triệu hồi Cỗ Xe ở khu vực này!"
+    },
+    "sela": {
+		"1": [
+            "(Có vẻ cô ấy sẽ chưa tỉnh dậy sớm đâu…",
+			"Chắc mình nên quay lại sau vậy…)"
+        ],
+        "2": [
+            "…Hmm?",
+            "Mình… đã đến ga rồi sao?"
+        ],
+        "3": [
+            "Huh? Khoan đã—đây đâu phải toa tàu hỏa?",
+            "Lúc nãy vẫn còn ấm áp lắm mà…"
+        ],
+        "4": [
+            "Lửa trại… à…",
+            "Thảo nào lại ấm áp đến vậy."
+        ],
+        "5": [
+            "Nhưng... lạ thật... Mới lúc nãy thôi, ",
+            "mình vẫn còn đang ngắm những vì sao trôi ngoài cửa sổ mà…"
+        ],
+        "6": [
+            "Chắc mình mải ngắm quá...",
+            "nên lỡ mất trạm rồi."
+        ],
+        "7": [
+            "Anh hỏi 'tàu hỏa' là gì à…?",
+            "Hihi… 'tàu hỏa' à, huh—"
+        ],
+        "8": [
+            "Là thứ lạch cạch, lạch cạch chở mọi người đi đó, đưa mọi người đi",
+            "giữa bầu trời sao, tỏa sáng như những kim cương giữa trời đêm ấy~"
+        ],
+        "9": [
+            "Tiếng còi của nó—",
+            "nghe giống hệt tiếng cá voi đang hát, anh biết không?"
+        ],
+        "10": [
+            "Hihi, vẫn chưa hiểu à?",
+            "Vậy thì anh nhìn tấm vé này đi, dễ hình dung hơn đó~"
+        ],
+        "11": [
+            "Tấm vé của Chuyến Tàu Ngân Hà,",
+            "nó cũng rất là—"
+        ],
+        "12": [
+            "Huh? ủa??",
+            "Tấm vé… nó mất rồi…"
+        ],
+        "13": [
+            "Tấm vé với những đường hoa văn dây leo đen và",
+            "hình cây thập tự kỳ lạ ở giữa… biến mất rồi…"
+        ],
+        "14": [
+            "Xin lỗi nhé… có lẽ không cho anh xem dải ngân hà được rồi…",
+            "Có vẻ như em đã làm mất tấm vé…"
+        ],
+        "15": [
+            "Nếu không có nó, em sẽ không bao giờ có thể lên lại chuyến tàu ấy nữa…",
+            "Uuu… Uuu…"
+        ],
+        "16": [
+            "Giờ em phải làm sao đây…?  Có lẽ chỉ còn cách chờ đợi vậy…",
+            "biết đâu chuyến tàu kế tiếp sẽ đến tìm mình."
+        ],
+        "17": [
+            "Và còn nữa… em xin lỗi nhé…",
+            "Ngọn lửa ở đây… ấm áp quá…"
+        ],
+        "18": [
+            "Vừa đặt mình xuống, cơn buồn ngủ dâng lên…",
+            "như làn sóng… lặng lẽ cuốn trôi đi…"
+        ],
+        "19": [
+            "(Người này…",
+            "Thực sự đã ngủ gục!)"
+        ],
+        "20": [
+            "Ở đây thật sự rất ấm áp.",
+            "Nhưng… cảm giác này khác với ánh mặt trời."
+        ],
+        "21": [
+            "Ánh nắng là hơi ấm của “thế giới bên ngoài.”",
+            "Còn lửa trại… là hơi ấm của “chuyến hành trình.”"
+        ],
+        "22": [
+            "…Hmm?",
+            "Liệu con tàu có quay lại đón mình không…?"
+        ],
+        "23": [
+            "Huh? Oh,",
+            "lại là anh à, Nhà Thám Hiểm!"
+        ],
+        "24": [
+            "Mới khi nãy em còn nói chuyện với anh…",
+            "Vậy mà giờ lại có cảm giác như đã trôi qua rất lâu rồi…"
+        ],
+        "25": [
+            "“Mình có nhớ đã làm rơi tấm vé ở đâu không nhỉ…??",
+            "Hmm… không rõ nữa… mọi thứ đang mờ dần…"
+        ],
+        "26": [
+            "Nó không nặng như những đồng xu ở thế giới này đâu…",
+            "Nó nhẹ lắm—nhẹ hơn cả một cánh lông thiên nga~"
+        ],
+        "27": [
+            "Màu sắc của nó trông như ‘hồ nước ngủ yên’ bị đóng băng bên trong,",
+            "và khi nghiêng dưới ánh sáng, bụi sao bên trong khẽ trôi lấp lánh~"
+        ],
+        "28": [
+            "Có thể nó đã…",
+            "rơi xuống đâu đó…"
+        ],
+        "29": [
+            "Có lẽ là trong một cánh đồng xanh mướt tràn ngập,",
+            "hoặc đã bị một con cáo gan dạ mang về hang của nó,"
+        ],
+        "30": [
+            "hoặc có lẽ… nó đã hóa thành giọt sương mai,",
+            "lặng lẽ đọng trên thành cửa sổ của ai đó."
+        ],
+        "31": [
+            "(Đây có phải là… một câu đố không?",
+            "Tôi không hiểu cô ấy đang nói gì cả...)"
+        ],
+        "32": [
+            "Xin lỗi nhé… điều duy nhất mà em còn nhớ được,",
+            "chỉ là vài hình ảnh mờ ảo... mông lung giữa sương mờ..."
+        ],
+        "33": [
+            "Đây… cái này là cho anh đấy…",
+            "Lúc còn ở trên chuyến tàu đó, em cũng rất thích đọc nó…"
+        ],
+        "34": [
+            "Bên trong có khá nhiều... ghi chép thú vị lắm...",
+            "Biết đâu nó cũng sẽ hữu ích với anh đấy, nhà thám hiểm à…"
+        ],
+        "35": [
+            "(Cô ấy đang tập trung vẽ...",
+            "Tốt hơn là đừng làm phiền cô ấy...)"
+        ],
+        "36": [
+            "(Tôi hơi tò mò...",
+            "cô ấy đang vẽ cái gì vậy…?)"
+        ],
+        "37": [
+            "(Khoan đã... ",
+            "Cái gì kia!?)"
+        ],
+        "38": [
+            "(Tôi nghĩ mình vừa thấy...",
+            "một thứ mà tôi chắc chắn không nên thấy…)"
+        ]	
+    },
+    "PhilosophersFragment": {
+        "title": [
+            "Mảnh Hiền Triết"
+        ],
+        "description50": [
+            "Một mảnh vỡ đặc biệt thu được từ Cuồng Huyết Xích Thú",
+            "Nếu thu thập đủ nhiều mảnh vỡ khác nhau",
+            "có thể sẽ giúp cải thiện tình trạng của ${}."
+        ],
+        "description56": [
+            "Một mảnh vỡ đặc biệt thu được từ Thỏ Hầu Gái.",
+            "Nếu thu thập đủ nhiều mảnh vỡ khác nhau",
+            "có thể sẽ giúp cải thiện tình trạng của ${}."
+        ]
+    },
+    "imoutoAhoge": {
+        "0": [
+            "Vô tình giật cọng ahoge của \\str[120]."
+		],
+		"1": [
+            "Em ấy dường như không để ý thấy điều gì bất thường ",
+			"và cọng ahoge đó nhanh chóng mọc lại.",
+			"...Chẳng lẽ đây là một loại tài nguyên có thể tái tạo?"
+        ],
+        "2": [
+            "\\nl< >\"...Có chuyện gì vậy, \\str[121]",
+			"Nhìn anh trông căng thẳng thế.\""
+        ],
+        "3": [
+            "Việc này hơi khó nói, ",
+			"nên em không cần nghĩ nhiều về nó đâu."
+        ],
+        "4": [
+            "Tốt nhất không nên chạm vào nó lần nữa..."
+        ],	
+        "5": [
+            "\\nl< >\"...Đầu em hơi ngứa.   \\w[30]",
+			"Anh có làm gì em không vậy, \\str[121]?\""
+        ],
+        "6": [
+            "\"A-Anh không làm gì cả... Anh thề với em!\""
+        ]		
+    },
+    "cookingSystem": {
+        "0": [
+            "\\ii[\\v[85]] đã sẵn sàng. Mình nên làm gì tiếp đây?"
+		],
+		"1": [
+            "Đổi lại",
+			"Loại bỏ nó"
+        ],
+        "2": [
+            "Vẫn đang lựa chọn nguyên liệu!!"
+        ]	
+    },	
+    "inventoryExpansion": {
+        "0": [
+            "Có vẻ như dùng \\ii[312]",
+			"có thể mở rộng dung lượng balo..."
+		],	  
+        "1": [
+            "Mở rộng ô vũ khí",
+			"Mở rộng ô trang bị",
+			"Thôi bỏ đi"
+		],
+        "2": [
+            "Số lượng \\ii[312]",
+			"dường như không đủ..."
+		]	
+    },
+    "loadingEasterEgg": {
+        "0": [
+            "\\nl< >\"Hamburger bít tết là món ăn ngon nhất.\"  \\w[180] \\^"
+		],	  
+        "1": [
+            "\\nl< >\"\\str[121] chắc chắn sẽ mang về ",
+			"một núi thịt cho em gái của mình...\"   \\w[360] \\^"
+		],
+        "2": [
+            "Em gái tôi có vẻ đang nói cái gì đó..."
+		],
+        "3": [
+            "\\nl< >\"Nhưng ớt chuông là kẻ thù.   \\w[120]",
+			"\\str[121], anh phải ăn hết chúng...       \\w[120]",
+			"Đi đánh bại kẻ thù màu xanh lá~!\"               \\w[120]\\^"
+		],	  
+        "4": [
+            "\\nl< >\"A, anh tỉnh lại rồi...     \\w[60]",
+			"\\str[121], anh ngủ có ngon không?\""
+		],
+        "5": [
+            "\"Không hẳn... Nhân tiện, ",
+			"Anh đã nghe thấy một số âm thanh lạ ",
+			"khoảng một lúc rồi...\""
+		],	
+        "6": [
+            "\\nl< >\"Eh hehe, đó là    \\w[60]",
+			"dịch vụ chăm sóc giấc ngủ đặc biệt cho anh đấy, \\str[121]!\""
+		],	
+        "7": [
+            "\\nl< >\"Em gái mình cực kì dễ thương...               \\w[120]",
+			"Em ấy là cô gái mà mình yêu quý nhất trên đời...  \\w[210]",
+			"Em gái mình là—                             \\w[150]\\^"
+		],	
+        "8": [
+            "Em gái tôi có vẻ đang nói cái gì đó..."
+		],	
+        "9": [
+            "\\nl< >\"Ah, \\str[121]! Chào buổi tối—!\""
+		],
+        "10": [
+            "\\nl< >\"Um... Anh có nghe hết những gì em vừa nói không?\""
+		],
+        "11": [
+            "\\nl< >\"\\str[121], khuôn mặt của anh lúc ngủ ",
+			"khi nãy trong rất buồn cười~\""
+		],
+        "12": [
+            "\\nl< >\"Hiếm khi thấy anh ngủ gật như vậy~\""
+		]		
+    },
+    "rubberDuck": {
+        "0": [
+            "Một chú vịt cao su đơn độc ",
+			"trôi trên mặt nước..."
+		],	  
+        "1": [
+            "Nhặt nó lên",
+			"Mặc kệ nó"
+		],
+        "2": [
+            "Ai đó vứt nó đi sao?",
+			"Trông hơi tội nhỉ..."
+		],	
+        "3": [
+            "Nhìn lại thì...",
+			"mình cũng bị cuốn từ trên thượng nguồn xuống..."
+		],	
+        "4": [
+            "Nếu tôi mang cái này về nhà...",
+			"Không biết em ấy sẽ vui không?"
+		],
+        "5": [
+            "Nhưng mà có vẻ hơi bẩn,",
+			"có lẽ tôi nên để nó ở lại thôi..."
+		]
+    },
+    "drowning": {
+        "0": [
+            "Ahhh... chút nữa thì chết... ",
+			"Mình trượt ngã khỏi bờ sông và suýt bị đuối nước!"
+		]
+    },
+    "erohon": {
+        "0": [
+            "(Vẫn còn người hoặc quái vật ở gần...",
+			"tốt hơn là không nên lấy cuốn sách này ra.)"
+		]
+    },
+    "ninja": {
+        "0": [
+            "Không thể tin được lại có một căn phòng bí mật do con người tạo ra ở chỗ như thế này.",
+			"Ai đã xây nó nhỉ...?"
+		],
+        "1": [
+            "Whoa…!?",
+			"Ngay cả một cô gái cũng nằm bất tỉnh ở đây..."
+		],
+        "2": [
+            "Nhìn lại thì, mình đã nghe thấy những tiếng ồn kì lạ...",
+			"Có phải đó là tiếng bụng cô ấy kêu không...?"
+		],	
+        "3": [
+            "Ugh...",
+			"Đói quá..."
+		],	
+        "4": [
+            "............",
+			"Cô ấy đói đến mức gần như bất tỉnh sao...?"
+		],	
+        "5": [
+            "Tuyệt! Có sẵn một đống lửa trại ở đây.",
+			"Mình sẽ nấu cho cô ấy gì đó ăn vậy!"		
+		],
+        "6": [
+            "Mình có nên dùng \\ii[\\v[90]]     ",
+			"và nấu một món đơn giản không nhỉ?"
+		],	
+        "7": [
+            "Làm thôi!",
+			"Không làm..."
+		],	
+        "8": [
+            "Hmm... Có lẽ mình nên thay bằng",
+			"nguyên liệu tốt hơn..."
+		],	
+        "9": [
+            "Nè~ Tôi đã nấu đồ ăn nóng cho cô rồi!",
+			"Cô có thể ăn được không?"
+		],	
+        "10": [
+            "Ngửi ngửi... Ngửi ngửi...",
+			"Mùi này... có phải là đồ ăn không?"
+		],		
+        "11": [
+            "Mùi của đồ ăn!!"
+		],		
+        "12": [
+            "\\{Được rồi, tôi ăn đây!!"
+		],		
+        "13": [
+            "Cô... cô cái đồ...",
+			"Tôi đã làm nó, cô có biết không..."
+		],		
+        "14": [
+            "(Cô ấy ăn xong chỉ trong vài nốt nhạc...",
+			"Chắc hẳn cô ấy đói lắm...)"
+		],		
+        "15": [
+            "Nhồm nhồm... Cậu cứu tôi rồi!",
+			"Mấy ngày nay tôi chưa ăn gì... nhồm nhồm..."
+		],			
+        "16": [
+            "Tôi cứ tưởng mình sẽ biến thành một hồn ma đói",
+			"lang thang trong hầm ngục này... Grrrr..."
+		],		
+        "17": [
+            "Này... ăn từ từ thôi... Nhân tiện,",
+			"sao cô lại ở chỗ này một mình vậy?"
+		],		
+        "18": [
+            "Ah! Tóm lại—!",
+			"Tôi đang nghiêm túc làm nhiệm vụ của mình, hiểu không!"
+		],		
+        "19": [
+            "Tôi muốn tìm kho báu bí ẩn trong khu vực này,",
+			"nên đã đào ra một căn phòng bí mật ở chỗ khuất!"
+		],		
+        "20": [
+            "Nhưng rồi... nhồm nhồm.",
+			"Sau khi tôi vào, lối đi bị chặn bởi một tấm bia mộ!"
+		],		
+        "21": [
+            "Ugh, tôi hoàn toàn không ngờ tới,",
+			"nên lương thực nhanh chóng hết... rồi sau đó..."
+		],	
+        "22": [
+            "Một ninja mà rơi vào rắc rối như thế này...",
+			"Tôi không còn mặt mũi để quay lại tổ chức..."
+		],	
+        "23": [
+            "Huh... huh? Nhưng sao cô lại",
+			"đào ra một căn phòng bí mật ngay từ đầu..."
+		],	
+        "24": [
+            "Bởi vì kho báu đó không phải lúc nào cũng xuất hiện,",
+			"nên tôi phải chuẩn bị cho một thời gian lâu ở đây... nhồm nhồm."
+		],	
+        "25": [
+            "Hơn nữa, tôi không thể để ai biết chuyện này,",
+			"đây là một nhiệm vụ siêu bí mật được giao trực tiếp từ sếp!"
+		],	
+        "26": [
+            "Nếu người khác biết...",
+			"cậu nghĩ chuyện gì sẽ xảy ra..."
+		],	
+        "27": [
+            "Tất nhiên, tôi phải âm thầm xử lý họ...",
+			"nếu không, tôi sẽ là một ninja thất bại... nhồm nhồm."
+		],	
+        "28": [
+            "...Khoan, đợi đã?!",
+			"Mình vừa làm lộ thông tin mật mất rồi!"
+		],	
+        "29": [
+            "Um... Tôi hứa sẽ không hé răng nửa lời đâu...",
+			"nên, ừm..."
+		],		
+        "30": [
+            "...Huh!?"
+		],		
+        "31": [
+            "Tôi không thể tin mình lại làm hỏng việc như vậy một lần nữa...",
+			"Ugh... ngay cả khi cậu đã cứu tôi..."
+		],		
+        "32": [
+            "Ch-chờ đã!",
+			"Cô định giết tôi chỉ vì chuyện đó á!?"
+		],		
+        "33": [
+            "Đó chính là bản chất của một ninja...",
+			"Tôi phải chiến đấu để sống sót..."
+		],		
+        "34": [
+            "Ý tôi là, tôi cũng không thực sự muốn làm cậu bị thương đâu,",
+			"nhưng tôi vẫn còn nợ cậu một bữa ăn..."
+		],	
+        "35": [
+            "N-nếu đã như vậy—",
+			"\\^"
+		],	
+        "36": [
+            "Vậy chỉ còn một cách—",
+			"Cậu cũng phải trở thành một ninja!"
+		],	
+        "37": [
+            "Nếu cậu gia nhập chúng tôi,",
+			"thì không có lý do gì để chúng ta phải đánh nhau cả!"
+		],	
+        "38": [
+            "Đ-đợi đã!",
+			"Tôi thật sự không còn lựa chọn nào khác, đúng không!?"
+		],	
+        "39": [
+            "Không sao đâu,",
+			"tôi sẽ nhẹ nhàng mà..."
+		],
+        "40": [
+            "...Oa!?",
+			"Tránh xa tôi ra!!"
+		],
+        "41": [
+            "Cậu thật sự có năng khiếu với mấy thứ ninja này...!",
+			"Cậu sẽ học được hết chỉ sau một chút luyện tập thôi!"
+		],
+        "42": [
+            "Giờ thì,",
+			"cậu cũng là một thành viên của chúng tôi rồi!"
+		],
+        "43": [
+            "Nhưng tôi sẽ phải đợi đến khi hoàn thành nhiệm vụ,",
+			"trước khi có thể giới thiệu cậu với ông chủ!"
+		],
+        "44": [
+            "Ở thời điểm này,",
+			"không còn gì quan trọng hơn nữa..."
+		]		
+    },
+    "mecha": {
+        "0": [
+            "Một cỗ máy kì lạ, phủ bụi từ lâu, đang bất động ở đây...",
+            "Ngay cả khi chạm vào, nó cũng không hề phản ứng."
+        ],
+        "1": [
+            "Huh...?",
+            "Có gì đó ở đây?"
+        ],
+        "2": [
+            "Một bộ phận bị rơi sao?",
+            "Trông có vẻ vẫn còn có thể kích hoạt được..."
+        ]
+    }
+}

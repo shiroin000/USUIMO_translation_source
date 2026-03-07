@@ -1,0 +1,236 @@
+{
+	"skillToggle": [
+            "Ativada",
+            "Desativada"
+	],
+	"1": {
+            "name": [
+            "Bolsa de Armazenamento Mágica"
+            ],
+            "subtitle": [
+            ""
+            ],
+            "description": [
+            "Uma ferramenta mágica portátil que lhe permite carregar ",
+            "muito mais itens do que o normal. No entanto, ",
+            "mesmo ferramentas mágicas têm seus limites de armazenamento.."
+            ],
+            "ability": [
+            "Capacidade de Armas: ${QJ.MPMZ.tl.ex_playerCheckInventory('weapon')}",
+            "Capacidade de Acessórios: ${QJ.MPMZ.tl.ex_playerCheckInventory('gear')}"
+            ]
+	},
+	"2": {
+            "name": [
+            "Senpo"
+            ],
+            "subtitle": [
+            ""
+            ],
+            "description": [
+            "Um passo rápido no chão cobre uma curta distância,",
+            "permitindo que você esquive de alguns ataques. É apenas uma técnica de movimento ",
+            "inicial, mas o usuário insiste em dar um nome maneiro"
+            ],
+            "ability": [
+            "Segure a Barra de Espaço para ativar"
+            ]
+	},
+	"3": {
+            "name": [
+            "Senpo Tachi"
+            ],
+            "subtitle": [
+            ""
+            ],
+            "description": [
+            "Uma técnica de sacar a espada apreendida com o jovem Espadachim.",
+            "Combinada com SenPo, você liberta um golpe com o encantamento da ",
+            "velocidade — suficiente para derrubar inimigos se bem sincronizada."
+            ],
+            "ability": [
+            "Clique esquerdo durante SenPo: Dano de corte aumenta com a velocidade",
+            "Clique direito durante  Senpo: Dano de Investida aumenta com momentum"
+            ],
+            "mobileAbility": [
+            "Toque o botão da habilidade para cortar, dano aumenta com a velocidade de movimento",
+            "Segure o botão da habilidade para uma Investida, efeito aumento com o momentum"
+            ]
+	},
+	"4": {
+            "name": [
+            "Golpe Redemoinho"
+            ],
+            "subtitle": [
+            ""
+            ],
+            "description": [
+            "Girando enquanto empunha a sua arma para atacar continuamente. ",
+            "A velocidade aumenta com o tempo. Para aqueles que não são bons  ",
+            "com técnicas de espadas, esse movimento é efetivo e fácil de aprender."
+            ],
+            "ability": [
+            "Segure o botão direito para ativar a habilidade",
+            "largue o botão para lançar sua arma"
+            ],
+            "mobileAbility": [
+            "Segure o botão da habilidade para iniciar o ataque",
+            "Largue o botão durante o giro para lançar a sua arma"
+            ]
+	},
+	"6": {
+            "name": [
+            "Perverso Sortudo"
+            ],
+            "subtitle": [
+            "true"
+            ],
+            "description": [
+            "Uma lendária constituição pervertida que ativa por conta própria, ",
+            "mesmo sem que o usuário repare.",
+            "Como se abençoado e guiado por uma deusa invisível, forças irresistíveis ",
+            "te induzindo para cenários que aceleram o coração de fanservice…!"
+            ],
+            "ability": [
+            "Sempre cria as oportunidades perfeitas para acionar eventos pervertidos!"
+            ]
+	},
+	"7": {
+            "name": [
+            "Senso de Perigo"
+            ],
+            "subtitle": [
+            ""
+            ],
+            "description": [
+            "Comummente chamado Often called ‘O Olho da Mente’, mas na verdade ",
+            "é um sentido aprimorado depois de incontáveis encontros com a morte.",
+            "Em outras palavras, é mais um reflexo de trauma do que uma habilidade..."
+            ],
+            "ability": [
+            "Passe o mouse sobre o alvo para ver suas informações detalhadas"
+            ],
+            "mobileAbility": [
+            "Pressione o alvo para ver suas informações detalhadas"
+            ]
+	},
+	"10": {
+            "name": [
+            "Ocultação da respiração"
+            ],
+            "subtitle": [
+            "verdadeiro"
+            ],
+            "description": [
+            "Uma técnica ninja. Eu acabei aprendendo de forma apressada, mas…",
+            "de alguma forma, eu peguei o jeito bem rápido."
+            ],
+            "ability": [
+            "Pressione Shift para inicar o stealth",
+            "Reduz o raio de detecção por monstros por \\c[17]${1+$gameParty.leader().skillMasteryLevel(10)}\\c[108] tile",
+            "Reduz a razão de percepção da \\str[120] quando espiando por \\c[17]${15+15*$gameParty.leader().skillMasteryLevel(10)}%\\c[0]"
+            ]
+	},
+	"11": {
+            "name": [
+            "Facada pelas Costas"
+            ],
+            "subtitle": [
+            "verdadeiro"
+            ],
+            "description": [
+            "Uma técnica ninja. Pode ser ativada quando estiver stealth",
+            "Ataca um inimigo desavisado pelas costas causando um dano imenso!"
+            ],
+            "ability": [
+            "Proficiência da Skill: \\c[6]${$gameActors.actor(1).skillMasteryUses(11)}\\c[0]",
+            "Bonos de dado para Assassinato: \\c[17]${Math.round(200 + (2333 - 200) * Math.pow($gameActors.actor(1).skillMasteryLevel(11) / 9, 1.8))}%\\c[0]"
+            ]
+	},
+	"12": {
+            "name": [
+            "Fluxo explosivo de Musou"
+            ],
+            "subtitle": [
+            ""
+            ],
+            "description": [
+            "Uma finalização secreta herdada de ASABA, que abraçou a tristeza ",
+            "em um instante rápido de mais para os olhos conseguirem ver, cem ",
+            "golpes, deixando o inimigo com nada além da escuridão final!"
+            ],
+            "ability": [
+            "Comando da habilidade:  \\{⬆⬇⬅⮕⬆⬇\\}",
+            "Cada uso da habilidade consome algum PV"
+            ]
+	},
+	"15": {
+            "name": [
+            "Roupas de Mulher"
+            ],
+            "subtitle": [
+            ""
+            ],
+            "description": [
+            "Você botou roupas que não foram feitas pra você… e algo dentro de você ",
+            "se agitou. Sem bônus de combate, pode até mesmo mexer um pouco com a sua cabeça.",
+            "Seus parceiros te olham estranhamente, e inimigos podem esperar… talvez.",
+            "Parece que, nesse mundo, fofura é justiça!"
+            ],
+            "ability": [
+            "Aumenta o Pecado baseado em quantidades de roupas femininas equipadas!"
+            ]
+	},
+	"16": {
+            "name": [
+            "Guardiões de Lâminas"
+            ],
+            "subtitle": [
+            ""
+            ],
+            "description": [
+            "\"Não importa como você maneja suas armas!\" \"Nós nos levantaremos ao seu chamado!\"",
+            "\"Para evitar as lâminas a se desgastarem!\" \"Para proteger a dignidade das armas!\"",
+            "\"Pois nós acreditamos que as espadas são os mestres e os humanos os servos!\"",
+            "\"Os que tem a fé mais absurda, porém inabalável!\"",
+            "\"Nós somos os Preservacionistas de armas - Os Guardiões de Lâminas!\""
+            ],
+            "ability": [
+            "Vestir o distintivo faz você um de nós agora"
+            ]
+	},
+	"18": {
+            "name": [
+            "Quebra de Armas"
+            ],
+            "subtitle": [
+            ""
+            ],
+            "description": [
+            "Todas as armas tem seu limite de durabilidade, ",
+            "e o usuário não sendo bom em ataques precisos.",
+            "Há um risco de elas quebrarem. Mas quando a arma quebrar —",
+            "ela vai desferir um poderoso ataque crítico!"
+            ],
+            "ability": [
+            "Aumento do dano final: \\c[6]${200+(100*$gameActors.actor(1).skillMasteryLevel(48))}%\\c[0]"
+            ]
+	},
+	"26": {
+            "name": [
+            "Treinamento de Espadachim"
+            ],
+            "subtitle": [
+            "true"
+            ],
+            "description": [
+            "Buscou conselhos de uma espadachim de como ficar mais forte",
+            "Tudo que ela disse foi ‘Apenas balance sua espada 1,000 vezes, todos os dias!’",
+            "—Será que isso vai mesmo funcionar!? De qualquer forma, vamos tentar..."
+            ],
+            "ability": [
+            "Prática de Movimento Completa: \\{\\c[6]${$gameActors.actor(1).skillMasteryUses(26)}\\c[0]",
+            "Dano Base Ataque de armas brancas aumentado em \\c[6]${Math.ceil(1.8**$gameActors.actor(1).skillMasteryLevel(26))}%"
+            ]
+	}
+}

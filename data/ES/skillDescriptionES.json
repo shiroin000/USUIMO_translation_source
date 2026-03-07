@@ -1,0 +1,219 @@
+{ 
+	"skillToggle": [ 
+            "Activado", 
+			"Inactivo" 
+    ],	 
+    "1": { 
+        "name": [ 
+            "Bolsa de Almacenamiento Mágico" 
+        ], 
+        "subtitle": [ 
+		    "" 
+		], 
+        "description": [ 
+            "Una herramienta mágica portátil que te permite llevar ", 
+            "muchos más objetos de lo habitual. Sin embargo, ", 
+			"incluso las herramientas mágicas tienen sus límites de almacenamiento..." 
+        ], 
+        "ability": [ 
+		    "Capacidad de armas: ${QJ.MPMZ.tl.ex_playerCheckInventory('weapon')}", 
+		    "Capacidad de equipo: ${QJ.MPMZ.tl.ex_playerCheckInventory('gear')}" 
+		] 
+    },	 
+    "2": { 
+        "name": [ 
+            "Senpo" 
+        ], 
+        "subtitle": [ 
+		    "" 
+		], 
+        "description": [ 
+            "Un paso rápido en el suelo cubre una distancia corta,", 
+            "permitiéndote esquivar algunos ataques. Es simplemente una", 
+			"técnica de carrera inicial, pero el usuario insiste en ponerle un nombre genial." 
+        ], 
+        "ability": [ 
+		    "Mantén presionada la barra espaciadora para activar" 
+		] 
+    }, 
+    "3": { 
+        "name": [ 
+            "Senpo Tachi" 
+        ], 
+        "subtitle": [ 
+		    "" 
+		], 
+        "description": [ 
+            "Una técnica de desenvainado aprendida del joven Maestro de la Espada.", 
+            "Al combinarse con SenPo, desatas un golpe con velocidad mejorada,", 
+			"suficiente para derribar enemigos si se usa en el momento adecuado." 
+        ], 
+        "ability": [ 
+		    "Clic izquierdo durante Senpo: Corte, el daño aumenta con la velocidad", 
+		    "Mantén presionado el clic derecho durante Senpo: Carga, los efectos aumentan con el impulso" 
+		], 
+        "mobileAbility": [ 
+		    "Toca el botón de habilidad para cortar, el daño aumenta con la velocidad de movimiento", 
+		    "Mantén presionado el botón de habilidad para cargar, el efecto aumenta con el impulso" 
+		]		 
+    }, 
+    "4": { 
+        "name": [ 
+            "Corte Torbellino" 
+        ], 
+        "subtitle":[ 
+		    "" 
+		], 
+        "description": [ 
+            "Gira mientras blandes tu arma para lanzar ataques continuos.", 
+            "La velocidad de ataque aumenta con el tiempo. Para quienes no son muy buenos", 
+			"con las técnicas de espada, este movimiento es fácil de aprender y efectivo." 
+        ], 
+        "ability": [
+		    "Mantén pulsado el botón derecho para activar la habilidad", 
+		    "Cancela mientras giras para lanzar tu arma" 
+		], 
+        "mobileAbility": [ 
+		    "Mantén pulsado el botón de habilidad para activar la habilidad", 
+		    "Cancela mientras giras para lanzar tu arma" 
+		]		 
+    },	 
+    "7": { 
+        "name": [ 
+            "Sentido del peligro" 
+        ], 
+        "subtitle": [ 
+		    "" 
+		], 
+        "description": [ 
+            "A menudo llamado 'Ojo de la mente', pero en realidad es un sentido ", 
+            "agudizado por innumerables roces con la muerte.", 
+			"En otras palabras, más como un reflejo de trauma que una habilidad real..." 
+        ], 
+        "ability": [ 
+		    "Pasa el ratón sobre el objetivo para ver información detallada" 
+		], 
+        "mobileAbility": [ 
+		    "Toca el objetivo para ver información detallada" 
+		]		 
+    },	 
+    "10": { 
+        "name": [ 
+            "Ocultación del aliento" 
+        ], 
+        "subtitle": [ 
+		    "true" 
+		], 
+        "description": [ 
+            "Una técnica ninja. Solo la aprendí con prisa, pero...", 
+            "de alguna manera, le cogí el truco bastante bien rápidamente." 
+        ], 
+        "ability": [ 
+		    "Presiona Shift mientras está activo para entrar en sigilo", 
+		    "Reduce el rango de detección del monstruo en \\c[17]${1+$gameParty.leader().skillMasteryLevel(10)}\\c[108] tile", 
+			"Reduce la tasa de aumento de alerta de \\str[120] durante el espionaje en \\c[17]${15+15*$gameParty.leader().skillMasteryLevel(10)}%\\c[0]" 
+		] 
+    },	 
+    "11": { 
+        "name": [ 
+            "Puñalada por la espalda" 
+        ], 
+        "subtitle": [ 
+		    "true" 
+		], 
+        "description": [ 
+            "Una técnica ninja. Se puede activar mientras está en sigilo", 
+            "¡Golpea a un enemigo desprotegido por detrás para causarle un daño masivo!" 
+        ], 
+        "ability": [ 
+		    "Competencia en la habilidad: \\c[6]${$gameActors.actor(1).skillMasteryUses(11)}\\c[0]", 
+		    "Bonificación de daño por asesinato: \\c[17]${Math.round(200 + (2333 - 200) * Math.pow($gameActors.actor(1).skillMasteryLevel(11) / 9, 1.8))}%\\c[0]" 
+		] 
+    },	 
+    "12": { 
+        "name": [ 
+            "Transmisión de Musou Burst" 
+        ], 
+        "subtitle": [ 
+		    "" 
+		], 
+        "description": [
+            "Un remate secreto heredado de ASABA, quien abrazó la tristeza", 
+			"En un instante demasiado rápido para que el ojo lo vea, cien golpes aterrizan—", 
+			"¡dejando al enemigo solo con la oscuridad final!" 
+        ], 
+        "ability": [ 
+		    "Comando de habilidad: \\{⬆⬇⬅⮕⬆⬇\\}", 
+			"Cada uso de la habilidad consume algo de HP" 
+		] 
+    }, 
+    "15": { 
+        "name": [ 
+            "Travestismo" 
+        ], 
+        "subtitle": [ 
+		    "" 
+		], 
+        "description": [ 
+            "Te pones ropa que no es para ti... y algo dentro de ti", 
+			"se agitó. Sin bonificación de combate; incluso podría trastornarte un poco la cabeza.", 
+            "Tus compañeros miran de forma extraña, y los enemigos podrían detenerse... tal vez.", 
+			"Después de todo, en este mundo, ¡la ternura es justicia!" 
+        ], 
+        "ability": [ 
+		    "¡Aumenta el Pecado según la cantidad de objetos de travestismo equipados!" 
+		] 
+    },		 
+    "16": { 
+        "name": [ 
+            "Guardianes de la Espada" 
+        ], 
+        "subtitle": [ 
+		    "" 
+		], 
+        "description": [ 
+            "\"¡No importa cómo blandas tus armas!\" \"¡Nos levantaremos para llamarte!\"", 
+			"\"¡Para evitar que las espadas se desgasten!\" \"¡Para proteger la dignidad de las armas!\"", 
+            "\"¡Porque creemos que la espada es la maestra y los humanos solo son sirvientes!\"", 
+			"\"¡Los creyentes más absurdos pero inquebrantables!\"", 
+			"\"¡Somos, Preservacionistas de Armas, los Guardianes de la Espada!\"" 
+        ], 
+        "ability": [ 
+		    "Llevar la insignia te convierte en uno de ellos ahora" 
+		] 
+    },			 
+    "18": { 
+        "name": [ 
+            "Rotura de Arma" 
+        ], 
+        "subtitle": [ 
+		    "" 
+		], 
+        "description": [ 
+            "Todas las armas tienen límites de durabilidad, ", 
+			"y como el usuario no es bueno en ataques precisos.", 
+            "existe el riesgo de romperlas. Pero cuando el arma se rompe —", 
+			"¡dará un golpe crítico poderoso!" 
+        ],
+        "ability": [ 
+		    "Aumento de daño del golpe final: \\c[6]${200+(100*$gameActors.actor(1).skillMasteryLevel(48))}%\\c[0]"     
+		] 
+    },		 
+    "26": { 
+        "name": [ 
+            "Entrenamiento de esgrima" 
+        ], 
+        "subtitle": [ 
+		    "verdadero" 
+		],
+        "description": [ 
+            "Pedí consejo a una maestra de espadas sobre cómo hacerme más fuerte", 
+			"Solo me dijo: '¡Blande tu espada 1000 veces al día!'", 
+            "—¿De verdad funcionará? En fin, intentémoslo..." 
+        ], 
+        "ability": [ 
+		    "Prácticas completadas: \\{\\c[6]${$gameActors.actor(1).skillMasteryUses(26)}\\c[0]", 
+			"El daño de ataque base de las armas cuerpo a cuerpo aumentó en \\c[6]${Math.ceil(1.8**$gameActors.actor(1).skillMasteryLevel(26))}%" 
+		] 
+    }	 
+}

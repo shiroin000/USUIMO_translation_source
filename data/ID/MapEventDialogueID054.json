@@ -1,0 +1,880 @@
+﻿{
+  "3": {
+    "0": [
+      "…\\str[120] masih tertidur lelap.",
+      "Apa yang harus saya lakukan?"
+    ],
+    "1": [
+      "Bangunkan dia",
+      "Tepuk kepalanya",
+      "Biarkan dia"
+    ],
+    "2": [
+      "Elixir Rubrum sepertinya sudah membaik",
+      "kondisi adikku, tapi aku tidak bisa membantu",
+      "khawatir bahwa efeknya mungkin hanya bersifat sementara."
+    ],
+    "3": [
+      "Aku dengan lembut mengusap pipi \\str[120]. Mungkin itu",
+      "sedikit menggelitik, dia langsung memasang wajah seperti itu",
+      "dia berusaha keras untuk menanggungnya."
+    ],
+    "4": [
+      "\\nl< >Mmm... hmm…"
+    ],
+    "5": [
+      "Ini sudah pagi. Kamu pikir kamu bisa bangun?"
+    ],
+    "6": [
+      "Karena kondisinya, \\str[120] selalu demikian",
+      "kesulitan bangun di pagi hari,",
+      "mungkin sebaiknya aku tidak memaksanya untuk bangun…?"
+    ],
+    "7": [
+      "Teruslah mencoba",
+      "Biarkan dia"
+    ],
+    "8": [
+      "\\ nl <> MANAA…",
+      "\\nl< >—\\str[121]…",
+      "\\nl< >Mmm… mmhm…"
+    ],
+    "9": [
+      "Dia hanya bergumam sedikit dan terus tertidur.",
+      "Hal seperti ini tidak bisa diburu-buru.",
+      "Lebih baik biarkan dia tidur lebih lama…"
+    ],
+    "10": [
+      "Aku dengan lembut menepuk kepalanya."
+    ],
+    "11": [
+      "…Sepertinya sudah waktunya untuk mulai menyiapkan sarapan."
+    ]
+  },
+  "4": {
+    "0": [
+      "Bagaimana perasaanmu?",
+      "Anda tidak memaksakan diri terlalu keras, bukan?"
+    ],
+    "1": [
+      "\\nl< >m........"
+    ],
+    "2": [
+      "Hati-hati!\\w[45] Serius,\\w[45]",
+      "kamu jelas masih setengah tertidur, bukan?"
+    ],
+    "3": [
+      "Hei~ masih belum sepenuhnya bangun?",
+      "Maka \\str[121] akan menjadi serius~!"
+    ],
+    "4": [
+      "\\nl< >Mmmmmm…"
+    ],
+    "5": [
+      "Ini dia---"
+    ],
+    "6": [
+      "Merasa lebih terjaga sekarang?"
+    ],
+    "7": [
+      "\\nl< >Uweh… banyak… banyak sekali, \\str[121]…"
+    ],
+    "8": [
+      "Jika kamu masih merasa tidak enak badan,",
+      "coba cuci muka dulu."
+    ],
+    "9": [
+      "\\nl< >Bawa saja aku kemari… \\str[121]…"
+    ],
+    "10": [
+      "Astaga, mungkin lelucon itu terlalu berlebihan…",
+      "\\str[120] masih terlihat sangat pusing."
+    ],
+    "11": [
+      "Putar putaran putaran putaran putaran putaran putaran~!"
+    ],
+    "12": [
+      "\\nl< >Gulungan gulung gulung gulung gulung gulung gulung~!"
+    ],
+    "13": [
+      "\\nl< >Uweeeeh~~~~ \\w[120]"
+    ],
+    "14": [
+      "Pusing dan linglung, \\str[120] menjatuhkan diri kembali ke tempat tidur...",
+      "Hah? Apakah aku mungkin mengolok-oloknya terlalu berlebihan?"
+    ],
+    "15": [
+      "Melihat bahwa dia bahkan tidak memiliki kekuatan untuk melakukannya",
+      "bangun, aku tidak punya pilihan selain menyerah",
+      "dan berhenti mendorongnya."
+    ],
+    "16": [
+      "…Sepertinya sudah waktunya untuk mulai membuat sarapan."
+    ]
+  },
+  "6": {
+    "0": [
+      "Pedas sekali... sakit..."
+    ],
+    "1": [
+      "\\nl< >Uuuu... mulutku pedas sekali...",
+      "sakit..uuuu.."
+    ],
+    "2": [
+      "\\str[120] sedang berbaring di tempat tidur,",
+      "menderita pedas,",
+      "Aku harus segera melakukan sesuatu untuknya..."
+    ],
+    "3": [
+      "Tepuk kepalanya",
+      "Tepuk pantatnya",
+      "Siapkan minuman"
+    ],
+    "4": [
+      "Aku dengan lembut menepuk kepala \\str[120],",
+      "bertanya-tanya apakah ini akan membuatnya merasa lebih baik..."
+    ],
+    "5": [
+      "\\nl< >Uuuu... sekarang kepalaku terasa sakit juga..."
+    ],
+    "6": [
+      "\\nl< >Ue dan e..."
+    ],
+    "7": [
+      "Sepertinya tidak ada pengaruhnya..."
+    ],
+    "8": [
+      "Aku dengan lembut menepuk pantat \\str[120],",
+      "bertanya-tanya apakah ini akan membuatnya merasa lebih baik..."
+    ],
+    "9": [
+      "\\nll<- ukulem. \\str[121] ..."
+    ],
+    "10": [
+      "\\nl< >Uee... sekarang pantatku juga sakit..."
+    ],
+    "11": [
+      "Saya buru-buru mencari-cari dan akhirnya",
+      "menemukan sebotol \\ii[\\v[85]]!"
+    ],
+    "12": [
+      "Ini \\ii[\\v[85]],",
+      "apakah kamu ingin meminumnya...?"
+    ],
+    "13": [
+      "\\nl< >\\{ Aku menginginkannya!!"
+    ],
+    "14": [
+      "\\str[120] menelan \\ii[\\v[85]] sekaligus..."
+    ],
+    "15": [
+      "Aku buru-buru mencari-cari, tapi sepertinya",
+      "tidak ada minuman tersisa di rumah...",
+      "Karena tidak punya pilihan, saya menyiapkan segelas air untuknya."
+    ],
+    "16": [
+      "\\str[120] meneguk segelas air sekaligus..."
+    ],
+    "17": [
+      "\\nl< >Uuuu... mulutku masih sakit..."
+    ],
+    "18": [
+      "\\nl< >Akhirnya merasa sedikit lebih baik...",
+      "tapi lidahku masih mati rasa."
+    ],
+    "19": [
+      "\\nl< >Cabai memang musuh..."
+    ],
+    "20": [
+      "Melihat bibirnya yang sedikit bengkak,",
+      "Aku mulai mempunyai beberapa pemikiran aneh——"
+    ],
+    "21": [
+      "Pemeriksaan lisan"
+    ],
+    "22": [
+      "\\nl< >Ehh... tidak, itu agak memalukan...",
+      "\\str[121] akan mencium bau yang aneh!"
+    ],
+    "23": [
+      "\\str[120] menolak cek lisan.",
+      "Mungkin permintaanku sungguh terlalu aneh..."
+    ],
+    "24": [
+      "Bagaimanapun, aku senang dia merasa lebih baik,",
+      "Saya harus berhati-hati untuk tidak membuat makanan",
+      "terlalu pedas lain kali..."
+    ],
+    "25": [
+      "Tidak apa-apa! Aku hanya mengkhawatirkanmu!?",
+      "Itu hanya pemeriksaan biasa!"
+    ],
+    "26": [
+      "\\nl< >C-cek ya?"
+    ],
+    "27": [
+      "Di bawah tatapan tajamku, \\str[120] tersipu lebih dalam lagi,",
+      "tapi matanya dipenuhi kelembutan dan rasa ingin tahu,",
+      "dan sedikit antisipasi muncul",
+      "di pipi kemerahannya."
+    ],
+    "28": [
+      "Ya, akan berakibat buruk jika mulutmu melepuh!"
+    ],
+    "29": [
+      "\\nl< >Saya mengerti... kalau begitu...",
+      "kamu hanya bisa melihat, oke? Jangan melakukan sesuatu yang aneh..."
+    ],
+    "30": [
+      "\\nl< >Ah, ahh———"
+    ],
+    "31": [
+      "\\str[120] tidak menolak lagi,",
+      "dengan patuh berdiri di depanku,",
+      "perlahan memiringkan kepalanya ke atas dan membuka mulut kecilnya,",
+      "lidah kecilnya dengan malu-malu menjulur."
+    ],
+    "32": [
+      "Mungkin karena dia terlalu banyak makan makanan pedas, lidahnya",
+      "tampak sangat merah cerah, sedikit gemetar,",
+      "dengan air liur meluap karena pedasnya yang kuat,",
+      "tetesan bening mengalir di bibir lembutnya."
+    ],
+    "33": [
+      "Dia tampak malu sekaligus bingung,",
+      "matanya berkabut karena air mata, aku tidak tahu",
+      "jika dia masih kesakitan karena pedasnya."
+    ],
+    "34": [
+      "\\nl< >O-\\str[121]——— apakah kamu sudah selesai?",
+      "\\w[150]"
+    ],
+    "35": [
+      "Perawatan mulut!"
+    ],
+    "36": [
+      "Melihat pemandangan yang begitu lembut dan menggoda,",
+      "Aku menelan ludah tanpa sadar, gelombang yang tak terkendali",
+      "hasrat menggenang di dadaku."
+    ],
+    "37": [
+      "\\str[121] akan membantu Anda merasa lebih baik, oke?",
+      "Sakitnya akan segera berhenti..."
+    ],
+    "38": [
+      "\\l< >———Hoh?"
+    ],
+    "39": [
+      "Hampir seperti mencoba meyakinkan diri sendiri,",
+      "Aku mendekat ke wajah \\str[120],",
+      "dan menjulurkan lidahku untuk menyentuh lembut lembutnya,",
+      "lidah kecil yang lembut, menjilatnya perlahan dan lembut."
+    ],
+    "40": [
+      "Saat lidah kami bersentuhan, dia sedikit tersentak.",
+      "Dia tampak malu dan bingung dengan tindakanku,",
+      "tapi tidak menghindar atau menolak, masih menatapku",
+      "dengan mata besar berair, penuh rasa ingin tahu."
+    ],
+    "41": [
+      "Mencicipi lidahnya yang lembut dan manisnya",
+      "di mulutnya, aku benar-benar lupa yang asli",
+      "tujuan, sensasi lidahnya dan",
+      "kehangatan mulutnya menenun kenikmatan yang kuat,",
+      "membuat tindakanku lebih berani dan serakah",
+      "Aku mencari nafas manisnya lebih dalam dan lebih dalam."
+    ],
+    "42": [
+      "Lidah kecilnya sepertinya beradaptasi secara bertahap",
+      "gerakanku, bahkan mulai sedikit merespon,",
+      "kerjasamanya yang lembut dan pemalu mengisyaratkan",
+      "rasa antisipasi dan keterikatan yang halus."
+    ],
+    "43": [
+      "\\nl< >Mmm... haa, \\str[121]..."
+    ],
+    "44": [
+      "Saya tidak tahu berapa lama itu berlangsung,",
+      "tapi \\str[120] mulai kehabisan nafas,",
+      "jari-jarinya dengan ringan menekan dadaku",
+      "saat dia mengeluarkan erangan teredam,",
+      "sampai wajah kecilnya menjadi semakin merah",
+      "kekurangan oksigen, dan baru saat itulah aku enggan",
+      "lepaskan mulutnya."
+    ],
+    "45": [
+      "\\nl< >Haa... haa..."
+    ],
+    "46": [
+      "\\ nl <> mmp, \\str[121]!",
+      "Kamu bilang itu hanya cek...!"
+    ],
+    "47": [
+      "Meskipun kata-katanya mengandung keluhan yang manja,",
+      "ekspresinya tidak terlalu mirip",
+      "sedang memarahiku, tapi lebih seperti dia sedang bercanda."
+    ],
+    "48": [
+      "Maaf, maaf, lain kali saya akan berhati-hati...",
+      "tapi, bukankah lidahmu sudah terasa lebih baik sekarang?"
+    ],
+    "49": [
+      "\\nl< >Eh...? Mmm, ya..."
+    ],
+    "50": [
+      "\\nl< >Tidak...! Bukan itu intinya!",
+      "\\w[160]\\^"
+    ],
+    "51": [
+      "\\nl< >\\{",
+      "Kamu bodoh sekali, \\str[121]!"
+    ],
+    "52": [
+      "\\str[120] melarikan diri."
+    ],
+    "53": [
+      "Aku melihat sosoknya yang pemalu dan bingung saat dia lari,",
+      "Lidahku masih kesemutan karena manis dan",
+      "sensasi basah dari tadi,",
+      " ",
+      "kenikmatan yang kuat bercampur dengan rasa yang tak terlukiskan",
+      "tabu berputar-putar jauh di dalam hati,",
+      "menolak untuk menghilang..."
+    ]
+  },
+  "7": {
+    "0": [
+      "Hmm... Aku mulai sedikit lapar.",
+      "Sudah waktunya untuk membuat makan malam."
+    ],
+    "1": [
+      "Hei, ini sudah malam.",
+      "Saatnya bangun, tukang tidur."
+    ],
+    "2": [
+      "\\nl< >Mmnn—\\w[60]biarkan aku tidur satu jam lagi..."
+    ],
+    "3": [
+      "\\str[120] masih dengan malas berbaring di tempat tidur, menolak untuk bergerak.",
+      "Ya ampun, kurasa tidak ada gunanya kalau begitu…"
+    ],
+    "4": [
+      "Oh, ngomong-ngomong,",
+      "ada steak hamburger yang baru digoreng malam ini—"
+    ],
+    "5": [
+      "\\nl< >Ugh... aku ngantuk sekali—"
+    ],
+    "6": [
+      "\\nl< >Tapi di mana steak hamburgernya!?",
+      "Dimana itu!?"
+    ],
+    "7": [
+      "Maaf, itu sesuatu",
+      "kamu hanya bisa melihat dalam mimpimu—"
+    ],
+    "8": [
+      "\\nl< >Ehh... serius!? Itu sangat kejam, \\str[121]!"
+    ]
+  },
+  "5": {
+    "0": [
+      "Saya mengikuti \\str[120] ke ruang tamu. TV sudah menyala,",
+      "dan dia meringkuk di tengah sofa seperti bayi burung",
+      "menunggu sarangnya sambil memeluk lutut dan menatap",
+      "menatap layar dengan penuh perhatian."
+    ],
+    "1": [
+      "Jenis anime apa yang dia sukai…? Karena aku tidak pernah",
+      "di rumah pada siang hari, aku tidak begitu tahu apa yang biasanya dia tonton,",
+      "tapi melihatnya begitu bersemangat sekali membuatku penasaran juga,",
+      "jadi aku akhirnya duduk di sofa dan melihat TV."
+    ],
+    "2": [
+      "\\{\\c[27]Gadis Ajaib Cahaya Bintang Ruby!",
+      "episode 1!",
+      "Gadis Biasa dan Keajaiban Bintang!",
+      "Kontrak Dimulai!"
+    ],
+    "3": [
+      "\\c[27]Ruby adalah gadis biasa—nilai rata-rata, buruk dalam olahraga, dan tidak memiliki bakat magis—",
+      "tapi suatu hari dalam perjalanan pulang, dia dikejar monster dan menemui jalan buntu!",
+      "Di saat dia putus asa, roh bintang misterius 'Noa' muncul,",
+      "terbangun oleh keinginannya untuk bertahan hidup! 'Aku ingin hidup!' dia menangis—dan pada saat itu,"
+    ],
+    "4": [
+      "\\c[27]cahaya bintang memancar—kontrak takdir telah tersegel!",
+      "Transformasi pertamanya! Didorong oleh naluri, dia melawan dan mengusir monster itu!",
+      "Melihat tangannya bersinar di bawah cahaya bintang,",
+      "Ruby terdiam: 'Apakah ini... aku?'"
+    ],
+    "5": [
+      "\\nl< >Dia berubah! Itu luar biasa—!",
+      "Dan Noa sangat lucu! Cahaya bintangnya sangat cantik!   \\w[120]",
+      "Lihat, \\str[121]! Ruby-chan tidak bisa berbuat apa-apa sebelumnya!",
+      "Namun pada akhirnya, dia terpilih menjadi gadis penyihir!"
+    ],
+    "6": [
+      "Ah, ya…"
+    ],
+    "7": [
+      "……………………",
+      "……………………"
+    ],
+    "8": [
+      "Dia... berubah begitu saja?!",
+      "Dan pertarungannya sudah berakhir?",
+      "Kontrak monster seharusnya mengancam nyawa…",
+      "Bukankah membiarkan seorang anak kecil menangani ini akan membuat guild mendapat masalah…?"
+    ],
+    "9": [
+      "Aku menatap TV dengan ekspresi serius, penuh kebingungan.",
+      "Tapi ketika aku melirik mata lebar \\str[120] dan mulut terbuka,",
+      "Dipenuhi rasa kagum, aku putuskan untuk diam saja."
+    ],
+    "10": [
+      "Ya, visualnya mencolok. Selama Anda menikmatinya…"
+    ],
+    "11": [
+      "Saya tidak begitu mengerti alur ceritanya,",
+      "tapi saya menikmati waktu menonton yang tenang bersama \\str[120]!"
+    ],
+    "12": [
+      "Episode terakhir terasa berantakan total…",
+      "Tapi \\str[120] menyukainya, jadi menurutku ini bukan anime yang aneh?   \\w[60]",
+      "TIDAK! Saya tidak bisa menilainya hanya dari beberapa adegan!",
+      "Memikirkan hal itu, aku kembali duduk di sofa dan melihat TV lagi."
+    ],
+    "13": [
+      "\\{\\c[27]Gadis Ajaib Cahaya Bintang Ruby!",
+      "episode 2!",
+      "Pelatihan Khusus Dimulai!",
+      "Kekacauan Ajaib Dilepaskan!"
+    ],
+    "14": [
+      "\\c[27]Pelatihan khusus dimulai!",
+      "Pelajaran kustom bertenaga bintang dari Noa mendorong Ruby hingga batasnya!",
+      "Setelah terjatuh dari atap sebanyak 37 kali, dia akhirnya berhasil bertransformasi",
+      "miliknya—tapi sihirnya lepas kendali!",
+      "\\c[27]Lorong sekolah berubah menjadi zona bencana, papan tanda toko",
+      "di kota meledak seperti kembang api! Dengan warga mengeluh dan",
+      "keamanan turun tangan, bisakah gadis penyihir terlemah dalam sejarah",
+      "benar-benar membalikkan keadaan di bawah pelatihan brutal Noa?!"
+    ],
+    "15": [
+      "\\nl< >Ahh… Ruby yang malang… \\w[90]",
+      "Dia pasti sangat frustrasi… Dia baru saja mendapatkan kekuatannya,",
+      "dan dia belum terbiasa dengan hal itu."
+    ],
+    "16": [
+      "Ya, pasti sulit untuk menontonnya…"
+    ],
+    "17": [
+      "Bukankah ini… pada dasarnya merupakan pelecehan terhadap pekerja anak…?",
+      "Dan roh bintang ini, Noa juga…",
+      "Bagaimana mereka bisa membuat kontrak yang sukses seperti ini",
+      "di masa lalu…?"
+    ],
+    "18": [
+      "Tidak ingin merusak pengalaman menonton \\str[120],",
+      "Aku hanya diam-diam menggerutu dalam pikiranku—"
+    ],
+    "19": [
+      "\\{\\c[27]Gadis Ajaib Cahaya Bintang Ruby!",
+      "episode 3!",
+      "Bentrokan Api dan Debu Bintang Pertama!"
+    ],
+    "20": [
+      "\\c[27]Siswa pindahan misterius, Reina, berhasil masuk!",
+      "Sihir apinya benar-benar menguasai cahaya bintang Ruby yang kikuk!",
+      "Di balik tatapan dinginnya terdapat masa lalu yang menyakitkan—",
+      "Saat pemula yang ragu-ragu bertemu dengan pejuang yang tangguh dalam pertempuran!",
+      "\\c[27]Ideal mereka yang saling bertentangan meledak ketika monster menyerang!",
+      "Bisakah cahaya bintang dan api bekerja sama?!"
+    ],
+    "21": [
+      "\\nl< >Reina menakutkan… tapi dia sangat kuat!   \\w[90]",
+      "Tetap saja Ruby butuh pasangan seperti dia, bukan?      \\w[90]",
+      "Mereka akan menjadi teman baik, bukan?"
+    ],
+    "22": [
+      "Ya, Reina cukup keren…",
+      "Dia pasti akan menjadi senior yang bisa diandalkan."
+    ],
+    "23": [
+      "Saya mengangguk bersama dengan \\str[120],",
+      "menonton adegan pertarungan yang mencolok dan animasi yang cerdas di episode baru—",
+      "Sejujurnya, saya juga mulai ketagihan."
+    ],
+    "24": [
+      "Saya agak menantikan episode berikutnya sekarang!",
+      "Bersenang-senang menonton anime bersama \\str[120]!"
+    ],
+    "25": [
+      "Saya mulai hanya menonton dengan santai,",
+      "tapi akhirnya melewati beberapa episode tanpa menyadarinya…",
+      "Kecepatannya agak kacau, tapi ternyata latarnya menarik.   \\w[60]",
+      "Melihat \\str[120] begitu menyukainya—saya rasa saya mulai memahaminya.",
+      "Apa yang akan terjadi selanjutnya…?",
+      "Aku bersandar di sofa,",
+      "tertarik ke layar tanpa menyadarinya."
+    ],
+    "26": [
+      "\\{\\c[27]Gadis Ajaib Cahaya Bintang Ruby!",
+      "episode 4!",
+      "Bisikan Gelap di Bawah Lampu Festival!"
+    ],
+    "27": [
+      "\\c[27]Festival sekolah dimulai dengan meriah!",
+      "Ruby dan Reina terpaksa menjalankan booth bersama!",
+      "Ledakan mesin permen kapas! Bola kristal peramal hancur!",
+      "Duo terburuk telah lahir! Tapi bisikan aneh di sudut menarik perhatian Noa—",
+      "\\c[27]Di mata cekung itu… kabut hitam yang tidak menyenangkan berputar-putar!",
+      "Saat kembang api menerangi langit, bayangan yang mengintai mulai menyebar!",
+      "Rahasia apa yang tersembunyi di balik keceriaan festival ini?!"
+    ],
+    "28": [
+      "\\nl< >Festival sekolah terlihat sangat menyenangkan!     \\w[90]",
+      "Ruby dan Reina sepertinya juga berteman…!"
+    ],
+    "29": [
+      "Lumayan seru ya… \\}",
+      "Tapi jujur ​​​​saja, hubungan mereka benar-benar berantakan…"
+    ],
+    "30": [
+      "\\{\\c[27]Gadis Ajaib Cahaya Bintang Ruby!",
+      "episode 5!",
+      "Kebenaran Keras di Balik Masa Lalu yang Panas!"
+    ],
+    "31": [
+      "\\c[27]Investigasi mendadak terhadap insiden kabut hitam!",
+      "Reina menunjukkan permusuhan terhadap korbannya?! Di kedalaman an",
+      "kapel yang terbengkalai, bekas cakaran setan perusak hati kembali terbuka",
+      "ingatannya— Sihir api berputar tak terkendali!",
+      "\\c[27]Boneka hangus dan bingkai foto rusak terbakar!",
+      "'Kotaku... beginilah berubah menjadi abu!' Reina meneriakkan kebenaran sambil menangis",
+      "mengalir di wajahnya! Dan pada saat itu—iblis lain yang merusak hati",
+      "terbangun di bawah sekolah! Luka lama yang belum sembuh… akan dirobek lagi?!"
+    ],
+    "32": [
+      "\\nl< >Bagaimana ini bisa terjadi…",
+      "Aku tidak menyangka Reina-chan memiliki masa lalu seperti itu… \\w[90]",
+      "\\str[121], apa yang akan terjadi pada mereka selanjutnya…?"
+    ],
+    "33": [
+      "I-Ini akan baik-baik saja! Mereka masih punya sihir, kan!?",
+      "Mungkin Ruby akan mendapatkan momen besarnya di episode berikutnya!?"
+    ],
+    "34": [
+      "Aku melambaikan tanganku, mencoba menghibur \\str[120].",
+      "Tunggu, bukankah ini seharusnya menjadi cerita tentang",
+      "ikatan persahabatan yang indah antar gadis!? Tapi plotnya memanas—",
+      "pasti ada adegan comeback epik yang akan segera hadir, kan!?"
+    ],
+    "35": [
+      "Benar-benar bersemangat untuk episode berikutnya!",
+      "Berbagi momen menonton anime yang menegangkan namun seru bersama \\str[120]!"
+    ]
+  },
+  "8": {
+    "0": [
+      "Ketika saya sampai di kamar \\str[120],",
+      "Saya menemukannya tergeletak di lantai seperti a",
+      "ikan asin kering, lesu sama sekali."
+    ],
+    "1": [
+      "Panas terik di luar jelas terlihat",
+      "meresap ke dalam rumah, udaranya panas menyengat saat menerpaku."
+    ],
+    "2": [
+      "Ini tidak bisa dilanjutkan, aku harus melakukannya",
+      "pikirkan cara untuk membantu \\str[120] mengatasi panasnya…!"
+    ],
+    "3": [
+      "Saya bergegas untuk mengurus \\str[120],",
+      "yang berada di ambang sengatan panas,",
+      "sampai matahari terbenam mewarnai langit menjadi merah",
+      "dan dia akhirnya mulai pulih…"
+    ],
+    "4": [
+      "Kami berdua menjilat es loli kami dengan putus asa, berusaha menenangkan diri,",
+      "tapi dengan gelombang udara panas menerpa kami,",
+      "kami masih basah kuyup oleh keringat."
+    ],
+    "5": [
+      "\\str[120] merasa sangat tidak nyaman dia melupakan rasa malunya,",
+      "terus mengangkat ujung kemejanya, mencoba menciptakan sedikit angin."
+    ],
+    "6": [
+      "\\nl< >Panas sekali… Saya hanya ingin mandi…"
+    ],
+    "7": [
+      "Ayo Pergi Bersama!",
+      "Ayo Pergi!"
+    ],
+    "8": [
+      "\\nl< >Tidak mungkin, terlalu panas untuk berdesakan seperti itu!"
+    ],
+    "9": [
+      "\\nl< >Ya ampun! Jangan bercanda di saat seperti ini!"
+    ],
+    "10": [
+      "Ya, ini musim panas…",
+      "tapi tetap saja, rasanya sedikit sepi…"
+    ],
+    "11": [
+      "Karena panas sekali, \\str[120] dan saya bergantian mandi,",
+      "tapi tak lama setelah kami selesai, kami kembali berkeringat,",
+      "dan kami terus melakukan ini sampai malam…"
+    ],
+    "12": [
+      "Curiga…",
+      "Curiga…",
+      "Aku berjingkat ke pintu kamar \\str[120]."
+    ],
+    "13": [
+      "Tunggu ———— \\w[60]",
+      "A-apa!?"
+    ],
+    "14": [
+      "Saya pikir \\str[120] sedang tidur siang,",
+      "tapi dia malah duduk-duduk dengan nyaman di depan kipas angin."
+    ],
+    "15": [
+      "Dia pasti mengira tidak ada orang di rumah dan membiarkan dirinya bersantai sepenuhnya,",
+      "sama sekali tidak menyadari betapa tidak berdayanya postur tubuhnya di mata orang lain."
+    ],
+    "16": [
+      "Dia pasti mengira tidak ada orang di rumah dan membiarkan dirinya bersantai sepenuhnya,",
+      "bahkan melepas celana dalamnya."
+    ],
+    "17": [
+      "Setelah memanjakan mataku sejenak,",
+      "Saya merasa terlalu malu untuk terus menonton,",
+      "jadi aku diam-diam pergi dan kembali ke pintu masuk."
+    ],
+    "18": [
+      "Setelah saya memasang kipas angin listrik,",
+      "udara di dalam ruangan segera mulai bersirkulasi,",
+      "berubah menjadi sejuk dan menyegarkan."
+    ],
+    "19": [
+      "\\nl< >Ohhh—keren sekali, rasanya luar biasa~!"
+    ],
+    "20": [
+      "Ayolah, jangan duduk di depan kipas angin seperti itu!",
+      "Anda akan masuk angin!"
+    ],
+    "21": [
+      "\\str[120] menggerogoti es lolinya sambil duduk tertiup angin,",
+      "tampak sangat bersemangat."
+    ],
+    "22": [
+      "Setelah dengan cepat menghabiskan es loli,",
+      "Saya merasakan suhu tubuh saya turun drastis.",
+      " ",
+      " ",
+      "Padahal jangkrik di luar terus berdengung",
+      "dan gelombang panas terus bergulung,",
+      "setidaknya rasanya aku tidak lagi terpanggang hidup-hidup…"
+    ],
+    "23": [
+      "Tapi \\str[120] sepertinya masih belum cukup keren,",
+      "dan dengan malas duduk di lantai, menikmati kipas angin dengan nyaman."
+    ],
+    "24": [
+      "Bagi seorang gadis, postur itu agak terlalu tanpa pamrih,",
+      "Aku ingin mengingatkannya, tapi malah perhatianku",
+      "dicuri oleh sekilas layanan penggemar yang tidak disengaja."
+    ],
+    "25": [
+      "\\{Yah, ini musim panas!!"
+    ]
+  },
+  "9": {
+    "0": [
+      "Merasa sedikit bosan…",
+      "Aku ingin semangka~"
+    ],
+    "1": [
+      "\\nl< >Panas sekali… Aku sangat ingin mandi…"
+    ],
+    "2": [
+      "\\nl< >\\str[121]… apakah kamu mau es loli?"
+    ],
+    "3": [
+      "Mengobrol",
+      "Kapal Kulit",
+      "Tawarkan Cola",
+      "Merasa Mengantuk"
+    ],
+    "4": [
+      "\\nl< >Masih panas sekali…",
+      "Di saat seperti ini, tidur siang adalah pilihan terbaik~"
+    ],
+    "5": [
+      "Ya, pada sore hari matahari tidak akan terlalu terik lagi…"
+    ],
+    "6": [
+      "Aku tidur siang dengan \\str[120] ditiup angin sejuk hingga senja."
+    ],
+    "7": [
+      "Ternyata masih ada sebotol besar cola",
+      "mesin penjual otomatis aneh di lemari es.",
+      "Dengan cuaca sepanas ini, \\str[120] pasti akan melakukannya",
+      "senang meminumnya, bukan?"
+    ],
+    "8": [
+      "\\nl< >\\{Cola dingin!?         \\}\\w[60]",
+      "Saya menginginkannya! Saya menginginkannya!"
+    ],
+    "9": [
+      "Benar saja, \\str[120] tampak senang,",
+      "jadi apa yang harus aku lakukan—"
+    ],
+    "10": [
+      "Kocok",
+      "Serahkan"
+    ],
+    "11": [
+      "Sepertinya ini adalah cola spesial dengan karbonasi ekstra,",
+      "jika aku menggoyangnya sedikit…"
+    ],
+    "12": [
+      "Berpikir itu,",
+      "Aku tidak bisa menahan diri untuk diam-diam mengocok botol itu,",
+      "lalu menyerahkannya kepada \\str[120]…"
+    ],
+    "13": [
+      "\\str[120] tentu saja,",
+      "disemprotkan tepat ke wajah dengan semburan cola,",
+      "dan setelah itu, dia membuatku 'membayarnya' dengan memaksaku melakukannya",
+      "menenggak sebagian besar botolnya juga."
+    ],
+    "14": [
+      "Pada akhirnya, dia menghabiskan hampir seluruh botol menjadi satu",
+      "pergi dengan nafsu makan yang berlebihan…",
+      "perutnya tampak membengkak.",
+      "A-apakah ini… benarkah baik-baik saja!?"
+    ],
+    "15": [
+      "Karena dia direndam dalam cola,",
+      "pada saat dia selesai mandi dan berganti pakaian,",
+      "langit sudah mulai senja."
+    ],
+    "16": [
+      "\\nl< >Uwaaahhh—mmmmmmffff!!"
+    ],
+    "17": [
+      "Mungkin karena pengalaman masa lalu, kali ini dia langsung bereaksi,",
+      "secara naluriah menempelkan mulutnya ke botol untuk mencoba",
+      "dan menghentikan desisan agar tidak meledak."
+    ],
+    "18": [
+      "Tapi cola ini terlalu bersoda,",
+      "mulut kecilnya tidak bisa menutup lubangnya sepenuhnya,",
+      "dan gelembung terus keluar dari sudutnya",
+      "bibir dan sepanjang pipinya…"
+    ],
+    "19": [
+      "Pada akhirnya, dia menjadi seperti hamster kecil yang kikuk,",
+      "wajahnya seluruhnya tertutup semprotan cola."
+    ],
+    "20": [
+      "\\nl< >\\w[121], cara Anda menepuk adalah",
+      "terlalu kasar! Mustahil!"
+    ],
+    "21": [
+      "Topik Cabul",
+      "Topik Musim Panas"
+    ],
+    "22": [
+      "Bukankah akan terasa lebih keren jika dilepas?"
+    ],
+    "23": [
+      "Saya memberikan saran itu kepada \\str[120]…",
+      "ya, ini sebenarnya bukan ide yang aneh…"
+    ],
+    "24": [
+      "\\nl< >Eh… tapi, aku masih merasa agak malu…"
+    ],
+    "25": [
+      "Tentu saja, dia menolakku.",
+      "Hmm—sepertinya aku sendiri yang harus memimpin—"
+    ],
+    "26": [
+      "…Bolehkah aku mendekat dan menciummu?"
+    ],
+    "27": [
+      "Melihat keringat berkilauan di lehernya,",
+      "Saya tidak bisa tidak bertanya."
+    ],
+    "28": [
+      "\\nl< >Apa? Aku berkeringat—baunya tidak enak!"
+    ],
+    "29": [
+      "Tidak, tidak, \\str[120] pasti wanginya enak!"
+    ],
+    "30": [
+      "\\nl< >Ya ampun, itu tidak mungkin benar!"
+    ],
+    "31": [
+      "Kalau begitu aku akan membiarkanmu mengendusku sebagai balasannya—",
+      "\\w[30]\\^"
+    ],
+    "32": [
+      "\\nl< >Tidak mungkin! \\str[121],",
+      "kamu pasti bau."
+    ],
+    "33": [
+      "\\{",
+      "Ugh…!"
+    ],
+    "34": [
+      "Dan begitu saja, saya ditolak mentah-mentah."
+    ],
+    "35": [
+      "Terperangkap dalam panasnya musim panas,",
+      "Aku ngobrol dengannya tentang segala macam topik yang tidak senonoh,",
+      "tapi itu masih sangat panas!"
+    ],
+    "36": [
+      "\\nl< >Suara jangkrik… kadang berisik banget…"
+    ],
+    "37": [
+      "Ya, ini musim panas."
+    ],
+    "38": [
+      "\\nl< >Rasanya semua orang makan semangka musim ini,",
+      "Aku agak ingin mencobanya juga~"
+    ],
+    "39": [
+      "Hmm… semangka ya… dimana aku bisa mendapatkannya?"
+    ],
+    "40": [
+      "\\nl< >Di saat seperti ini, es loli masih yang terbaik!",
+      "\\w[120]\\^"
+    ],
+    "41": [
+      "\\nl< > Ughhh… kepalaku sakit…!      \\w[60]",
+      "Tapi rasanya enak sekali!"
+    ],
+    "42": [
+      "Eh… berapa banyak yang dia makan…?"
+    ],
+    "43": [
+      "\\nl< >Apakah ada perbedaan antara di laut dan di bak mandi?",
+      "Saya sama sekali tidak mengerti…"
+    ],
+    "44": [
+      "Oh, benar—dia belum pernah melihat laut sebelumnya.",
+      "Apakah ada cara agar saya bisa membiarkan dia mengalaminya",
+      "bagaimana rasanya di tepi laut…"
+    ],
+    "45": [
+      "Terperangkap dalam panasnya musim panas,",
+      "Saya mengobrol dengannya tentang segala macam topik musim panas,",
+      "tapi itu masih sangat panas!"
+    ]
+  }
+}

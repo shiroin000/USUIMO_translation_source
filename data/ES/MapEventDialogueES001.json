@@ -1,0 +1,1108 @@
+{ 
+  "possibleDrops": [ 
+		    "Posibles gotas"   
+    ], 
+  "7": { 
+		"objectName": [ 
+		    "Hoguera" 
+		],	   
+		"sentouryoku": [ 
+		    "???" 
+		],	   
+        "description": [ 
+            "" 
+		], 
+		"1": [ 
+            "Encontré una hoguera...", 
+			"¿ahora qué debo hacer?" 
+        ], 
+        "2": [ 
+            "Descansa", 
+            "No hagas nada" 
+        ] 
+    }, 
+  "8": { 
+		"objectName": [ 
+		    "\\c[116]A↗SA↘BA↗" 
+		],	   
+		"sentouryoku": [ 
+		    "2333" 
+		],	 
+		"subtitle": [ 
+		    "Morando en el Sendero del Aventurero" 
+		], 
+		"bossName": [ 
+		    "El Devorador de Bayas" 
+		],	  		 
+        "description": [ 
+            "Una extraña criatura que adora comer fresas", 
+			"Tiene una piel dura y una defensa absurda, pero como ", 
+			"está tan concentrado en las fresas, ", 
+			"carece de muchas ganas de atacar. Por eso,", 
+			"los aventureros que pasan suelen acabar alimentándolo…" 
+			
+		],		 
+		"1": [ 
+            "ASABA me mira con anticipación—", 
+            "¿Olió algo en mí...?" 
+        ], 
+        "2": [ 
+            "ASABA me mira con curiosidad—", 
+			"¿Olió algo en mí...?" 
+        ], 
+        "3": [ 
+            "ASABA me mira con disgusto—", 
+			"¿De verdad lo molesté...?" 
+        ], 
+        "4": [ 
+            "¿Debería intentar alimentar a ASABA?" 
+        ], 
+        "5": [ 
+            "¡Aliméntalo!", 
+			"No quiero" 
+        ], 
+        "6": [ 
+            "ASABA terminó la comida con una mirada vacía—", 
+			"Tal vez no le gustó..." 
+        ], 
+        "7": [ 
+            "ASABA parece muy complacido con la fresa—", 
+			"¡ASABA le concedió una extraña bendición!" 
+        ], 
+        "8":[ 
+            "ASABA me mira con asco—", 
+			"¿Tan malo estaba...? La comida de ahora..." 
+        ], 
+        "9": [ 
+            ".................?! \\w[45]", 
+			"¡ASABA está... roto!!" 
+        ], 
+        "10": [ 
+            "ASABA ya está lleno—" 
+        ], 
+        "11": [ 
+		    "………………!",
+            "ahora ASABA me guarda rencor…" 
+        ] 
+    }, 
+  "9": { 
+		"objectName": [ 
+		    "\\c[116]Pez" 
+		],	   
+		"sentouryoku": [ 
+		    "1" 
+		],	   
+        "description": [ 
+            "Una sombra de pez nadando bajo el agua tan rápido ", 
+			"que huye cuando siente que alguien se acerca.", 
+			"¿Cuál podría ser la forma correcta de atraparlos...?" 
+		]	 
+    }, 
+  "13": { 
+		"objectName": [ 
+		    "Shione" 
+		],	   
+		"subtitle": [ 
+		    "Hermana Demoníaca de la Iglesia Caída" 
+		], 
+		"bossName": [ 
+		    "El Demonio del Orgullo" 
+		], 
+		"garble": true 
+    },	 
+  "14": { 
+		"objectName": [ 
+		    "\\c[116]Burbuja Misteriosa" 
+		],	   
+		"sentouryoku": [ 
+		    "1" 
+		],	   
+        "description": [ 
+            "Parece que hay algo bajo el agua..." 
+		]	 
+    },	   
+  "15": { 
+		"objectName": [ 
+		    "\\c[115]Jackalope" 
+		],	   
+		"sentouryoku": [ 
+		    "555" 
+		],	   
+        "description": [ 
+            "Un monstruo de alto rango que evolucionó del ", 
+			"Conejo Cornudo. Para los monstruos, los cuernos sirven tanto ", 
+			"como armas como núcleos para almacenar maná.", 
+			"A diferencia del Conejo Cornudo, es muy agresivo", 
+			"Cuando se excita, su cuerpo se vuelve rojo a medida que aumenta el maná", 
+			"y Lanza cargas rápidas y repetidas." 
+		]	 
+    },		   
+  "16": { 
+		"objectName": [ 
+		    "El Innombrable C" 
+		],	   
+		"sentouryoku": [ 
+		    "9" 
+		],	   
+        "description": [ 
+            "Un ser tan infame que incluso su nombre ", 
+			"se volvió tabú. En teoría, es casi inofensivo—", 
+			"pero su apariencia aterradora y sus movimientos ",  
+			"impredecibles son suficientes para sumir a todos ", 
+			"presentes en el caos." 
+		]	 
+    }, 
+  "18": { 
+		"objectName":[ 
+		    "Estela del Fin" 
+		],	   
+		"sentouryoku": [ 
+		    "1" 
+		],	   
+        "description": [ 
+            "Un monumento de piedra abandonado durante mucho tiempo", 
+			"ahora agrietado y desgastado.", 
+			"Se nota que alguna vez fue tallado exquisitamente.", 
+			"Incluso después de todos estos años, todavía", 
+			"lleva un aura que inspira un asombro silencioso."
+		]	 
+    },   
+  "24": { 
+		"objectName": [ 
+		    "\\c[114]Maid Bunny" 
+		],	   
+		"sentouryoku": [ 
+		    "?77" 
+		],	   
+        "description": [ 
+            "Una chica extraña siempre vestida de sirvienta con orejas de conejo.", 
+			"Posee la habilidad de teletransportarse, ", 
+			"apareciendo de todo tipo de agujeros extraños.", 
+			"Con frecuencia se burla de los aventureros, pero en general es inofensiva." 
+
+		], 
+		"1": [ 
+            "……Usa?", 
+			"¿Por qué eres tan feo usa…?" 
+        ], 
+        "2": [ 
+            "Usa…… Huelo…", 
+            "tienes el aroma de las zanahorias, usa…" 
+        ]	 
+    }, 
+  "28": { 
+		"objectName": [ 
+		    "Sacabambaspis gigante" 
+		],	   
+		"subtitle": [ 
+		    "Mora en el agua" 
+		], 
+		"bossName": [ 
+		    "El Señor del Río, ¿no estaba extinto?" 
+		],	   
+		"sentouryoku": [ 
+		    "999" 
+		],			 
+        "description": [ 
+			"" 
+		] 
+   },			   
+  "32": { 
+		"objectName": [ 
+		    "Gacha misterioso" 
+		],	   
+		"sentouryoku": [ 
+		    "9" 
+		],	   
+        "description": [ 
+            "Una máquina gacha invocada por una carta del Tarot.", 
+			"Devora cualquier cosa que le ofrezcan los aventureros.", 
+			"Cuando está satisfecho, gira alegremente y ", 
+			"finalmente escupe una cápsula llena de recompensa.", 
+			"Pero ten cuidado de no sobrealimentarlo, aunque es", 
+			"una máquina, parece intoxicarse con la comida..." 
+
+		], 
+		"1": [ 
+            "¡Sigue en el río!" 
+        ], 
+        "2": [ 
+            "Encontré una máquina de gacha rara...", 
+            "Su expresión se parece a la de \\str[120]..." 
+        ], 
+        "3": [ 
+            "Intenta insertar dinero", 
+            "Intenta alimentarla" 
+        ], 
+        "4": [ 
+            "Pero no tengo suficiente dinero para alimentarla..." 
+        ], 
+        "5":[ 
+		    "¿De verdad debería alimentarlo?", 
+            "\\ii[\\v[90]]…?" 
+        ], 
+        "6": [ 
+		    "Sí", 
+            "No" 
+        ]	 
+    },	   
+  "41": { 
+		"objectName": [ 
+		    "\\c[114]¡Entrega NLCH!" 
+		],	   
+		"sentouryoku": [ 
+		    "?999" 
+		],	  
+        "description": [ 
+		    "Una tienda móvil dirigida por dos chicas gato.", 
+		    "Aparecen llamativamente cuando los aventureros llaman.", 
+		    "La mayoría de los productos son chatarra del Abismo que encontraron.", 
+		    "Cuidado, los precios pueden ser un completo timo.", 
+		    "Míralos con desprecio y recibirás una paliza...", 
+		    "PD:\\c[2]En la lista negra de las Conejitas Maid ", 
+			"\\c[2]por robar clientes." 
+		], 
+		"1": [ 
+		    "¡Hola~! Bienvenida, nya♪ Tómate tu tiempo para explorar,",
+			"y no dudes en preguntarme lo que quieras, nya!" 
+		]		 
+    },	   
+  "43": { 
+		"objectName": [ 
+		    "Hongo andante" 
+		],	   
+		"sentouryoku": [ 
+		    "120" 
+		],	   
+        "description": [ 
+            "Un extraño monstruo que se encuentra a menudo en las junglas, ", 
+			"mucho más grande que los hongos normales.", 
+            "Puede caminar libremente sobre sus patas y es agresivo.", 
+            "Sin embargo, es delicioso, lo que lo convierte en un ", 
+			"objetivo favorito de aventureros y chefs por igual." 
+		]	 
+    },	   
+  "51": { 
+		"objectName": [ 
+		    "\\c[116]Orco menor" 
+		],	   
+		"sentouryoku": [ 
+		    "320" 
+		],	   
+        "description": [ 
+            "Un orco joven todavía en su fase de crecimiento, ", 
+			"ya aproximadamente del tamaño de un humano.", 
+            "Reacciona a los seres vivos y con avidez ", 
+			"absorbe su fuerza vital." 
+		]	 
+    },	   
+  "53": { 
+		"objectName": [ 
+		    "Zombi" 
+		],	   
+		"sentouryoku": [ 
+		    "210" 
+		],	   
+        "description": [ 
+            "Un cadáver reanimado mediante nigromancia.", 
+			"Aún conserva agresividad y posee ", 
+			"una considerable capacidad de combate." 
+		]	 
+    }, 
+  "59": { 
+		"objectName": [ 
+		    "Conejo Blanco del País de las Maravillas" 
+		],		 
+		"subtitle": [ 
+		    "Morada en el Bosque de las Ruinas" 
+		], 
+		"bossName": [ 
+		    "Conejo Blanco del País de las Maravillas" 
+		],	  	   
+		"sentouryoku":[ 
+		    "???" 
+		],	   
+        "description": [ 
+            "" 
+		] 
+    },		   
+  "65": { 
+		"objectName": [ 
+		    "\\c[116]Pájaro Monstruoso" 
+		],	   
+		"sentouryoku": [ 
+		    "260" 
+		],	   
+        "description": [
+            "Una bestia aviar enorme.", 
+			"Atacará a los aventureros con su gran cuerpo", 
+			"y también usará ataques sónicos, así que tengan cuidado." 
+		]	 
+    },	   
+  "66": { 
+		"objectName": [ 
+		    "\\c[114]Slime de gato atigrado naranja" 
+		],	   
+		"sentouryoku": [ 
+		    "?10" 
+		],	   
+        "description": [ 
+            "Un slime que mutó después de", 
+			"comerse por error a un adorable gatito,", 
+            "y se volvió adorable como resultado.", 
+            "Ha perdido su voluntad de atacar", 
+            "pero se hinchará como un gato cuando se sienta amenazado..." 
+		], 
+        "1": [ 
+            "Parece que al slime de gato", 
+			"le gusto mucho..." 
+		]	 
+    },	   
+  "67": { 
+		"objectName": [ 
+		    "\\c[114]Slime de gato calicó rayado" 
+		],	   
+		"sentouryoku": [ 
+		    "?10" 
+		],	   
+        "description": [ 
+            "Un slime que mutó después de", 
+			"comerse por error a un adorable gatito", 
+            "y se volvió adorable como resultado.", 
+            "Ha perdido su voluntad de atacar", 
+            "pero se hinchará como un gato cuando se sienta amenazado..." 
+		], 
+        "1": [ 
+            "Parece que a la baba de gato", 
+			"le gusto mucho..." 
+		]	 
+    },	   
+  "68": { 
+		"objectName": [ 
+		    "\\c[114]Baba de gato atigrado blanco" 
+		],	   
+		"sentouryoku": [ 
+		    "?10" 
+		],	   
+        "description": [ 
+            "Una baba que mutó después de", 
+			"comerse por error a un adorable gatito", 
+            "y, como resultado, se volvió adorable.", 
+            "Ha perdido la voluntad de atacar,", 
+            "pero se hincha como un gato cuando se siente amenazado..." 
+		], 
+        "1": [ 
+            "Parece que a la baba de gato", 
+			"le gusto mucho..." 
+		] 
+    },	   
+  "69": { 
+		"objectName": [ 
+		    "\\c[114]Baba de gato siamés" 
+		],	   
+		"sentouryoku":[ 
+		    "?10" 
+		],	   
+        "description": [ 
+            "Un slime que mutó después de",
+			"comerse por error un adorable gatito", 
+            "y se volvió adorable como resultado", 
+            "Ha perdido su voluntad de atacar", 
+            "pero se hincha como un gato cuando se siente amenazado..." 
+		], 
+        "1": [
+            "Parece que la baba de gato", 
+			"me aprecia mucho..." 
+		] 
+    },	   
+  "70": { 
+		"objectName": [ 
+		    "Hada del Plátano" 
+		],	   
+		"sentouryoku": [ 
+		    "?10" 
+		],	   
+        "description": [ 
+            "Una criatura... ¿con forma de plátano?", 
+            "Un hada nacida de la influencia del", 
+            "aura del Abisal. No representa una amenaza para los aventureros.", 
+            "Sin embargo, hay rumores de que puede ", 
+			"mandar a la gente a volar fácilmente..." 
+		]	 
+    },	   
+  "71": { 
+		"objectName": [ 
+		    "Hada de la Manzana" 
+		],	   
+		"sentouryoku": [ 
+		    "?10" 
+		],	   
+        "description": [ 
+            "Una criatura... ¿con forma de manzana?", 
+            "Un hada nacida de la influencia del", 
+            "aura del Abisal. No representa una amenaza para los aventureros.", 
+            "Sin embargo, hay rumores de que puede ", 
+			"mandar a la gente a volar fácilmente..." 
+		]	 
+    },		   
+  "72": { 
+		"objectName": [ 
+		    "\\c[115]Mano cercenada del mago caído" 
+		],	   
+		"sentouryoku": [ 
+		    "480" 
+		],	   
+        "description": [ 
+            "La extremidad cercenada de un mago muerto.", 
+			"Nadie sabe por lo que pasó su dueño original,",
+			"Pero imbuida de nigromancia, esta mano permanece activa.", 
+			"Los aventureros suelen verla hacer gestos obvios ", 
+			"al atacar." 
+		]	 
+    },	   
+  "73": { 
+		"objectName": [ 
+		    "WaterWeird" 
+		],	   
+		"sentouryoku": [ 
+		    "180" 
+		],	   
+        "description": [ 
+            "Una criatura elemental alquímica compuesta de ", 
+			"agua que ejerce magia elemental.", 
+			"Tiene alta resistencia a los ataques físicos,",
+			"pero no puede sobrevivir en entornos sin agua." 
+		]	 
+    },	   
+  "77": { 
+		"objectName": [ 
+		    "\\c[115]Gato Demonio" 
+		],	   
+		"sentouryoku":[ 
+		    "300" 
+		],	   
+        "description": [ 
+            "Un gato callejero poseído por poderes demoníacos.", 
+			"Adquirió la capacidad de volar junto con ", 
+			"poderes mágicos oscuros. Pero al final, ", 
+			"sigue siendo solo un gato—", 
+			"Como mucho, solo dispara pequeñas ráfagas mágicas." 
+		]	 
+    },	   
+  "78": {
+		"objectName": [ 
+		    "\\c[115]Espíritu vengativo" 
+		],	   
+		"sentouryoku": [ 
+		    "400" 
+		],	   
+        "description": [ 
+            "Una criatura mágica nacida del rencor de un alma muerta", 
+			"a través de la nigromancia. Vaga sin cesar por los cementerios", 
+			"y tiene una alta resistencia a los ataques físicos", 
+			"y puede escupir fuego fantasmal mortal." 
+		]	 
+    },	   
+  "80": { 
+		"bossName": [ 
+		    "Bestia Carmesí Frenética" 
+		], 
+		"subtitle": [ 
+		    "Morada en la Catacumba Olvidada" 
+		],		 
+		"sentouryoku": [ 
+		    "1600" 
+		],	   
+        "description": [ 
+            "" 
+		]	 
+    },	   
+  "87": { 
+		"objectName": [ 
+		    "Limo Herbívoro" 
+		],	   
+		"sentouryoku": [ 
+		    "60" 
+		],	   
+        "description": [ 
+        	"Un monstruo común que se encuentra en las afueras del ", 
+        	"Abismo. Evolucionó a un color verde debido a su ", 
+       	    "hábito de alimentarse de plantas. Cuando alguien se acerca ", 
+        	"de repente, se agita y comienza a ", 
+			"rociar limo corrosivo." 
+		]	 
+    },	   
+  "88": { 
+		"objectName": [ 
+		    "Jack Slime" 
+		],	   
+		"sentouryoku": [ 
+		    "999" 
+		],	   
+        "description": [ 
+            "Un slime que consumió accidentalmente una Jack Bomb.", 
+			"Aunque no explotó de inmediato, ", 
+			"permanece extremadamente inestable y se vuelve ", 
+			"agitado y autodestructivo cuando se le provoca." 
+		]	 
+    },	   
+  "89": { 
+		"objectName": [ 
+		    "\\c[116]Wraith Slime" 
+		],	   
+		"sentouryoku": [ 
+		    "340" 
+		],	   
+        "description": [ 
+            "Un slime mutado influenciado por el entorno ", 
+			"de un cementerio. Ataca agresivamente a los aventureros ", 
+			"como un zombi, volviéndose más feroz, ", 
+			"y el aura mortal que lo rodea.", 
+			"su cuerpo puede infectar a otros al contacto,", 
+			"causando muerte instantánea si no tienes cuidado..." 
+		]	 
+    },	   
+  "90": { 
+		"objectName": [ 
+		    "\\c[116]Frost Slime" 
+		],	   
+		"sentouryoku": [ 
+		    "400" 
+		],	   
+        "description": [ 
+            "Un slime mutado después de absorber magia de ",
+			"De origen desconocido. Prospera en zonas acuáticas, ",
+			"y crea una gruesa armadura de hielo con su magia.", 
+			"Absorbe grandes cantidades de agua, ",
+			"la enfría rápidamente y la lanza contra los aventureros. "
+		]	 
+    },	   
+  "91": { 
+		"objectName": [ 
+		    "\\c[116]Limo Crepitante" 
+		],	   
+		"sentouryoku": [ 
+		    "280" 
+		],	   
+        "description": [ 
+            "Un slime brillante que puede descargar electricidad ",
+			"por todo su cuerpo. Ni siquiera los slimes saben qué", 
+			"comió para mutar así. Pero en su estado actual de ",
+			"descarga libre, acercarse es peligroso..." 
+		]	 
+    },	   
+  "92": { 
+		"objectName": [ 
+		    "Limo Mineral" 
+		],	   
+		"sentouryoku": [ 
+		    "350" 
+		],	   
+        "description": [ 
+            "Un slime que consumió cristales imbuidos de magia, ",
+			"endureciendo su cuerpo. Minerales resistentes crecen en su ",
+			"superficie, formando armas letales.", 
+			"Aunque es más resistente, en el fondo sigue siendo un slime.", 
+			"Además, el mineral que suelta parece ser bastante valioso..." 
+		]	 
+    },	   
+  "101": { 
+		"objectName": [ 
+		    "\\c[116]Cachorro Rojo" 
+		],	   
+		"sentouryoku": [ 
+		    "380" 
+		],	   
+        "description": [ 
+            "Una criatura grotesca nacida de un huevo.", 
+			"Su entorno de crecimiento deforme y antinatural", 
+			"ha retorcido su cuerpo en una masa de tejidos enredados.", 
+			"Posee un feroz impulso de atacar", 
+			"impulsado por el deseo de devorar carne y renacer." 
+		]	 
+    },				   
+  "102": { 
+		"objectName": [ 
+		    "Papelera" 
+		],	   
+		"sentouryoku": [ 
+		    "???" 
+		],	   
+        "description": [ 
+            "Incluso en el Abismo mortal, tirar basura no es genial.", 
+			"Aun así, todo lo que tires desaparece al día siguiente...", 
+			"Parece que alguien está limpiando.", 
+			"Pero ten cuidado, no tires cosas inflamables.", 
+			"Trátalo con demasiada brusquedad",
+			"y podrías desencadenar algo desagradable." 
+		], 
+		"1": [ 
+            "Encontré un bote de basura...", 
+			"¿Qué hago con él?" 
+        ], 
+        "2": [ 
+            "Buscar por ahí", 
+            "Soltar arma", 
+			"Soltar equipo" 
+        ], 
+        "3": [
+            "Son solo las cosas", 
+			"Acabo de tirar..." 
+        ], 
+        "4": [ 
+            "(Uf... Mi mochila está completamente llena...", 
+			"Tendré que tirar todo de una vez...)" 
+        ], 
+        "5": [ 
+            "¡Tíralo todo!", 
+			"Piénsalo de nuevo..." 
+        ], 
+        "6": [ 
+            "...¿De verdad debería tirar esto?", 
+			"\\str[8]" 
+        ], 
+        "7": [ 
+            "\\fr${itemIcon}\\fr y ${itemLength} equipo en total." 
+        ]	 
+    }, 
+  "106": { 
+		"objectName": [ 
+		    "Árbol de chile picante" 
+		],	   
+		"sentouryoku": [ 
+		    "1" 
+		],	   
+        "description": [ 
+            "Espera, ¿crecen los pimientos en los árboles?", 
+			"Aunque \\str[120] realmente lo odia", 
+			"Yo, como aventurero", 
+			"no puedo permitirme ser quisquilloso con la comida." 
+		]	 
+    }, 
+  "107": { 
+		"objectName": [ 
+		    "Papa" 
+		],	   
+		"sentouryoku": [ 
+		    "1" 
+		],	   
+        "description": [ 
+            "Fácil de confundir con maleza ", 
+			"si no miras con atención.",
+			"Excava bajo la tierra y encontrarás ", 
+			"papas sabrosas." 
+		]	 
+    }, 
+  "108": { 
+		"objectName": [ 
+		    "Tomate" 
+		],	   
+		"sentouryoku": [ 
+		    "1" 
+		],	   
+        "description": [ 
+            "Tomates rebosantes de jugo y ", 
+			"una suave fragancia, ", 
+			"como si alguien los hubiera criado con mucho cariño..." 
+		]	 
+    }, 
+  "109": { 
+		"objectName": [ 
+		    "Madroño" 
+		],	   
+		"sentouryoku": [ 
+		    "1" 
+		],	   
+        "description": [ 
+            "Un árbol frutal cargado de fresas ", 
+			"que se ve absolutamente delicioso.",
+			"A menudo atrae a cierta criatura para que venga ", 
+			"y le dé un mordisco." 
+		]	 
+    },	
+  "110": { 
+		"objectName": [ 
+		    "Espantapájaros" 
+		],	   
+		"sentouryoku": [ 
+		    "???" 
+		],	   
+        "description": [ 
+            "\"Solo soy un espantapájaros.", 
+			"Como no tengo corazón, ",
+			"No puedo sentir dolor.\""
+		] 
+    },	   
+  "113": {
+		"objectName": [ 
+		    "Conejo Cornudo" 
+		],	   
+		"sentouryoku": [ 
+		    "50" 
+		],	   
+        "description": [ 
+            "Un conejo salvaje mutado por contaminación mágica—", 
+			"el cuerno en su cabeza es la marca de este cambio.", 
+			"Sin embargo, aún está en su etapa de crecimiento", 
+			"y no es particularmente peligroso.", 
+			"Además, su carne sigue siendo tierna y deliciosa." 
+		]	 
+    },	   
+  "115": { 
+		"objectName": [ 
+		    "\\c[115]Baba Ardiente" 
+		],	   
+		"sentouryoku": [ 
+		    "620" 
+		],	   
+        "description": [ 
+            "Una baba envuelta en llamas ardientes—", 
+			"solo acercarse a ella irradia un calor intenso.", 
+			"Los ataques normales son casi inútiles contra ella", 
+			"y los aventureros solo pueden estar agradecidos", 
+			"de que este tipo de monstruo solo aparezca en", 
+			"entornos extremos como campos de lava." 
+		]	 
+    }, 
+  "119": { 
+		"objectName": [ 
+		    "\\c[10]Diablo de la Muerte" 
+		], 
+		"garble": [ 
+		    "true" 
+		],		 
+		"sentouryoku": [ 
+		    "???" 
+		],	   
+        "description": [ 
+            "Una mera sombra de la ", 
+			"voluntad del Demonio de la Muerte—", 
+			"ningún mortal sobrevive a su precio.", 
+			"Incluso este eco trae muerte ", 
+			"a todo lo que ve,",
+			"incluido el invocador." 
+		] 
+    }, 
+  "97": { 
+		"objectName": [ 
+		    "\\c[10]Aki" 
+		],		 
+		"sentouryoku": [ 
+		    "\\c[10]Es de mala educación preguntar las estadísticas de una chica~♥" 
+		],	   
+        "description": [ 
+            "Parece una niña inofensiva,",
+			"pero en realidad es un Archidemonio de espíritu libre.", 
+			"Amistosa con los humanos, pero le encanta burlarse de ellos ", 
+			"y saborear sus reacciones nerviosas.", 
+			"Tiene una tienda por capricho,", 
+			"con artículos y precios que también cambian por capricho.", 
+			"Básicamente, solo quiere obtener su salmón favorito,",
+			"de los humanos como pueda..." 
+		], 
+        "1": [ 
+            "¡Dios mío! ¡Qué invitado tan raro! Jeje", 
+			"Tengo cosas buenas aquí, tómate tu tiempo♥" 
+        ], 
+        "2": [ 
+            "¡Sí! ¡Qué coincidencia! ¡Qué gusto volver a verte!", 
+			"¿Es el destino? ¿O tal vez solo tienes muchísima suerte?" 
+        ], 
+        "3": [
+		    "¡Jeje, de cualquier manera~! Cuando la suerte está de tu lado", 
+            "más vale que tengas cuidado, alguien podría arrebatártela♥" 
+        ], 
+        "4": [ 
+            "Mi tienda es especial, ¿sabes~?", 
+			"Vendo cosas que no encontrarás en ningún otro lugar~" 
+        ], 
+        "5": [ 
+		    "Mhm~ ¿Qué pasa? Estás toda roja~ \\w[45]Jeje~ \\w[45]", 
+            "¿Te he cautivado o algo así? Eres demasiado linda~" 
+        ], 
+        "6": [ 
+		    "Estos artículos son…", 
+            "¿Quién eres tú…?" 
+        ], 
+        "7": [ 
+		    "Ajá♥ Spiiiicy~ Dull~t~ only~", 
+            "¿Te gustan este tipo de cosas, eh?" 
+        ], 
+        "8": [ 
+		    "Por supuesto~ las tengo♥", 
+            "onii-san... ¿te interesa~?" 
+        ], 
+        "9": [ 
+		    "Oh~ ¿quieres saber más de mí?", 
+            "Está bien~ No me he presentado, ¿verdad~?" 
+        ], 
+        "10": [ 
+		    "Bueno, entonces soy~ El Archidemonio de", 
+            "¡las profundidades del Abismo! ¡Aki~!" 
+        ], 
+        "11": [ 
+		    "¡Oye! ¡No me pongas esa cara de miedo~!", 
+            "¡Solo estoy aquí para hacer un pequeño trato hoy~!" 
+        ], 
+        "12": [ 
+		    "Sniff sniff…", 
+			"\\w[90]\\^" 
+        ], 
+        "13": [ 
+		    "¡Sí! ¡Ese olor!", 
+            "¡Eso es! ¡Dámelo♥ Por favooooor~!" 
+        ], 
+        "14": [ 
+		    "¡Vamos~!", 
+            "Me lo darás, ¿verdad♥?" 
+        ], 
+        "15": [ 
+		    "(Ah, así que fue el salmón de mi bolso", 
+			"lo que la atrajo...)" 
+        ], 
+        "16": [ 
+		    "¡Mhm mhm~! ¡Esto es justo lo que quería!", 
+            "Me aseguraré de agradecerte como es debido♥" 
+        ], 
+        "17": [ 
+		    "Por favor~ Aunque sea un poquito está bien…", 
+			"¿Compártelo conmigo? ¡Por favor♥!" 
+        ], 
+        "18": [ 
+		    "(¿Qué debería hacer…? Parece que...",
+            "Este mocoso quiere salmón…)" 
+        ], 
+        "19": [ 
+		    "No des nada" 
+        ], 
+        "20": [ 
+		    "Hoh~ \\w[45]", 
+			"¿Intentas desafiar a Lady Aki?" 
+        ], 
+        "21": [ 
+		    "Tsk tsk~ ¡Qué niño tan travieso~!",
+            "Supongo que tendré que castigarte apropiadamente♥" 
+        ], 
+        "22": [ 
+		    "\\>\\c[10]《Ritual de Contrato Demoníaco: Maldición Absoluta del Humano de Corazón Puro =", 
+			"\\>¡Desde hoy, tu vida es el modo infierno》!! \\w[90]" 
+        ], 
+        "23": [ 
+		    "Y con eso—", 
+			"Has sido maldecido—" 
+        ], 
+        "24": [ 
+		    "Tanto salmón para mí♥ Eres demasiado dulce, onii-san~", 
+			"Intentando ganarte mi corazón, ¿eh~?" 
+        ], 
+        "25": [ 
+		    "Tan lindo♥ que simplemente no puedo resistirme~", 
+			"¡Jeje~!" 
+        ], 
+        "26": [ 
+		    "Llévate a esta pequeña preciosidad contigo~", 
+			"Si quieres encontrarme, solo envíamelo con un mensaje~♥" 
+        ], 
+        "27": [ 
+		    "¿Quieres comprar este artículo?", 
+			"¡Claro~ Te lo venderé~!" 
+        ], 
+        "28": [ 
+		    "¡Ah! Pero sabes, la verdad es que no me importa el dinero~", 
+			"Para un demonio como yo, esas cosas no valen nada~" 
+        ], 
+        "29": [ 
+		    "Hmm, tienes unos músculos decentes ahí", 
+			"¡Así que seguro que puedes con todo~!" 
+        ], 
+        "30": [ 
+		    "...Jeje, si quieres este objeto~!", 
+			"¡Entonces cámbialo por salmón~!" 
+        ], 
+        "31": [ 
+		    "Hay agua por todas partes cerca, ¿verdad?", 
+			"¿No debería ser tan difícil para ti pescar unos cuantos~?" 
+        ], 
+        "32": [ 
+		    "Si pensabas que ese era el final, estás muy equivocado~♥", 
+			"¡A menos que reflexiones bien, nunca te dejaré escapar!" 
+        ], 
+        "33": [ 
+		    "Además~ ¿Esta maldición? ", 
+			"Va a quedarse por un tiempo~♥" 
+        ], 
+        "34": [ 
+		    "Ahaha♥ Qué fastidio, ¿eh~?", 
+			"Apuesto a que esto es súper molesto para ti, onii-san♥" 
+        ], 
+        "35": [ 
+		    "Aww~ ¿Quieres rogarme que levante la maldición~?", 
+			"¿Qué debería hacer~♥" 
+        ], 
+        "36": [ 
+		    "¿Y si digo que no~? ¿Qué harás~?", 
+			"Aww,No pongas esa cara~ Eso no va a funcionar conmigo~" 
+        ], 
+        "37": [ 
+		    "Ahora solo quiero intimidarte más, onii-san♥", 
+			"No se te va a levantar la maldición~ Jajaja♥" 
+        ], 
+        "38": [ 
+		    "Vaya, estás desesperado, ¿eh? Qué ZAKO♥", 
+			"Demuéstrame que lo sientes con más sinceridad~♥"
+        ], 
+        "39": [ 
+		    "(Si quiero romper la maldición…", 
+			"Supongo que sí que tengo que ofrecerle pescado…)" 
+        ], 
+        "40": [ 
+		    "¡Waa~! Muchas gracias", 
+			"onii-san~♥" 
+        ], 
+        "41": [ 
+		    "¡Cuánto salmón para mí♥ sluuurp♥", 
+			"Ahh~ Es el paraíso del salmón♥" 
+        ], 
+        "42": [ 
+		    "¡Muy bien~! ¡La maldición se ha levantado~!", 
+			"Espero que podamos volver a jugar pronto, onii-san♥" 
+        ], 
+        "43": [ 
+			"Vaya, vaya~ Cuánto tiempo sin verte, onii-san~", 
+			"Llegaste justo a tiempo~♥" 
+        ], 
+        "44": [ 
+		    "¿Quieres probar algo nuevo?", 
+			"Es un Mizumanju que hice yo mismo~" 
+        ], 
+        "45": [ 
+		    "¿El efecto, preguntas? ¡Jeje~!", 
+			"Te hace el cuerpo extrasensible♥" 
+        ], 
+        "46": [ 
+		    "Y no solo funciona en humanos~", 
+			"¡También es súper efectivo en monstruos!" 
+        ],		 
+        "47": [ 
+		    "Entonces, ¿qué te parece? ¿Solo diez salmones~?", 
+			"¿Quieres comprarlo? ¿No? Date prisa y decídete♥" 
+        ], 
+        "48": [ 
+		    "¡Lo compraré!", 
+			"No importa..." 
+        ], 
+        "49": [ 
+		    "En serio, ZAKO onii-san, ¿hasta tu cerebro se volvió hacia ZAKO~?", 
+			"Ni siquiera puedes soltar unos cuantos peces... qué inútil♥" 
+        ], 
+        "50": [ 
+		    "Sin dinero, no hay salmón... qué onii-san tan débil y patético~", 
+			"Con razón estás soltero y sigues siendo virgen~" 
+        ], 
+        "51": [ 
+		    "Si algún día cambias de opinión, vuelve y cómpralo~", 
+			"No es que me importe ni nada♥" 
+        ], 
+        "52": [ 
+		    "Tch~ Qué aburrido, nya~", 
+			"No puedo creer que hayas dejado pasar algo tan increíble♥" 
+        ], 
+        "53": [ 
+		    "Gracias por la compra, nya~", 
+			"Ahora puedo ir a comer ¡Demasiado salmón otra vez~!" 
+        ], 
+        "54": [ 
+		    "Tch~ Qué aburrido, nya~",
+			"No puedo creer que hayas dejado pasar algo tan increíble♥" 
+        ], 
+        "55": [ 
+		    "Ah~ Quiero decir, probablemente no pasará nada♥", 
+			"Pero onii-san, te ves súper débil~" 
+        ], 
+        "56": [ 
+		    "Así que pensé que sería mejor advertirte~", 
+			"Esto, ya sabes, también lo puedes usar en ti mismo~" 
+        ],
+        "57": [ 
+		    "Y sí, el efecto está haciendo que tu cuerpo esté súper sensible♥", 
+			"Así que, definitivamente no lo intentes en ti mismo, ¿de acuerdo~?" 
+        ], 
+        "58": [ 
+		    "O espera, ¿de verdad quieres usarlo?", 
+			"onii-san es totalmente un pequeño masoquista sin remedio, eh♥" 
+        ], 
+        "59": [ 
+		    "Bromeaba~♥ Bueno entonces", 
+			"ven a visitarme la próxima vez, ¿de acuerdo~♥" 
+        ], 
+        "60": [ 
+		    "Qué lástima~ ¿Ya se agotó~?", 
+			"Caray, onii-san, realmente estás así de desesperado, eh♥" 
+        ], 
+        "61": [ 
+		    "Si quieres más, tendrás que esperar a la próxima~", 
+			"Pero si me traes salmón, podría hacer una excepción♥" 
+        ], 
+        "62": [ 
+			"Oh cielos♥ ¿Quieres más? ¡Qué codicioso~!", 
+			"Comprando tanto... ¿estás planeando algo travieso~?" 
+        ], 
+        "63": [ 
+		    "¡Guau! ¡Qué salmón de tan buena calidad!", 
+			"Deberías haberlo sacado mucho antes~" 
+        ], 
+        "64": [ 
+		    "Si es de ese tipo~", 
+			"Solo dame uno y te lo vendo~♥" 
+        ]				 
+    },	   
+  "98": { 
+		"objectName": [ 
+		    "Máquina de dulces" 
+		],		 
+		"sentouryoku": [ 
+		    "???" 
+		],	   
+        "description": [ 
+            "Una máquina de dulces llena de todo tipo de ", 
+			"dulces coloridos. Todos son konpeitō hechos a mano ", 
+			"por el dueño de la tienda.", 
+			"Parece estar hecha con ingredientes especiales, ", 
+			"desprende un aroma extraño pero agradable...", 
+			"Pero incluso si preguntas por curiosidad qué hay dentro,", 
+			"Solo obtendrás una sonrisa significativa de la chica..." 
+		], 
+        "1": [ 
+            "encontré una máquina de dulces ", 
+			"llena de dulces de colores brillantes—" 
+        ], 
+        "2": [ 
+            "Veamos... Un giro cuesta...", 
+			"\\w[60]\\^" 
+        ], 
+        "3": [ 
+		    "\\>Veamos... Un giro cuesta...", 
+            "\\c[6]\\v[86]\\c[0]yenes!? \\< ¡Qué caro!" 
+        ], 
+        "4": [ 
+            "A \\str[120] le podrían gustar este tipo de bocadillos...", 
+			"¿Qué hago? ¿Lo intento?" 
+        ], 
+        "5": [ 
+		    "A ver... Una tirada cuesta... \\w[60]\\c[6]\\v[86]\\c[0]yenes",
+            "¿Qué hago? ¿Lo intento? "
+        ], 
+        "6": [ 
+		    "Pagar con dinero", 
+            "Intercambiar con pescado" 
+        ], 
+        "7": [ 
+		    "Pero... no tengo", 
+            "tanto dinero..." 
+        ], 
+        "8": [ 
+		    "Sí, sí~♥", 
+            "Entonces ofrece un poco más de salmón..." 
+        ]		 
+    }	 
+}

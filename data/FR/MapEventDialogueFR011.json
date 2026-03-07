@@ -1,0 +1,314 @@
+{
+  "1": {
+    "0": [
+      "Fête impériale Manchu Han..."
+    ],
+    "1": [
+      "J'ai faim..."
+    ]
+  },
+  "2": {
+    "0": [
+      "\\nl< >\"\\str[121]! Y a-t-il quelque chose que tu aimerais manger ?\""
+    ],
+    "1": [
+      "Elle est tellement enthousiaste pour une fois...",
+      "Que devrais-je demander ?"
+    ],
+    "2": [
+      "Toi ^^ !",
+      "De la viande !",
+      "Des légumes !",
+      "Ce que tu veux"
+    ],
+    "3": [
+      "\\nl< >\"Bon sang, je ne suis pas de la nourriture, tu sais !          \\w[90]",
+      "Si \\str[121] n'a rien de particulier à l'esprit,",
+      "Je vais préparer moi-même le menu !\""
+    ],
+    "4": [
+      "\\nl< >\"Ehehe~ \\str[121]!",
+      "Tu as enfin compris à quel point la viande est délicieuse !\""
+    ],
+    "5": [
+      "\\nl< >\"Attends un peu,",
+      "Je vais te préparer un énorme steak !\""
+    ],
+    "6": [
+      "\\nl< >\"Mais… nous n'avons pas assez d'ingrédients…",
+      "Je pourrai peut-être faire autre chose aujourd'hui.\""
+    ],
+    "7": [
+      "\\nl< >\"Ce n'est pas vraiment mon préféré...     \\w[120]",
+      "Mais puisque \\str[121] dit qu'il le veut, je ferai de mon mieux !\""
+    ],
+    "8": [
+      "\\nl< >\"Alors \\str[121], assieds-toi sagement à table. ",
+      "et attend que le repas soit prêt!\"        \\w[120]"
+    ]
+  },
+  "5": {
+    "0": [
+      "Que devrions-nous préparer à manger aujourd'hui?"
+    ]
+  },
+  "10": {
+    "0": [
+      "C'est rare de prendre le petit déjeuner avec \\str[120],",
+      "Je ferais mieux de faire de mon mieux!"
+    ],
+    "1": [
+      "J'ai préparé un petit-déjeuner simple avec les ingrédients restants."
+    ],
+    "2": [
+      "Ohh ..."
+    ],
+    "3": [
+      "Succès culinaire! \\w[30]",
+      "C'est tellement délicieux que toute mon énergie est revenue!"
+    ],
+    "4": [
+      "Je me sens bien aujourd'hui, ça a l'air vraiment délicieux…"
+    ],
+    "5": [
+      "J'ai terminé mon petit-déjeuner tranquillement et je me suis senti un peu plus énergique."
+    ],
+    "6": [
+      "Oh non! \\w[30]",
+      "C'est un peu brûlé..."
+    ],
+    "7": [
+      "J'ai mangé un petit-déjeuner au goût étrange,",
+      "et d'une certaine manière, je ne me sens pas du tout satisfait…"
+    ],
+    "8": [
+      "Aaaah———— \\w[30]",
+      "C'est complètement brûlé!"
+    ],
+    "9": [
+      "Le petit déjeuner s'est transformé en un morceau de charbon de bois,",
+      "je l'ai goûté et il n'avait aucune saveur du tout..."
+    ],
+    "10": [
+      "Il est presque temps de partir…",
+      "J'ai laissé un mot à \\str[120], donc ça devrait aller."
+    ]
+  },
+  "12": {
+    "0": [
+      "…J'ai l'impression d'avoir vu quelque chose de familier."
+    ],
+    "1": [
+      "Ugh… Je veux de la viande…"
+    ],
+    "2": [
+      "Quelle chose savoureuse devrions-nous ajouter ~"
+    ],
+    "3": [
+      "Mangeons du poisson aujourd'hui!"
+    ],
+    "4": [
+      "\\str[121]!? C'est vraiment comestible!?"
+    ],
+    "5": [
+      "Pas de trucs épicés!"
+    ],
+    "6": [
+      "…Je déteste les légumes."
+    ],
+    "7": [
+      "Steak de Hambourg~ Steak de Hambourg~"
+    ],
+    "8": [
+      "Est-ce quelque chose que tu peux manger?"
+    ],
+    "9": [
+      "Un plat de viande aigre-doux… ça a l'air plutôt bon aussi?"
+    ]
+  },
+  "13": {
+    "0": [
+      "Échec… \\w[60]",
+      "\\str[120] et moi nous sommes en quelque sorte forcés à",
+      "mangé la nourriture bizarre que j'ai préparée…"
+    ],
+    "1": [
+      "J'ai dégusté un délicieux plat de viande avec \\str[120]."
+    ],
+    "2": [
+      "J'ai apprécié le dîner avec \\str[120]."
+    ],
+    "3": [
+      "Mais c'était tellement épicé que \\str[120] s'est mis à pleurer instantanément..."
+    ],
+    "4": [
+      "De plus, c'était tellement épicé que \\str[120] s'est mis à pleurer instantanément..."
+    ]
+  },
+  "17": {
+    "0": [
+      "\\nl< >\\str[121]…",
+      "as-tu lavé toute cette odeur de ton corps?",
+      "Ne reviens pas tout sale la prochaine fois."
+    ]
+  },
+  "18": {
+    "0": [
+      "\\nl< >Ici, \\str[121]! \\w[60]",
+      "——\" ………Hein"
+    ],
+    "1": [
+      "………Hein? Déjà vu?",
+      "Cette scène me semble si familière…!"
+    ],
+    "2": [
+      "Je vais me nourrir————",
+      "\\w[60]\\^"
+    ],
+    "3": [
+      "\\nl< >Mon Dieu, \\str[121]!",
+      "tu es un patient blessé en ce moment, souviens-toi!"
+    ],
+    "4": [
+      "Ah, d'accord."
+    ],
+    "5": [
+      "Submergé par la détermination de \\str[120],",
+      "J'ai docilement mangé la chose inconnue qu'elle m'a donnée à manger."
+    ],
+    "6": [
+      "\\{Pff!?"
+    ],
+    "7": [
+      "Ce choc familier a explosé dans ma bouche,",
+      "Peut-être que je m'y suis habitué, je ne me suis pas évanoui cette fois."
+    ],
+    "8": [
+      "\\nl< >Comment ça va, \\str[121]? C'est bon?"
+    ],
+    "9": [
+      "Le goût, euh, c'est un peu————"
+    ],
+    "10": [
+      "Une vague de chaleur jaillit soudain de mon estomac!",
+      "Toute ma fatigue a été balayée!"
+    ],
+    "11": [
+      "…Hein? Ça fait plutôt du bien, en fait?"
+    ],
+    "12": [
+      "\\nl< >Ouais, on dirait que mon entraînement a porté ses fruits!"
+    ],
+    "13": [
+      "Quel genre d'entraînement a-t-elle suivi?",
+      "J'étais curieux, mais je n'ai pas pu me résoudre à demander..."
+    ]
+  },
+  "21": {
+    "0": [
+      "Je n'ai pas de recette à suivre pour le moment…",
+      "devrais-je simplement faire quelque chose moi-même?"
+    ],
+    "1": [
+      "Laissez \\str[120] cuisiner",
+      "Fais-le moi-même"
+    ],
+    "2": [
+      "\\nl< >Je suis désolé, \\str[121]... \\w[60]",
+      "Je suis encore en formation, laisse-moi m'en occuper la prochaine fois !"
+    ],
+    "3": [
+      "…On dirait que \\str[120] fait de son mieux",
+      "pour apprendre à cuisiner.",
+      "Bon, eh bien, je suppose que je vais devoir préparer le dîner."
+    ],
+    "4": [
+      "\\nl< >\\{\"\\str[121]!",
+      "Tu veux manger ce que j'ai préparé ?\""
+    ],
+    "5": [
+      "\\nl< >\"Oh là là, je ne peux vraiment pas te dire non~\""
+    ],
+    "6": [
+      "\\nl< >\"Laissez-moi m'en occuper ! ",
+      "Je suis sûr que je peux préparer quelque chose de vraiment délicieux !\""
+    ]
+  },
+  "22": {
+    "0": [
+      "\\nl< >\\{Nnnnn……!\\w[250] Hooo-hisse… ! \\w[210]",
+      "Hmm hmm……!\" \\w[210]\\^"
+    ],
+    "1": [
+      "\\nl< >Haa…\\w[120] haa…\\w[180] \\str[121]…… \\w[60]",
+      "tu es si lourd……!"
+    ],
+    "2": [
+      "Avec une détermination totale,",
+      "\\str[120] a traîné mon corps complètement mou jusqu'à la table..."
+    ],
+    "3": [
+      "\\nl< >Maintenant, attends un peu ici, \\str[121].",
+      "Je reviens tout de suite."
+    ],
+    "4": [
+      "De la nourriture préparée par \\str[120] elle-même… comment dire,",
+      "J'ai vraiment hâte d'y être...",
+      "Mais à bien y penser, a-t-elle déjà cuisiné avant…?"
+    ],
+    "5": [
+      "\\nl< >Ici, \\str[121]! \\w[60]",
+      "Aaah————"
+    ],
+    "6": [
+      "En regardant cet objet non identifiable devant moi,",
+      "Tout mon corps s'est mis à trembler de manière incontrôlable."
+    ],
+    "7": [
+      "Euh, cher \\str[120]…… \\w[60]",
+      "\\str[121] a encore assez de force pour se nourrir, tu sais? \\w[150]",
+      "Si tu enlève simplement ces bandages… \" \\w[20]\\^"
+    ],
+    "8": [
+      "\\nl< >Pas question!",
+      "Tu es blessé en ce moment, \\str[121],",
+      "tu as besoin d'un bon repos!"
+    ],
+    "9": [
+      "\\nl< >Ou peut-être…",
+      "Ma première tentative de cuisine n'est vraiment pas si bonne...? \\w[120]",
+      "Dans ce cas, laisse-moi goûter d'abord..."
+    ],
+    "10": [
+      "\\{Laisse-moi essayer! S'il te plaît!"
+    ],
+    "11": [
+      "Avant que \\str[120] ne puisse réagir,",
+      "Je me suis rapidement penché en avant et",
+      "mordit la cuillère qu'elle tendait."
+    ],
+    "12": [
+      "Mm… chomp chomp chomp— \\w[60]",
+      "c'est un peu———— \\w[30]\\^"
+    ],
+    "13": [
+      "\\{Pff!?"
+    ],
+    "14": [
+      "\\nl< >\\str[121]!? Qu-qu'est-ce qui ne va pas?!"
+    ],
+    "15": [
+      "C'était comme boire un soda très gazeux,",
+      "la texture étrange a explosé dans ma bouche instantanément,",
+      "avant même de pouvoir réagir, je me suis évanoui…"
+    ],
+    "16": [
+      "\\nl< >\\{Onii-chaaan—!",
+      "\\w[60]\\^"
+    ],
+    "17": [
+      "Ahh… la nourriture faite par les propres mains de \\str[120]…",
+      "dommage que je n'ai pas pu la finir..."
+    ]
+  }
+}

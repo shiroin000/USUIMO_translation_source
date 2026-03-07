@@ -1,0 +1,556 @@
+﻿{
+  "autoUpdateReminder": {
+    "0": [
+      "Proses update akan otomatis dimulai saat Anda bangun keesokan harinya.",
+      "Pastikan koneksi internet Anda stabil selama proses berlangsung!",
+      "\\w[120]"
+    ],
+    "1": [
+      "Tidak dapat melihat log pembaruan!",
+      "Koneksi jaringan mungkin gagal!",
+      "\\w[120]"
+    ]
+  },
+  "maidBunnyBoss": {
+    "0": [
+      "Tidak ada yang istimewa di masa depan!",
+      "Jadi tidak perlu pergi memeriksanya di AS!"
+    ],
+    "1": [
+      "I-tidak ada apa-apa di sini, sungguh! J-jangan mendekat!",
+      "A-aku bersumpah sama sekali tidak ada yang disembunyikan di sini, AS!"
+    ],
+    "2": [
+      "...Amerika Serikat?",
+      "Suara aneh apa itu?"
+    ],
+    "3": [
+      "...Amerika Serikat!?",
+      "Bagaimana kamu menemukan tempat ini—!"
+    ],
+    "4": [
+      "...Amerika Serikat!?",
+      "Manusia...!!"
+    ],
+    "5": [
+      "Usaaaa, kamu bajingan— \\w[45]",
+      "\\{Apakah kamu di sini untuk mencuri wortelku!!       \\w[60]\\^"
+    ],
+    "6": [
+      "Amerika Serikat!? Wortel saya!!         \\w[45]",
+      "\\{Pencuri wortel!!         \\w[60]\\^"
+    ]
+  },
+  "noBombFishing": {
+    "0": [
+      "Memancing dengan bom dilarang keras!",
+      "Lakukan dengan risiko Anda sendiri!"
+    ]
+  },
+  "sela": {
+    "1": [
+      "(Sepertinya dia tidak akan bangun dalam waktu dekat…",
+      "Sepertinya aku akan kembali lagi nanti…)"
+    ],
+    "2": [
+      "…Hmm?",
+      "Apakah kita… sudah sampai di stasiun?"
+    ],
+    "3": [
+      "Hah? Tunggu—ini bukan gerbong keretanya?",
+      "Beberapa saat yang lalu terasa sangat hangat…"
+    ],
+    "4": [
+      "Api unggun… ah…",
+      "Jadi itulah mengapa cuacanya sangat hangat."
+    ],
+    "5": [
+      "Tapi… itu aneh… Beberapa saat yang lalu,",
+      "Saya masih mengamati sungai bintang di luar jendela…"
+    ],
+    "6": [
+      "Aku pasti terlalu terpesona…",
+      "Dan akhirnya melewatkan perhentian saya."
+    ],
+    "7": [
+      "Anda bertanya apa itu kereta api…?",
+      "Hehe… kereta api ya—"
+    ],
+    "8": [
+      "Suara gemerincing itulah yang membawa semua orang,",
+      "bersinar saat meluncur melalui bintang-bintang seperti berlian yang tersebar~"
+    ],
+    "9": [
+      "Peluitnya—",
+      "terdengar seperti ikan paus yang bernyanyi, tahu?"
+    ],
+    "10": [
+      "Hehe, masih belum paham?",
+      "Kalau begitu izinkan saya menunjukkan tiketnya, mungkin itu akan membantu~"
+    ],
+    "11": [
+      "Tiket Kereta Galaksi,",
+      "juga sangat—"
+    ],
+    "12": [
+      "Hah? Hah??",
+      "Tiketnya… hilang…"
+    ],
+    "13": [
+      "Tiket itu dengan pola sulur hitam dan",
+      "salib aneh di tengah… hilang…"
+    ],
+    "14": [
+      "Maaf… lagipula saya tidak bisa menunjukkan galaksinya…",
+      "Sepertinya aku kehilangan tiketku…"
+    ],
+    "15": [
+      "Tanpanya, saya tidak akan pernah bisa kembali ke kereta…",
+      "Uuu @ ... apa ..."
+    ],
+    "16": [
+      "Apa yang akan saya lakukan sekarang…?  Kurasa aku akan menunggu di sini saja…",
+      "mungkin kereta berikutnya akan menemukanku."
+    ],
+    "17": [
+      "Dan juga… maafkan aku…",
+      "api di sini terlalu hangat…"
+    ],
+    "18": [
+      "Begitu saya duduk, rasa kantuk melanda saya…",
+      "seperti air pasang… menghanyutkanku…"
+    ],
+    "19": [
+      "(orang ini…",
+      "sebenarnya tertidur!)"
+    ],
+    "20": [
+      "Di sini sungguh hangat.",
+      "Tapi… berbeda dengan sinar matahari."
+    ],
+    "21": [
+      "Sinar matahari adalah kehangatan dari luar.",
+      "Api unggun… adalah hangatnya perjalanan."
+    ],
+    "22": [
+      "…Hmm?",
+      "Apakah kereta datang menjemputku?"
+    ],
+    "23": [
+      "Hah? Oh,",
+      "itu kamu lagi, petualang!"
+    ],
+    "24": [
+      "Aku baru saja berbicara denganmu tadi…",
+      "tapi rasanya sudah lama sekali berlalu sejak saat itu…"
+    ],
+    "25": [
+      "Apakah saya ingat di mana saya kehilangan tiket…?",
+      "Hmm… tidak juga… semuanya kabur sekarang…"
+    ],
+    "26": [
+      "Ini tidak seberat koin di dunia ini…",
+      "Ringan—lebih ringan dari bulu angsa~"
+    ],
+    "27": [
+      "Warnanya tampak seperti 'danau tidur' yang membeku di dalamnya,",
+      "dan jika kamu mendekatkannya ke cahaya, kamu dapat melihat debu bintang mengalir di dalamnya~"
+    ],
+    "28": [
+      "Mungkin…",
+      "terjatuh dimana saja…"
+    ],
+    "29": [
+      "Mungkin di ladang yang penuh dengan tumbuhan bijak biru,",
+      "atau dibawa oleh rubah yang tak kenal takut kembali ke sarangnya,"
+    ],
+    "30": [
+      "atau mungkin… berubah menjadi tetes pertama embun pagi,",
+      "tergantung di ambang jendela seseorang."
+    ],
+    "31": [
+      "(Apakah ini… sebuah teka-teki?",
+      "Aku tidak mengerti apa yang dia bicarakan…)"
+    ],
+    "32": [
+      "Maaf… satu-satunya hal yang dapat kuingat,",
+      "apakah ini… gambar yang samar dan kabur…"
+    ],
+    "33": [
+      "Ini... ini untukmu...",
+      "Dulu aku juga suka membaca ini di kereta..."
+    ],
+    "34": [
+      "Itu diisi dengan banyak... catatan menarik...",
+      "Saya pikir ini mungkin berguna bagi Anda juga, petualang..."
+    ],
+    "35": [
+      "(Dia fokus pada gambarnya...",
+      "Lebih baik jangan ganggu dia…)"
+    ],
+    "36": [
+      "(Saya agak penasaran...",
+      "Apa yang dia gambar…?)"
+    ],
+    "37": [
+      "(Tunggu...",
+      "apa itu!?)"
+    ],
+    "38": [
+      "(Saya pikir saya baru saja melihat...",
+      "sesuatu yang seharusnya tidak kulihat…)"
+    ]
+  },
+  "PhilosophersFragment": {
+    "title": [
+      "Fragmen Filsuf"
+    ],
+    "description5": [
+      "Pecahan khusus yang diperoleh dari Binatang Merah",
+      "Jika berbagai pecahan dapat dikumpulkan",
+      "ini mungkin membantu memperbaiki kondisi ${}"
+    ],
+    "description56": [
+      "Pecahan khusus yang diperoleh dari Maid Bunny",
+      "Jika berbagai pecahan dapat dikumpulkan",
+      "ini mungkin membantu memperbaiki kondisi ${}"
+    ]
+  },
+  "imoutoAhoge": {
+    "0": [
+      "Secara tidak sengaja mengeluarkan ahoge Imouto."
+    ],
+    "1": [
+      "Dia sepertinya tidak menyadari sesuatu yang aneh,",
+      "dan itu tumbuh kembali dengan cepat.",
+      "...Mungkinkah ini semacam sumber daya terbarukan?"
+    ],
+    "2": [
+      "\\nl< >...Ada apa, Onii-chan?",
+      "Kamu terlihat sangat serius."
+    ],
+    "3": [
+      "Karena tampaknya rumit,",
+      "Sebaiknya aku tidak memikirkannya terlalu dalam."
+    ],
+    "4": [
+      "Lebih baik jangan menyentuhnya lagi..."
+    ],
+    "5": [
+      "\\nl< >...Kepalaku terasa sedikit gatal.   \\w[30]",
+      "Apakah kamu melakukan sesuatu, Onii-chan?"
+    ],
+    "6": [
+      "A-Aku tidak melakukan apa-apa… Aku bersungguh-sungguh!"
+    ]
+  },
+  "cookingSystem": {
+    "0": [
+      "\\ii[\\v[\\v[85]]]sudah siap. Apa yang harus saya lakukan?"
+    ],
+    "1": [
+      "Tukar itu",
+      "Hapus itu"
+    ],
+    "2": [
+      "Masih memilih bahan!!"
+    ]
+  },
+  "inventoryExpansion": {
+    "0": [
+      "Sepertinya menggunakan \\ii[312]",
+      "dapat memperluas kapasitas ransel..."
+    ],
+    "1": [
+      "Perluas slot senjata",
+      "Perluas slot roda gigi",
+      "Sudahlah"
+    ],
+    "2": [
+      "Jumlah \\ii[312]",
+      "sepertinya tidak cukup..."
+    ]
+  },
+  "loadingEasterEgg": {
+    "0": [
+      "\\nl< >Steak Hamburg adalah makanan paling enak.  \\w[180] \\^"
+    ],
+    "1": [
+      "\\nl< >Onii-chan pasti akan membawanya kembali",
+      "segunung daging untuk Imouto-nya... \\w[360] \\^"
+    ],
+    "2": [
+      "Adikku sepertinya mengatakan sesuatu..."
+    ],
+    "3": [
+      "\\nl< >Tetapi paprika hijau adalah musuhnya.   \\w[120]",
+      "Onii-chan, kamu harus makan semuanya… \\w[120]",
+      "Kalahkan musuh hijau~!               \\w[120]\\^"
+    ],
+    "4": [
+      "\\nl< >Ah, kamu sudah bangun… \\w[60]",
+      "Onii-chan, apakah tidurmu nyenyak?"
+    ],
+    "5": [
+      "Tidak juga… Ngomong-ngomong,",
+      "Saya telah mendengar beberapa suara aneh",
+      "untuk sementara waktu sekarang…"
+    ],
+    "6": [
+      "\\nl< >Eh hehe, itu tadi \\w[60] milikku",
+      "layanan tidur spesial untukmu, Onii-chan!"
+    ],
+    "7": [
+      "\\nl< >Adikku manis sekali... \\w[120]",
+      "Dia gadis favoritku di seluruh dunia... \\w[210]",
+      "Adikku adalah———— \\w[150]\\^"
+    ],
+    "8": [
+      "Adikku sepertinya mengatakan sesuatu..."
+    ],
+    "9": [
+      "\\nl< >Ah, onii-chan! Selamat malam-!"
+    ],
+    "10": [
+      "\\nl< >Um... Apakah Anda mendengar semua yang baru saja saya katakan?"
+    ],
+    "11": [
+      "\\nl< >Onii-chan, wajah tidurmu",
+      "tadi lucu sekali~"
+    ],
+    "12": [
+      "\\nl< >Jarang melihatmu tertidur~"
+    ]
+  },
+  "rubberDuck": {
+    "0": [
+      "Bebek karet yang kesepian",
+      "mengapung di atas air..."
+    ],
+    "1": [
+      "Ambil itu",
+      "Biarkan saja"
+    ],
+    "2": [
+      "Apakah seseorang membuang ini?",
+      "Terlihat agak menyedihkan, ya…"
+    ],
+    "3": [
+      "Kalau dipikir-pikir…",
+      "Aku juga terhanyut dari hulu..."
+    ],
+    "4": [
+      "Jika aku membawanya pulang...",
+      "Akankah adikku bahagia?"
+    ],
+    "5": [
+      "Tapi sepertinya agak kotor,",
+      "jadi mungkin sebaiknya aku tinggalkan saja..."
+    ]
+  },
+  "drowning": {
+    "0": [
+      "Ahhh... hampir saja...",
+      "Saya terpeleset dari tepi sungai dan hampir tenggelam!"
+    ]
+  },
+  "mecha": {
+    "0": [
+      "Sebuah mekanisme aneh, yang sudah lama tertutup debu, berdiri di sini...",
+      "Ia tidak merespons bahkan ketika disentuh."
+    ],
+    "1": [
+      "Hah...?",
+      "Ada sesuatu di sini?"
+    ],
+    "2": [
+      "Bagian yang jatuh?",
+      "Sepertinya masih bisa diaktifkan..."
+    ]
+  },
+  "erohon": {
+    "0": [
+      "(Masih ada orang atau monster di dekat sini...",
+      "sebaiknya jangan keluarkan buku ini.)"
+    ]
+  },
+  "ninja": {
+    "0": [
+      "Aku tidak percaya ada ruang rahasia buatan di tempat seperti ini.",
+      "Siapa yang mampu membangunnya…?"
+    ],
+    "1": [
+      "Wah…!?",
+      "Bahkan ada seorang gadis pingsan di sini…"
+    ],
+    "2": [
+      "Kalau dipikir-pikir lagi, aku mendengar suara gemuruh yang aneh…",
+      "Apakah perutnya yang mengeluarkan suara itu…?"
+    ],
+    "3": [
+      "Ugh…",
+      "Sangat lapar…"
+    ],
+    "4": [
+      "…………",
+      "Apakah dia begitu lapar sehingga dia hampir tidak sadar…?"
+    ],
+    "5": [
+      "Ada api unggun di sini, sempurna.",
+      "Aku akan memasakkannya sesuatu untuk dimakan!"
+    ],
+    "6": [
+      "Haruskah saya menggunakan \\ii[\\v[90]] saja",
+      "dan menyiapkan sesuatu yang sederhana?"
+    ],
+    "7": [
+      "Ayo lakukan!",
+      "…Sudahlah."
+    ],
+    "8": [
+      "Hmm… Mungkin aku harus bertukar tempat",
+      "bahan yang lebih baik…"
+    ],
+    "9": [
+      "Hei~ aku membuatkan makanan panas untukmu!",
+      "Apakah kamu pikir kamu bisa makan?"
+    ],
+    "10": [
+      "Mengendus mengendus… mengendus mengendus…",
+      "Bau itu… apakah itu makanan?"
+    ],
+    "11": [
+      "Bau makanan!!"
+    ],
+    "12": [
+      "\\{Baiklah, aku akan menggali lebih dalam!!"
+    ],
+    "13": [
+      "Kamu… kamu kecil…",
+      "Aku yang membuatnya, kamu tahu…"
+    ],
+    "14": [
+      "(Dia menyelesaikannya hanya dalam beberapa gigitan…",
+      "Dia pasti kelaparan…)"
+    ],
+    "15": [
+      "Munch munch… Anda benar-benar menyelamatkan saya!",
+      "Aku belum makan berhari-hari… kunyah kunyah…"
+    ],
+    "16": [
+      "Kupikir aku akan berubah menjadi hantu kelaparan",
+      "menghantui penjara bawah tanah ini… Grrrr…"
+    ],
+    "17": [
+      "Hei… makanlah sedikit lebih lambat… Ngomong-ngomong,",
+      "kenapa kamu sendirian di tempat seperti ini?"
+    ],
+    "18": [
+      "Ah! Aku tahu-!",
+      "Saya serius mengerjakan misi saya, oke!"
+    ],
+    "19": [
+      "Saya ingin mencari harta karun di daerah ini,",
+      "jadi aku menggali ruang rahasia di tempat terpencil!"
+    ],
+    "20": [
+      "Tapi kemudian… kunyah kunyah.",
+      "Setelah saya masuk, pintu masuknya diblokir oleh batu nisan!"
+    ],
+    "21": [
+      "Ugh, aku sama sekali tidak menyangka,",
+      "jadi jatahku habis dengan sangat cepat… dan kemudian…"
+    ],
+    "22": [
+      "Seorang ninja mengalami kekacauan seperti ini…",
+      "Saya tidak bisa menghadapi organisasi sekarang…"
+    ],
+    "23": [
+      "Hah… ya? Tapi kenapa kamu malah melakukannya",
+      "gali ruang rahasia terlebih dahulu…"
+    ],
+    "24": [
+      "Karena harta karun itu tidak selalu muncul,",
+      "jadi saya harus bersiap untuk tinggal lama… munch munch."
+    ],
+    "25": [
+      "Ditambah lagi, aku tidak bisa membiarkan orang lain mengetahui hal ini,",
+      "ini misi super rahasia langsung dari bos!"
+    ],
+    "26": [
+      "Jika ada orang lain yang mengetahuinya…",
+      "menurutmu apa yang akan terjadi…"
+    ],
+    "27": [
+      "Tentu saja, saya harus merawat mereka secara diam-diam…",
+      "jika tidak, aku akan menjadi ninja yang gagal… munch munch."
+    ],
+    "28": [
+      "…Tunggu, apa?!",
+      "Saya benar-benar baru saja membocorkan informasi!"
+    ],
+    "29": [
+      "Um… aku berjanji tidak akan mengatakan apa pun…",
+      "jadi, eh…"
+    ],
+    "30": [
+      "…Hah!?"
+    ],
+    "31": [
+      "Aku tidak percaya aku membuat kesalahan seburuk ini lagi…",
+      "Ugh… meskipun kamu menyelamatkanku…"
+    ],
+    "32": [
+      "T-tunggu sebentar!",
+      "Kamu akan membunuhku hanya untuk itu!?"
+    ],
+    "33": [
+      "Itulah arti menjadi seorang ninja…",
+      "Anda harus berjuang untuk bertahan hidup…"
+    ],
+    "34": [
+      "Maksudku, aku juga tidak ingin menyakitimu,",
+      "tapi aku masih berhutang makan padamu…"
+    ],
+    "35": [
+      "J-kalau begitu—",
+      "\\^"
+    ],
+    "36": [
+      "Maka hanya ada satu jawaban—",
+      "Kamu juga harus menjadi seorang ninja!"
+    ],
+    "37": [
+      "Jika Anda bergabung dengan grup kami,",
+      "tidak ada alasan bagi kita untuk bertarung satu sama lain!"
+    ],
+    "38": [
+      "T-tunggu sebentar!",
+      "Aku tidak punya pilihan lain di sini, kan!?"
+    ],
+    "39": [
+      "Tidak apa-apa,",
+      "aku akan bersikap lembut…"
+    ],
+    "40": [
+      "…Wah!?",
+      "Menjauhlah dariku!!"
+    ],
+    "41": [
+      "Kamu benar-benar berbakat dalam hal ninja ini…!",
+      "Anda mempelajari semuanya hanya dengan sedikit latihan!"
+    ],
+    "42": [
+      "Sekarang,",
+      "kamu juga salah satu dari kami!"
+    ],
+    "43": [
+      "Tapi aku harus menunggu sampai misiku selesai",
+      "sebelum saya bisa memperkenalkan Anda kepada bos!"
+    ],
+    "44": [
+      "Pada titik ini,",
+      "tidak ada yang penting lagi…"
+    ]
+  }
+}

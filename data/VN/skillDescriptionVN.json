@@ -1,0 +1,238 @@
+{
+	"skillToggle": [
+        "Kích hoạt",
+		"Vô hiệu"
+    ],	
+    "1": {
+        "name": [
+            "Túi Lưu Trữ Ma Pháp"
+        ],
+        "subtitle": [
+		    ""
+		],
+        "description": [
+            "Một công cụ ma pháp di động cho phép bạn mang theo ",
+            "nhiều vật phẩm hơn bình thường. Tuy nhiên, ",
+			"ngay cả công cụ ma pháp cũng có giới hạn lưu trữ..."
+        ],
+        "ability": [
+		    "Sức chứa vũ khí: ${QJ.MPMZ.tl.ex_playerCheckInventory('weapon')}",
+		    "Sức chứa trang bị: ${QJ.MPMZ.tl.ex_playerCheckInventory('gear')}"
+		]
+    },	
+    "2": {
+        "name": [
+            "Senpo (Huyền Pháp)"
+        ],
+        "subtitle": [
+		    ""
+		],
+        "description": [
+            "Một pha lướt nhanh qua một khoảng cách ngắn,",
+            "cho phép bạn né tránh một số đòn tấn công. Đây chỉ là một kỹ thuật ",
+			"tăng tốc, nhưng người dùng lại khăng khăng đặt cho nó một cái tên ngầu."
+        ],
+        "ability": [
+		    "Giữ phím Space để kích hoạt"
+		]
+    },
+    "3": {
+        "name": [
+            "Senpo Tachi (Huyền Đao Pháp)"
+        ],
+        "subtitle": [
+		    ""
+		],
+        "description": [
+            "Một kỹ thuật rút kiếm học được từ vị Kiếm Sư trẻ tuổi.",
+            "Khi kết hợp với Senpo, bạn tung ra một nhát chém được tăng cường tốc độ, ",
+			"đủ sức hất văng kẻ địch nếu căn đúng thời điểm."
+        ],
+        "ability": [
+		    "Chuột trái trong khi dùng Senpo: Chém, sát thương tỉ lệ với tốc độ",
+		    "Giữ chuột phải trong khi dùng Senpo: Tích tụ, hiệu ứng tỉ lệ với đà di chuyển"
+		],
+        "mobileAbility": [
+		    "Chạm nút kỹ năng để chém, sát thương tỉ lệ với tốc độ di chuyển",
+		    "Giữ nút kỹ năng để tích tụ, hiệu ứng tỉ lệ với đà di chuyển"
+		]		
+    },
+    "4": {
+        "name": [
+            "Whirlwind Slash (Phong Trảm Cuồng Lốc)"
+        ],
+        "subtitle": [
+		    ""
+		],
+        "description": [
+            "Xoay người trong khi vung vũ khí để tung ra các đòn tấn công liên tục. ",
+            "Tốc độ tấn công sẽ tăng dần theo thời gian. Với những ai không giỏi ",
+			"các kỹ thuật kiếm pháp, chiêu này vừa dễ học vừa hiệu quả."
+        ],
+        "ability": [
+		    "Giữ chuột phải để kích hoạt kỹ năng",
+		    "Hủy trong lúc xoay để ném vũ khí"
+		],
+        "mobileAbility": [
+		    "Giữ nút kỹ năng để kích hoạt kỹ năng",
+		    "Hủy trong lúc xoay để ném vũ khí"
+		]		
+    },
+    "6": {
+        "name": [
+            "Biến Thái Gặp May"
+        ],
+        "subtitle": [
+            "Đúng vậy!"
+        ],
+        "description": [
+            "Một thể chất biến thái mang tính huyền thoại, tự động kích hoạt ",
+            "ngay cả khi bản thân người sở hữu cũng không hề nhận ra.",
+            "Như thể được một nữ thần vô hình ban phúc và dẫn lối, những thế lực không cưỡng lại được ",
+            "liên tục đẩy bạn vào các tình huống fanservice khiến mặt đỏ tim đập…!"
+        ],
+        "ability": [
+            "Luôn tạo ra những cơ hội hoàn hảo để kích hoạt các sự kiện dâm đãng!"
+        ]
+    },
+    "7": {
+        "name": [
+            "Danger Sense (Trực giác nguy hiểm)"
+        ],
+        "subtitle": [
+		    ""
+		],
+        "description": [
+            "Thường được gọi là 'Con Mắt Tâm Trí', nhưng thực ra đây là một giác quan ",
+            "được mài giũa qua vô số lần thoát chết trong gang tấc. Nói cách khác, nó giống như",
+			"một phản xạ do sang chấn hơn là một kỹ năng thật sự..."
+        ],
+        "ability": [
+		    "Di chuột qua mục tiêu để xem thông tin chi tiết"
+		],
+        "mobileAbility": [
+		    "Chạm vào mục tiêu để xem thông tin chi tiết"
+		]		
+    },	
+    "10": {
+        "name": [
+            "Ẩn Thân Chi Thuật"
+        ],
+        "subtitle": [
+		    "true"
+		],
+        "description": [
+            "Một kỹ thuật ninja. Tôi chỉ học vội vàng, nhưng...",
+            "bằng cách nào đó, tôi lại nhanh chóng nắm được."
+        ],
+        "ability": [
+		    "Nhấn Shift khi đang hoạt động để vào trạng thái tàng hình",
+		    "Giảm phạm vi phát hiện của quái vật xuống \\c[17]${1+$gameParty.leader().skillMasteryLevel(10)}\\c[108] ô",
+			"Giảm tốc độ tăng cảnh giác của \\str[120] khi nhìn lén \\c[17]${15+15*$gameParty.leader().skillMasteryLevel(10)}%\\c[0]"
+		]
+    },	
+    "11": {
+        "name": [
+            "Backstab (Ám Kích)"
+        ],
+        "subtitle": [
+		    "true"
+		],
+        "description": [
+            "Một kỹ thuật ninja. Có thể kích hoạt khi đang ẩn thân.",
+            "Đánh úp kẻ địch không phòng bị từ phía sau để gây sát thương khổng lồ!"
+        ],
+        "ability": [
+		    "Thành thạo kỹ năng: \\c[6]${$gameActors.actor(1).skillMasteryUses(11)}\\c[0]",
+		    "Sát thương ám sát cộng thêm: \\c[17]${Math.round(200 + (2333 - 200) * Math.pow($gameActors.actor(1).skillMasteryLevel(11) / 9, 1.8))}%\\c[0]"
+		]
+    },
+    "12": {
+        "name": [
+            "Musou Burst Stream (Vô Song Bạo Lưu)"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "Tuyệt chiêu bí mật được thừa kế từ ASABA, người đã ôm lấy nỗi bi thương.",
+            "Trong khoảnh khắc nhanh đến mức mắt thường không kịp nhìn thấy,",
+            "hàng trăm đòn tấn công giáng xuống—",
+            "khiến kẻ địch chỉ còn lại màn đêm vĩnh hằng!"
+        ],
+        "ability": [
+            "Lệnh kỹ năng:  \\{⬆⬇⬅⮕⬆⬇\\}",
+            "Mỗi lần sử dụng kỹ năng sẽ tiêu hao một phần HP"
+        ]
+    },			
+    "15": {
+        "name": [
+            "Giả gái (Femboy!?)"
+        ],
+        "subtitle": [
+		    ""
+		],
+        "description": [
+            "Bạn mặc những bộ đồ vốn không dành cho mình... và có gì đó bên trong bạn ",
+			"chợt trỗi dậy (chắc chắn đó không phải là Khiên Hiệp Sĩ). ",
+            "Không có bonus gì trong lúc chiến đấu, thậm chí có thể làm tâm trí bạn rối loạn.",
+            "Đồng đội sẽ nhìn bạn với ánh mắt lạ lẫm, kẻ địch có khi cũng sẽ phải chững lại...",
+			"Suy cho cùng, trong thế giới này, dễ thương chính là công lý!"
+        ],
+        "ability": [
+		    "Tăng độ Tội Lỗi dựa trên số lượng đồ con gái bạn mặt trên người!"
+		]
+    },
+    "16": {
+        "name": [
+            "Bladekeepers (Thủ Hộ Kiếm)"
+        ],
+        "subtitle": [
+		    ""
+		],
+        "description": [
+            "\"Dù ngươi vung vũ khí thế nào đi nữa!\" \"Chúng ta sẽ đứng lên thách thức ngươi!\"",
+			"\"Để vũ khí không bị hao mòn!\" \"Để bảo vệ phẩm giá của binh khí!\"",
+            "\"Vì chúng ta tin rằng kiếm mới là chủ, còn con người chỉ là kẻ phục tùng!\"",
+			"\"Những kẻ cuồng tín hoang đường nhất, nhưng cũng kiên định không lay chuyển\"",
+			"\"Chúng ta là—Những Kẻ Bảo Tồn Vũ Khí—Thủ Hộ Kiếm!\""
+        ],
+        "ability": [
+		    "Đeo huy hiệu này, giờ bạn đã trở thành một thành viên của họ."
+		]
+    },		
+    "18": {
+        "name": [
+            "Phá Hủy Vũ Khí"
+        ],
+        "subtitle": [
+		    ""
+		],
+        "description": [
+            "Mọi vũ khí đều có giới hạn độ bền, ",
+			"và vì người dùng không giỏi trong các đòn tấn công chính xác,",
+            "nên có nguy cơ bị gãy. Nhưng khi vũ khí gãy, ",
+			"nó sẽ tung ra một đòn chí mạng cực mạnh!"
+        ],
+        "ability": [
+		    "Sát thương đòn cuối: \\c[6]${200+(100*$gameActors.actor(1).skillMasteryLevel(48))}%\\c[0]"    
+		]
+    },		
+    "26": {
+        "name": [
+            "Rèn Luyện Kiếm Thuật"
+        ],
+        "subtitle": [
+		    "true"
+		],
+        "description": [
+            "Đã xin lời khuyên từ một cô gái kiếm sư về cách để mạnh hơn",
+			"Tất cả những gì cô ấy nói chỉ là: 'Mỗi ngày vung kiếm 1,000 lần đi!'",
+            "Liệu thật sự có hiệu quả không!? Thôi thì cứ thử xem..."
+        ],
+        "ability": [
+		    "Số lần tập vung kiếm: \\{\\c[6]${QJ.MPMZ.tl.playerSwordsmanshipTraining(1)}\\c[0]",
+			"Sát thương cơ bản của vũ khí cận chiến tăng thêm \\c[6]${QJ.MPMZ.tl.playerSwordsmanshipTraining(2)}%"
+		]
+    }	
+}

@@ -1,0 +1,1282 @@
+{
+    "1": {
+        "name": [
+            "Yunque"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un yunque pesado del taller de un herrero, llevado de alguna manera ",
+            "como equipo. Su dureza y peso lo hacen perfecto para",
+			"Afilar armas, aunque puede ser difícil para los inexpertos..."
+        ],
+        "ability": [
+            "Senpo cambia a sacar el yunque para reparar armas",
+			"No se pueden reparar armas mágicas ni armas de calidad dorada"
+        ]
+    },
+    "2": {
+        "name": [
+            "Armamento enjoyado"
+        ],
+        "subtitle": "",
+        "description": [
+            "Los minerales que duermen bajo tierra son buenos medios alquímicos",
+            "Este dispositivo mágico con forma de daga canaliza el poder de lo precioso ",
+            "gemas, pero su costoso uso llevó a la mayoría de los alquimistas a abandonarlo..."
+        ],
+        "ability": [
+            "Consume una gema aleatoriamente al atacar para cargar y aumentar el daño",
+			"Cuanto más preciosa sea la gema, mayor será el daño mágico añadido"
+        ]
+    },		
+    "3": {
+        "name": [
+            "Accesorio para el cabello extraño"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un accesorio para el cabello adornado con un adorno inusual",
+            "¿Es un conejo... o un bollo...?"
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "5": {
+        "name": [
+            "Guantes de seguridads"
+        ],
+        "subtitle": "",
+        "description": [
+            "Guantes de protección fabricados con materiales aislantes, ",
+			"originalmente utilizado por los trabajadores como equipo de seguridad diario. Sorprendentemente, ",
+            "También proporcionan una fuerte resistencia contra los ataques mágicos..."
+        ],
+        "ability": [
+            "Reduce enormemente el efecto de los rayos cuando está equipado"
+        ]
+    },
+    "6": {
+        "name": [
+            "El nacimiento de la desgracia"
+        ],
+        "subtitle": "",
+        "description": [
+            "Parasitado por una Piedra Filosofal, una criatura débil fue forzada",
+            "infundido con una vitalidad infinita, en un ciclo interminable entre la vida y",
+            "Muerte hasta que la locura se apoderó de mí. Incluso eliminado, este poder permaneces"
+        ],
+        "ability": [
+            "Aumenta los HP. Mejora los efectos de recuperación de HP en un 25%",
+            "Otorga regeneración automática cuando está equipadod"
+        ]
+    },
+    "7": {
+        "name": [
+            "Feto maldito"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un feto maldito no desarrollado que, a pesar de todo,",
+            "sigue viva. Su intensa voluntad de sobrevivir y desbordante",
+            "La vitalidad puede incluso influir en su portador"
+        ],
+        "ability": [
+            "Aumenta los HP. Mejora los efectos de recuperación de HP en un 20 %"
+        ]
+    },
+    "8": {
+        "name": [
+            "Cúmulo de cristales de maná"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un mineral moldeado por el Gran Laberinto, que contiene trazas de maná",
+            "Llevarlo aumenta la comprensión mágica"
+        ],
+        "ability": [
+            "Equiparlo aumenta la velocidad de lanzamiento y el poder mágico",
+			"Los ataques con armas mágicas infligen un 5% adicional de daño mágico."
+        ]
+    },
+    "9": {
+        "name": [
+            "Cúmulo de maná abisal"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un grupo raro infundido con maná denso",
+            "Irradia ondas mágicas palpables. Muy buscado por los alquimistas."
+        ],
+        "ability": [
+            "Equiparlo aumenta la velocidad de lanzamiento y el poder mágico",
+			"Los ataques con armas mágicas infligen un 10% adicional de daño mágico."
+        ]
+    },
+    "10": {
+        "name": [
+            "Círculo de enfoque"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un círculo usado por el gran sabio durante su juventud como",
+            "Aventurero. Ayuda a enfocar la mente y bloquea las distracciones externas."
+        ],
+        "ability": [
+            "Inmune al aturdimiento",
+            "Mejora el poder mágico y la escala de lanzamiento"
+        ]
+    },
+    "11": {
+        "name": [
+            "Guantes drenadores de maná"
+        ],
+        "subtitle": "",
+        "description": [
+            "Guantes usados ​​por el gran sabio durante su juventud como",
+            "Un aventurero. Recolecta maná de forma natural",
+            "imbuir armas con propiedades mágicas"
+        ],
+        "ability": [
+            "Cuando está equipada, el arma sostenida se transforma en un arma mágica",
+			"Los ataques con armas mágicas infligen un 30% adicional de daño mágico."
+        ]
+    },
+    "12": {
+        "name": [
+            "Garras de Neko prestadas"
+        ],
+        "subtitle": [
+            " \"...Meow~?\""		
+		],
+        "description": [
+            "Garras de Neko ocultas dentro de un Slime de Neko, aparentemente infundidas",
+            "Con espíritu felino. ¡Equiparlos aumenta tu agilidad!"
+        ],
+        "ability": [
+            "Aumenta el poder de ataque y la velocidad de ataque"
+        ]
+    },
+    "13": {
+        "name": [
+            "Patas de Neko prestadas"
+        ],
+        "subtitle": [
+            " \"...Meow~?\""	
+		],
+        "description": [
+            "Patas de Neko ocultas dentro de un Slime de Neko, aparentemente infundidas",
+            "Con espíritu felino. ¡Equiparlos aumenta tu agilidad!"
+        ],
+        "ability": [
+            "Aumenta la velocidad de ataque y movimiento, reduce el tiempo de recuperación de Senpo."
+        ]
+    },
+    "14": {
+        "name": [
+            "Anillo de hierba fragante"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un anillo tejido con hojas y rizomas, que emite un aroma herbáceo",
+            "Antiguamente un amuleto para viajeros, simboliza vitalidad y energía."
+        ],
+        "ability": [
+            "Max HP +\\c[29]${QJ.MPMZ.tl.ex_fragrantGrassRingEffectResolve()}\\c[0]",
+            "Usar varias veces este equipo potencia su efecto"
+        ]
+    },
+    "15": {
+        "name": [
+            "Traje de peluche Neko"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un disfraz de gato de peluche suave y tierno, esponjoso y de gran tamaño",
+            "Su diseño espacioso te envuelve e incluso esconde extras extras~"
+        ],
+        "ability": [
+            "Capacidad de carga extra para armas +10",
+            "Capacidad de carga adicional para engranajes +20"
+        ]
+    },
+    "16": {
+        "name": [
+            "Casco con pinchos perforantes"
+        ],
+        "subtitle": "",
+        "description": [
+            "Una armadura de metal con púas que exuda peligro desde todos los ángulos",
+            "ofrece una defensa sólida y daña automáticamente a los enemigos cercanos"
+        ],
+        "ability": [
+            "Daña automáticamente a los enemigos cercanos"
+        ]
+    },
+    "17": {
+        "name": [
+            "Armadura de púas perforantes"
+        ],
+        "subtitle": "",
+        "description": [
+            "Una armadura de metal con púas que exuda peligro desde todos los ángulos",
+            "ofrece una defensa sólida y daña automáticamente a los enemigos cercanos"
+        ],
+        "ability": [
+            "Daña automáticamente a los enemigos cercano"
+        ]
+    },
+    "18": {
+        "name": [
+            "Guanteletes con púas perforantes"
+        ],
+        "subtitle": "",
+        "description": [
+            "Una armadura de metal con púas que exuda peligro desde todos los ángulos",
+            "ofrece una defensa sólida y daña automáticamente a los enemigos cercanos"
+        ],
+        "ability": [
+            "Daña automáticamente a los enemigos cercanos al atacar"
+        ]
+    },
+    "19": {
+        "name": [
+            "Botas con pinchos perforantes"
+        ],
+        "subtitle": "",
+        "description": [
+            "Una armadura de metal con púas que exuda peligro desde todos los ángulos,",
+            "ofrece una defensa sólida y daña automáticamente a los enemigos cercanos"
+        ],
+        "ability": [
+            "Daña automáticamente a los enemigos cercanos al moverse"
+        ]
+    },
+    "20": {
+        "name": [
+            "Yelmo de caballero"
+        ],
+        "subtitle": "",
+        "description": [
+            "La armadura estándar de los caballeros de la corte. Su diseño ornamentado y robusto",
+            "simboliza su adhesión al código caballeresco"
+        ],
+        "ability": [
+            "Aumenta la defensa cuando los HP están por debajo de \\c[10]30%\\c[0]"
+        ]
+    },
+    "21": {
+        "name": [
+            "Armadura de caballer"
+        ],
+        "subtitle": "",
+        "description": [
+            "La armadura estándar de los caballeros de la corte. Su diseño ornamentado y robusto",
+            "simboliza su adhesión al código caballeresco"
+        ],
+        "ability": [
+            "Aumenta la defensa cuando los HP están por debajo de \\c[10]30%\\c[0]"
+        ]
+    },
+    "22": {
+        "name": [
+            "Guanteletes de caballero"
+        ],
+        "subtitle": "",
+        "description": [
+            "La armadura estándar de los caballeros de la corte. Su diseño ornamentado y robust",
+            "simboliza su adhesión al código caballeresco"
+        ],
+        "ability": [
+            "Aumenta el ataque y la defensa cuando los HP están por debajo de \\c[10]30%\\c[0]"
+        ]
+    },
+    "23": {
+        "name": [
+            "Grebas de caballero"
+        ],
+        "subtitle": "",
+        "description": [
+            "La armadura estándar de los caballeros de la corte. Su diseño ornamentado y robusto",
+            "simboliza su adhesión al código caballeresco"
+        ],
+        "ability": [
+            "Aumenta la velocidad de movimiento cuando los HP están por debajo de \\c[10]30%\\c[0]"
+        ]
+    },
+    "24": {
+        "name": [
+            "Atuendo de cazador"
+        ],
+        "subtitle": "",
+        "description": [
+            "Cosido con cuero grueso y lino resistente, alguna vez fue un artículo de uso diario ",
+			"Equipo de cazadores forestales. Aunque la defensa es limitada, es ligero y... ",
+            "flexible, permite al usuario moverse rápidamente por el bosque"
+        ],
+        "ability": [
+            "Regenera HP lentamente al estar parado en terreno herboso"
+        ]
+    },
+    "25": {
+        "name": [
+            "Cinturón de cazador"
+        ],
+        "subtitle": "",
+        "description": [
+            "Fabricado con cuero resistente y adornado con hebillas duraderas",
+            "y bolsas. Antiguamente esenciales para los cazadores forestales en sus viajes, ",
+			"Se mantiene ligero y sin cargas incluso durante largas caminatas"
+        ],
+        "ability": [
+		    "HP máx. +20, velocidad de movimiento aumentada",
+            "Capacidad de carga adicional para armas +5, para equipo +5"
+        ]
+    },	
+    "26": {
+        "name": [
+            "Pluma de pájaro de fuego"
+		],
+		"subtitle": [
+		    ""
+		],
+        "description": [
+            "Una pluma de pájaro de fuego.",
+			"simbolizando la vida eterna, todavía ardiendo con una llama cálida.",
+			"Incluso una sola pluma tiene el poder de revivir a los muertos."
+		],
+        "ability": [
+            "Se activa cuando HP baja a cero, restaura HP completamente",
+			"El artículo se destruye después de la activación"
+		]
+    },
+    "27": {
+        "name": [
+            "Papel higiénico"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un papel higiénico para llevar desde casa",
+            "Un artículo útil para los aventureros que de repente necesitan",
+            "Una pausa para ir al baño en una mazmorra peligrosa"
+        ],
+        "ability": [
+            "Reduce el daño de sangrado recibido en un \\c[10]30%\\c[0]"
+        ]
+    },
+    "28": {
+        "name": [
+            "Mano de Oni"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "Un brazo enorme rebosante de la fuerza bruta del clan Oni",
+			"Simboliza un poder tan feroz que puede aplastar fácilmente una roca sólida",
+			"Para los humanos, es una fuerza demasiado difícil de controlar"
+        ],
+        "ability": [
+            "Poder de ataque físico +100%. La velocidad de ataque disminuye",
+            "Es más probable que las armas se rompan durante los ataques"
+        ]
+    },
+    "29": {
+        "name": [
+            "Jacky el descarado"
+        ],
+        "subtitle": [
+            "\"Éste anhela gritos...\""		
+		],
+        "description": [
+            "Una de las armas mortales de un asesino notorio,",
+            "Todavía temblando de anticipación"
+        ],
+        "ability": [
+            "Inflige más daño a enemigos con menos HP, hasta un \\c[10]30%\\c[0]"
+        ]
+    },
+    "30": {
+        "name": [
+            "Daga del cazador"
+        ],
+        "subtitle": [
+            "\"Muerte por la boca, fortuna por la espada\""
+        ],
+        "description": [
+            "Una daga pequeña y afilada que cabe fácilmente en una bota",
+			"Para un cazador, siempre es el momento de sacar la última ofrenda de la presa"
+        ],
+        "ability": [
+            "Aumenta las posibilidades de que se caiga la carne"
+        ]
+    },
+    "31": {
+        "name": [
+            "Fantasma de la noche brumosa"
+        ],
+        "subtitle": [
+            "\"Éste anhela desaparecer...\""
+        ],
+        "description": [
+            "Una de las herramientas mortales de un asesino notorio,",
+			"Diseñado para ocultar su presencia"
+        ],
+        "ability": [
+            "Entra periódicamente en un estado invisible",
+			"Los asesinatos mientras eres invisible causan el doble de daño"
+        ]
+    },
+    "32": {
+        "name": [
+            "Puñetazo Neko"
+        ],
+        "subtitle": "",
+        "description": [
+            "\"¡Hyaa—!! ¡No te metas conmigo, nya!\"",
+            "Guantes de pata de gato con acolchado suave, el arma preciada de cierta chica gato",
+            "Usarlos otorga agilidad felina y un antojo de pescado..."
+        ],
+        "ability": [
+            "Velocidad de ataque aumentada. Golpes de ataque adicionales +1",
+            "La probabilidad de que los ataques adicionales activen efectos especiales se reduce a la mitad"
+        ]
+    },
+    "33": {
+        "name": [
+            "Apple Headgear"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un tocado hecho de manzanas, para que no puedas",
+            "Realmente no esperaba ninguna defensa. Pero las manzanas están deliciosas."
+        ],
+        "ability": [
+            "Existe la posibilidad de activar la curación cuando se lesiona"
+        ]
+    },
+    "34": {
+        "name": [
+            "Anillo de hoja afilada"
+        ],
+        "subtitle": "",
+        "description": [
+            "La leyenda dice que un aventurero tenía demasiado miedo de luchar con las manos desnudas, ",
+            "Incrustó una espada en un anillo. Es demasiado pequeña para usarla, ",
+			"Pero seguro que realza la presencia de uno"
+        ],
+        "ability": [
+            "Poder de ataque físico +15%"
+        ]
+    },
+    "35": {
+        "name": [
+            "Wakizashi"
+        ],
+        "subtitle": "",
+        "description": [
+            "Una hoja corta finamente elaborada, a menudo usada por samuráis extranjeros ",
+			"como arma de mano. Aunque corta, su filo puede desgarrar la carne de par en par,",
+			"dejando heridas que no dejan de sangrar fácilmente"
+        ],
+        "ability": [
+            "Recuento de ataques normales con armas cuerpo a cuerpo +1",
+			"Un ataque adicional tiene la posibilidad de infligir sangrado"
+        ]
+    },
+    "36": {
+        "name": [
+            "Maneki Neko"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un pequeño sirviente codicioso con una mirada perpetuamente insatisfecha",
+            "Recoge con entusiasmo todos los objetos que caen, sin importar su valor"
+        ],
+        "ability": [
+            "Maneki Neko recoge automáticamente todo tipo de drops para ti",
+            "Equipar varios solo aumentará el alcance de la recolección."
+        ]
+    },
+    "37": {
+        "name": [
+            " Alcancía de Cerdito"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un lindo sirviente que guarda el dinero recolectado",
+            "Algo podría pasar cuando esté lleno, pero por ahora, es simplemente frágil"
+        ],
+        "ability": [
+            "Colecciona dinero con alegría. Ahorros actuales: \\c[6]${$gameSelfVariables.value([1, 110, 'deposit'])}\\c[0]yen!",
+            "Se rompe fácilmente cuando es atacado, perdiendo todo el dinero almacenado"
+        ]
+    },
+    "38": {
+        "name": [
+            " Alcancía codiciosa"
+        ],
+        "subtitle": "",
+        "description": [
+            "Una alcancía rebosante de riqueza, un sueño hecho realidad",
+            "Sin embargo, incluso con el vientre lleno de oro, su codicia no tiene límites"
+        ],
+        "ability": [
+            "Emite el aura de la Demanda de Mamon. Ahorro actual: \\c[6]${$gameSelfVariables.value([1, 110, 'deposit'])}\\c[0]yen!",
+            "Recauda dinero sin parar, devolviendo intereses cada 10 segundos"
+        ]
+    },
+    "39": {
+        "name": [
+            "Caparazón de tortuga verde"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un caparazón de tortuga resistente y pesado",
+            "¡Llevarlo por tierra hace que sea imposible levantar los pies...!"
+        ],
+        "ability": [
+            "Reduce la velocidad de movimiento, pero aumenta la velocidad de natación"
+        ]
+    },
+    "40": {
+        "name": [
+            "Uniforme de sirvienta"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un trofeo obtenido después de dar una lección a los traviesos",
+            "Niña con orejas de conejo. Todavía huele a tierra y zanahorias"
+        ],
+        "ability": [
+            "Cuando está equipado, se disfraza de monstruo pero no puede atacar",
+            "Equiparlo te convierte en el mejor amigo de Maid Bunny"
+        ]
+    },
+    "41": {
+        "name": [
+            "Orejas de conejo Moe"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un accesorio de orejas de conejo desmontables",
+            "¡No importa quién lo use, se verá absolutamente adorable!"
+        ],
+        "ability": [
+            "¡Qué suerte! ¡Es más probable que caigan objetos!"
+        ]
+    },
+    "42": {
+        "name": [
+            "El alma del demonio de las bombas"
+        ],
+        "subtitle": [
+            "\"¡¡Explosión!!\""		
+		],
+        "description": [
+            "Una voluntad que lo sacrificó todo por las explosiones",
+            "Ahora que lo soportas, ¿no te esforzarás por lograr explosiones aún mayores?"
+        ],
+        "ability": [
+            "Poca posibilidad de provocar una explosión al atacar o golpear",
+            "Reduce el daño de explosión autoinfligido en un 50%"
+        ]
+    },
+    "43": {
+        "name": [
+            "Insignia de los Guardianes de la Espadae"
+        ],
+        "subtitle": [
+		    "\"¡Ustedes, los aventureros, me dan asco!",
+			"¡Blandes tus espadas solo para matar, sin importarte nunca el dolor!\""
+		],
+        "description": [
+            "Una insignia usada solo por camaradas que creen en la preservación de las armas"
+        ],
+        "ability": [
+            "Poder de ataque -20%, ataque máximo limitado a 200",
+			"Reduce la pérdida de durabilidad de todas las armas en un 20 %"
+        ]
+    },
+    "44": {
+        "name": [
+            "◉▽◉"
+        ],
+        "subtitle": [
+		    "\"El Sacabambaspis ya lo ha visto todo antes.\""
+		],
+        "description": [
+            "Un antiguo sirviente legendario, aunque es un pez, no puede nadar",
+			"¡Tiene una piel resistente y su movimiento especial es el Cañón Ciclón Jet!"
+        ],
+        "ability": [
+            "Puede levantar la tortuga Saccabankame y lanzarla como ataque",
+			"Una vez que cae al agua, no puede volver a salir..."
+        ]
+    },
+    "45": {
+        "name": [
+            "Abrazo venenoso"
+        ],
+        "subtitle": [
+            "\"Esta daga está cargada con veneno mortal, ¿sabes? (lamer\""		
+		],
+        "description": [
+            "Una espada corta mágica y venenosa: mantén la distancia"
+        ],
+        "ability": [
+            "Un sirviente auto-orbitante",
+            "Alta probabilidad de infligir veneno al contacto"
+        ]
+    },
+    "46": {
+        "name": [
+            "Puño de Furia"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un poderoso puño mágico",
+            "Hirviendo de una rabia desconocida, permanece firmemente apretada..."
+        ],
+        "ability": [
+            "Un sirviente auto-orbitante",
+            "Rechaza a cualquier enemigo que toque"
+        ]
+    },
+    "47": {
+        "name": [
+            "La mano maldita de Xerise"
+        ],
+        "subtitle": "",
+        "description": [
+            "Una mano cortada imbuida de poder no-muerto",
+            "Incluso sin cuerpo, sigue siendo vivaz y agresiva"
+        ],
+        "ability": [
+            "Un sirviente auto-orbitante",
+            "Maldice a cualquier objetivo al que apunta con el dedo medio"
+        ]
+    },
+    "48": {
+        "name": [
+            "Contrato de cadena de hechizos vinculantes"
+        ],
+        "subtitle": [
+            "\"Cuando muere quien amas, debes quitarte la vida.",
+			"Cuando muere la persona que amas, no hay otra salida.\""
+        ],
+        "description": [
+            "Para salvar a su familiar, cierto alquimista forjó este contrato..."
+        ],
+        "ability": [
+            "Conéctate con tu sirviente: cualquier daño que sufra será tuyo",
+			"Cada sirviente vinculado te otorga un efecto curativo"
+        ]
+    },
+    "49": {
+        "name": [
+            "Cuerno rojo"
+        ],
+        "subtitle": [
+            "\"¡¡No te detengas nunca!!\""
+        ],
+        "description": [
+            "Un cuerno carmesí lleno de la magia del Jackalope",
+			"Si la magia pudiera suministrarse sin cesar, podría seguir acelerándose ",
+			"¡Hasta que se convirtió en un cometa que cruzó el cielo!"
+        ],
+        "ability": [
+            "Cuando está completamente cargado, Senpo no tiene tiempo de reutilización y se mueve más rápidor",
+			"Una vez agotada la carga, se recargará automáticamente"
+        ]
+    },
+    "50": {
+        "name": [
+            "Papas fritas"
+        ],
+        "subtitle": "",
+        "description": [
+            "Recién frito con un toque cálido,",
+            "Aroma sabroso. ¡Cuidado con las gaviotas!"
+        ],
+        "ability": [
+            "Atrae a las gaviotas que te roban las patatas fritas"
+        ]
+    },
+    "52": {
+        "name": [
+            "El regalo de Shadowcrawler"
+        ],
+        "subtitle": "",
+        "description": [
+            "Se dice que es un símbolo de las profundidades donde se arrastran las sombras",
+            "sostenerlo te hace sentir como si algo estuviera ahí ",
+			"Retorciéndose silenciosamente detrás de ti—"
+        ],
+        "ability": [
+            "La velocidad de movimiento aumenta",
+			"Llama la atención de ▓▓▓▓▓▓"
+        ]
+    },
+    "53": {
+        "name": [
+            "Anillo de hueso del ahorcado"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un anillo hecho con los huesos del difunto Ahorcado",
+            "Aunque la mayor parte de su poder se ha perdido,",
+            "Aún le otorga al usuario un poco de libertad respecto a la gravedad"
+        ],
+        "ability": [
+            "Reduce el daño por caída en un 66%"
+        ]
+    },
+    "54": {
+        "name": [
+            "El Grial Dorado Incompleto"
+        ],
+        "subtitle": "",
+        "description": [
+            "Una reliquia de santo aún por llenar, bendice a su poseedor con",
+            "inmensa suerte. La fuente de esta bendición sigue siendo desconocida,",
+            "Mientras espera tranquilamente el día en que estará completo"
+        ],
+        "ability": [
+            "Aumenta enormemente la suerte. Duplica el dinero ganado."
+        ]
+    },
+    "55": {
+        "name": [
+            "Guantes de pirómano"
+        ],
+        "subtitle": [
+            "\"Ja, qué fuegos artificiales tan asquerosos.\""		
+		],
+        "description": [
+            "Guantes gruesos y resistentes al calor que apestan a pólvora"
+        ],
+        "ability": [
+            "+30% de radio de explosión para bombas autoactivadas",
+            "Las bombas tienen la posibilidad de provocar explosiones en cadena"
+        ]
+    },
+    "56": {
+        "name": [
+            "La Misericordia de la Santa Doncella"
+        ],
+        "subtitle": [
+            "\"Buen niño, buen niño...\""		
+		],
+        "description": [
+            "Uno de los atuendos de monja, sedoso al tacto, inolvidable",
+            "Un resplandor sagrado fluye a través de sus fibras, ofreciendo consuelo"
+        ],
+        "ability": [
+            "Entra a la fuerza en Modo Sabio",
+            "Gana más afinidad al acariciar la cabeza de \\str[120]’s head"
+        ]
+    },
+    "57": {
+        "name": [
+            "¡¡Ichigo Wo Torimodosis!"
+        ],
+        "subtitle": [
+		    ""
+		],
+        "description": [
+           "ASABA, consumido por el dolor por la fresa perdida, ",
+           "Desata su arte supremo. Una vez que te atacan, eres tragado",
+           "por una inevitable tormenta de combos… Pero el dolor persiste—",
+		   "Quemado por las emociones del destino, ¡tú también heredas esta técnica prohibida! "
+        ],
+        "ability": [
+           "Desata un movimiento especial con el comando correcto ",
+		   "Cuanto menor sea tu HP, más fuerte será el movimiento especial"
+        ]
+    },
+    "59": {
+        "name": [
+            "Colgante Rubrum"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+		    "La preciada reliquia del mago caído. ",
+            "Un colgante elaborado a partir de una pequeña cantidad de Fragmento del Filósof ",
+			"Imbuido de un poder alquímico débil pero etern"
+        ],
+        "ability": [
+		    "Aumenta el ataque mágico según el número de Fragmentos del Filósofo que tengas",
+            "Reduce el uso de durabilidad del arma al lanzar magia en un \\c[6]24%\\c[0]"
+        ]
+    },
+    "60": {
+        "name": [
+            "Circuito del mago caído"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un círculo maldito contaminado por magia oscura,",
+            "Acosado por un rencor obstinado que roe la carne"
+        ],
+        "ability": [
+            "Poder de ataque mágico +100%",
+			"Max HP -50%"
+        ]
+    },
+    "61": {
+        "name": [
+            "Capa del mago caído"
+        ],
+        "subtitle": "",
+        "description": [
+            "Una capa maldita contaminada por magia oscura",
+            "Acosado por un espíritu vengativo que anhela venganza"
+        ],
+        "ability": [
+            "Las imágenes residuales creadas por Senpo perduran por más tiempo",
+			"Los objetos que tocan quedan congelados en su lugar"
+        ]
+    },
+    "62": {
+        "name": [
+            "Guantes del mago caído"
+        ],
+        "subtitle": "",
+        "description": [
+            "Guantes malditos contaminados por magia oscura,",
+            "impregnado de un espíritu vengativo ansioso por atacar"
+        ],
+        "ability": [
+            "Los proyectiles rastrean a los enemigos cercanos"
+        ]
+    },
+    "63": {
+        "name": [
+            "Los zapatos del mago caído"
+        ],
+        "subtitle": "",
+        "description": [
+            "Zapatos malditos contaminados por magia oscura,",
+            "Infundido con un espíritu vengativo que otorga una agilidad fantasma"
+        ],
+        "ability": [
+            "Aumenta la velocidad de movimiento y otorga estado de vacío al usar Senpo."
+        ]
+    },
+    "65": {
+        "name": [
+            "Diadema de determinación"
+        ],
+        "subtitle": [
+            "\"¿Quién carajo crees que soy?\""		
+		],
+        "description": [
+            "Una diadema que despierta pasión cuando se usa",
+            "No tiene ningún efecto real, pero su espíritu inquebrantable es inigualable"
+        ],
+        "ability": [
+            "reduce la probabilidad de estados anormales",
+            "Tiene una pequeña posibilidad de resistir daño fatal"
+        ]
+    },
+    "67": {
+        "name": [
+            "Brazales de artista marcial"
+        ],
+        "subtitle": "",
+        "description": [
+            "Brazaletes vendados que usan los artistas marciales durante el combate",
+            "Protegen las articulaciones a la vez que mejoran la precisión del movimiento"
+        ],
+        "ability": [
+            "-12% de consumo de durabilidad del arm",
+            "Mayor velocidad de ataque y mayor daño combinado sin armas"
+        ]
+    },
+    "68": {
+        "name": [
+            "Zapatos de artista marcial"
+        ],
+        "subtitle": "",
+        "description": [
+            "Zapatos comúnmente usados ​​por artistas marciales que tienen",
+            "dominaron su oficio, irradiando un aura poderosa"
+        ],
+        "ability": [
+            "Velocidad de movimiento aumentada. Senpo mejorado"
+        ]
+    },
+    "69": {
+        "name": [
+            "Rompecaras"
+		],
+		"subtitle": [
+		    "\"Maldita sea... ¡Solo quiero golpear a alguien en la cara...!\""
+		],
+        "description": [
+            "Guantes de boxeo dejados por un boxeador legendario.",
+			"Aún puedes sentir la fuerza abrumadora que persiste sobre ellos."
+		],
+        "ability": [
+            "No se pueden usar armas mientras se esté equipado",
+			"Los ataques de puñetazo pueden causar daño adicional según los HP del objetivo"
+		]
+    },
+    "70": {
+        "name": [
+            "El corazón del espantapájaros"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un cuerpo hueco de un espantapájaros",
+            "Sin calor, sin latidos, pero puede vivir en tu lugar"
+        ],
+        "ability": [
+            "Evita cualquier forma de recuperación de HP mientras está equipado",
+            "Con 0 HP, permaneces activo un poco más antes de caer"
+        ]
+    },
+    "73": {
+        "name": [
+            "Anillo de lava"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un anillo forjado a partir de roca de la que fluye magma abrasador",
+            "Usarlo alivia el dolor tanto del frío como de las llamas"
+        ],
+        "ability": [
+            "Reduce enormemente la posibilidad de congelars",
+            "Reduce la posibilidad de quemaduras"
+        ]
+    },
+    "74": {
+        "name": [
+            "Volumen Salamandrae"
+        ],
+        "subtitle": [
+		    "\"Sí, les gustan los chiles...\""
+		],
+        "description": [
+            "Un grimorio encuadernado con escamas de salamandra. Aunque se parece",
+            "una enciclopedia, sus registros de salamandras que habitan en volcanes ",
+			"permiten una comprensión más profunda del fuego cuando se estudia"
+        ],
+        "ability": [
+            "Fortalece el daño y la forma de la magia del elemento fuego"
+        ]
+    },
+    "80": {
+        "name": [
+            "Decreto Real"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un anillo que simboliza la gloria suprema de un verdadero rey",
+            "¡Aumenta enormemente la moral de los seguidores!"
+        ],
+        "ability": [
+            "Aumenta ligeramente todas las estadísticas",
+            "Agranda a todos los sirvientes y realza sus atributos especiales"
+        ]
+    },
+    "100": {
+        "name": [
+            "Unit I Nexus"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un núcleo mucho más avanzado que la tecnología moderna, su superficie brillante ",
+            "con misteriosos circuitos de energía. Incluso con la mayoría de las piezas faltantes, ",
+			"Aún demuestra un increíble poder computacional y de detección"
+        ],
+        "ability": [
+            "Otorga detección de área cuando está equipado",
+            "Los tipos de objetos detectados aumentan a medida que aumenta el nivel del núcleo"
+        ]
+    },
+    "125": {
+        "name": [
+            "Atsu Atsu Bouzu"
+        ],
+        "subtitle": "",
+        "description": [
+            "Una muñeca de tela hecha con las oraciones sinceras de alguien. Lleva",
+            "deseos, trayendo ligeros cambios a los patrones climáticos regulares",
+            "Sin embargo, la muñeca desaparece silenciosamente después"
+        ],
+        "ability": [
+            "Garantiza un calor abrasador al día siguiente cuando está equipado"
+        ]
+    },
+    "126": {
+        "name": [
+            "Teru Teru Bouzu"
+        ],
+        "subtitle": "",
+        "description": [
+            "Una muñeca de tela hecha con las oraciones sinceras de alguien. Lleva",
+            "deseos, trayendo ligeros cambios a los patrones climáticos regulares",
+            "Sin embargo, la muñeca desaparece silenciosamente después"
+        ],
+        "ability": [
+            "Garantiza un clima soleado al día siguiente cuando está equipado"
+        ]
+    },
+    "127": {
+        "name": [
+            "Kumo Kumo Bouzu"
+        ],
+        "subtitle": "",
+        "description": [
+            "Una muñeca de tela hecha con las oraciones sinceras de alguien. Lleva",
+            "deseos, trayendo ligeros cambios a los patrones climáticos regulares",
+            "Sin embargo, la muñeca desaparece silenciosamente después"
+        ],
+        "ability": [
+            "Garantiza un clima nublado al día siguiente cuando está equipado"
+        ]
+    },
+    "128": {
+        "name": [
+            "Ame Ame Bouzu"
+        ],
+        "subtitle": "",
+        "description": [
+            "Una muñeca de tela hecha con las oraciones sinceras de alguien. Lleva",
+            "deseos, trayendo ligeros cambios a los patrones climáticos regulares",
+            "Sin embargo, la muñeca desaparece silenciosamente después"
+        ],
+        "ability": [
+            "Garantiza que llueva al día siguiente cuando está equipado"
+        ]
+    },
+    "129": {
+        "name": [
+            "La sonrisa de una niña"
+        ],
+        "subtitle": [
+            "\"\\str[121], ¡cumpliste bien tu promesa!\""		
+		],
+        "description": [
+            "La hermanita que siempre admiré y me preocupé",
+            "Su \\str[121] finalmente muestra una sonrisa satisfecha",
+            "Para \\str[121], es suficiente ser la motivación para seguir adelante"
+        ],
+        "ability": [
+            "Deseo arriba, todas las estadísticas arriba"
+        ]
+    },
+    "130": {
+        "name": [
+            "\\str[120] se quitó las bragas"
+        ],
+        "subtitle": [
+            "\"Aún lleva el aroma de\" \\str[120]"		
+		],
+        "description": [
+            "Bragas recibidas de \\str[120] debido a un malentendido",
+            "unca volví, pero en el fondo, hay felicidad"
+        ],
+        "ability": [
+            "Inspirado en \\str[120]. Cuando HP < 50%, obtienes recuperación automática"
+        ]
+    },
+    "131": {
+        "name": [
+            "Conejito de peluche"
+        ],
+        "subtitle": [
+            "\"¡Waaah...! ¡No lo rompas! ¡No lo rompas!\""
+        ],
+        "description": [
+            "Un conejito de peluche que \\str[120] siempre lleva en ",
+			"sus brazos, llenos de su aroma",
+			"Ahora que lo pienso… ¿por qué está esto en mis manos?"
+        ],
+        "ability": [
+            ""
+        ]
+    },	
+    "147": {
+        "name": [
+            "Curita"
+        ],
+        "subtitle": "",
+        "description": [
+            ""
+        ],
+        "ability": []
+    },
+    "150": {
+        "name": [
+            "Camiseta extra"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un traje hecho a medida del caballero,",
+            "supuestamente para promocionar el juego",
+            "Pero realmente no quiero usarlo"
+        ],
+        "ability": []
+    },
+    "152": {
+        "name": [
+            "Pijamas de \\str[120]"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un pijama camisola que \\str[120] suele usar, ",
+			"adornado con los lazos que le encantan.",
+            "Ahora que lo pienso… ¿por qué está esto en mis manos?"
+        ],
+        "ability": []
+    },
+    "153": {
+        "name": [
+            "Shorts \\str[120] "
+        ],
+        "subtitle": "",
+        "description": [
+            "Shorts suaves y esponjosos que \\str[120] suele usar, ",
+			"adornado con los lazos que le encantan.",
+            "Ahora que lo pienso… ¿por qué está esto en mis manos?"
+        ],
+        "ability": []
+    },
+    "154": {
+        "name": [
+            "Bragas blancas y azules"
+        ],
+        "subtitle": "",
+        "description": [
+		    ""
+        ],
+        "ability": []
+    },
+    "155": {
+        "name": [
+            "Bragas blancas rosas"
+        ],
+        "subtitle": "",
+        "description": [
+            ""
+        ],
+        "ability": []
+    },
+    "156": {
+        "name": [
+            "Bragas blancas"
+        ],
+        "subtitle": "",
+        "description": [
+            ""
+        ],
+        "ability": []
+    },
+    "157": {
+        "name": [
+            "Woundplast"
+        ],
+        "subtitle": "",
+        "description": [
+            ""
+        ],
+        "ability": []
+    },
+    "159": {
+        "name": [
+            "Sin bragas..."
+        ],
+        "subtitle": "",
+        "description": [
+            ""
+        ],
+        "ability": []
+    },
+    "296": {
+        "name": [
+            "El mazo de la suerte de Ruika"
+        ],
+        "subtitle": [
+            "\"La criada principal Ruika siempre lo usa para golpear a los conejos desobedientes\""
+        ],
+        "description": [
+		    "Un tesoro escondido de Maid Bunnies, se dice que es la razón por la que se apoderaron de él ",
+			"El mercado es tan rápido. Con un ligero golpe, concede los deseos del portador...",
+			"Los aventureros a menudo lo ven arreglando máquinas rotas por alborotadores"
+        ],
+        "ability": [
+            "Aumenta la probabilidad de obtener dinero y objetos"
+        ]
+    },
+    "297": {
+        "name": [
+            "El botiquín de primeros auxilios de Mio"
+        ],
+        "subtitle": [
+            "\"¡Dios mío! ¡Me caí otra vez en el agujero!\""
+        ],
+        "description": [
+		    "Originalmente una herramienta que el administrador usaba para probar el sistema de curación",
+			"Pero se olvidó de borrarlo después. Aun así, es inútil ",
+			"contra la mecánica de muerte instantánea"
+        ],
+        "ability": [
+            "Restaura 100% de HP por segundo cuando está equipado"
+        ]
+    },
+    "298": {
+        "name": [
+            "El dedo dorado de Shiroin"
+        ],
+        "subtitle": [
+            "\"Sabes que esta cosa arruinará el juego, ¿verdad?\"",
+			"\"Lo sé.\"",
+			"\"¿Y todavía quieres equiparlo?\"",
+			"\"Por supuesto.\""
+        ],
+        "description": [
+		    "Una reliquia que convierte el tacto en oro: el sueño supremo de los Guardianes de la Espada."
+        ],
+        "ability": [
+            "Las armas ya no se rompen con los ataques"
+        ]
+    },
+    "299": {
+        "name": [
+            "Territorio absoluto"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "El espacio sagrado entre la minifalda de una niña y los calcetines hasta el muslo",
+            "No solo otorga alta resistencia mágica, sino también lo absurdo ",
+			"capacidad de sacar todo tipo de objetos de debajo de la falda a voluntad"
+        ],
+        "ability": [
+            "Capacidad de carga extra para armas +99",
+            "Capacidad de carga adicional para engranajes +99"
+        ]
+    },
+    "300": {
+        "name": [
+            "Catalizador Amatoria"
+        ],
+        "subtitle": [
+            "\"¡Dame tu amor! ¡Si no, moriremos juntos!\""
+        ],
+        "description": [
+            "Un artefacto prohibido forjado por cierto archidemonio yandere",
+            "Hace que cualquiera que toca se enamore de quien lo lleva",
+			"ignorando su voluntad"
+        ],
+        "ability": [
+            "Aumenta enormemente las estadísticas obtenidas al tocar \\str[120]"
+        ]
+    }
+}

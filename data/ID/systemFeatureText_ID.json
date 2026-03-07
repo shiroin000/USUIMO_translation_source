@@ -1,0 +1,151 @@
+﻿{
+  "gameTitle": [
+    "Hidup Sederhana dengan Gadisku yang Tidak Mengganggu"
+  ],
+  "quantityHeld": [
+    "\\fs[16]•Jumlah yang Dimiliki:\\c[17] ${} \\c[0]\\py[-8]"
+  ],
+  "autoUpdate": [
+    "Pembaruan tersedia: Data game versi ${} terdeteksi.",
+    "Apakah Anda ingin mengunduh dan memperbarui sekarang?"
+  ],
+  "fullScreen": [
+    "Layar Penuh"
+  ],
+  "masterVolume": [
+    "Jilid Utama"
+  ],
+  "voiceVolume": [
+    "Volume Suara"
+  ],
+  "BgmVolume": [
+    "Volume BGM"
+  ],
+  "BgsVolume": [
+    "Volume BGS"
+  ],
+  "SeVolume": [
+    "Jilid SE"
+  ],
+  "MaxPlayerMsgs": [
+    "Pesan Pemain Maks"
+  ],
+  "GameFAQ": [
+    "Panduan Permainan"
+  ],
+  "ShowWeaponDurability": [
+    "Tunjukkan Daya Tahan Senjata"
+  ],
+  "DisableAutoUpdate": [
+    "Nonaktifkan Pembaruan Otomatis"
+  ],
+  "LockedFPS": [
+    "Terkunci 60 FPS"
+  ],
+  "Language": [
+    "Bahasa Permainan"
+  ],
+  "SwitchLanguage": [
+    "Perubahan bahasa game terdeteksi!",
+    "Mulai ulang sekarang untuk menerapkan pengaturan bahasa baru!"
+  ],
+  "ErrorReport": [
+    "Terjadi kesalahan. Silakan laporkan bug di server NLCH Discord.",
+    "(Klik 'OK' untuk membuka tautan undangan)",
+    "(Lampirkan tangkapan layar kesalahannya)"
+  ],
+  "UpdateComplete1": [
+    "Pembaruan game selesai!",
+    "Permainan akan dimulai ulang secara otomatis setelah jendela ini ditutup.",
+    "Anda dapat memuat simpan otomatis untuk melanjutkan kemajuan!"
+  ],
+  "UpdateComplete2": [
+    "Pembaruan game selesai!",
+    "Game akan segera dimulai ulang untuk menerapkan pembaruan!"
+  ],
+  "RemindToUpdate": [
+    "Terjadi kesalahan dan permainan dibekukan.",
+    "Patch yang lebih baru tersedia—",
+    "Silakan gunakan pembaruan otomatis untuk memperbaiki masalah ini!"
+  ],
+  "bagFull": [
+    "Batas inventaris terlampaui!!"
+  ],
+  "noStatusEffects": [
+    "Tidak ada efek status sama sekali!"
+  ],
+  "unimplementedDoor": [
+    "Pintu ini tidak akan terbuka dari sisi ini"
+  ],
+  "zipUpdateComplete": [
+    "Patch berhasil diinstal.",
+    "Mulai ulang game untuk menerapkan pembaruan!"
+  ],
+  "zipUpdateFail": [
+    "Gagal mengekstrak dan menginstal patch!",
+    "Silakan coba pembaruan otomatis lagi atau",
+    "ekstrak file patch secara manual untuk diinstal!"
+  ],
+  "fileDownloadedSuccessfully": [
+    "${} berhasil diunduh!"
+  ],
+  "fileDownloadFailed": [
+    "${} gagal diunduh! Coba lagi sekarang!"
+  ],
+  "installPatch": [
+    "Patch memerlukan ekstraksi—instal sekarang. Hal ini dapat menyebabkan permainan menjadi lag, harap bersabar!"
+  ],
+  "totalFilesToUpdate": [
+    "Mendeteksi ${} file untuk diperbarui—memulai proses pengunduhan!"
+  ],
+  "renameCharacter": [
+    "Aku ingat sekarang—",
+    "dia adalah..."
+  ],
+  "heroName": [
+    "Onii-chan"
+  ],
+  "heroineName": [
+    "Aku keluar"
+  ],
+  "nonHardwareAccelerated": [
+    "Game ini sedang berjalan pada grafis terintegrasi!",
+    "Jika PC Anda memiliki GPU khusus, kami menyarankan pengaturan Game.exe",
+    "untuk menggunakannya di panel kontrol grafis Anda untuk pengalaman bermain game yang lebih lancar."
+  ],
+  "isAmdCPU": [
+    "CPU Anda terdeteksi sebagai prosesor AMD.",
+    "Beberapa chip AMD mungkin mengalami penurunan bingkai saat memutar video VP9 (WebM).",
+    "dalam lingkungan Chromium. Jika Anda mengalami masalah ini, coba paksa permainannya",
+    "gunakan rendering GPU atau perbarui driver Anda untuk membantu mengatasi masalah."
+  ],
+  "failedToLoad": [
+    "Masalah seperti ini mungkin disebabkan oleh:",
+    "① File game rusak atau nama file kacau karena masalah pengkodean selama ekstraksi/instalasi.",
+    "② Pengembang lupa menyertakan file—harap tunggu pembaruan patch untuk memperbaikinya."
+  ],
+  "LowResMode": [
+    "Mode Grafik Rendah"
+  ],
+  "lowResModeWarning": [
+    "Fitur ini terutama untuk pengoptimalan kinerja pada perangkat Android dan mungkin berdampak kecil pada versi PC.",
+    "Saat diaktifkan, game merender peta dan gambar pada resolusi lebih rendah dan kemudian memperbesarnya,",
+    "mengurangi beban GPU pada perangkat seluler dan menurunkan pembangkitan panas dan konsumsi daya.",
+    "Catatan: Ini adalah fitur eksperimental, dan efektivitasnya mungkin berbeda-beda tergantung perangkatnya.",
+    "Anda dapat menonaktifkan fitur ini kapan saja untuk segera mengembalikan kejernihan gambar secara penuh."
+  ],
+  "nearbyMonstersCount": [
+    "Mendeteksi monster di sekitar"
+  ],
+  "nearbyTreasuresCount": [
+    "Mendeteksi harta karun di dekatnya"
+  ],
+  "underwaterTreasuresCount": [
+    "Harta karun bawah air yang terdeteksi"
+  ],
+  "steamWishlist": [
+    "Halaman toko Steam kami akhirnya aktif!",
+    "Silakan tambahkan kami ke daftar keinginan Anda dan dukung kami! (*´∀`)~♥",
+    "⬇Klik di bawah untuk membuka halaman Steam."
+  ]
+}

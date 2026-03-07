@@ -1,0 +1,2011 @@
+{
+    "1": {
+        "name": [
+            "Phiếu Tiệc Trà"
+        ],
+        "subtitle": "",
+        "description": [
+            "Phiếu do NLCH phát hành, dùng để đổi các món trà ngon",
+            "Nhưng mà... cửa hàng của NLCH ở đâu nhỉ?"
+        ],
+        "ability": [
+		    "Có thể bỏ vào máy gacha không bị hư để kích hoạt lượt quay",
+			"Luôn cho 11 lượt quay với ít nhất một quả bóng vàng"
+		]
+    },
+    "2": {
+        "name": [
+            "Sổ Tay Mạo Hiểm Giả"
+        ],
+        "beIndependent": true,
+        "subtitle": [
+		    "\"Được viết bởi RORO, bắt đầu vào ngày 01/10/2024\""
+		],
+        "description": [
+            "Ban đầu chỉ là một cuốn nhật ký đơn giản của một nhà thám hiểm tên RORO,",
+            "theo thời gian, nhiều người khác thấy thú vị nên cũng tham gia và ghi chú thêm,",
+            "và thế là cuốn sổ hướng dẫn kỳ lạ này — bao quát mọi thứ từ",
+            "'Cách vào hầm ngục' cho đến 'Ăn gì cho bữa tối' — được ra đời."
+        ],
+        "ability": [
+		    "Cho phép bạn xem hướng dẫn trong game"
+		]
+    },
+    "3": {
+        "name": [
+            "Rác"
+        ],
+        "subtitle": "",
+        "description": [
+            "Các mảnh vụn khác nhau, vô dụng",
+            "Tại sao tôi lại nhặt cái này nhỉ?"
+        ],
+        "ability": ""
+    },
+    "4": {
+        "name": [
+            "10 Yên"
+        ],
+        "subtitle": "",
+        "description": [
+            "Chỉ là một đồng xu trị giá 10 Yên",
+            "Nên chả mua được gì với nó cả."
+        ],
+        "ability": ""
+    },
+    "5": {
+        "name": [
+            "50 Yên"
+        ],
+        "subtitle": "",
+        "description": [
+            "Chỉ là một đồng xu trị giá 50 Yên",
+            "Vẫn chưa thể mua được gì với nó...nhưng để mất thì cũng khá sót"
+        ],
+        "ability": ""
+    },
+    "6": {
+        "name": [
+            "100 Yên"
+        ],
+        "subtitle": "",
+        "description": [
+            "Chỉ là một đồng xu trị giá 100 Yên",
+            "Với một chút may mắn, nó có thể đủ để mua ",
+            "cho \\str[120] sữa dâu mà em ấy thích"
+        ],
+        "ability": ""
+    },
+    "7": {
+        "name": [
+            "500 Yên"
+        ],
+        "subtitle": "",
+        "description": [
+            "Chỉ là một đồng xu trị giá 500 Yên",
+            "Nếu bỏ nó vào máy gacha...có lẽ-có lẽ...",
+            "nó sẽ roll trúng vật phẩm huyền thoại...!"
+        ],
+        "ability": ""
+    },
+    "8": {
+        "name": [
+            "1000 Yên"
+        ],
+        "subtitle": "",
+        "description": [
+            "Chỉ là tờ tiền trị giá 1000 Yên",
+            "Không ai biết tại sao quái vật lại đi thu thập ",
+            "tiền giấy của loài người..."
+        ],
+        "ability": ""
+    },
+    "9": {
+        "name": [
+            "5000 Yên"
+        ],
+        "subtitle": "",
+        "description": [
+            "Chỉ là tờ tiền trị giá 5000 Yên",
+            "Ai nhìn thấy cũng không khỏi giao động,",
+            "đây là sức mạnh của đồng tiền sao...?"
+        ],
+        "ability": ""
+    },
+    "10": {
+        "name": [
+            "10000 Yên"
+        ],
+        "subtitle": "",
+        "description": [
+            "Chỉ là tờ tiền 10000 Yên",
+            "Đến cả máy gacha cũng phải mỉm cười trước giá trị này—"
+        ],
+        "ability": ""
+    },	
+    "11": {
+        "name": [
+            "50000 Yên"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một xấp dày những tờ tiền 5000 Yên",
+            "Khi các cô hầu gái Thỏ mở rộng buôn bán nhanh chóng",
+            "lũ quái vật cũng bắt đầu giật ví của các mạo hiểm giả",
+            "chỉ để trải nghiệm cái thứ gọi là 'mua sắm' này"
+        ],
+        "ability": ""
+    },	
+    "12": {
+        "name": [
+            "100000 Yên"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một xấp đầy những tờ tiền 10000 Yên",
+            "Mùi hương của sự giáu có này thậm chí có thể khiến",
+            "những con quỷ tham lam phải mỉm cười đầy quyến rũ—"
+        ],
+        "ability": ""
+    },
+    "13": {
+        "name": [
+            "Bản Đồ Thỏ"
+        ],
+        "beIndependent": true,
+        "subtitle": "",
+        "description": [
+            "Một tấm bản đồ được các hầu gái thỏ sử dụng, vẫn còn dính vụn cà rốt.",
+			"Chúng đào những Hố Thỏ và di chuyển khắp nơi — gần như một đội shipper thực thụ.",
+            "Kể từ khi người lãnh đạo quỷ quyệt và sắc sảo xuất hiện cách đây mười năm,",
+            "bầy thỏ đã chiếm lĩnh Vực Thẳm và bắt đầu giao thương với quái vật."
+        ],
+        "ability": [
+            "Cho phép bạn xem bản đồ Vực Thẳm và tất cả các vật thể có thể tương tác"
+        ]
+    },
+    "14": {
+        "name": [
+            "Máy Ảnh Ma Thuật"
+        ],
+        "beIndependent": true,
+        "subtitle": "",
+        "description": [
+            "Được cho là một bảo vật phương Đông, chế tác tinh xảo nhưng bị thất lạc",
+            "trong Vực Thẳm... Nó đóng băng cảnh vật thành hình ảnh, nhưng",
+            "dễ bị ảnh hưởng bởi ma thuật, đôi khi chụp được những thứ kỳ lạ"
+        ],
+        "ability": [
+            "Nhấn F7 để chụp ảnh"
+        ]
+    },
+    "15": {
+        "name": [
+            "JoyStation V"
+        ],
+        "beIndependent": true,
+        "subtitle": "",
+        "description": [
+            "\"Ngay cả ở thế hệ thứ năm, các giới hạn của vật chất hóa linh hồn vẫn ngăn cản",
+            " người chơi trực tiếp đưa ý thức của mình vào.\""
+
+        ],
+        "ability": [
+            "Một thiết bị giải trí kỳ lạ được các nhà giả kim tái tạo từ ",
+            "những mảnh văn bản cổ. Nó khá nổi tiếng trong giới mạo hiểm giả,",
+            "nhưng quy trình chế tạo phức tạp khiến nó trở nên cực kỳ hiếm."
+        ]
+    },
+    "16": {
+        "name": [
+            "Shadow Souls DLC"
+        ],
+        "beIndependent": true,
+        "subtitle": "",
+        "description": [
+            "Gói mở rộng cho Shadow Souls.",
+            "Tác phẩm được hiệp sĩ tự tin phát hành sau khi phỏng vấn ",
+            "một số lượng lớn các mạo hiểm giả và những trải nghiệm của họ.",
+            "Đầy ắp những quái vật và màn chơi tàn bạo đến khó tin,",
+            "nhưng người chơi vẫn ùn ùn kéo đến…"
+
+        ],
+        "ability": [
+            ""
+        ]
+    },	
+    "17": {
+        "name": [
+            "Ahoge Của \\str[120]"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một sợi ahoge được lén nhổ khỏi đầu \\str[120],",
+            "dường như em ấy hoàn toàn không hay biết… Ngay cả khi đã tách khỏi chủ nhân,",
+            "nó vẫn cứng đầu dựng thẳng nhờ vào độ đàn hồi khó hiểu của mình."
+        ],
+        "ability": ""
+    },
+    "18": {
+        "name": [
+            "Vịt Cao Su"
+        ],
+        "beIndependent": true,
+        "subtitle": "",
+        "description": [
+            "Một món đồ chơi vịt cao su không rõ vì sao bị bỏ lại đơn độc trong lòng kênh.",
+            "Có lẽ vì một cơn đồng cảm bất chợt, nó đã được nhặt lên.",
+            "\\str[120] chắc hẳn sẽ thích nó…"
+
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "19": {
+        "name": [
+            "Quạt Điện"
+        ],
+        "beIndependent": true,
+        "subtitle": "",
+        "description": [
+            "Một chiếc quạt điện nhỏ với mẫu mã lỗi thời và luồng gió khá yếu.",
+            "Nhưng so với nó, việc sử dụng ma pháp làm mát còn tốn kém hơn nhiều…"
+
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "20": {
+        "name": [
+            "Mảnh Hiền Triết"
+        ],
+        "subtitle": [
+            "\"Đây là sức mạnh kiên cường nhất trong tất cả các loại ý chí,",
+            "  vững chắc và xuyên thấu qua mọi điều tinh vi\""
+		],
+        "description": [
+            "Ngay cả một mảnh nhỏ cũng chứa sức mạnh to lớn—"
+        ],
+        "ability": ""
+    },
+    "23": {
+        "name": [
+            "Sữa Ngon Cực Kì"
+        ],
+        "subtitle": [
+            "\"Tài trợ bởi: NLCH\""		
+		],
+        "description": [
+            "Một loại đồ uống từ máy bán hàng kỳ lạ. Bỏ qua hương vị,",
+            "tại sao ở đây lại có một cái máy nước tự động nhỉ?"
+        ],
+        "ability": [
+            "HP+120, nhận trạng thái Ngon!!"
+        ]
+    },
+    "24": {
+        "name": [
+            "Sữa Cà Rốt"
+        ],
+        "subtitle": [
+            "\"Tài trợ bởi: NLCH\""		
+		],
+        "description": [
+            "Một loại đồ uống từ máy bán hàng kỳ lạ. Bỏ qua hương vị,",
+            "tại sao ở đây lại có một cái máy nước tự động nhỉ?"
+        ],
+        "ability": [
+            "HP+75, ngẫu nhiên loại bỏ 1 trạng thái bất lợi"
+        ]
+    },
+    "25": {
+        "name": [
+            "Sữa Dâu"
+        ],
+        "subtitle": [
+            "\"Tài trợ bởi: NLCH\""		
+		],
+        "description": [
+            "Một loại đồ uống từ máy bán hàng kỳ lạ. Bỏ qua hương vị,",
+            "tại sao ở đây lại có một cái máy nước tự động nhỉ?"
+        ],
+        "ability": [
+            "HP+75, Tấn công+50% trong một khoảng thời gian"
+        ]
+    },
+    "26": {
+        "name": [
+            "Sữa Dưa Lưới"
+        ],
+        "subtitle": [
+            "\"Tài trợ bởi: NLCH\""		
+		],
+        "description": [
+            "Một loại đồ uống từ máy bán hàng kỳ lạ. Bỏ qua hương vị,",
+            "tại sao ở đây lại có một cái máy nước tự động nhỉ?"
+        ],
+        "ability": [
+            "HP+75, Phép thuật+50% trong một khoảng thời gian"
+        ]
+    },
+    "27": {
+        "name": [
+            "Sữa Chuối"
+        ],
+        "subtitle": [
+            "\"Tài trợ bởi: NLCH\""		
+		],
+        "description": [
+            "Một loại đồ uống từ máy bán hàng kỳ lạ. Bỏ qua hương vị,",
+            "tại sao ở đây lại có một cái máy nước tự động nhỉ?"
+        ],
+        "ability": [
+            "HP+75, Tăng tốc độ di chuyển trong một khoảng thời gian"
+        ]
+    },
+    "30": {
+        "name": [
+            "Kẹo Konpeito Hồng"
+        ],
+        "subtitle": [
+            "\"Fufufu... Tốt nhất là đừng nên biết thành phần~♥\""		
+		],
+        "description": [
+            "Kẹo Konpeitō thủ công được Ác Ma chế tác tinh xảo",
+            "Tỏa ra mùi đào khiến chỉ cần ngửi thôi cũng cảm thấy chóng mặt..."
+        ],
+        "ability": [
+            "Khi ăn sẽ khiến toàn thân bạn rạo rực!"
+        ]
+    },
+    "31": {
+        "name": [
+            "Kẹo Konpeito Xanh"
+        ],
+        "subtitle": [
+            "\"Fufufu... Tốt nhất là đừng nên biết thành phần~♥\""	
+		],
+        "description": [
+            "Kẹo Konpeitō thủ công được Ác Ma chế tác tinh xảo",
+            "Tỏa ra mùi việt quất khiến chỉ cần ngửi thôi cũng cảm thấy bình tĩnh..."
+        ],
+        "ability": [
+            "Mang lại cảm giác bình tĩnh sau khi ăn..."
+        ]
+    },
+    "32": {
+        "name": [
+            "Kẹo Konpeito Xanh Lá"
+        ],
+        "subtitle": [
+            "\"Fufufu... Tốt nhất là đừng nên biết thành phần~♥\""		
+		],
+        "description": [
+            "Kẹo Konpeitō thủ công được Ác Ma chế tác tinh xảo",
+            "Tỏa ra mùi dưa lưới khiến chỉ cần ngửi thôi cũng cảm thấy phấn chấn..."
+        ],
+        "ability": [
+            "Hiệu ứng chưa được thêm vào"
+        ]
+    },
+    "33": {
+        "name": [
+            "Bánh Mizumanju Đàn Hồi"
+        ],
+        "subtitle": [
+            "\"Fufufu... Tốt nhất là đừng nên biết thành phần~♥\""
+        ],
+        "description": [
+            "Bánh Mizumanju thủ công được Ác Ma chế tác, đàn hồi và mát lạnh",
+            "Khi chạm vào lưỡi sẽ như một cú sốc!"
+        ],
+        "ability": [
+            "Hiệu ứng chưa được thêm vào"
+        ]
+    },
+    "35": {
+        "name": [
+            "Cola(L) NLCH"
+        ],
+        "subtitle": [
+            "\"Tài trợ bởi: NLCH\""		
+		],
+        "description": [
+            "Một loại đồ uống từ máy bán hàng kỳ lạ. Bỏ qua hương vị,",
+            "tại sao ở đây lại có một cái máy nước tự động nhỉ?"
+        ],
+        "ability": [
+            "Lắc mạnh có thể gây ra phun trào"
+        ]
+    },
+    "42": {
+        "name": [
+            "Phù văn Kenaz"
+        ],
+        "subtitle": [
+            "\"Sức mạnh Bùng Nổ\""
+        ],
+        "description": [
+            "Một hòn đá khắc ký tự ma pháp, được thiết kế để ngay cả những người mới",
+            "không có kiến thức về ma pháp cũng có thể dễ dàng kích hoạt nó."
+        ],
+        "ability": [
+            "Ném và biến mục tiêu mà nó chạm vào thành một quả bom",
+            "Phát nổ sau 5 giây, mục tiêu càng lớn thì vụ nổ càng to"
+        ]
+    },
+    "43": {
+        "name": [
+            "Phù văn Ansuz"
+        ],
+        "subtitle": [
+            "\"Sức mạnh Khải Huyền\""		
+		],
+        "description": [
+            "Một hòn đá khắc ký tự ma pháp, được thiết kế để ngay cả những người mới",
+            "không có kiến thức về ma pháp cũng có thể dễ dàng kích hoạt nó."
+        ],
+        "ability": [
+            "Khi sử dụng sẽ để lại kí hiệu có chữ tại vị trí đó",
+            "Sau khi cập nhật, kí hiệu sẽ hiển thị với các người chơi khác"
+        ]
+    },
+    "44": {
+        "name": [
+            "Phù văn Raido"
+        ],
+        "subtitle": [
+            "\"Sức mạnh Kỵ Sĩ\""
+        ],
+        "description": [
+            "Một hòn đá khắc ký tự ma pháp, được thiết kế để ngay cả những người mới",
+            "không có kiến thức về ma pháp cũng có thể dễ dàng kích hoạt nó."
+        ],
+        "ability": [
+            "Ném ra một kí hiệu cho phép hoán đổi vị trí"
+        ]
+    },
+    "45": {
+        "name": [
+            "Phù văn Ehwaz"
+        ],
+        "subtitle": [
+            "\"Sức mạnh Chuyển Hóa\""
+        ],
+        "description": [
+            "Một hòn đá khắc ký tự ma pháp, được thiết kế để ngay cả những người mới",
+            "không có kiến thức về ma pháp cũng có thể dễ dàng kích hoạt nó"
+        ],
+        "ability": [
+            "Ném và hoán đổi vị trí với mục tiêu mà nó chạm phải"
+        ]
+    },
+    "46": {
+        "name": [
+            "The Fool (Gã Khờ)"
+        ],
+        "subtitle": [
+            "\"Sự tò mò vô tận của một nhà phiêu lưu ngu ngốc\""
+        ],
+        "description": [
+            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
+            "cũng có thể dễ dàng kích hoạt hiệu ứng."
+        ],
+        "ability": [
+            "Sử dụng sẽ ép bạn dịch chuyển ngẫu nhiên đến một bản đồ khác"
+        ]
+    },
+    "48": {
+        "name": [
+            "The High Priestess (Thánh Nữ Tối Cao)"
+        ],
+        "subtitle": [
+            "\"Mong ngươi nhận được ân sủng của nàng...\""
+        ],
+        "description": [
+            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
+            "cũng có thể dễ dàng kích hoạt hiệu ứng."
+        ],
+        "ability": [
+            "Khi sử dụng, triệu hồi một cánh cổng dẫn đến Nhà Thờ Sa Ngã"
+        ]
+    },
+    "50": {
+        "name": [
+            "The Emperor (Đế Vương)"
+        ],
+        "subtitle": [
+            "\"Uy nghi của rồng, bất khả xâm phạm\""
+        ],
+        "description": [
+            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
+            "cũng có thể dễ dàng kích hoạt hiệu ứng."
+        ],
+        "ability": [
+            "Triệu hồi Tiếng Gầm của Rồng làm choáng tất cả kẻ địch trên một khu vực"
+        ]
+    },
+    "52": {
+        "name": [
+            "The Lovers (Tình Nhân)"
+        ],
+        "subtitle": [
+            "\"Hương Thơm Lưu Luyến Của Phù Thủy\""
+        ],
+        "description": [
+            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
+            "cũng có thể dễ dàng kích hoạt hiệu ứng."
+        ],
+        "ability": [
+            "Triệu hồi quái vật và khiến chúng cuồng loạn trong thời gian ngắn"
+        ]
+    },
+    "53": {
+        "name": [
+            "Chariot (Chiến Xa)"
+        ],
+        "subtitle": [
+            "\"Sẵn sàng phục vụ! Chuyển Phát Địa Ngục!\""
+        ],
+        "description": [
+            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
+            "cũng có thể dễ dàng kích hoạt hiệu ứng."
+        ],
+        "ability": [
+            "Khi sử dụng, một chiếc xe tải NLCH đâm vào người chơi"
+        ]
+    },
+    "54": {
+        "name": [
+            "Strength (Sức Mạnh)"
+        ],
+        "subtitle": [
+            "\"Giải phóng sức mạnh của Chiến Binh Thần Khổng Lồ\""
+        ],
+        "description": [
+            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
+            "cũng có thể dễ dàng kích hoạt hiệu ứng."
+        ],
+        "ability": [
+            "Vũ khí cận chiến tạm thời to ra và tăng tấn công"
+        ]
+    },
+    "56": {
+        "name": [
+            "The Wheel of Fortune (Bánh Xe Vận Mệnh)"
+        ],
+        "subtitle": [
+            "\"Roulette Cá Cược Linh Hồn\""
+        ],
+        "description": [
+            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
+            "cũng có thể dễ dàng kích hoạt hiệu ứng."
+        ],
+        "ability": [
+            "Khi sử dụng, nhận một hiệu ứng có lợi hoặc bất lợi ngẫu nhiên"
+        ]
+    },	
+    "57": {
+        "name": [
+            "Justice (Công Lý)"
+        ],
+        "subtitle": [
+            "\"Tro về với tro, bụi về với bụi\""
+        ],
+        "description": [
+            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
+            "cũng có thể dễ dàng kích hoạt hiệu ứng."
+        ],
+        "ability": [
+            "Khi sử dụng, loại bỏ tất cả trạng thái khỏi người chơi"
+        ]
+    },
+    "59": {
+        "name": [
+            "Death (Tử Thần)"
+        ],
+        "subtitle": [
+            "\"Đích đến của mọi sinh mệnh là cái chết\""
+        ],
+        "description": [
+            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
+            "cũng có thể dễ dàng kích hoạt hiệu ứng"
+        ],
+        "ability": [
+            "Khi sử dụng, sức mạnh của Tử Thần sẽ hiện diện tại đây"
+        ]
+    },
+    "60": {
+        "name": [
+            "Temperance (Hòa Hợp)"
+        ],
+        "subtitle": [
+            "\"Chiếc Hộp Pandora của Vực Thẳm\""
+        ],
+        "description": [
+            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
+            "cũng có thể dễ dàng kích hoạt hiệu ứng"
+        ],
+        "ability": [
+            "Khi sử dụng, triệu hồi một máy gacha"
+        ]
+    },
+    "62": {
+        "name": [
+            "The Tower (Tòa Tháp)"
+        ],
+        "subtitle": [
+            "\"Lời mời đến yến tiệc Vực Thẳm\""
+        ],
+        "description": [
+            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
+            "cũng có thể dễ dàng kích hoạt hiệu ứng"
+        ],
+        "ability": [
+            "Khi sử dụng, triệu hồi Trụ Bị Phong Ấn"
+        ]
+    },
+    "63": {
+        "name": [
+            "The Star (Vì Sao Hy vọng)"
+        ],
+        "subtitle": [
+            "\"Ngôi sao là ngọn hải đăng dẫn lối về nhà\""
+        ],
+        "description": [
+            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
+            "cũng có thể dễ dàng kích hoạt hiệu ứng"
+        ],
+        "ability": [
+			"Triệu hồi Cửa Sao gần người chơi để trở về điểm xuất phát"
+        ]
+    },
+    "65": {
+        "name": [
+            "The Sun (Thái Dương)"
+        ],
+        "subtitle": [
+            "\"Tái sinh từ tro tàn\""
+        ],
+        "description": [
+            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
+            "cũng có thể dễ dàng kích hoạt hiệu ứng"
+        ],
+        "ability": [
+            "Khi sử dụng, ban Phép Lành của Phượng Hoàng"
+        ]
+    },
+    "67": {
+        "name": [
+            "The World (Thế Giới)"
+        ],
+        "subtitle": [
+            " \"Mời bạn đến với thế giới vườn mini bí ẩn...\""
+        ],
+        "description": [
+            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
+            "cũng có thể dễ dàng kích hoạt hiệu ứng"
+        ],
+        "ability": [
+            "Đặt lại đồng hồ đếm ngược cho các sự kiện liên quan đến rơi đồ"
+        ]
+    },
+    "70": {
+        "name": [
+            "Jack Bomb"
+        ],
+        "subtitle": [
+            "\"Nhìn đây này...!\""
+        ],
+        "description": [
+            "Một quả bom luyện thuật được truyền yếu tố lửa cuồng nộ",
+            "Do tính chất cực kỳ không ổn định, nó sẽ nổ ngay lập tức",
+            "chỉ với việc cầm nó trên tay",
+            "Nó sẽ nổ ngay lập tức trong môi trường nóng!"
+        ],
+        "ability": ""
+    },
+    "71": {
+        "name": [
+            "Frost Jack Bomb"
+        ],
+        "subtitle": [
+            "\"Nhìn đây này...!\""
+        ],
+        "description": [
+            "Một quả bom luyện thuật được truyền yếu tố băng lạnh",
+            "Do tính chất cực kỳ không ổn định, nó sẽ nổ ngay lập tức",
+            "chỉ với việc cầm nó trên tay"
+        ],
+        "ability": ""
+    },
+    "72": {
+        "name": [
+            "Venom Jack Bomb"
+        ],
+        "subtitle": [
+            "\"Nhìn đây này...!\""
+        ],
+        "description": [
+            "Một quả bom luyện thuật được truyền chất độc chết người",
+            "Do tính chất cực kỳ không ổn định, nó sẽ nổ ngay lập tức",
+            "chỉ bằng cách cầm nó trên tay"
+        ],
+        "ability": ""
+    },
+    "75": {
+        "name": [
+            "Đồng Hồ Phong Ấn"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một bảo vật ma thuật đặc biệt được khắc phép thuật niêm phong",
+            "Khi vỡ, nó sẽ kích hoạt hiệu ứng, khiến mọi thứ ngừng lại",
+            "trong phạm vi nhất định, bao gồm cả thời gian"
+        ],
+        "ability": ""
+    },
+    "76": {
+        "name": [
+            "Bạch quả"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một loại thức ăn kỳ lạ có nguồn gốc không rõ ràng, được đồn là có hương vị",
+            "ngon bất ngờ. Mùi hương của nó không chỉ thu hút động vật mà còn cả quái vật!",
+            "Hãy cẩn thận, mùi thơm sẽ nhanh chóng phai nhạt nếu bảo quản sai cách."
+        ],
+        "ability": [
+            "Khi ném ra, nó tạo thành một làn hương thơm dụ lũ quái vật kéo đến"
+        ]
+    },
+    "77": {
+        "name": [
+            "Sushi Pudding"
+        ],
+        "beIndependent": true,
+        "subtitle": "",
+        "description": [
+            "Một sinh vật đồng hành của một Ác Quỷ nào đó. Thả nó ra",
+            "Thả nó ra sẽ tiết lộ vị trí của ác quỷ",
+            "Rốt cuộc nó là mèo, một miếng sushi, hay là bánh pudding?",
+            "Bất kể hình dạng thật sự là gì, trông nó vẫn rất ngon!"
+        ],
+        "ability": ""
+    },
+    "80": {
+        "name": [
+            "Phong Ấn Quyển"
+        ],
+        "beIndependent": true,		
+        "subtitle": "",		
+        "description": [
+            "Một bí cụ chỉ được truyền lại trong giới ninja",
+            "Kích hoạt Chú Ấn sẽ mở ra một khe nứt không gian, phong ấn vật phẩm vào bên trong",
+            "Những vật phẩm đó có thể được triệu hồi trở lại bất cứ khi nào cần"
+        ],
+        "ability": [
+            "Phong ấn hoặc triệu hồi toàn bộ vật phẩm đang trang bị",
+            "\\str[110]"
+        ]
+    },
+    "88": {
+        "name": [
+            "Đùi Chim"
+        ],
+        "subtitle": "",
+        "description": [
+            "Thịt đùi được thu hoạch từ nhiều loài chim khác nhau",
+            "Thịt mềm và đầy đặn,",
+            "làm món ăn về thịt trở nên hoàn hảo"
+        ],
+        "ability": ""
+    },
+    "89": {
+        "name": [
+            "Thịt Quái Vật Lớn"
+        ],
+        "subtitle": "",
+        "description": [
+            "Thịt tươi được chặt từ một con quái vật. Có thể chế biến thành",
+            "các món ăn về thịt ngon từ nó. Quái vật ăn người, và người ăn quái vật",
+            "Đây là quy luật tự nhiên"
+        ],
+        "ability": ""
+    },
+    "90": {
+        "name": [
+            "Thịt Quái Vật Nhỏ"
+        ],
+        "subtitle": "",
+        "description": [
+            "Thịt tươi được chặt từ một con quái vật. Có thể chế biến thành",
+            "các món ăn về thịt ngon từ nó. Quái vật ăn người, và người ăn quái vật",
+            "Đây là quy luật tự nhiên"
+        ],
+        "ability": ""
+    },
+    "97": {
+        "name": [
+            "Chất Nhầy Thuỷ Quái"
+        ],
+        "subtitle": "",
+        "description": [
+            "Chất nhầy được tiết ra bởi Thuỷ Quái, thường được dùng như một",
+            "nguyên liệu chung trong luyện thuật",
+            "Đôi khi cũng được dùng làm chất bôi trơn..."
+        ],
+        "ability": ""
+    },
+    "98": {
+        "name": [
+            "Nấm Di Động"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một cây nấm lấy từ Nấm Biết Đi, giờ đã bất động",
+            "Khi thái lát, trông giống hệt nấm thường"
+        ],
+        "ability": ""
+    },
+    "100": {
+        "name": [
+            "Chất Nhầy Slime"
+        ],
+        "subtitle": "",
+        "description": [
+            "Chất nhầy được tiết ra bởi slime, thường được dùng như một",
+            "nguyên liệu chung trong luyện thuật",
+            "Đôi khi cũng được dùng làm chất bôi trơn..."
+        ],
+        "ability": ""
+    },
+    "101": {
+        "name": [
+            "Táo"
+        ],
+        "subtitle": "",
+        "description": [
+            "Trái cây vừa hái, đầy hương vị tươi mát",
+            "Ăn trực tiếp sẽ hồi phục sức khoẻ một chút"
+        ],
+        "ability": ""
+    },
+    "102": {
+        "name": [
+            "Viên Cà Ri"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một viên cà ri cay làm từ các loại gia vị kỳ lạ",
+            "Phù hợp ăn kèm với cơm và có thể thêm vào nhiều nguyên liệu khác"
+        ],
+        "ability": ""
+    },
+    "103": {
+        "name": [
+            "Cơm Trắng"
+        ],
+        "subtitle": "",
+        "description": [
+            "Cơm trắng đơn giản",
+            "Có thể ăn riêng hoặc kết hợp với nhiều nguyên liệu khác"
+        ],
+        "ability": ""
+    },
+    "104": {
+        "name": [
+            "Cà Rốt"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một loại rau phổ biến, nhưng thật lạ khi tìm thấy nó trong Vực Thẳm",
+            "Cần chuẩn bị đúng cách trước khi ăn"
+        ],
+        "ability": ""
+    },
+    "105": {
+        "name": [
+            "Khoai Tây"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một loại rau phổ biến, nhưng thật lạ khi tìm thấy nó trong Vực Thẳm",
+            "Cần chuẩn bị đúng cách trước khi ăn"
+        ],
+        "ability": ""
+    },
+    "106": {
+        "name": [
+            "Ớt đỏ"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một loại quả phổ biến, nhưng thật lạ khi tìm thấy nó trong Vực Thẳm",
+            "Cần chuẩn bị đúng cách trước khi ăn"
+        ],
+        "ability": ""
+    },
+    "107": {
+        "name": [
+            "Cà Chua"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một loại rau phổ biến, nhưng thật lạ khi tìm thấy nó trong Vực Thẳm",
+            "Cần chuẩn bị đúng cách trước khi ăn"
+        ],
+        "ability": ""
+    },
+    "108": {
+        "name": [
+            "Chuối"
+        ],
+        "subtitle": "",
+        "description": [
+            "Trái cây vừa hái, đầy hương vị tươi mát",
+            "Ăn trực tiếp sẽ hồi phục sức khoẻ một chút"
+        ],
+        "ability": ""
+    },
+    "109": {
+        "name": [
+            "Dâu Tây"
+        ],
+        "subtitle": "",
+        "description": [
+            "Trái cây vừa hái, đầy hương vị tươi mát",
+            "Ăn trực tiếp sẽ hồi phục sức khoẻ một chút"
+        ],
+        "ability": ""
+    },
+    "110": {
+        "name": [
+            "Nho"
+        ],
+        "subtitle": "",
+        "description": [
+            "Trái cây vừa hái, đầy hương vị tươi mát",
+            "Ăn trực tiếp sẽ hồi phục sức khoẻ một chút"
+        ],
+        "ability": ""
+    },
+    "111": {
+        "name": [
+            "Dứa"
+        ],
+        "subtitle": "",
+        "description": [
+            "Trái cây vừa hái, đầy hương vị tươi mát",
+            "Ăn trực tiếp sẽ hồi phục sức khoẻ một chút"
+        ],
+        "ability": ""
+    },
+    "112": {
+        "name": [
+            "Dưa Hấu"
+        ],
+        "subtitle": "",
+        "description": [
+            "Trái cây vừa hái, đầy hương vị tươi mát",
+            "Ăn trực tiếp sẽ hồi phục sức khoẻ một chút"
+        ],
+        "ability": ""
+    },
+    "113": {
+        "name": [
+            "Mì Ý"
+        ],
+        "subtitle": "",
+        "description": [
+            "Sợi mì đàn hồi, thích hợp với mọi món ăn",
+            "Chỉ cần một ít nước sốt cũng đã rất ngon"
+        ],
+        "ability": ""
+    },
+    "114": {
+        "name": [
+            "Sốt Cà Chua"
+        ],
+        "subtitle": "",
+        "description": [
+            "Làm từ cà chua, có vị chua ngọt",
+            "Tốt nhất là đừng nghĩ lý do tại sao quái vật lại rơi ra món này"
+        ],
+        "ability": ""
+    },
+    "115": {
+        "name": [
+            "Bột Mì"
+        ],
+        "subtitle": "",
+        "description": [
+            "Bột làm từ lúa mì xay, hữu ích cho nhiều món ăn khác nhau"
+        ],
+        "ability": ""
+    },
+    "116": {
+        "name": [
+            "Nấm Bào Ngư"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một loại nấm phổ biến thường thấy ngoài tự nhiên",
+            "Tuy nhiên, tìm thấy nó trong Vực Thẳm là khá hiếm"
+        ],
+        "ability": ""
+    },
+    "117": {
+        "name": [
+            "Nấm Hương"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một loại nấm phổ biến thường thấy ngoài tự nhiên",
+            "Tuy nhiên, tìm thấy nó trong Vực Thẳm là khá hiếm"
+        ],
+        "ability": ""
+    },
+    "118": {
+        "name": [
+            "Nấm Ngọc Châm"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một loại nấm phổ biến thường thấy ngoài tự nhiên",
+            "Tuy nhiên, tìm thấy nó trong Vực Thẳm là khá hiếm"
+        ],
+        "ability": ""
+    },
+    "119": {
+        "name": [
+            "Nấm Lilac"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một loại nấm phổ biến thường thấy ngoài tự nhiên",
+            "Tuy nhiên, tìm thấy nó trong Vực Thẳm là khá hiếm"
+        ],
+        "ability": ""
+    },
+    "120": {
+        "name": [
+            "Nấm Phát Sáng"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một loại nấm phổ biến thường thấy ngoài tự nhiên",
+            "Tuy nhiên, tìm thấy nó trong Vực Thẳm là khá hiếm"
+        ],
+        "ability": ""
+    },
+    "121": {
+        "name": [
+            "Nấm Cô Dâu"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một loại nấm phổ biến thường thấy ngoài tự nhiên",
+            "Tuy nhiên, tìm thấy nó trong Vực Thẳm là khá hiếm"
+        ],
+        "ability": ""
+    },
+    "122": {
+        "name": [
+            "Dâu Tây Của ASABA"
+        ],
+        "subtitle": [
+            "\"Mmm... dâu tây... dâu tây của ta...\""
+        ],
+        "description": [
+            "Quả dâu tây thượng hạng, quý giá nhất mà ASABA không nỡ ăn.",
+            "Nhưng cho dù có tuyệt vọng bảo vệ nó đến đâu thì cuối cùng",
+            "nó vẫn chỉ là một vật trưng bày không hơn không kém—"
+        ],
+        "ability": ""
+    },
+    "127": {
+        "name": [
+            "Râu Bạch Tuộc"
+        ],
+        "subtitle": "",
+        "description": [
+            "Râu bạch tuộc bị đứt, lấy từ biển, khi nướng có mùi rất thơm",
+            "Cũng có thể nấu cùng các nguyên liệu khác"
+        ],
+        "ability": ""
+    },
+    "130": {
+        "name": [
+            "Cá Tráp"
+        ],
+        "subtitle": "",
+        "description": [
+            "Vừa đánh bắt từ biển, thích hợp làm sashimi",
+            "Cũng có thể nấu cùng các nguyên liệu khác"
+        ],
+        "ability": ""
+    },
+    "131": {
+        "name": [
+            "Cá Ngừ"
+        ],
+        "subtitle": "",
+        "description": [
+            "Vừa đánh bắt từ biển, thích hợp làm sashimi",
+            "Cũng có thể nấu cùng các nguyên liệu khác"
+        ],
+        "ability": ""
+    },
+    "132": {
+        "name": [
+            "Cá Vẹt Nhật Bản"
+        ],
+        "subtitle": "",
+        "description": [
+            "Vừa đánh bắt từ biển, thích hợp làm sashimi",
+            "Cũng có thể nấu cùng các nguyên liệu khác"
+        ],
+        "ability": ""
+    },
+    "133": {
+        "name": [
+            "Cá Mú"
+        ],
+        "subtitle": "",
+        "description": [
+            "Vừa đánh bắt từ biển, thích hợp làm sashimi",
+            "Cũng có thể nấu cùng các nguyên liệu khác"
+        ],
+        "ability": ""
+    },
+    "134": {
+        "name": [
+            "Cá Thu Đao"
+        ],
+        "subtitle": "",
+        "description": [
+            "Vừa đánh bắt từ biển, thích hợp làm sashimi",
+            "Cũng có thể nấu cùng các nguyên liệu khác"
+        ],
+        "ability": ""
+    },
+    "135": {
+        "name": [
+            "Tôm Ngọt"
+        ],
+        "subtitle": "",
+        "description": [
+            "Vừa đánh bắt từ biển, thích hợp làm sashimi",
+            "Cũng có thể nấu cùng các nguyên liệu khác"
+        ],
+        "ability": ""
+    },
+    "136": {
+        "name": [
+            "Tôm Hùm Gai"
+        ],
+        "subtitle": "",
+        "description": [
+            "Tôm hùm vừa đánh bắt từ biển, cẩn thận không bị kẹp",
+            "Cũng có thể nấu cùng các nguyên liệu khác"
+        ],
+        "ability": ""
+    },
+    "137": {
+        "name": [
+            "Cua Lông"
+        ],
+        "subtitle": "",
+        "description": [
+            "Cua vừa đánh bắt từ biển, cẩn thận không bị kẹp",
+            "Cũng có thể nấu cùng các nguyên liệu khác"
+        ],
+        "ability": ""
+    },
+    "139": {
+        "name": [
+            "X△X"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một con Sacabambaspis đã mất đi sinh khí sau khi bị cuốn vào một vụ nổ",
+            "Có lẽ nó chưa bao giờ tưởng tượng rằng mong muốn được “nhìn thấy đất liền” ",
+            "lại được thực hiện theo cách này..."
+        ],
+        "ability": ""
+    },
+    "142": {
+        "name": [
+            "Cá Hồi"
+        ],
+        "subtitle": "",
+        "description": [
+            "Vừa đánh bắt từ biển, thích hợp làm sashimi",
+            "Cũng có thể nấu cùng các nguyên liệu khác"
+        ],
+        "ability": ""
+    },
+    "143": {
+        "name": [
+            "Vua Cá Hồi"
+        ],
+        "subtitle": "",
+        "description": [
+            "Vừa đánh bắt từ biển, thích hợp làm sashimi",
+            "Cũng có thể nấu cùng các nguyên liệu khác"
+        ],
+        "ability": ""
+    },
+    "151": {
+        "name": [
+            "Thịt Quái Vật"
+        ],
+        "subtitle": "",
+        "description": [
+            "Thịt lấy từ một con quái vật. Có thể dùng để chế biến các món ăn ngon",
+            "Quái vật ăn người, và con người ăn quái vật, điều này là tự nhiên"
+        ],
+        "ability": ""
+    },
+    "153": {
+        "name": [
+            "Quả Trứng Lớn"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một quả trứng khổng lồ từ Vực Thẳm. Đây là trứng của sinh vật gì?",
+            "Tôi không suy nghĩ quá nhiều, trứng là trứng mà"
+        ],
+        "ability": ""
+    },
+    "173": {
+        "name": [
+            "Tiểu Tiên Chuối"
+        ],
+        "subtitle": "",
+        "description": [
+            "Cái quái gì thế này!?"
+        ],
+        "ability": ""
+    },
+    "175": {
+        "name": [
+            "Tiểu Tiên Táo"
+        ],
+        "subtitle": "",
+        "description": [
+            "Cái quái gì thế này!?"
+        ],
+        "ability": ""
+    },
+    "185": {
+        "name": [
+            "Personal Jesus"
+        ],
+        "beIndependent": true,
+        "subtitle": [
+            "\"Dirty Deeds Done Dirt Cheap...\""
+        ],
+        "description": [
+            "Một tạo vật tà ác do một Ác Quỷ chế tác sau khi quan sát",
+            "nền văn minh nhân loại. Mọi tội lỗi của kẻ mang theo đều được",
+            "ghi chép trung thực và chuyển hóa thành điểm. Những điểm này sau đó",
+            "có thể dâng cho ác quỷ để đổi lấy các ân huệ tà dị—"
+        ],
+        "ability": [
+            "Ghi nhận tội lỗi thành điểm. Mở khóa Giao Dịch Ác Quỷ"
+        ]
+    },
+    "187": {
+        "name": [
+            "Cuộn Băng Video Cũ"
+        ],
+        "beIndependent": true,
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "Một dạng lưu trữ đặc biệt chứa hình ảnh của một thời đại xa xưa, chỉ có thể",
+			"phát bằng những thiết bị chuyên dụng. Có giả thuyết cho rằng đây là sản phẩm",
+			"giả kim của một nền văn minh cổ xưa, dù chưa có bằng chứng xác thực.",
+			"Độ hiếm của nó khiến giới sưu tầm khao khát săn tìm"
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "188": {
+        "name": [
+            "Cuộn Băng Video Kinh Dị"
+        ],
+        "beIndependent": true,
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "Một dạng lưu trữ đặc biệt chứa hình ảnh của một thời đại xa xưa, chỉ có thể",
+			"phát bằng những thiết bị chuyên dụng. Có giả thuyết cho rằng đây là sản phẩm",
+			"giả kim của một nền văn minh cổ xưa, dù chưa có bằng chứng xác thực.",
+			"Nó dường như còn bị nguyền rủa — cảnh quay bên trong lúc nào cũng",
+            "mang vẻ rợn người đến bất thường."
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "189": {
+        "name": [
+            "Cuộn Băng Video Người Lớn"
+        ],
+        "beIndependent": true,
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "Một dạng lưu trữ đặc biệt chứa hình ảnh của một thời đại xa xưa, chỉ có thể",
+			"phát bằng những thiết bị chuyên dụng. Có giả thuyết cho rằng đây là sản phẩm",
+			"giả kim của một nền văn minh cổ xưa, dù chưa có bằng chứng xác thực.",
+			"Có vẻ là loại nội dung bị hạn chế, chứa đầy những cảnh quay",
+            "mang tính kích thích và gợi dục."
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "190": {
+        "name": [
+            "Doujinshi Yuri"
+		],
+        "beIndependent": true,
+		"subtitle": [
+		    "\"Onee-chan... em cảm thấy... em không thể sống thiếu chị được nữa...\""
+		],
+        "description": [
+            "Một doujinshi với tranh vẽ đẹp mắt. Nhưng nó mô tả một tình yêu",
+			"cấm kị giữa hai cô gái xinh đẹp... Câu chuyện nóng bỏng đến mức ",
+			"cả trang sách cũng tỏa ra hương thơm nhẹ nhàng."
+		],
+        "ability": [
+            "Tăng ham muốn sau khi đọc!"
+		]	
+    },
+    "191": {
+        "name": [
+            "Doujinshi Moe"
+		],
+        "beIndependent": true,
+		"subtitle": [
+		    "\"Moe moe kyun~♡\""
+		],
+        "description": [
+            "Một doujinshi tràn ngập bong bóng màu hồng và hiệu ứng hình trái tim.",
+			"Nhân vật đỏ mặt và bối rối vì những chuyện nhỏ nhặt...",
+			"Người ta nói bạn có thể sẽ thở dài \"thật moe~\" sau khi đọc."
+		],
+        "ability": [
+            "Tăng ham muốn sau khi đọc!"
+		]	
+    },
+    "192": {
+        "name": [
+            "Doujinshi Gái Mèo"
+		],
+        "beIndependent": true,
+		"subtitle": [
+		    "\"Chủ nhân... nya~ xoa đầu em được không?\""
+		],
+        "description": [
+            "Một doujinshi thoang thoảng mùi cỏ mèo.",
+			"Miêu tả các cô gái mèo kêu rừ rừ, lăn lộn và vẫy đuôi.",
+			"Có thể khiến bạn cân nhắc việc tìm một cô vợ biết nói 'nyan'..."
+		],
+        "ability": [
+            "Tăng ham muốn sau khi đọc!"
+		]	
+    },
+    "197": {
+        "name": [
+            "Elixir Rubrum"
+        ],
+        "beIndependent": true,
+        "subtitle": [
+            "\"Đây là sức mạnh kiên cường nhất trong tất cả các loại ý chí,",
+            "vững chắc và xuyên thấu qua mọi điều tinh vi\""
+        ],
+        "description": [
+            "Mảnh Hiền Triết nhuốm đỏ tuôn chảy như máu",
+            "Cách sử dụng đúng đắn vẫn chưa được biết, nhưng hiện tại, ",
+            "hãy thử uống nó như một loại đồ uống..."
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "198": {
+        "name": [
+            "Áo thun của \\str[120]"
+        ],
+        "beIndependent": true,
+        "subtitle": [
+            "\"Hiệp sĩ-sama...! Trên đó còn có cả chữ ký nữa...!\""
+        ],
+        "description": [
+            "Một chiếc áo thun quà tặng nhận được từ Hiệp sĩ, ",
+            "hiện được \\str[120] dùng làm đồ ngủ.",
+            "Kiểu dáng rộng mang lại cho em ấy một vẻ quyến rũ đầy sơ hở.",
+            "Để tránh phải giặt, em chỉ mặc nó khi tâm trạng rất tốt."
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "199": {
+        "name": [
+            "Phiếu Thưởng của \\str[120]"
+        ],
+        "subtitle": [
+            "\"Trên phiếu thưởng chi chít những nét vẽ nguệch ngoạc...\""
+		],
+        "description": [
+            "Một tấm phiếu thưởng do \\str[120] tự tay vẽ. \\str[121] có thể tìm kiếm sự  ",
+            "chiều chuộng từ \\str[120] dù yêu cầu có ích kỷ đến đâu, em ấy cũng sẽ chấp nhận.",
+            "Dù vậy, \\str[120] vẫn luôn muốn làm điều gì đó giúp đỡ ",
+			"\\str[121], dù có tấm phiếu này hay không—"
+        ],
+        "ability": ""
+    },
+    "200": {
+        "name": [
+            "Polaroid#1"
+        ],
+        "subtitle": [
+            "\"Cậu đang làm gì vậy, nhìn chằm chằm như thế...!\""
+        ],
+        "description": [
+            "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
+            "nhưng rốt cuộc ai là người đã chụp những tấm hình này?"
+        ],
+        "ability": ""
+    },
+    "201": {
+        "name": [
+            "Polaroid#2"
+        ],
+        "subtitle": [
+            "\"đây chỉ là cách thỏ thể hiện tình cảm thôi~\""
+        ],
+        "description": [
+            "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
+            "nhưng rốt cuộc ai là người đã chụp những tấm hình này?"
+        ],
+        "ability": ""
+    },
+    "202": {
+        "name": [
+            "Polaroid#3"
+        ],
+        "subtitle": [
+            "\"...Đã đủ sạch rồi phải không?\""
+        ],
+        "description": [
+            "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
+            "nhưng rốt cuộc ai là người đã chụp những tấm hình này?"
+        ],
+        "ability": ""
+    },
+    "203": {
+        "name": [
+            "Polaroid#4"
+        ],
+        "subtitle": [
+            "\"K-Không, tệ quá... thuốc mạnh quá!\""
+        ],
+        "description": [
+            "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
+            "nhưng rốt cuộc ai là người đã chụp những tấm hình này?"
+        ],
+        "ability": ""
+    },
+    "204": {
+        "name": [
+            "Polaroid#5"
+        ],
+        "subtitle": [
+            "\"Chúa ơi, tha thứ cho con vì đã bị cám dỗ bởi tiền bạc...\""
+        ],
+        "description": [
+            "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
+            "nhưng rốt cuộc ai là người đã chụp những tấm hình này?"
+        ],
+        "ability": ""
+    },
+    "205": {
+        "name": [
+            "Polaroid#6"
+        ],
+        "subtitle": [
+            "\"Gâu... Chẳng phải đã đủ rồi sao...?\""
+        ],
+        "description": [
+            "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
+            "nhưng rốt cuộc ai là người đã chụp những tấm hình này?"
+        ],
+        "ability": ""
+    },
+    "206": {
+        "name": [
+            "Polaroid#7"
+        ],
+        "subtitle": [
+            "\"Hehe~♥ Cậu không thấy gì chứ?\""
+        ],
+        "description": [
+            "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
+            "nhưng rốt cuộc ai là người đã chụp những tấm hình này?"
+        ],
+        "ability": ""
+    },
+    "207": {
+        "name": [
+            "Polaroid#8"
+        ],
+        "subtitle": [
+            "\"Thôi nào, tư thế này chắc ổn rồi chứ?\""
+        ],
+        "description": [
+            "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
+            "nhưng rốt cuộc ai là người đã chụp những tấm hình này?"
+        ],
+        "ability": ""
+    },
+    "208": {
+        "name": [
+            "Polaroid#9"
+        ],
+        "subtitle": [
+            "\"Sao cậu lại có vẻ mặt thích thú thế kia...?\""
+        ],
+        "description": [
+            "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
+            "nhưng rốt cuộc ai là người đã chụp những tấm hình này?"
+        ],
+        "ability": ""
+    },
+    "209": {
+        "name": [
+            "Polaroid#10"
+        ],
+        "subtitle": [
+            "\"Tớ không thể... hát tiếp được nữa...!\""
+        ],
+        "description": [
+            "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
+            "nhưng rốt cuộc ai là người đã chụp những tấm hình này?"
+        ],
+        "ability": ""
+    },
+    "210": {
+        "name": [
+            "Polaroid#11"
+        ],
+        "subtitle": [
+            "\"Vậy, đây là điều ước năm mới của cậu à?\""
+        ],
+        "description": [
+            "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
+            "nhưng rốt cuộc ai là người đã chụp những tấm hình này?"
+        ],
+        "ability": ""
+    },
+    "211": {
+        "name": [
+            "Polaroid#12"
+        ],
+        "subtitle": [
+            "\"Ah, ngay cả trà cũng bắt đầu ngọt hơn rồi!\""
+        ],
+        "description": [
+            "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
+            "nhưng rốt cuộc ai là người đã chụp những tấm hình này?"
+        ],
+        "ability": ""
+    },
+    "212": {
+        "name": [
+            "Polaroid#13"
+        ],
+        "subtitle": [
+            "\"Thôi, vì là công việc bán thời gian nên tớ chịu thôi...\""
+        ],
+        "description": [
+            "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
+            "nhưng rốt cuộc ai là người đã chụp những tấm hình này?"
+        ],
+        "ability": ""
+    },
+    "213": {
+        "name": [
+            "Polaroid#14"
+        ],
+        "subtitle": [
+            "\"Ôi, cậu vào mà không gõ cửa sao~\""
+        ],
+        "description": [
+            "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
+            "nhưng rốt cuộc ai là người đã chụp những tấm hình này?"
+        ],
+        "ability": ""
+    },
+    "214": {
+        "name": [
+            "Polaroid#15"
+        ],
+        "subtitle": [
+            "\"Vậy sao...? Một kiểu tỏ tình mà tớ chưa từng nghe qua...\""
+        ],
+        "description": [
+            "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
+            "nhưng rốt cuộc ai là người đã chụp những tấm hình này?"
+        ],
+        "ability": ""
+    },
+    "215": {
+        "name": [
+            "Polaroid#16"
+        ],
+        "subtitle": [
+            "\"Haa... Haa... Tớ không chịu nổi nữa...!\""
+        ],
+        "description": [
+            "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
+            "nhưng rốt cuộc ai là người đã chụp những tấm hình này?"
+        ],
+        "ability": ""
+    },
+    "216": {
+        "name": [
+            "Polaroid#17"
+        ],
+        "subtitle": [
+            "\"Ôi Chúa... xin tha thứ cho con...\""
+        ],
+        "description": [
+            "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
+            "nhưng rốt cuộc ai là người đã chụp những tấm hình này?"
+        ],
+        "ability": ""
+    },
+    "217": {
+        "name": [
+            "Polaroid#18"
+        ],
+        "subtitle": [
+            "\"Woof... Như vậy là đủ chưa...?\""
+        ],
+        "description": [
+            "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
+            "nhưng rốt cuộc ai là người đã chụp những tấm hình này?"
+        ],
+        "ability": ""
+    },
+    "218": {
+        "name": [
+            "Polaroid#19"
+        ],
+        "subtitle": [
+            "\"...Meo?\""
+        ],
+        "description": [
+            "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
+            "nhưng rốt cuộc ai là người đã chụp những tấm hình này?"
+        ],
+        "ability": ""
+    },
+    "219": {
+        "name": [
+            "Polaroid#20"
+        ],
+        "subtitle": [
+            "\"...Hả? Vẫn chưa dọn xong à?\""
+        ],
+        "description": [
+            "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
+            "nhưng rốt cuộc ai là người đã chụp những tấm hình này?"
+        ],
+        "ability": ""
+    },
+    "220": {
+        "name": [
+            "Polaroid#21"
+        ],
+        "subtitle": [
+            "\"Haa... Đây là bài hát thứ 11... Như vậy là đủ chưa?\""
+        ],
+        "description": [
+            "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
+            "nhưng rốt cuộc ai là người đã chụp những tấm hình này?"
+        ],
+        "ability": ""
+    },
+    "221": {
+        "name": [
+            "Polaroid#22"
+        ],
+        "subtitle": [
+            "\"Tại sao ánh nhìn lại nóng rực thế này...?\""
+        ],
+        "description": [
+            "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
+            "nhưng rốt cuộc ai là người đã chụp những tấm hình này?"
+        ],
+        "ability": ""
+    },
+    "222": {
+        "name": [
+            "Polaroid#23"
+        ],
+        "subtitle": [
+            "\"Nguyện ước năm mới của cậu đã thành hiện thực ngay lập tức, vui không?\""
+        ],
+        "description": [
+            "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
+            "nhưng rốt cuộc ai là người đã chụp những tấm hình này?"
+        ],
+        "ability": ""
+    },
+    "223": {
+        "name": [
+            "Polaroid#24"
+        ],
+        "subtitle": [
+            "\"Cậu có cảm nhận được tình yêu của thỏ không~♥\""
+        ],
+        "description": [
+            "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
+            "nhưng rốt cuộc ai là người đã chụp những tấm hình này?"
+        ],
+        "ability": ""
+    },
+    "224": {
+        "name": [
+            "Polaroid#25"
+        ],
+        "subtitle": [
+            "\"Một chú thỏ kỳ lạ bị bỏ rơi...\""
+        ],
+        "description": [
+            "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
+            "nhưng rốt cuộc ai là người đã chụp những tấm hình này?"
+        ],
+        "ability": ""
+    },
+    "225": {
+        "name": [
+            "Polaroid#26"
+        ],
+        "subtitle": [
+            "\"Suýt chút thì bị bắt quả tang rồi...\""
+        ],
+        "description": [
+            "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
+            "nhưng rốt cuộc ai là người đã chụp những tấm hình này?"
+        ],
+        "ability": ""
+    },
+    "226": {
+        "name": [
+            "Polaroid#27"
+        ],
+        "subtitle": [
+            "\"Vào mà không gõ cửa... cậu đang làm gì thế~♥\""
+        ],
+        "description": [
+            "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
+            "nhưng rốt cuộc ai là người đã chụp những tấm hình này?"
+        ],
+        "ability": ""
+    },
+    "227": {
+        "name": [
+            "Polaroid#28"
+        ],
+        "subtitle": [
+            "\"Lạ thật... Mình dường như không cài được...\""
+        ],
+        "description": [
+            "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
+            "nhưng rốt cuộc ai là người đã chụp những tấm hình này?"
+        ],
+        "ability": ""
+    },
+    "228": {
+        "name": [
+            "Polaroid#29"
+        ],
+        "subtitle": [
+            "\"...Ở đây chẳng có ai đang nhìn chứ?\""
+        ],
+        "description": [
+            "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
+            "nhưng rốt cuộc ai là người đã chụp những tấm hình này?"
+        ],
+        "ability": ""
+    },
+    "229": {
+        "name": [
+            "Polaroid#30"
+        ],
+        "subtitle": [
+            "\"Hehe~♥ Không có gì xảy ra, đúng chứ?\""
+        ],
+        "description": [
+            "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
+            "nhưng rốt cuộc ai là người đã chụp những tấm hình này?"
+        ],
+        "ability": ""
+    },
+    "230": {
+        "name": [
+            "Polaroid#31"
+        ],
+        "subtitle": [
+            "\"Mmm... Trà giờ còn ngọt hơn nữa...!\""
+        ],
+        "description": [
+            "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
+            "nhưng rốt cuộc ai là người đã chụp những tấm hình này?"
+        ],
+        "ability": ""
+    },
+    "231": {
+        "name": [
+            "Polaroid#32"
+        ],
+        "subtitle": [
+            "\"Tớ biết đây là một phần công việc, nhưng chỉ lần này thôi, được chứ?\""
+        ],
+        "description": [
+            "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
+            "nhưng rốt cuộc ai là người đã chụp những tấm hình này?"
+        ],
+        "ability": ""
+    },
+    "232": {
+        "name": [
+            "Polaroid#33"
+        ],
+        "subtitle": [
+            "\"V-Vui lòng không chạm vào hàng hóa một cách tùy tiện!\""
+        ],
+        "description": [
+            "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
+            "nhưng rốt cuộc ai là người đã chụp những tấm hình này?"
+        ],
+        "ability": ""
+    },
+    "233": {
+        "name": [
+            "Polaroid#34"
+        ],
+        "subtitle": [
+            "\"Nhai, nhai... Cũng tạm được, tôi đoán vậy...\""
+        ],
+        "description": [
+            "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
+            "nhưng rốt cuộc ai là người đã chụp những tấm hình này?"
+        ],
+        "ability": ""
+    },
+    "234": {
+        "name": [
+            "Polaroid#35"
+        ],
+        "subtitle": [
+            "\"Chủ nhân? Xin đừng trêu em vào lúc này...\""
+        ],
+        "description": [
+            "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
+            "nhưng rốt cuộc ai là người đã chụp những tấm hình này?"
+        ],
+        "ability": ""
+    },
+    "235": {
+        "name": [
+            "Album Polaroid"
+        ],
+        "beIndependent": true,
+        "subtitle": [
+            "\"Những cô gái mềm mại và đáng yêu ♥ Tôi muốn mang tất cả về nhà—!\""
+        ],
+        "description": [
+            "Một cuốn album được làm đặc biệt để sưu tầm các bức ảnh dễ thương",
+            "của các cô gái. Mở ra thoang thoảng hương trà đen..."
+        ],
+        "ability": [
+		    "Polaroid đã sưu tầm: \\c[6]${QJ.MPMZ.tl.checkPolaroidCount()}\\c[0]/35"
+		]
+    },
+    "236": {
+        "name": [
+            "Album Polaroid"
+        ],
+        "beIndependent": true,
+        "subtitle": [
+            "\"Những cô gái mềm mại và đáng yêu ♥ Tôi muốn mang tất cả về nhà—!\""
+        ],
+        "description": [
+            "Một cuốn album được làm đặc biệt để sưu tầm các bức ảnh dễ thương",
+            " của các cô gái. Mở ra thoang thoảng hương trà đen..."
+        ],
+        "ability": [
+		    "Bộ sưu tập đã hoàn chỉnh! Vận may tăng vĩnh viễn!"
+		]
+    },
+    "311": {
+        "name": [
+            "Lam Thạch Phát Sáng"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một viên đá quý màu xanh với ánh sáng quyến rũ",
+            "Tuy không có nhiều giá trị thực tiễn, nhưng có lẽ ai đó sẽ sẵn sàng trả",
+            "một cái giá cao cho nó… hay họ có ý đồ toan tính khác?"
+        ],
+        "ability": ""
+    },
+    "312": {
+        "name": [
+            "Tinh Thạch Mana Nhỏ"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một chất dạng thạch được hình thành hoàn toàn từ mana cô đặc. Có thể",
+            "ăn được, nhưng hương vị thay đổi nhiều tùy theo trình độ ma pháp của",
+            "người dùng. Công dụng chính là làm nguyên liệu tiêu thụ cho phép thuật."
+        ],
+        "ability": ""
+    },
+    "314": {
+        "name": [
+            "Hỏa Linh Thạch"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một viên đá quý đỏ tỏa ra ánh sáng mê hoặc.",
+            "Tuy không có nhiều giá trị thực tiễn, nhưng có lẽ ai đó sẽ sẵn sàng trả",
+            "một cái giá cao cho nó… hay họ có ý đồ toan tính khác?"
+        ],
+        "ability": ""
+    },
+    "315": {
+        "name": [
+            "Biên lai phạt của Neko"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một tờ biên lai phạt nhận được sau khi bị đánh ngay tại chỗ vì lấy hàng ",
+            "mà không xin phép. Đúng là tôi ra tay trước, nhưng sau khi bị cho một trận, ",
+            "một phần tiền trên người tôi cũng bị cưỡng ép lấy đi.",
+            "Cách xử lý như vậy cảm giác khá là tàn bạo…"
+        ],
+        "ability": ""
+    },
+    "320": {
+        "name": [
+            "Đá Địa Ngục"
+        ],
+        "subtitle": [
+            "\"Nhà mạo hiểm giả đầu tiên khai thác và mang nó ra ngoài tên là Kyurame.",
+            "Anh ta đã từ chối việc đặt tên theo mình vì nghe quá chuuni—\""
+        ],
+        "description": [
+            "Một loại quặng đặc biệt chỉ được tìm thấy ở những tầng sâu của Vực Thẳm.",
+            "Nó chứa nguồn ma lực bỏng rát, nhưng lại cứng một cách khác thường, ",
+            "và chỉ có thể được khai thác cũng như gia công bằng những phương pháp nhất định."
+        ],
+        "ability": ""
+    }
+}

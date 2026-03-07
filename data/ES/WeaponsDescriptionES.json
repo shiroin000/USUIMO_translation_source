@@ -1,0 +1,774 @@
+{ 
+    "1": { 
+        "name": [ 
+            "Espada de madera noble" 
+        ], 
+        "subtitle": "", 
+        "description": [ 
+            "Se dice que el héroe también comenzó su", 
+            "viaje desde la aldea inicial con una espada de madera", 
+            "Esto se ha convertido en un objetivo para muchos aventureros" 
+        ], 
+        "ability": [ 
+            "Inflige daño adicional cuando el arma está a punto de romperse" 
+        ] 
+    }, 
+    "2": { 
+        "name": [ 
+            "Palo de madera noble" 
+        ], 
+        "subtitle": "", 
+        "description": [ 
+            "Un palo de madera resistente y de gran forma", 
+            "perfecto para niños, también es decente como arma" 
+        ], 
+        "ability": [ 
+            "Inflige daño adicional cuando el arma está a punto de romperse" 
+        ] 
+    }, 
+    "3": { 
+        "name": [ 
+            "Hacha de leñador" 
+        ], 
+        "subtitle": "", 
+        "description": [ 
+            "Un compañero confiable para aventureros o pioneros que exploran", 
+            "bosques. Sin embargo, como no está diseñado para el combate,", 
+            "no confíes demasiado en él en batalla" 
+        ], 
+        "ability": [ 
+            "Inflige daño aumentado a los árboles" 
+        ] 
+    }, 
+    "4": { 
+        "name": [ 
+            "Puño Cerrado" 
+        ], 
+        "subtitle": "", 
+        "description": [ 
+            "¿No tienes un arma equipada? ¡Entonces simplemente desata una ráfaga de puñetazos!", 
+            "Puede que sea una solución rápida, pero un puño lleno de energía pega fuerte", 
+			"¿Para qué usar un arma cuando tus puños pueden hacer el trabajo?" 
+        ], 
+        "ability": [ 
+            "¡El daño de los puñetazos aumenta con los PS máximos!" 
+        ] 
+    }, 
+    "5": { 
+        "name": [ 
+            "Espada del Caballero" 
+        ], 
+        "subtitle": "", 
+        "description":[ 
+            "Un arma usada por mi padre en su juventud", 
+            "bien mantenida y aparentemente entregada a los caballeros de la corte" 
+        ], 
+        "ability": [ 
+            "Cuando HP<\\c[10]30%\\c[0], el ataque de esta arma se duplica" 
+        ] 
+    }, 
+    "6": { 
+        "name": [ 
+            "Bastón de lava" 
+        ],
+        "subtitle": "", 
+        "description": [ 
+            "Una varita hecha de minerales volcánicos,", 
+            "concentra fácilmente elementos de fuego. Sin embargo, un pequeño error ",
+            "puede hacer que explote y envuelva al usuario" 
+        ], 
+        "ability": [ 
+            "Mantén pulsado el botón derecho del ratón para lanzar \\c[27]Meteoro de Loto Carmesí\\c[0]" 
+        ] 
+    }, 
+    "7": { 
+        "name": [ 
+            "Bastón de Hielo" 
+        ], 
+        "subtitle": "",  
+        "description": [ 
+            "Una varita hecha de cristales mágicos, libera escarcha de amplio alcance",
+            "Muy difícil de controlar. Siento como si me congelara la mano" 
+        ], 
+        "ability": [ 
+            "Mantén pulsado el botón derecho del ratón para lanzar \\c[27]Hechizo Congelado\\c[0]" 
+        ] 
+    }, 
+    "8": { 
+        "name": [ 
+            "Pluma Extraña" 
+        ], 
+        "subtitle": "", 
+        "description": [ 
+            "Una pluma de un pájaro extraño. Extremadamente ligera y puede", 
+            "generar fácilmente la fuerza suficiente para volar a alguien" 
+        ], 
+        "ability": [ 
+            "La velocidad de movimiento aumenta al usar Corte Torbellino", 
+			"Entra en un estado de flotación inmune a las caídas tras el aumento de la velocidad de giro" 
+        ] 
+    }, 
+    "9": { 
+        "name": [ 
+            "Espada de caballero" 
+        ], 
+        "subtitle": "", 
+        "description": [ 
+            "Armas asignadas a los caballeros del palacio", 
+            "Simbolizan el camino de protección para los caballeros" 
+        ], 
+        "ability": [ 
+            "Cuando HP<\\c[10]30%\\c[0], el ataque de esta arma se duplica" 
+        ] 
+    }, 
+    "10": { 
+        "name": [ 
+            "Espada magna de plata" 
+        ], 
+        "subtitle": "", 
+        "description": [ 
+            "Una espada magna, aparentemente forjada en plata", 
+            "irradiando un brillo deslumbrante. Su superficie brilla fría y dura",
+            "aunque su verdadero material sigue siendo desconocido" 
+        ], 
+        "ability": [ 
+            "Cuando los HP caen por debajo de \\c[29]400\\c[0], ¡el potencial completo del arma es limitado!" 
+        ] 
+    }, 
+    "11": { 
+        "name": [ 
+            "Mazo pesado" 
+        ], 
+        "subtítulo": "",
+        "description": [ 
+            "Un martillo de madera voluminoso", 
+            "¡Un golpe en la cabeza seguro que te marea!" 
+        ], 
+        "ability": [ 
+            "33% de probabilidad de infligir estado de aturdimiento al atacar", 
+            "¡Cuando los PS caen por debajo de \\c[29]400\\c[0], el potencial completo del arma es limitado!" 
+        ] 
+    }, 
+    "12": { 
+        "name": [ 
+            "Bate de béisbol" 
+        ], 
+        "subtitle": "", 
+        "description": [ 
+            "Un garrote de metal. Se dice que se usa para deportes", 
+            "pero también es genial para golpear gente." 
+        ], 
+        "ability": [ 
+            "¡Mejora la durabilidad!", 
+			"Los proyectiles reflejados se mueven más rápido y causan más daño" 
+        ] 
+    }, 
+    "13": { 
+        "name": [ 
+            "Espina de pescado podrida" 
+        ], 
+        "subtitle": [ 
+            "\"¡Huele demasiado, tírala!\"" 
+		], 
+        "description": [ 
+            "Espinas sobrantes de un pez grande, con carne podrida", 
+            "aún adheridas a ellas, emitiendo un hedor insoportable" 
+        ], 
+        "ability": [ 
+            "66% de probabilidad de infligir estado Veneno al atacar", 
+			"¡Desprende un hedor tan repugnante que incluso los monstruos huyen!" 
+        ] 
+    }, 
+    "14": { 
+        "name": [ 
+            "Garra de Cangrejo Gigante" 
+        ], 
+        "subtitle": "", 
+        "description": [ 
+            "Una enorme pinza de cangrejo que se agarra fuerte y no se suelta", 
+            "Una vez que se engancha a algo, buena suerte quitándolo" 
+        ], 
+        "ability": [ 
+            "Al lanzarla, se agarra al objetivo, infligiendo daño constante", 
+            "No se puede recuperar a menos que el objetivo muera" 
+        ] 
+    }, 
+    "15": { 
+        "name": [ 
+            "Luna de Escarcha" 
+        ], 
+        "subtitle": [ 
+		    "\"Lamí la hoja y se me pegó la lengua... ¡Qué frío, qué dolor!\"", 
+			"\"\\str[121],¡No lamas cosas al azar!\"" 
+		], 
+        "description": [ 
+            "Una espada mágica hecha de hielo, solo cerca de ella envía un frío escalofriante" 
+        ], 
+        "ability": [ 
+            "50% de probabilidad de infligir estado de congelación al atacar" 
+        ] 
+    }, 
+    "16": { 
+        "name": [
+            "Espada Eléctrica con Fugas" 
+        ], 
+        "subtitle": [ 
+            "\"¡Zap... zap...!\""		 
+		], 
+        "description": [ 
+            "Una espada maldita llena de energía salvaje, pero aún así es defectuosa", 
+            "Cuidado, también podría electrocutar al usuario" 
+        ], 
+        "ability": [ 
+            "50% de probabilidad de infligir estado Relámpago al atacar" 
+        ] 
+    }, 
+    "17": { 
+        "name": [ 
+            "Llamarada Solar" 
+        ], 
+        "subtitle": [ 
+            "\\str[121], se ve aterrador, por favor no la sostengas.\""		 
+		], 
+        "description": [ 
+            "Una espada mágica que ha absorbido energía solar con el tiempo", 
+            "Parece particularmente efectiva contra ciertos monstruos" 
+        ], 
+        "ability": [ 
+            "40% de probabilidad de infligir estado Quemadura al atacar" 
+        ] 
+    }, 
+    "18": { 
+        "name": [ 
+            "Hacha de Hueso Orco" 
+        ], 
+        "subtitle": "", 
+        "description": [ 
+            "Un hacha grande hecha con los huesos de enemigos derrotados no muy afilada,", 
+			"y los orcos a menudo prefieren lanzarla en lugar de", 
+            "usarla en combate cuerpo a cuerpo." 
+        ], 
+        "ability": [ 
+            "Inflige daño adicional al lanzar el arma" 
+        ] 
+    }, 
+    "19": { 
+        "name": [ 
+            "Nichirin" 
+        ], 
+        "subtítulo": "", 
+        "description": [ 
+            "Una réplica forjada a imitación del demonio llameante prohibido", 
+            "espada mítica. Naturalmente, no puede invocar el fuego abrasador de la tierra", 
+			"infierno como el original auténtico." 
+        ], 
+        "ability": [ 
+            "Puede invocar un meteorito que impacta en una ubicación aleatoria al atacar" 
+        ] 
+    }, 
+    "20": { 
+        "name": [ 
+            "Espada de Hierro Oxidado" 
+        ], 
+        "subtítulo": "", 
+        "description":[ 
+            "Una vieja espada de hierro cubierta de óxido, que perdió su filo hace mucho tiempo", 
+            "Desde otra perspectiva, la corrosión en sí misma es peligrosamente letal..." 
+        ], 
+        "ability": [ 
+            "15% de probabilidad de infligir estado Veneno al atacar", 
+			"Siempre inflige Veneno a objetivos sangrantes" 
+        ]
+    }, 
+    "21": { 
+        "name": [ 
+            "Del infierno" 
+        ], 
+        "subtitle": [ 
+            "\"Esta cosa tiene sed de sangre...\""		 
+		], 
+        "description": [ 
+            "Una de las armas usadas por un notorio asesino en serie", 
+            "está cubierta de sangre" 
+        ], 
+        "ability": [ 
+            "45% de probabilidad de infligir estado de sangrado al atacar" 
+        ] 
+    }, 
+    "22": { 
+        "name": [ 
+            "Martillo de forja" 
+        ], 
+        "subtitle": [ 
+        ], 
+        "description": [ 
+            "Un martillo pesado que alguna vez usaron los herreros para forjar metal", 
+			"Ahora lo sostiene alguien y lo usa para todo tipo de propósitos extraños" 
+        ], 
+        "ability": [ 
+            "Golpear un arma colocada sobre el yunque la repara", 
+			"Desequipar este martillo también disipa el yunque invocado" 
+        ] 
+    }, 
+    "25": { 
+        "name": [ 
+            "Canción del sierpe de marea" 
+        ], 
+        "subtitle": "", 
+        "description": [ 
+            "Un bastón hecho de cristales mágicos húmedos, siempre Empapada", 
+            "Solo revela su verdadero poder al usar agua como medio", 
+			"¡bastante inconveniente!" 
+        ], 
+        "ability": [ 
+		    "Lanzar hechizos cerca del agua potencia la magia", 
+            "Mantén pulsado el botón derecho del ratón para lanzar Ondulación" 
+        ] 
+    }, 
+    "24": { 
+        "name": [ 
+            "Hacha de orco de tormenta" 
+        ], 
+        "subtitle": "", 
+        "description": [ 
+            "Un hacha larga empuñada por un orco en sintonía con el poder de la naturaleza.", 
+            "Cada golpe rasga la tierra y envía vendavales aullando con la hoja" 
+        ], 
+        "ability": [ 
+            "Tiene la posibilidad de desatar una ráfaga de viento al atacar", 
+            "Cuando los PS caen por debajo de \\c[29]400\\c[0], ¡el potencial completo del arma es limitado!" 
+        ] 
+    }, 
+    "26": { 
+        "name":[ 
+            "Noche estrellada" 
+        ], 
+        "subtítulo": "", 
+        "description": [ 
+            "Un bastón adornado con gemas que brillan como la Vía Láctea.", 
+			"Tiene el poder de crear un fuerte campo gravitacional", 
+            "atrayendo a los intrusos a las profundidades de la oscuridad"
+        ], 
+        "ability": [ 
+            "Mantén pulsado el botón derecho del ratón para lanzar Agujero Negro" 
+        ] 
+    }, 
+    "27": { 
+        "name": [ 
+            "Hoja de Esporas Tóxicas" 
+        ], 
+        "subtitle": "", 
+        "description": [ 
+            "Una espada delgada que dejaron caer los Hongos Caminantes. Su hoja sin filo", 
+            "está recubierta de esporas tóxicas, lo que garantiza veneno en cada golpe", 
+            "Aunque tiene poca durabilidad, sus toxinas la hacen muy efectiva" 
+        ], 
+        "ability": [ 
+            "Los ataques tienen un 50 % de probabilidad de infligir estado de Veneno" 
+        ] 
+    }, 
+    "29": { 
+        "name": [ 
+            "Bastón Azote de Plagas" 
+        ], 
+        "subtitle": "", 
+        "description": [ 
+            "Un bastón especial modificado por un alquimista atormentado durante mucho tiempo por plagas.", 
+			"Puede generar instantáneamente un gas tóxico para matar pequeñas criaturas,", 
+			"y se dice que también desodoriza y desinfecta" 
+        ], 
+        "ability": [ 
+            "Mantén pulsado el botón izquierdo del ratón para lanzar Magia de Exterminio" 
+        ] 
+    }, 
+    "30": { 
+        "name": [ 
+            "Kanesada" 
+        ], 
+        "subtitle": "", 
+        "description": [ 
+            "Una querida katana que acompañó a una chica en su lucha por", 
+            "la cima de la esgrima, sin soltarla jamás, ni siquiera en el sueño", 
+            "Afilada o no, permanece como testigo de su camino" 
+        ], 
+        "ability": [ 
+            "Aumenta enormemente los efectos de todas las abilityes aprendidas" 
+        ] 
+    }, 
+    "35": { 
+        "name": [ 
+            "Claíomh Solais" 
+        ], 
+        "subtitle": [ 
+            "\"¿Eh? ¡No veo nada! ¿¡Esto no es la empuñadura de una espada!?\""		 
+		], 
+        "description": [ 
+            "Bendecida por la luz, la hoja dobla la luz, convirtiéndose en una espada invisible", 
+            "Esto la hace extremadamente afilada y, cuando es necesario, desata su resplandor" 
+        ],
+        "ability": [ 
+            "Los ataques ignoran completamente la defensa del objetivo" 
+        ] 
+    }, 
+    "36": { 
+        "name": [ 
+            "Tyrfing" 
+        ], 
+        "subtítulo": "", 
+        "description": [
+            "Una espada mágica hecha por el hombre con una hoja forjada de cristales de maná", 
+            "Cada corte desata una onda de espada tangible. Para espadachines expertos", 
+            "es un arma que mejora enormemente su poder" 
+        ], 
+        "ability": [  
+            "Los ataques generan ondas de espada que infligen daño" 
+        ] 
+    }, 
+    "40": { 
+        "name": [ 
+            "Martillo antibullying" 
+        ], 
+        "subtitle": [ 
+		    "\"¡NO AL BULLYING!\"" 
+		], 
+        "description": [ 
+            "Un arma nacida para castigar a los aventureros malvados.", 
+            "Aunque solo es un martillo de juguete, recibir un golpe duele." 
+        ], 
+        "ability": [ 
+            "Inflige daño de retroceso cuando se usa para malas acciones", 
+			"Cuanto menor sea tu valor de Pecado, mayor será su daño" 
+        ] 
+    }, 
+    "42": { 
+        "name": [ 
+            "Guadaña de mano de Den" 
+        ], 
+        "subtitle": [ 
+		    "\"¡Recuerda esto, el Corte Torbellino se usa así! \"" 
+		], 
+        "description": [ 
+            "Una guadaña de mango corto, portada por un forastero,", 
+			"con un diseño temible y una voluntad interior.", 
+			"Si la usas demasiado tiempo, puede causar que voces extrañas resuenen en tu mente" 
+        ], 
+        "ability": [ 
+            "Regresa automáticamente a la mano tras ser lanzada y golpear", 
+			"Al atrapar el arma que regresa, puedes lanzarla de nuevo" 
+        ] 
+    }, 
+    "51": { 
+        "name": [ 
+            "Paleta de sabores mixtos" 
+        ], 
+        "subtitle": "", 
+        "description": [ 
+            "Un arma comestible elaborada con esmero por Kanban Musume de la NLCH", 
+            "Una paleta de tres sabores que combina chocolate, crema y fresa", 
+			"¡Refrescante y deliciosa! Pero asegúrate de terminarla antes de que se derrita..." 
+        ], 
+        "ability": [ 
+            "Podría ser devorada al atacar...", 
+			"Se derrite y desaparece con el tiempo al equiparla..." 
+        ] 
+    }, 
+    "52":{ 
+        "name": [ 
+            "Unidad 2" 
+        ], 
+        "subtitle": "", 
+        "description": [ 
+            "Un dispositivo de comunicación comprado en una tienda sospechosa", 
+            "Solo grita '¡Fuego!' y recibirás apoyo de francotiradores",
+            "en algún lugar. Pero, tienes que pagar la factura del teléfono tú mismo" 
+        ], 
+        "ability": [ 
+		    "Clic izquierdo para solicitar fuego de apoyo, 1000 yenes por uso", 
+            "Clic derecho para solicitar un francotirador de largo alcance, 500 yenes por uso" 
+        ] 
+    }, 
+    "53": { 
+        "name": [ 
+            "Espadón cónico" 
+        ], 
+        "subtitle": "", 
+        "description": [ 
+            "Un arma comestible elaborada con esmero por Kanban Musume de NLCH",  
+            "¡Si bien mantiene su rendimiento de arma, también es deliciosa!" 
+        ], 
+        "ability": [ 
+            "Puede ser devorada al atacar...", 
+			"Se derrite y desaparece con el tiempo cuando está equipada..." 
+        ] 
+    }, 
+    "54": { 
+        "name": [ 
+            "Espada Magnífica Zanahoria" 
+        ], 
+        "subtitle": "", 
+        "description": [ 
+            "Una zanahoria de primera calidad cultivada en secreto por la Conejita", 
+            "Imbuida con el poder de la piedra, creció hasta convertirse en un manjar", 
+			"tan tentadora que podría hacer llorar de deseo a una Conejita" 
+        ], 
+        "ability": [ 
+            "Puede ser devorada al atacar...", 
+			"Al lanzarla, atraviesa y golpea a todas las unidades a su paso" 
+        ] 
+    }, 
+    "55": { 
+        "name": [ 
+            "Espada Magnífica Zanahoria Congelada" 
+        ], 
+        "subtitle": "", 
+        "description": [ 
+            "Una zanahoria de primera calidad cultivada en secreto por la Conejita", 
+			"Después de congelarse, es dura como una piedra e imposible de morder", 
+            "Se rumorea que este era el alijo de invierno de la Conejita" 
+        ], 
+        "ability": [ 
+            "40% de probabilidad de infligir estado de congelación al atacar", 
+			"Al lanzarlo, perfora y golpea a todas las unidades en su camino" 
+        ] 
+    }, 
+    "56": { 
+        "name": [ 
+            "Espadón de zanahoria mohosa" 
+        ], 
+        "subtitle": "", 
+        "description":[ 
+            "Una zanahoria de primera calidad cultivada en secreto por la Conejita", 
+			"Almacenada por mucho tiempo, ahora está mohosa y podrida...", 
+			"Ya no es comestible; la Conejita la guarda para ahuyentar a los enemigos" 
+        ], 
+        "ability": [ 
+            "40% de probabilidad de infligir estado Veneno al atacar", 
+			"Al lanzarla, atraviesa y golpea a todas las unidades en su camino" 
+        ]
+    }, 
+    "57": { 
+        "name": [ 
+            "¿Zanahoria?" 
+        ], 
+        "subtitle": "", 
+        "description": [ 
+            "Una zanahoria de primera...", 
+            "¿Eh? ¿De verdad es esto... una zanahoria?" 
+        ], 
+        "ability": [ 
+            "Al lanzarla, atraviesa y golpea a todas las unidades a su paso" 
+        ] 
+    }, 
+    "60": { 
+        "name": [ 
+            "¿Plátano?" 
+        ], 
+        "subtitle": [ 
+            "\"¿De verdad es esto un plátano...?\""		 
+		], 
+        "description": [ 
+            "Un plátano pelado que hay que sujetar con cuidado" 
+        ], 
+        "ability": [ 
+            "A altas velocidades, es fácil lanzar el plátano... ¡Uf!" 
+        ] 
+    }, 
+    "61": { 
+        "name": [ 
+            "Aspiradora de Caracol Gigante" 
+        ], 
+        "subtitle": "", 
+        "description": [ 
+            "Una aspiradora hecha del caparazón de un caracol gigante", 
+            "Flujo de aire modificado para una succión potente" 
+        ], 
+        "ability": [ 
+            "Mantén presionado el mouse para acercar objetos" 
+        ] 
+    }, 
+    "62": { 
+        "name": [ 
+            "Remanente de Árbol Antiguo" 
+        ], 
+        "subtitle": "", 
+        "description": [ 
+            "Una extraña arma de rama, obtenida del tronco de un árbol antiguo", 
+            "dura pero rebosante de vitalidad y aún en crecimiento" 
+        ], 
+        "ability": [ 
+            "Derrotar enemigos repara automáticamente la durabilidad del arma", 
+            "El exceso de durabilidad otorga +1 ATK por cada 1% por encima del máximo" 
+        ] 
+    }, 
+    "63": { 
+        "name": [ 
+            "Espada Parásita" 
+        ], 
+        "subtitle": "", 
+        "description": [ 
+            "Una espada consumida por un árbol durante siglos, donde el metal y", 
+            "la vida se fusionaron en una misteriosa armonía. Su hoja pulsa como", 
+            "es respiración,irradiando una extraña calidez al portador" 
+        ], 
+        "ability": [ 
+            "Restaura \\c[29]${Math.floor(1.2*$gameParty.leader().paramPlus(2))}\\c[0] HP al portador al derrotar a un enemigo" 
+        ] 
+    }, 
+    "70": { 
+        "name": [ 
+            "Gloria Antigua" 
+        ],
+        "subtitle": [ 
+            "\"Desata el Poder Dorado ⬆⬆⬇⬇⬅⮕⬅⮕\"" 
+        ], 
+        "description": [ 
+            "Una deslumbrante espada demoníaca dorada, uno de los tesoros del ", 
+            "Administrador Mundial. Ese hombre la empuñó una vez, ", 
+			"luchando en el Abismo durante tres días y noches sin descanso" 
+        ], 
+        "ability": [ 
+            "Desata su poder al dar una orden secreta" 
+        ] 
+    }, 
+    "80": { 
+        "name": [ 
+            "Espada Magnífica de Hoja de Sauce" 
+        ], 
+        "subtitle": "", 
+        "description": [ 
+            "\"Arranca hojas, esparce flores, hiere a tus enemigos\"", 
+            "Una espada magna muy afilada con forma de hojas de sauce" 
+        ], 
+        "ability": [ 
+            "Tiene la posibilidad de disparar shurikens de hoja de sauce al atacar" 
+        ] 
+    }, 
+    "81": { 
+        "name": [ 
+            "Hoja Infestada" 
+        ], 
+        "subtitle": [ 
+            "\"Uf, la baba sigue retorciéndose... ¡Qué asco!\""		 
+		], 
+        "description": [ 
+            "Una gran espada infestada de baba resistente y hambrienta de vida", 
+            "Su ansia de vitalidad hace que la baba sea ferozmente agresiva" 
+        ], 
+        "ability": [ 
+            "Inflige daño adicional a los enemigos con sangrado", 
+			"Drena sangre si el objetivo muere mientras sangra" 
+        ] 
+    }, 
+    "82": { 
+        "name": [ 
+            "Cuerno roto de Hércules" 
+        ], 
+        "subtitle": [ 
+            "" 
+        ], 
+        "description": [ 
+            "Una espada forjada con el robusto cuerno de un escarabajo rinoceronte", 
+            "Aunque una vez roto en una batalla feroz, su dureza sigue siendo genuina", 
+			"Debido a eso, se volvió extremadamente duradera al ser reforjada" 
+        ], 
+        "ability": [ 
+            "Cuanto menor sea el daño, menos durabilidad se consume", 
+			"No se consume durabilidad si el daño es ${QJ.MPMZ.tl.herculesBrokenHornEffectProcess()} o inferior" 
+        ] 
+    }, 
+    "101": { 
+        "name": [ 
+            "Arco de madera dura" 
+        ], 
+        "subtitle": "", 
+        "description": [ 
+            "Un arco largo de madera dura", 
+            "Puede disparar flechas, pero su rendimiento es muy mediocre"
+        ], 
+        "ability": [ 
+            "Mantén pulsado el botón derecho para cargar y lanzar una \\c[27]Flecha Perforante\\c[0]", 
+            "La Flecha Perforante pierde daño por cada objetivo perforado" 
+        ] 
+    }, 
+    "102": { 
+        "name": [ 
+            "Arco del Cazador" 
+        ], 
+        "subtitle": "", 
+        "description": [ 
+            "Un arco largo compuesto que reduce la fuerza de tiro", 
+            "Menos daño, pero fuego rápido más fácil" 
+        ], 
+        "ability": [ 
+            "+Velocidad de Ataque, -20% Daño, -20% Pérdida de Durabilidad", 
+            "Mantén pulsado el botón derecho para cargar y lanzar una \\c[27]Flecha Perforante\\c[0]" 
+        ] 
+    }, 
+    "103": { 
+        "name": [ 
+            "Nube del Atardecer" 
+        ], 
+        "subtitle": "", 
+        "description": [ 
+            "Un arco mágico lleno de energía de fuego", 
+            "No solo quema a los enemigos, sino que también dispara flechas explosivas" 
+        ], 
+        "ability": [ 
+            "Mantén pulsado el botón derecho para cargar y lanzar una \\c[27]Flecha Explosiva\\c[0]", 
+            "Flecha Explosiva explota al impactar" 
+        ] 
+    }, 
+    "104": { 
+        "name": [ 
+            "Guardia de Nieve" 
+        ], 
+        "subtitle": "", 
+        "description": [ 
+            "Un arco mágico cubierto de hielo. Dispara flechas de hielo", 
+            "y puede congelar un área amplia con un disparo cargado" 
+        ], 
+        "ability": [ 
+            "Mantén pulsado el clic derecho para cargar y lanzar una \\c[27]Flecha Hielo\\c[0]", 
+            "La Flecha Hielo congela a los objetivos al impactar" 
+        ] 
+    }, 
+    "105": { 
+        "name": [ 
+            "Chidori" 
+        ], 
+        "subtitle": "",  
+        "description": [ 
+            "Un arco dorado capaz de invocar truenos", 
+            "llamado así por su zumbido que recuerda al de un rayo", 
+            "Sin embargo, ten cuidado, es altamente conductor" 
+        ], 
+        "ability":[ 
+            "Mantén pulsado el botón derecho para cargar y lanzar una \\c[27]Flecha de Trueno\\c[0]" 
+        ] 
+    }, 
+    "106": { 
+        "name": [ 
+            "Arco Maldito del Sabueso Infernal" 
+        ], 
+        "subtitle": "", 
+        "description": [ 
+            "Un producto del Abismo, este arco de forma extraña puede",
+            "Dispara varias flechas simultáneamente. Sin embargo,", 
+            "este inquietante arco mágico permanece sellado,", 
+			"con su verdadero poder inexplorado,", 
+			"Mantén pulsado el botón derecho para cargar y lanzar una \\c[27]Flecha Perforante\\c[0]"
+        ] 
+    }, 
+    "107": { 
+        "name": [ 
+            "Caza Sangrienta" 
+        ], 
+        "subtitle": "", 
+        "description": [
+            "Un arco largo manchado de sangre.",
+            "Cada vez que tiras, la cuerda se moja con la sangre de su portador.", 
+			"Hasta que la flecha regresa con una ofrenda más dulce.", 
+			"Consume PS para potenciar los disparos. Las flechas asesinas drenan sangre."
+        ]
+    }
+}

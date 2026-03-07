@@ -1,0 +1,1593 @@
+{
+    "1": {
+        "0": [
+            "Mặc dù chúng tôi đã đồng ý tắm cùng nhau, ",
+			"nhưng cả hai vẫn còn hơi ngại ngùng,",
+			"dù là sắp được nhìn thấy nhau khỏa thân, ",
+			"chúng tôi đều quấn khăn tắm và bước vào phòng tắm."
+		],
+		"1": [
+            "\\nl< >\"Kéo, búa, bao, ra này!    \\w[120]",
+			"Ehehe~ Hôm nay em thắng rồi!\""
+        ],
+		"2": [
+            "\"Kéo, búa, bao, ra này!    \\w[120]",
+			"À há! anh thắng rồi!\""
+        ],		
+        "3": [
+		    "Vì tôi đã thua trò chơi,",
+			"tôi không còn cách nào khác ngoài việc lặng lẽ chờ trong bồn tắm   ",
+			"cho đến khi \\str[120] tắm xong."
+        ],
+        "4": [
+		    "Vì tôi đã thắng trò chơi,",
+			"hôm nay tôi được tắm trước.",
+			"Trong khi đó, \\str[120] ngồi chờ trong bồn tắm, trông hơi buồn chán."
+        ],
+        "5": [
+		    "Sau khi tắm nhanh xong,",
+			"tôi ngồi vào bồn tắm và yên lặng chờ \\str[120] tắm xong."
+        ],
+        "6": [
+		    "Nhìn \\str[120] gội đầu có chút bối rối,",
+			"tôi không kìm được cảm giác muốn ra giúp em ấy…"
+        ],		
+        "7": [
+		    "Nhìn \\str[120] lau người có chút bối rối,",
+			"tôi không kìm được cảm giác muốn ra giúp em ấy…"
+        ],
+        "8": [
+		    "Giúp em ấy",
+			"Thôi quên đi"
+        ],
+        "9": [
+		    "Tôi ngại ngùng hỏi \\str[120] xem em ấy có muốn tôi giúp gội đầu không—"
+        ],
+        "10": [
+		    "Tôi ngại ngùng hỏi \\str[120] xem em ấy có muốn tôi giúp kì cọ lưng không—"
+        ],		
+        "11": [
+		    "\\nl< >\"Eh—?",
+			"Không sao đâu, em tự làm được mà! ",
+			"\\str[121], anh vụng về lắm,",
+			"chắc chắn anh sẽ làm hỏng việc mất!\""
+        ],		
+        "12": [
+		    "Ugh… \\str[120] từ chối mình rồi.",
+			"Có lẽ tôi sẽ phải chờ đến khi cả hai gần gũi hơn thì mới thử lại."
+        ],		
+        "13": [
+		    "\\str[120] đã lớn rồi, ",
+			"và có lẽ em ấy không thích bị đối xử như một đứa trẻ nữa.",
+			"Tốt hơn là không nên ép buộc…"
+        ],
+		"14": [
+            "Sau khi \\str[120] tắm xong một cách cẩn thận,",
+			"thì đến lượt tôi đi tắm."
+        ],
+        "15": [
+            " ",
+			" "
+        ],
+		"16": [
+            "\\nl< >\"...\\str[121], anh di chuyển qua một chút đi...\""
+        ],	
+		"17": [
+            "\\nl< >\"Vậy em cũng vào đây nhé...\""
+        ],	
+		"18": [
+            "\\nl< >\"Em vào đây nhé... ",
+			"\\str[121], đừng nhìn sang bên này vội...\""
+        ],	
+		"19": [
+            "\\str[120] ngồi đối diện tôi, khẽ ôm đôi chân mình lại, có chút ngượng ngùng.",
+			"Quả nhiên, bồn tắm này hơi chật chội để hai người cùng ngồi..."
+        ],	
+		"20": [
+            "\"……说起来我之前把那东西捡回来了呢。\""
+        ],	
+        "21": [
+            "\"...À đúng rồi, tôi đã nhặt được thứ đó lúc nãy.\""
+        ],	
+        "22": [
+            "Tôi cẩn thận rửa sạch con vịt cao su rồi nhẹ nhàng đặt nó vào bồn tắm.",
+			"Nó lặng lẽ nổi trên mặt nước — trông thật yên bình và dễ thương." 
+        ],	
+        "23": [
+            "\"Mhm... bầu không khí giờ cảm giác dễ chịu hơn hẳn.\""
+        ],	
+        "24": [
+            "\\nl< >\"Waa~ Con vịt dễ thương quá!",
+			"Là anh mang về đấy à, \\str[121]?\""
+        ],	
+        "25": [
+            "\"Phải, có vẻ như nó bị cuốn trôi theo dòng giống hệt anh lúc đó.",
+			"Thấy nó trông tội nghiệp nên anh đã mang nó về.\""
+        ],	
+        "26": [
+            "\\nl< >\"Eh? Dòng sông...? Bị cuốn trôi á?",
+			"...Đừng nói là anh lại làm gì nguy hiểm nữa đấy nhé?\""
+        ],	
+        "27": [
+            "\"Không hề..., nó chỉ nằm một mình bên bờ sông thôi,",
+			"trông hơi buồn nên anh mang nó về.\""
+        ],	
+        "28": [
+            "\\nl< >\"Xem ra gia đình mình lại có thêm một thành viên mới rồi~\""
+        ],	
+        "29": [
+            "Ngồi cùng nhau",
+			"Bóp con vịt",
+			"Trò chuyện"
+        ],	
+        "30": [
+            "Chắc còn mất một lúc nữa trong khi cơ thể chúng tôi",
+            "đang ngâm trong nước ấm...",
+			"Có lẽ tôi nên làm gì đó với \\str[120] trong lúc chờ đợi?"
+        ],	
+        "31": [
+            "Tôi muốn được gần gũi với em ấy hơn một chút...",
+			"Nghĩ vậy, tôi cẩn thận hỏi xem mình có thể ngồi sát hơn một chút không."
+        ],	
+        "32": [
+            "Tôi chỉ muốn được gần gũi với em ấy thêm một chút thôi...!",
+			"Nghĩ vậy, tôi mỉm cười hỏi xem mình có thể nhích lại gần hơn được không."
+        ],	
+        "33": [
+            "Vẫn muốn được gần gũi hơn nữa...!",
+			"Nghĩ thế, tôi lại mặt dày hỏi thêm một lần nữa xem có thể lại gần hơn không."
+        ],	
+        "34": [
+            "\\nl< >\"Eh...!?",
+			"\\str[121], anh bắt đầu hơi quá trớn rồi đó!\""
+        ],	
+        "35": [
+            "\\nl< >\"...Không đời nào!",
+			"\\str[121], Nhìn mặt anh là biết sắp làm chuyện gì đó",
+			"hư hỏng rồi...\""
+        ],
+        "36": [
+            " ",
+			" "
+        ],
+        "37": [
+            "\\nl< >\"\\str[121], dừng lại đi!",
+			"Con vịt trông tội nghiệp quá\""
+        ],
+        "38": [
+            "\\nl< >\"\\str[121]? Sao anh cứ bắt nạt con vịt thế?\""
+        ],
+        "39": [
+            "Ugh... Tôi bị \\str[120] mắng do bóp con vịt hơi quá tay."
+        ],
+        "40": [
+            "Cảm thấy hơi chán, tôi bóp nhẹ con vịt đang nổi trên mặt nước.",
+			"Nó phát ra tiếng “pfffft—” nghe hơi khó chịu."
+        ],
+        "41": [
+            "Mình nên nói chuyện gì với \\str[120] đây nhỉ...?"
+        ],
+        "42": [
+            "Chủ đề nhạy cảm",
+			"Tán gẫu"
+        ],		
+        "43": [
+            "\\nl< >\"Em nóng lòng muốn uống sữa dâu sau khi tắm xong quá~\""
+        ],		
+        "44": [
+            "\\nl< >\"\\str[121], cơ bắp của anh trông săn chắc hơn thì phải?\""
+        ],		
+        "45": [
+            "\\nl< >\"Cảm giác nước còn nóng hơn khi chúng ta tắm cùng nhau nữa~\""
+        ],		
+        "46": [
+            "Tôi trò chuyện vu vơ với \\str[120] một lúc, ",
+			"và cơ thể hai chúng tôi dần ấm lên..."
+        ],		
+        "47": [
+            "Ừ thì... những lúc như thế này là hoàn hảo để thêm",
+            "chút “gia vị” bằng một chủ đề nhạy cảm!      \\w[45]",
+			"Nghĩ vậy, tôi hào hứng hỏi \\str[120] xem em ấy có thể ",
+			"bỏ khăn tắm ra không."
+        ],		
+        "48": [
+            "Ừ thì... những lúc như thế này là hoàn hảo để thêm",
+            "chút “gia vị” bằng một chủ đề nhạy cảm!      \\w[45]",
+			"Nghĩ vậy, tôi phấn khích đề nghị với \\str[120] rằng hay là chúng ta",
+			"nói chuyện một chút về cái gì đó nghịch ngợm đi."
+        ],		
+        "49": [
+            "\\nl< >\"...Nhạy cảm á? Em cũng không hiểu lắm...",
+			"Vậy \\str[121] định nói gì thế...?\""
+        ],		
+        "50": [
+            "\\nl< >\"…Lại nữa à? \\str[121], anh đúng là hay trêu thật đấy—  \\w[120]",
+			"Thế lần này là chuyện gì đây?\""
+        ],	
+        "51": [
+            "Cách sống khỏa thân",
+			"Điểm nhạy cảm"		
+        ],	
+        "52": [
+            "\\nl< >\"Geez, \\str[121] lúc nào cũng chọc ghẹo em thôi!",
+			"Em đi đây!\""		
+        ],	
+        "53": [
+            "Ugh... Có lẽ tôi đùa hơi quá rồi —\\str[120] chạy đi, ",
+			"mặt đỏ bừng..."		
+        ],	
+        "54": [
+            "Phew... Cơ thể mình nóng ran cả lên, chắc cũng đến lúc ra khỏi bồn tắm thôi."		
+        ],		
+        "55": [
+            "\\nl< >\"Trời ạ... anh chẳng thèm quay mặt đi nữa.",
+			"\\str[121], anh thấy hết cả rồi đó...\""
+        ],		
+        "56": [
+            "\\nl< >\"Eh...? Sao anh lại muốn làm vậy...?\""
+        ],		
+        "57": [
+            "Chỉ muốn nhìn thôi",
+			"Trông hơi lạ mắt",
+			"Nhìn em quyến rũ lắm"
+        ],		
+        "58": [
+            "\\nl< >\"...Được thôi, em nghĩ chắc là cũng ổn.\""
+        ],		
+        "59": [
+            "\\nl< >\"\\str[121]... anh lúc nào cũng chỉ nghĩ đến mấy chuyện đó thôi.",
+			"Thật là làm người ta khó xử đấy, anh biết không...\""
+        ],
+        "60": [
+            "Sau khi tắm sơ qua, như một con rối vô hồn,",
+            "tôi để \\str[120] nắm tay dẫn vào bồn tắm nước nóng.",
+            "Hơi nóng lập tức bao trùm lấy cơ thể, nhưng trong tôi không dấy lên chút cảm xúc nào,",
+            "như thể chính thân xác mình đang tan chảy vào làn nước."
+        ],
+        "61": [
+            "Tôi lơ đãng nhìn những gợn sóng nhè nhẹ trên mặt nước.",
+            "Ngay cả khi bóng dáng xinh đẹp của \\str[120] lay động ở phía đối diện,",
+            "trong lòng tôi cũng không hề gợn lên lấy một tia dục niệm."
+        ]
+    },
+    "2": {
+        "0": [
+            "\\nl< >\"Hãy bắt đầu bằng việc rửa cánh tay của anh trước nhé.…\""
+		],
+        "1": [
+            "\\str[120] dịu dàng nâng tay tôi lên và đặt vào giữa đùi mềm mại của em ấy.",
+            "Cơ thể của cả hai chúng tôi đều được phủ đầy xà phòng, ",
+			"khiến làn da của cả hai trơn mượt và mịn màng khi chạm vào.",
+			"\\w[60]  ",
+            "Em ấy nhẹ nhàng ép hai chân lại với nhau, và cảm giác mềm mại",
+			"tròn trịa đó truyền tải rõ ràng qua cánh tay tôi."
+		],	
+        "2": [
+		    "Trước khi tôi kịp nói gì, ",
+            "đùi em ấy bắt đầu chuyển động chậm rãi, nhẹ nhàng,",
+            "qua lại, cảm giác da thịt chúng tôi chạm vào nhau",
+            "trở nên rõ ràng hơn với mỗi chuyển động,",
+			"và tôi có thể cảm nhận được nhịp điệu cùng hơi ấm áp từ cơ thể em ấy ",
+			"siết chặt rồi thả lỏng quanh cánh tay tôi."
+		],
+        "3": [
+            "Hành động đột ngột và táo bạo của em ấy khiến tôi sững người.",
+            "Không kịp phản ứng, nhưng sự ấm áp,",
+            "mềm mại như trong mơ quanh cánh tay khiến tôi",
+            "chẳng còn chút sức lực nào để rút ra. Cuối cùng,",
+            "tôi đành từ bỏ việc chống cự và để",
+            "em ấy tiếp tục ‘dịch vụ tắm rửa đặc biệt’ kì lạ của mình."
+		],
+        "4": [
+            "\\nl< >\"Nó như thế nào... \\str[121]...♥",
+			"Cảm giác... nó có sạch hơn so với khi tự rửa bằng tay không?\""
+		],		
+        "5": [
+			"Cảm giác dễ chịu",
+			"Cảm giác hơi lạ"
+		],		
+        "6": [
+            "\\nl< >\"Cảm giác hơi lạ...?",
+			"Vậy thì... \\str[121], ",
+			"chỉ cho em biết phải làm thế nào được không~?\""
+		],
+        "7": [
+            "\\nl< >\"...Lạ à? Có gì đâu mà lạ?",
+			"Cánh tay của anh giờ sạch sẽ rồi còn gì, đúng không, \\str[121]?\""
+		],
+        "8": [
+            "\\nl< >\"Có chuyện gì vậy, \\str[121]?",
+			"Chẳng phải anh mới là người nói muốn em giúp rửa cho mà?\""
+		],
+        "9": [
+            "\\nl< >\"\\str[121], anh trông không được vui lắm...",
+			"Hay là anh không thích em giúp anh rửa à ",
+			"Em đang rất nghiêm túc đấy nhé~",
+			"Thật sự là đang giúp anh mà~?\""
+		],		
+        "10": [
+            "\\nl< >\"Cảm thấy dễ chịu chứ? Nhưng chỉ là rửa cơ thể của anh thôi~",
+			"Vậy thế mà anh lại nói cảm giác thật tuyệt... \\str[121],",
+			"thực ra anh... thích kiểu chuyện thế này đúng không♥\""
+		],
+        "11": [
+            "\\nl< >\"Ehehe♥ \\str[121], Anh đúng là một cậu bé ngoan~",
+			"Khiến em cũng muốn thưởng cho anh một chút.♥\""
+		],
+        "12": [
+            "\\nl< >\"\\str[121]... Anh vừa phát ra một âm thanh dễ thương đó hả?",
+			"Anh luôn là người trêu chọc em đó... nên lần này,",
+			"em cũng sẽ cho anh nếm thử cảm giác đó xem sao~♥\""
+		],
+        "13": [
+            "\\nl< >\"Hehe... \\str[121], trông anh có vẻ hơi bối rối...",
+			"Có lẽ em nên dừng lại thôi nhỉ~?\""
+		],
+        "14": [
+            "\\nl< >\"Cánh tay anh giờ đã sạch sẽ rồi... tiếp theo là phía trước nhé~",
+			"\\str[121], Anh quay người lại cho em nào—\""
+		],
+        "15": [
+            "\"Cái gì–khoan—eh!? Em đang làm gì thế—\"",
+			"\\w[30]\\^"
+		],
+        "16": [
+            "\\nl< >\"TCánh tay thì em đã rửa sạch hết rồi...",
+			"Phần còn lại, \\str[121], anh tự lo nhé~\""
+		],
+        "17": [
+            "Giống như một tiểu ác ma tinh nghịch, \\str[120] lè lưỡi trêu tôi,",
+			"rồi nhẹ nhàng lách người trượt xuống, chui vào trong bồn tắm."
+		],
+        "18": [
+            "Tôi cố gắng kiềm nén ngọn lửa khao khát đang bùng lên",
+			"bởi những cử chỉ ngọt ngào của em ấy,",
+			"mình chỉ còn biết tiếp tục tắm trong tâm trạng hơi bứt rứt."
+		],
+        "19": [
+            "\\str[120] nới lỏng chân và đột nhiên ngồi lên hông tôi,",
+			"sau đó đặt tay lên vai tôi và nhẹ nhàng dồn  ",
+			"trọng lượng cơ thể lên tôi."
+		],
+        "20": [
+            "Một lúc sau, chiếc khăn tắm của cả hai người đều rơi xuống,",
+            "nơi mềm mại, kín đáo của em ấy áp trực tiếp vào cái dương vật",
+			"đang cương cứng của tôi mà không có gì cản trở. Cảm giác tội lỗi",
+            "từ tư thế mới này mang lại cảm giác hoàn toàn khác biệt so với trước đây"
+		],
+        "21": [
+			"Em ấy dường như không nhận ra vị trí này nguy hiểm đến mức nào,",
+			"Vừa ổn định, ",
+            "em ấy bắt đầu nhẹ nhàng xoay hông trên người tôi."
+		],
+        "22": [
+			"Điều khiến tôi điên đảo hơn nữa là những nếp gấp mỏng manh, ướt át",
+			"của em ấy đang ép chặt vào tôi. Mỗi cú lắc hông tinh tế lại",
+			"khiến chúng trượt dài, nhầy nhụa dọc theo chiều dài cương cứng của tôi, ",
+			"nuốt trọn rồi lại nhả ra từng chút một."
+		],
+        "23": [
+			"\\nl< >\"Thế này thì sao~?",
+			"Em chỉ dành riêng cho anh thôi đấy, \\str[121]〜♪      \\w[180]",
+			"Nào, anh muốn em “rửa” tiếp theo ở chỗ nào đây〜？\""
+		],
+        "24": [
+			"Ahh... ra là em ấy thật sự chỉ muốn giúp mình tắm thôi, huh...",
+			"Thôi thì đành chịu vậy! Vì đây là lòng tốt của \\str[120], ",
+			"nên mình sẽ ngoan ngoãn đón nhận vậy! Dù có chuyện gì... ",
+			"ngoài ý muốn xảy ra đi nữa, chắc chắn em ấy sẽ tha thứ cho mình thôi~"
+		],		
+        "25": [
+            "Tin tưởng \\str[120]",
+			"Nhanh hơn...",
+			"Chậm lại..."
+		],		
+        "26": [
+            "\\str[120] tiếp tục xoay hông một cách cần mẫn,",
+			"những đợt khoái cảm trơn trượt, tê rần như điện giật lan khắp cơ thể tôi, ",
+			"hòa lẫn với cảm giác ngọt ngào cấm kỵ—",
+			"Vậy, tiếp theo tôi nên để \\str[120] làm gì đây?"
+		],		
+        "27": [
+            "\\str[120] vẫn chăm chỉ vặn vẹo vòng eo,",
+			"nơi bí mật ướt át của em ấy đã bắt đầu rỉ mật hoa, ",
+			"mỗi lần cọ xát lại phát ra tiếng 'lách tách' khe khẽ—",
+			"Làm sao để em ấy cố gắng thêm nữa đây?"
+		],		
+        "28": [
+            "\\str[120] vẫn miệt mài xoay hông,",
+			"tôi cảm giác mình sắp không kìm chế được nữa…!",
+			"Cuối cùng, tôi nên để em ấy kết thúc thế nào!?"
+		],
+        "29": [
+			"\\nl< >\"Nếu em có thể làm theo ý mình —ừm, đ-được rồi...              \\w[120]",
+			"Vậy nghĩa là \\str[121] có thể giao hết cho em lo, đúng không♥♥\"     \\w[180]"
+		],
+        "30": [
+			"\\nl< >\"N-Nó trơn trượt quá... ",
+			"chỗ dưới của \\str[121]... đang chuyển động theo kìa♥",
+			"Anh hư quá đó~? Nếu anh không kìm được mà nhúc nhích thêm chút nữa...",
+			"Anh sẽ phạm sai lầm đấy, biết không nè?♥\"     \\w[210]"
+		],
+        "31": [
+			"\\nl< >\"Hah♥ Hah♥",
+			"\\str[121]♥ đang run lẩy bẩy thế kia♥♥",
+			"Hiệu quả làm sạch tốt quá chăng?\"     \\w[210]"
+		],
+        "32": [
+			"\\nl< >\"Anh sắp không kìm được nữa rồi à?♥",
+			"\\str[121]♥ anh sắp buông xuôi hết rồi nhỉ?♥",
+			"Em có nên cố gắng thêm chút nữa không?♥♥\"     \\w[210]"
+		],
+        "33": [
+			"\\nl< >\"N-Nhanh hơn á?",
+			"Đ-Được rồi... Em sẽ thử...\"       \\w[210]"
+		],
+        "34": [
+			"\\nl< >\"E-Em sẽ cố gắng hết sức...!",
+			"Haa... haa...                   \\w[120]",
+			"Anh cảm thấy dễ chịu chứ?\"     \\w[120]"
+		],
+        "35": [
+			"\\nl< >\"Hah♥ Hah♥",
+			"Hehe~ ở dưới đó của \\str[121] đang co giật kìa~    \\w[120]",
+			"Có kích thích quá không nhỉ?\"                        \\w[120]"
+		],
+        "36": [
+			"\\nl< >\"Nhanh hơn♥ Nhanh hơn nữa♥",
+			"Chỗ đó của \\str[121] ướt nhẹp hết rồi à♥    \\w[120]",
+			"C-Cố chịu thêm chút nữa thôi...♥\"               \\w[120]"
+		],
+        "37": [
+			"\\nl< >\"C-Chậm lại à?",
+			"Được rồi... Em sẽ thử...\"       \\w[210]"
+		],
+        "38": [
+			"\\nl< >\"Từ tốn lau...",
+			"Ah, cảm giác như vừa rồi có gì đó chọc vào em vậy♥\"   \\w[210]"
+		],
+        "39": [
+			"\\nl< >\"Hah♥ Hah♥",
+			"Ở dưới nóng ran quá♥                                 \\w[120]",
+			"E-Em sẽ nhẹ nhàng... để nó từ từ... thấy sướng hơn nhé♥\"   \\w[120]"
+		],
+        "40": [
+			"\\nl< >\"\\str[121]♥\\str[121]♥               \\w[120]",
+			"Em thích anh♥ Em cũng muốn làm anh sướng hơn nữa♥\"    \\w[120]"
+		],
+        "41": [
+			"\\{Đã... tới giới hạn rồi...!!"
+		],
+        "42": [
+			"\\{\\nl< >\"Aah~~♥♥\"",
+			"\\w[60]\\^"
+		],
+        "43": [
+			"Dưới sự dịch vụ chăm sóc tỉ mỉ liên tục của \\str[120],",
+			"cuối cùng tôi cũng khuất phục trước khoái cảm dâng trào ấy, ",
+            "không thể kìm nén thêm nữa, ",
+			"từng đợt chất lỏng nóng hổi tuôn ra như đê vỡ."
+		],
+        "44": [
+			"\\str[120] khẽ kêu lên một tiếng giật mình, ",
+			"nhưng vẫn cẩn thận không ngừng chuyển động,",
+			"như sợ việc bỏ dở giữa chừng, ",
+            "tiếp tục nhẹ nhàng lắc hông thân mình."
+		],
+        "45": [
+			"\\nl< >\"\\str[121]...? Anh ổn chứ??",
+			"C-Có cảm thấy sướng không? ",
+			"Em sẽ... g-giúp anh lau sạch thêm nhé?\""
+		],
+        "46": [
+			"\\nl< >\"\\str[121]...? Anh ổn chứ?",
+			"E-Em có chà... mạnh quá không?\""
+		],
+        "47": [
+			"\"Ổn rồi, đã được 'làm sạch' rất kỹ, cảm giác tuyệt vời lắm~",
+			"Em giỏi quá~\""
+		],
+        "48": [
+			"\\nl< >\"Ehehe♥",
+			"Chỗ này của \\str[121]... vẫn còn nóng ran, đang co giật nè...♥",
+			"Em lau thêm cho anh nữa nhé?♥\""
+		],
+        "49": [
+			"Làm thêm nữa",
+			"Đủ rồi"
+		],
+        "50": [
+			"Mặc dù \\str[120] hiếm khi thể hiện mặt háo hức đến vậy, ",
+			"muốn gần gũi với tôi đến thế này, ",
+			"nhưng chúng tôi đã quấn quýt nhau trong phòng tắm quá lâu rồi, ",
+			"nếu \\str[120] bị cảm lạnh vì thế thì sẽ tệ lắm...!",
+			"Cuối cùng, tôi miễn cưỡng ôm chặt \\str[120] vào lòng và nhanh chóng ",
+			"rửa sạch những dấu vết trên cơ thể hai đứa để kết thúc mọi chuyện."
+		]		
+    },
+    "3": {
+        "0": [
+            "\\nl< >\"...Nhưng mà có hơi chật chội quá không?\""
+		],
+        "1": [
+            "\\nl< >\"Mm... ừm... nếu \\str[121] muốn thì...\""
+		],
+        "2": [
+            "\\nl< >\"Được rồi! Vào đây nào, \\str[121]!\""
+		],		
+		"3": [
+            "Dù vậy, \\str[120] cũng không thực sự từ chối—",
+			"em ấy chỉ khẽ gật đầu đồng ý trong im lặng.",
+			"Tôi lập tức dịch sang một bên bồn tắm ",
+			"và nhẹ nhàng ôm em ấy vào lòng."
+        ],
+		"4": [
+            "\\str[120] khẽ tựa vào, áp thân hình nhỏ nhắn của mình sát vào tôi.",
+			"Dù trong bồn tắm chật hẹp, thân thể em ấy vẫn nằm gọn trong",
+			"vòng tay tôi mà không hề khó khăn."
+        ],
+		"5": [
+            "Những giọt nước đọng trên mái tóc ẩm ướt, má em ấy ửng hồng nhè nhẹ,",
+			"Khoảnh khắc ấy, mọi thứ về em ấy đều toát lên vẻ tươi mới đến mức",
+			"tôi thậm chí không biết phải phản ứng thế nào."
+        ],
+		"6": [
+            "Nhận thấy ánh mắt chăm chú của tôi, tôi cảm nhận được cơ thể em ấy đột nhiên co lại."
+        ],
+		"7": [
+            "\"Có chật chội quá không?\""
+        ],
+		"8": [
+            "\\nl< >\"Không đâu... vòng tay của \\str[121] ấm lắm. Và...",
+			"anh rất dịu dàng, nên em chẳng thấy khó chịu chút nào cả.\""
+        ],		
+		"9": [
+            "Ahh... \\str[120] lúc nào cũng nói những lời ngọt ngào nhất—",
+			"em ấy dễ thương đến mức không chịu nổi...!"
+        ],
+		"10": [
+            "Không kìm được, tôi siết chặt vòng tay ôm lấy em ấy.",
+			"Một cảm xúc lạ lùng, trào dâng bắt đầu lan tỏa trong lồng ngực tôi."
+        ],		
+		"11": [
+            "Sau khi nhận được sự đồng ý từ \\str[120], tôi lập tức dịch sang một bên bồn tắm",
+			"và nhẹ nhàng ôm em ấy vào lòng."
+        ],
+		"12": [
+            "\\nl< >\"\\str[121]? Anh cảm thấy lạnh à?\""
+        ],
+		"13": [
+            "\"Phải đó… Em ấm áp và dễ thương quá,",
+			"khiến anh chỉ muốn ôm em mãi như thế này thôi…\""
+        ],
+		"14": [
+            "\\nl< >\"Thôi đi mà—! \\str[121], ",
+			"anh lại coi em như con nít nữa rồi...!\""
+        ],
+		"15": [
+            "\\nl< >\"giờ em là một quý cô thực thụ rồi đấy nhé. ",
+			"Anh phải bắt đầu đối xử với em như quý cô mới đúng, \\str[121]!\""
+        ],
+		"16": [
+            "Như thể đang hờn dỗi, ",
+			"\\str[120] liên tục ngẩng trán lên khẽ cụng vào cằm tôi—",
+			"như muốn khoe rằng mình đã cao hơn một chút."
+        ],
+		"17": [
+            "Đặc biệt khi tôi cúi nhìn xuống, ánh mắt lập tức bị hút vào những ",
+			"đường cong mềm mại, đầy đặn từ bầu ngực của \\str[120].",
+			"Ừ thì… giờ thì đúng là có thể gọi đó",
+			"biểu tượng của một quý cô rồi."
+        ],
+		"18": [
+            "Chuyển động vô thức của \\str[120] lập tức thổi bùng lên ",
+			"dục vọng trong tôi.",
+			"Một thôi thúc muốn cảm nhận hình dáng mềm mại ấy ",
+			"bằng đôi tay ngày càng trào dâng không thể kiềm chế—"
+        ],		
+		"19": [
+            "Chạm nhẹ",
+			"Hỏi trước"
+        ],		
+		"20": [
+            "Dường như em ấy đã quen với những khoảnh khắc thế này—",
+			"\\str[120] tựa hẳn vào tôi,",
+			"và chúng tôi cứ lặng lẽ ôm nhau như vậy."
+        ],		
+		"21": [
+            "Lần trước, tôi đã để cảm xúc lấn át lý trí ",
+			"và khiến em ấy ngất xỉu trong phòng tắm—",
+			"—không thể để chuyện đó lặp lại lần nữa!",
+			"\\w[30]",
+			"Tôi tự nhủ trong lòng phải trân trọng em ấy thật nghiêm túc lần này.",
+            "Thế nên tôi chỉ nhẹ nhàng nắm lấy bàn tay nhỏ nhắn mềm mại của em ấy đan vào tay mình."
+        ],
+		"22": [
+            "\\nl< >\"\\str[121]...? Có chuyện gì vậy? ",
+			"Anh cứ cau mày suốt thế..\""
+        ],
+		"23": [
+            "\"Không có gì đâu— anh chỉ đang nghĩ rằng em lúc nào cũng dễ thương quá thôi..\""
+        ],
+		"24": [
+            "\\nl< >\"Uuueeh... Ý anh là sao chứ...?\""
+        ],	
+		"25": [
+		    "Tôi đưa tay còn lại ra, vuốt mái tóc của em ấy một cách tùy hứng.",
+            "Em ấy có vẻ hơi bất mãn vì bị gạt đi như thế."
+        ],	
+		"26": [
+		    "Không kịp nghĩ thêm gì nữa, tôi theo bản năng đưa tay ra và nắm lấy ",
+			"phần mềm mại ngay trước mặt.    \\w[30]",
+			"—Tại sao à?                   \\w[60]\\^"
+        ],	
+		"27": [
+		    "\\>Không kịp nghĩ thêm gì nữa, tôi theo bản năng đưa tay ra và nắm lấy ",
+			"\\>phần mềm mại ngay trước mặt. ",
+			"\\>—Tại sao à?                 \\<\\{",
+			"Vì nó ở ngay đó!    \\w[120]"
+        ],	
+		"28": [
+		    "\\nl< >\"...Yah! \\str[121], lại nữa rồi...!?\""
+        ],	
+		"29": [
+		    "\\nl< >\"Yah!? \\str[121]… anh đang làm gì vậy…!?\""
+        ],	
+		"30": [
+		    "Hành động đột ngột của tôi rõ ràng khiến \\str[120] bối rối.",
+			"Giờ tôi phải giải thích thế nào đây...?"
+        ],
+		"31": [
+		    "Muốn bóp thử!",
+			"Trượt tay..."
+        ],	
+		"32": [
+		    "Thay vì trả lời, tôi để hành động lên tiếng.",
+			"Tay trái tiếp tục lướt trên bầu ngực của \\str[120], ",
+			"bàn tay cảm nhận trọn vẹn sự mềm mại ấy."
+        ],		
+		"33": [
+		    "\\nl< >\"Dù có là vậy đi nữa, ",
+			"cũng đừng đột ngột đưa tay ra làm em giật mình thế chứ...\""
+        ],		
+		"34": [
+		    "Huh? Thế tức là chỉ cần không đột ngột thì được phải không...?"
+        ],
+		"35": [
+		    "\\nl< >\"Ừm thì, nếu tay anh lỡ bị trượt",
+			"thì cũng chả trách được...\""
+        ],
+		"36": [
+		    "Dù tay tôi chẳng hề nhúc nhích,",
+		    "vậy mà \\str[120] lại bị lừa bởi cái cớ đơn giản ấy...!"
+        ],
+		"37": [
+		    "Tôi cố kìm nén ham muốn đưa tay ra chạm vào em ấy, ",
+			"thay vào đó là nghiêm túc xin phép."
+        ],
+		"38": [
+		    "\\nl< >\"Eh!? Đột ngột quá đó...\""
+        ],
+		"39": [
+		    "\"Tất nhiên rồi! Để kiểm tra xem em đã có vẻ duyên dáng ",
+			"của một quý cô thực thụ chưa chứ!\""
+        ],
+		"40": [
+		    "\\nl< >\"Mmm... Anh chỉ muốn kiếm cớ để sờ thôi, đúng không?\""
+        ],
+		"41": [
+		    "\\nl< >\"Anh lúc nào cũng thế... ",
+			"hành động kỳ quặc của anh luôn làm em râm ran hết cả người...\""
+        ],
+		"42": [
+		    "\"C-Có phải em thấy ghét khi anh làm vậy không?\""
+        ],
+		"43": [
+		    "Nghe \\str[120] nói ghét mình...",
+			"Đó là điều mình không bao giờ muốn nghe...!"
+        ],
+		"44": [
+		    "\\nl< >\"Ghét à? Không hẳn... Em nghĩ cũng được thôi...",
+			"Miễn là anh nhẹ nhàng, \\str[121]...\""
+        ],
+		"45": [
+		    "OHHHHHHH—!!!"
+        ],
+		"46": [
+		    "Tôi kìm nén ham muốn muốn xoa bóp thô bạo,",
+			"chỉ nhẹ nhàng đặt tay lên bầu ngực của \\str[120], chậm rãi vuốt ve nó."
+        ],
+		"47": [
+		    "\\nl< >\"\\str[121], mặt anh trông hơi đáng sợ đó...\""
+        ],
+		"48": [
+		    "\\nl< >\"Hehe... hơi nhột nhột...\""
+        ],
+		"49": [
+		    "\\nl< >\"Mmm... mmn...\""
+        ],
+		"50": [
+		    "Dù có khăn tắm chắn ngang, ",
+			"cách nó quấn quanh cơ thể lại khiến đường cong của em ấy càng thêm nổi bật.",
+			"Cách khăn ôm trọn và định hình phần đầy đặn ấy chỉ khiến sức nặng mềm mại, ",
+			"săn chắc trong tay tôi càng trở nên chân thực hơn."
+        ],
+		"51": [
+		    "Khi khăn đã được cởi bỏ, tay tôi tự do lướt trên làn da trần của \\str[120].",
+			"Khi đầu ngón tay khẽ chạm qua núm vú, ",
+            "tôi cảm nhận được cơ thể em ấy khẽ run lên."
+        ],
+		"52": [
+		    "Còn cần một chút thời gian nữa để cả hai chúng tôi ấm lên hoàn toàn...",
+			"Tôi nhẹ nhàng đùa nghịch với bàn tay nhỏ nhắn của \\str[120]",
+			"trong khi nghĩ xem tiếp theo nên làm gì—"
+        ],
+		"53": [
+		    "Còn cần một chút thời gian nữa để cả hai chúng tôi ấm lên hoàn toàn...",
+			"Tôi đang thoải mái vuốt ve bầu ngực của \\str[120]",
+			"trong khi nghĩ xem tiếp theo nên làm gì—"
+        ],
+		"54": [
+		    "Sờ ngực",
+			"Cởi khăn",
+			"Thì thầm với \\str[120]",
+			"Bóp con vịt"
+        ],
+		"55": [
+		    "\\nl< >\"Ha... haa...             \\[60]",
+			"Em... em không... chịu nổi nữa...       \\[60]",
+			"\\str[121], tự cởi nó ra đi...\""
+        ],
+		"56": [
+		    "\\str[120] mềm nhũn tựa vào ngực tôi, ",
+			"toàn thân em ấy yếu ớt và ngoan ngoãn, hoàn toàn phó mặc.",
+			"Không do dự, tôi nới lỏng chiếc khăn quấn quanh người em ấy."
+        ],
+		"57": [
+		    "Có lẽ mình không nên đùa thêm nữa..."
+        ],
+		"58": [
+		    "Hmm... con vịt này hơi vướng... ",
+			"để mình gạt nó sang một bên trước đã."
+        ],
+		"59": [
+		    "—Hay là mình tưởng tượng thôi?",
+			"Sao cảm giác nó đang nhìn chằm chằm mình... dữ dội thế nhỉ?"
+        ],
+		"60": [
+		    "\\nl< > \"K-Không được! Anh không được sờ em nữa!",
+			"Tại anh hết đấy, \\str[121]... ",
+			"giờ cả người em cảm thấy kỳ lạ quá!\""
+        ],
+		"61": [
+            "Uh... hình như mình trêu quá đà rồi—",
+			"mặt em ấy đỏ bừng rồi chạy mất tiêu..."
+        ],
+		"62": [
+            "\\nl< >\"a…\\str[121]……      \\w[160]\\^"
+        ],
+		"63": [
+            "\\^\\nl< >\"Ugh...!\"        \\w[40]\\^"
+        ],
+		"64": [
+            "\\{Ối!",
+			"Chúng tôi ở trong đó lâu quá—",
+			"\\str[120] gất xỉu vì nóng rồi…!!"
+        ],
+		"65": [
+            "Tôi vội vàng bế \\str[120] ra khỏi phòng tắm—",
+            "cả người em ấy nóng bừng và đỏ ửng,",
+			"tôi không thể phân biệt nổi là do hơi nóng hay… do kích thích.",
+			"\\w[30]",
+			"May thay, sau một hồi chăm sóc cẩn thận, ",
+			"em ấy dần tỉnh lại.",
+			"Lần sau nhất định phải cẩn thận hơn…!"
+        ],
+		"66": [
+            "Phù... người mình giờ nóng ran hết rồi.",
+			"Chắc cũng đến lúc ra ngoài thôi."
+        ],	
+		"67": [
+            "\\nl< > \"K-khoan, \\str[121]…    \\w[60]",
+			"em bắt đầu cảm thấy kỳ lạ rồi…\""
+        ],	
+		"68": [
+            "\"Không sao đâu, anh sẽ nhẹ nhàng.",
+			"Em cứ thả lỏng người ra nhé, được chứ?\""
+        ],	
+		"69": [
+            "\\nl< > \"Hngh… ahh…   \\w[60]",
+			"Thật không…? Cảm giác như… \\str[121] cứ…    \\w[120]\"",
+			"trêu chọc em suốt thôi…\""
+        ],	
+		"70": [
+            "\"À thì, em nói cũng không sai đâu~ ",
+			"Ý anh là, em bây giờ dễ thương quá mức luôn ấy~!\""
+        ],	
+		"71": [
+            "\\nl< > \"Mmm… ngh…    \\w[90]",
+			"Em… em còn chẳng biết chuyện gì đang xảy ra nữa…\""
+        ],	
+		"72": [
+            "Nhìn \\str[120] trong trạng thái say đắm như vậy, ",
+			"sợi dây lý trí trong đầu tôi đột nhiên đứt ngang.      \\w[60]",
+			"Aah… hay là cứ… đi đến cùng luôn…!           \\w[30]\\^"
+        ],	
+		"73": [
+            "\\nl< > \"Um… cái này hơi quá rồi…\""
+        ],	
+		"74": [
+            "\\str[120] khẽ lẩm bẩm, vẻ mặt ngơ ngác—",
+			"em ấy vẫn chưa quen với loại kích thích này.",
+			"Nhưng những cơn run rẩy nhẹ nhàng lan khắp người em ấy vì khoái cảm lạ lẫm",
+			"chỉ khiến tim tôi đập nhanh hơn, và hai tay càng tự động di chuyển thêm."
+        ],	
+		"75": [
+            "\\nl< >\"Ahh… \\str[121]…   \\w[60]",
+			"chúng ta… vẫn tiếp tục sao?\""
+        ],	
+		"76": [
+            "\\nl< > \"Mmm… ngh…  \\w[30]\\{",
+			"Ah—!?\""
+        ],	
+		"77": [
+            "\\nl< > \"Haah… haa…\""
+        ],	
+		"78": [
+            "\\str[120] cố gắng kìm nén giọng nói đầy bất an… hay là—",
+			"em ấy thực sự bắt đầu cảm nhận được khoái cảm?",
+			"Chỉ nghĩ đến điều đó thôi đã khiến mạch tôi đập nhanh hơn,",
+			"và thúc đẩy các động tác trở nên táo bạo hơn."
+        ],	
+		"79": [
+            "\\nl< > \"Mmm… ngh…\""
+        ],	
+		"80": [
+            "\\nl< > \"Hehe… hơi nhột nhột…\""
+        ],	
+		"81": [
+            "Dù tôi không kìm được mà lại chạm vào bầu ngực mềm mại của em ấy,",
+			"em ấy chỉ khẽ run và im lặng để tôi tiếp tục."
+        ],	
+		"82": [
+            "Tôi tiếp tục chuyển động trong khi cẩn thận hỏi \\str[120] cảm thấy thế nào."
+        ],		
+		"83": [
+            "\\nl< >\"E-Em còn chẳng hiểu anh đang nói gì nữa…\""
+        ],		
+		"84": [
+            "\\nl< >\"E-Em không thực sự hiểu... ý anh nói cảm thấy sướng là sao…\""
+        ],		
+		"85": [
+            "Gương mặt đỏ bừng, ngượng ngùng của \\str[120] trông có hơi thú vị."
+        ]	
+    },
+    "4": {
+        "1": [
+            "\\str[120] khẽ cất lên tiếng rên rỉ hơi khó chịu, ",
+            "nhưng rồi vẫn ngoan ngoãn cúi người xuống,",
+            "em ấy xoa xà phòng tắm lên hai lòng bàn tay cho đến khi chúng trơn nhẫy.",
+            "\\w[30]",
+            "Sau đó, với vẻ tự tin, em ấy nắm lấy dương vật đang cương cứng của tôi,",
+            "những đầu ngón tay khẽ khàng trêu đùa bằng những cái chạm nhẹ nhàng, ",
+            "rồi bắt đầu cẩn thận rửa sạch từng chút một."
+        ],
+        "2": [
+            "\"Mnh... haah...\""
+        ],
+        "3": [
+            "Âm thanh những bọt nước vỡ tan khe khẽ giữa làn da của chúng tôi,",
+            "vậy mà trong khoảng cách gần kề thế này, ",
+            "lại như được khuếch đại lên vô hạn trong tai tôi. "
+        ],
+        "4": [
+            "Mặc dù những động tác của em ấy rất nhẹ nhàng, nhưng ý nghĩ về việc",
+            "bàn tay của \\str[120] tự tay làm sạch bộ phận kín đáo nhất của tôi",
+            "khiến một cơn nóng bồn chồn lan rộng như lửa cháy."
+        ],
+        "5": [
+            "Như thể nồng nhiệt chào đón chủ nhân, ",
+            "dương vật của tôi nhanh chóng cương cứng ",
+            "trở nên cương cứng và thẳng đứng trong lòng bàn tay em ấy."
+        ],
+        "6": [
+            "\\nl< >\"...\\str[121]♥ ",
+            "Chúng ta mới chỉ bắt đầu thôi mà anh đã hào hứng đến thế này rồi sao~?\""
+        ],
+        "7": [
+            "Cảm nhận được sự thay đổi trong tôi, \\str[120] dừng lại việc lau chùi đơn thuần.",
+            "Em ấy nắm chặt bàn tay quanh thân dương vật đang nóng ran rồi bắt đầu",
+            "vuốt ve lên xuống theo nhịp điệu một cách chậm rãi."
+        ],
+        "8": [
+            "\\nl< >\"...Chỉ là tắm thôi, thế mà... \\w[120]",
+            "dưới này của anh đã hăng hái thế này rồi sao...\""
+        ],
+        "9": [
+            "\\nl< >\"Bây giờ chắc chắn anh đang nghĩ đủ thứ chuyện hư hỏng rồi ",
+            "phải không nào~?   \\w[120]",
+            "Anh đúng là một \\str[121] hư hỏng vô vọng thật đấy♥\""
+        ],
+        "10": [
+            "\\nl< >\"Vì anh muốn đến thế, em đành phải...     \\w[120]",
+            "sẽ giúp anh tắm rửa sạch sẽ hơn một chút nữa~♥\""
+        ],
+        "10.1": [
+            "Giữa tiếng nước bắn tung tóe, một dòng nước ấm áp",
+            "mịn màng trôi qua, rửa sạch hoàn toàn lớp bọt xà phòng trên dương vật của tôi.",
+            "Sau đó \\str[120] chủ động cúi người xuống, ",
+            "nhẹ nhàng đặt môi mình lên chỗ ấm áp ấy một cách dịu dàng."
+        ],
+        "10.2": [
+            "\\nl< >\"Hì... Bọt thì sạch hết rồi nè. ",
+            "Nhưng phần quan trọng nhất của anh thì cần phải được làm sạch",
+            "theo cách đặc biệt hơn mới được...♥\""
+        ],
+        "10.3": [
+            "Em ấy khẽ hé môi, hơi thở ngọt ngào và ấm áp phả ra, ",
+            "khiến những phần nhạy cảm nhất rung rẩy lên.",
+            " ",
+            " ",
+            "Rồi chiếc lưỡi hồng nhỏ nhắn, linh hoạt lặng lẽ thè ra,",
+            "quấn quanh và liếm nhẹ vòng vành quy đầu với vẻ ",
+            "tò mò dịu dàng như một chú mèo con đang đói—"
+        ],
+        "10.4": [
+            "Đó là một cảm giác ẩm ướt, tinh tế đến mức tuyệt mỹ, ",
+            "xen lẫn những tiếng rên khe khẽ, nghẹn ngào phát ra từ cổ họng em ấy.",
+            "Những cái chạm trêu ghẹo, thoáng qua ấy còn mãnh liệt gấp trăm lần ",
+            "so với sự kích thích từ bàn tay em ấy lúc nãy."
+        ],
+        "11": [
+            "\\nl< >\"\\str[121], cơ thể anh đang co giật kìa♥     \\w[120]",
+            "Sao thế~? Cảm giác có tuyệt lắm không?\""
+        ],
+        "11.1": [
+            "Đầu khấc đã không thể kiềm chế được nữa, từng giọt dịch trong suốt óng ánh rỉ ra, ",
+            "lấp lánh dưới ánh đèn với vẻ nhớp nháp, đục mờ đầy mê hoặc.",
+            "",
+            "",
+            "Thay vì cảm thấy ghê sợ, \\str[120] lại càng hăng hái hơn, ",
+            "em ấy liếm sạch từng giọt dịch rỉ ra ấy, đưa hết vào miệng mình, phát ra những tiếng",
+            "chùn chụt nhẹ nhàng, ướt át khiến tim tôi đập thình thịch như muốn vỡ tung."
+        ],
+        "12": [
+            "\\nl< >\"Ah... đây vẫn còn chút bẩn rỉ ra nữa nè...     \\w[120]",
+            "Vậy thì phần này em sẽ làm sạch tiếp nhé~\""
+        ],
+        "13": [
+            "Chiếc lưỡi của em ấy tiếp tục hành trình, trượt từ quy đầu xuống ",
+            "dọc theo những đường gân nổi lên,",
+            "kiên nhẫn liếm từ đầu xuống tận gốc ",
+            "không bỏ sót chút nào."
+        ],
+        "13.1": [
+            "Ngay cả những nếp gấp khuất kín nhất, thường ngày không để ý ",
+            "cũng được lưỡi em ấy miệt mài lướt qua lại nhiều lần.",
+            "Cảm giác nhột nhột nhẹ nhàng ban đầu nhanh chóng ",
+            "biến thành những đợt điện giật chạy dọc từ gốc lên tận não bộ."
+        ],
+        "14": [
+            "\\nl< >\"Ehehe... giờ thì sạch bóng hẳn rồi nè♥\""
+        ],
+        "15": [
+            "Mịn màng với nước bọt của em ấy, toàn bộ thân dương vật lấp lánh với ",
+            "một lớp ẩm ướt dày, quyến rũ dưới ánh sáng.",
+            "Như thể em ấy đang chiêm ngưỡng một kiệt tác do chính mình hoàn thành, ",
+            "\\str[120] nheo mắt đầy tự hào, khẽ ngân nga ngọt ngào, tự mãn."
+        ],
+        "16": [
+            "Tuy nhiên, sự kích thích nhẹ nhàng này vẫn còn xa mới đủ để làm tôi thỏa mãn.",
+            "Ngược lại, nó giống như đổ thêm dầu vào lửa, khiến tôi càng thèm khát mãnh liệt hơn ",
+            "cảm giác được bao bọc hoàn toàn, bị nuốt chửng bởi sự ấm áp và ẩm ướt ấy."
+        ],
+        "17": [
+            "\\nl< >\"Chắc giờ anh đang cố kiềm nén lắm rồi phải không, \\str[121]♥     \\w[120]",
+            "Không sao đâu. Em sẽ chăm sóc anh cho đến khi anh thỏa mãn,          \\w[120]",
+            "nên… anh cứ bắn hết ra cho em đi nhé?♥\""
+        ],
+        "18": [
+            "Mặc dù dương vật của tôi vẫn cương cứng và không thỏa mãn,",
+			"ánh mắt lười biếng của \\str[120] đầy vẻ miễn cưỡng mệt mỏi.",
+			"Có vẻ như em ấy định không làm nữa...",
+			"Tệ rồi, mình phải nhanh nghĩ cách gì đó!!"
+		],
+        "19": [
+            "Hối lộ",
+			"Năn nỉ"
+		],
+        "19.1": [
+            "\"Xin em...! Anh sai rồi!",
+            "Nếu em dừng lại bây giờ, anh sẽ đau lắm luôn đấy!",
+            "Làm ơn, hãy tiếp tục đi mà!\""
+        ],
+        "19.2": [
+            "\"Anh đầu hàng rồi! Anh không nên trêu chọc em mãi thế...!",
+            "\\str[120] ngọt ngào, dễ thương nhất của anh ơi... ",
+            "làm ơn giúp \\str[121] tội nghiệp của em đi, được không?\""
+        ],
+        "19.3": [
+            "Tôi vội vàng làm ra vẻ mặt chân thành nhất có thể,",
+            "nắm chặt lấy tay em ấy như thể đó là sợi dây cứu mạng cuối cùng của mình."
+        ],
+        "19.4": [
+            "\\nl< >\"Hehe♥ Không~ đâu~♥",
+            "Em đã rửa sạch sẽ cho anh hết rồi mà~ ",
+            "Phần còn lại anh tự xử đi nhé!!\""
+        ],
+        "19.5": [
+            "\\{\"C-C-Cái gì?!!\""
+        ],
+        "19.6": [
+            "\\nl< >\"Humph~ Giờ thì anh cuối cùng cũng nếm trải cảm giác bị trêu suốt ngày ",
+            "rồi chứ hả~? Thấy sao, sướng không~?\""
+        ],
+        "19.7": [
+            "Em ấy lè lưỡi và nhanh chóng chui vào bồn tắm trong nháy mắt ",
+            "Với nụ cười đắc ý pha chút tinh nghịch giữa làn hơi nước, ",
+            "em ấy trông thật giống một con quỷ nhỏ vừa ",
+            "đạt được điều mình muốn."
+        ],
+        "19.8": [
+            "Đối mặt với màn trả đũa đầy toan tính này, tôi hoàn toàn cứng họng.",
+            "Xem ra cuối cùng vẫn phải tự mình xử lý thôi..."
+        ],
+        "19.9": [
+            "\\nl< >\"Ugh... ",
+            "nói kiểu đó thật là không công bằng mà...\""
+        ],
+        "19.91": [
+            "\\nl< >\"Thôi được rồi, trời ạ... ",
+            "Em đành giúp anh thêm chút nữa vậy... \\w[120]",
+            "Nhưng mà lần sau anh còn dám trêu em nữa ",
+            "em bỏ mặc anh luôn đấy!\""
+        ],
+        "19.92": [
+            "Mặc dù miệng thì đang trách móc, ",
+            "nhưng em ấy đã chẳng còn cố đứng dậy nữa.",
+            "Nhìn thấy sự kháng cự trong ánh mắt em ấy dần tan biến, ",
+            "cuối cùng tôi cũng thở phào nhẹ nhõm."
+        ],
+        "20": [
+            "\"Anh sẽ cho em một \\ii[\\v[90]] nhé!!\""
+        ],
+        "21": [
+            "Muốn dỗ em ấy cho nhanh thì chiêu hiệu quả nhất ",
+            "chắc chắn là đưa ra món đồ uống yêu thích của em ấy!"
+        ],
+        "22": [
+            "\\nl< >\".............................",
+            ".............................\""
+        ],
+        "22.1": [
+            "\\nl< >\"..................Cho thành hai đi.\""
+        ],
+        "22.2": [
+            "\\{ em ấy đang trả giá ngay tại chỗ——!!"
+        ],
+        "22.3": [
+            "\"Urgh——————    \\w[60]\\{",
+            "Chốt!!\""
+        ],
+        "22.4": [
+            "\\nl< >\"Hehe~ Vì đây là sữa em thích   \\w[120]",
+            "Chắc em sẽ phải giúp anh làm nốt thôi~!\""
+        ],
+        "22.5": [
+            "Ngay khoảnh khắc được hứa cho phần thưởng, ",
+            "đôi mắt lờ đờ của em ấy lập tức sáng lên.",
+            "Mỉm cười, em ấy lại ngả người tiến vào, ",
+            "động tác còn nhiệt tình hơn cả lúc nãy."
+        ],
+        "22.6": [
+            "\\nl< >\"..................Không đâu! ",
+            "Em không thích hương vị này!\""
+        ],
+        "22.7": [
+            "\\{ K-Khoan đã, để anh thử cái khác——————!!"
+        ],
+        "22.8": [
+            "\"K-Khoan đã, để anh thử cái khác——\" \\w[25]\\^"
+        ],
+        "22.9": [
+            "\\nl< >\"............Cái này là gì vậy?      \\w[90]",
+            "Trông kỳ lạ quá... em không muốn dùng nó...\""
+        ],	
+        "23": [
+            "\"Được thôi! Anh sẽ dùng cái này! ",
+            "Anh dùng Phiếu Thưởng luôn, ngay bây giờ!\""
+        ],
+        "23.1": [
+            "Đó là tấm “Phiếu Thưởng” em ấy tự tay làm cho tôi. ",
+            "Lúc trước em ấy từng nói rằng chỉ cần tôi đưa nó ra, ",
+            "thì dù yêu cầu có ích kỷ hay làm nũng đến mức nào đi chăng nữa,",
+            "em ấy cũng sẽ đồng ý hết."
+        ],
+        "23.2": [
+            "\\nl< >\"A-Anh nghiêm túc đấy hả?!     \\w[90]",
+            "\\str[121], anh thực sự dùng Phiếu Thưởng của mình cho việc này sao?\""
+        ],
+        "23.3": [
+            "\"Urgh...! B-Bởi vì...",
+            "Lúc này là lúc anh cần sự an ủi của \\str[120] nhất!\""
+        ],
+        "23.4": [
+            "Chỉ để làm nũng bản thân mà phải dùng đến con át chủ bài ",
+            "như thế này, tôi cũng thấy mình hơi thảm hại...",
+            "Nhưng cảm giác bức bối, khao khát được giải tỏa ở phần thân dưới ",
+            "khiến tôi không thể tỉnh táo suy nghĩ nữa."
+        ],
+        "23.5": [
+            "\\nl< >\"Đúng là \\str[121] ngốc quá...               \\w[60]",
+            "chỉ vì chuyện này mà căng thẳng đến vậy.     \\w[60]",
+            "Thôi được rồi, được rồi~ em sẽ giúp anh làm nốt!!            \\w[60]",
+            "Giữ lại tấm Phiếu Thưởng đó đi và để dành cho một yêu cầu quan trọng hơn nhé!\""
+        ],
+        "23.6": [
+            "\"Ooooohhhhh...! Anh biết mà... ",
+            "cuối cùng thì em vẫn luôn là người tốt nhất đối với anh...!\""
+        ],
+        "23.7": [
+            "\\str[120] khẽ thở dài rồi tiếp tục công việc của mình.",
+            "Như thể để ngăn tôi nảy ra thêm mấy ý nghĩ linh tinh, ",
+            "em ấy bắt đầu nhiệt tình hơn lúc trước."
+        ],
+        "24": [
+            "\\nl< >\"\\str[120] của anh đang làm việc rất chăm chỉ để giúp anh...    \\w[120]",
+            "Lát nữa nhớ chuẩn bị phần thưởng tử tế cho em nhé...♥\""
+        ],
+        "25": [
+            "Em ấy nháy mắt tinh nghịch với tôi,",
+            "trong khi chiếc lưỡi hồng hào nghịch ngợm quấn quanh ",
+            "vùng nhạy cảm nhất."
+        ],
+        "25.1": [
+            "Những lần trêu chọc lặp đi lặp lại này đã đẩy dục vọng của tôi lên đến ",
+            "giới hạn tuyệt đối. Nhìn \\str[120] hoàn toàn không phòng bị trước mặt",
+            "tôi thậm chí còn cảm thấy thôi thúc muốn đè em ấy xuống ",
+            "và chiếm đoạt em ấy ngay tại đây."
+        ],
+        "26": [
+            "\\nl< >\"……Chu♥    \\w[120]",
+            "Ngoan nào, \\str[121]~ ",
+            "Em sẽ chăm sóc anh đến tận cùng luôn, nên đừng vội vã gì cả,",
+            "Cứ thư giãn và thả lỏng đi nhé...\""
+        ],
+        "27": [
+            "Cảm nhận được sự bồn chồn của tôi, em ấy khẽ đặt một nụ hôn ướt át ",
+            "lên đầu khấc như dỗ dành một đứa trẻ đang cáu kỉnh.",
+            "Sau đó, em ấy điều chỉnh góc gần hơn, ",
+            "kiên nhẫn dùng lưỡi ẩm ướt tiếp tục trêu đùa."
+        ],
+        "28": [
+            "Nhưng cái chạm dịu dàng này chỉ khiến tôi càng thêm bồn chồn.",
+            "Cơn nóng rang trong bụng chẳng hề nguôi ngoai chút nào. ",
+            "Hay là… kích thích thế này vẫn chưa đủ?"
+        ],
+        "29": [
+            "\"Vì... vì đã đi đến mức này rồi, ",
+            "hãy làm cho anh sướng hơn nữa đi...\""
+        ],
+        "30": [
+            "\\nl< >\"Anh không thể... kiềm nén... ",
+            "thêm nữa à... \\str[121]...?                      \\w[120]",
+            "Không sao đâu... Em sẽ... làm sạch nốt phần còn lại...     \\w[120]",
+            "Thật... kỹ... nhé...♥\""
+        ],
+        "31": [
+            "Dù giọng em ấy hơi bị nghẹn lại vì bị chật, ",
+            "nhưng tôi vẫn nhận ra rõ ràng là em ấy không hề từ chối.",
+            "Ngay lập tức sau đó, em ấy hé đôi môi nhỏ nhắn ra và ",
+            "ngậm lấy đầu khấc vào, dù phải chịu áp lực khủng khiếp."
+        ],
+        "32": [
+            "Kèm theo những tiếng chùn chụt nhầy nhụa, nhịp nhàng, ",
+            "quanh miệng ấm áp của em ấy siết chặt lấy từng đường gân nổi lên.",
+            "Cảm giác khoái lạc khi bị bao bọc hoàn toàn bởi hơi nóng và ",
+            "độ ẩm ấy dâng trào thẳng lên não bộ, khiến tôi gần như mất kiểm soát."
+        ],
+        "33": [
+            "Để \\str[120] làm",
+            "Vào sâu hơn",
+            "Cứ giữ nguyên",
+            "Xuất vào miệng"
+        ], 
+        "35.1": [
+            "\\nl< >\"Trời ạ... em thể không tin được, \\str[121]...",
+            "lại đưa ra yêu cầu... vô lý đến vậy...\""
+        ],
+        "35.2": [
+            "\\nl< >\"...Nhưng mà... em sẽ cố hết sức có thể...♥\""
+        ],
+        "35.3": [
+            "\\nl< >\"Vì \\str[121]... đòi hỏi em nhiều thế này...",
+            "thì em đành phải... cố hết sức thôi♥\""
+        ],
+        "35.4": [
+            "\\nl< >\"Ugh... thật tình mà nói, \\str[121]...",
+            "lúc nào cũng đòi mấy chuyện xấu hổ thế này...♥\""
+        ],
+        "35.5": [
+            "\\nl< >\"Anh xấu tính quá đi, \\str[121]...",
+            "anh thích nhìn em xấu hổ, đỏ mặt đến mức này lắm à?♥\""
+        ],
+        "40": [
+            "\\str[120] nhắm mắt nhăn nhó lại trong vẻ mặt đau đớn vì bị lấp đầy,",
+            "nhưng vẫn cố chấp nuốt từng đợt nóng hổi trào ra một cách ngoan ngoãn.",
+            "Những tiếng rên rỉ, nức nở nghẹn ngào trong không gian nhà tắm chật hẹp",
+            "nghe vừa đáng thương, vừa dễ thương đến lạ."
+        ],
+        "41": [
+            "Khi đợt phun trào cuối cùng trôi tuột xuống cổ họng em ấy,",
+            "em ấy khẽ gục người xuống, khuôn mặt trắng bệch giờ đỏ bừng lên vì gắng sức.",
+            "Một vệt trắng đục vẫn còn dính lại ở khóe miệng",
+            "em ấy ngước nhìn tôi đờ đẫn, thở hổn hển từng nhịp nặng nề."
+        ],
+        "42": [
+            "\\nl< >\"Khụ khụ... ugh... cổ họng em đau rát quá...",
+            "Dù anh... anh đã làm thế rồi, ",
+            "sao dưới này nó vẫn còn hăng hái vậy...?\""
+        ],
+        "43": [
+            "\\nl< >\"Phù... haah... ",
+            "Anh vẫn chưa xuất ra hết phải không?",
+            "Chưa xong đâu♥ Vì em đã hứa sẽ làm sạch đến nơi đến chốn, ",
+            "nên em không thể để sót lại dù chỉ một giọt nào đâu...\""
+        ],
+        "44": [
+            "\\nl< >\"Xoa, xoa...",
+            "Giờ thì ra nốt phần còn lại cho em đi...",
+            "Em sẽ hứng hết từng chút một...♥\""
+        ],
+        "45": [
+            "\"Ugh...! Em... em nhiệt tình quá đấy...! ",
+            "Cứ thế này thì anh sắp—\""
+        ],
+        "46": [
+            "Cơn dư âm từ lần đầu tiên vẫn chưa tan hết, ",
+            "cơ thể tôi đang ở trạng thái nhạy cảm nhất.",
+            "Dưới bàn tay ấm áp, mềm mại của \\str[120] vuốt ve hết sức,",
+            "một đợt nóng rang thứ hai nhanh chóng dâng trào trở lại."
+        ],
+        "47": [
+            "\\nl< >\"Whoa—! Lại xuất ra nữa rồi kìa!",
+            "Ehehe~ Em biết ngay trong người anh vẫn còn chút nước rỉ ra mà, ",
+            "\\str[121]...♥\""
+        ],
+        "48": [
+            "\\nl< >\"Phù... chúng ta vẫn chưa xong đâu nha, \\str[121]~",
+            "Dù lượng xuất ra có ít đi thì chỗ này vẫn còn..., ",
+            "cương cứng như thế này♥\""
+        ],
+        "49": [
+            "\"K-Khoan đã! Em định tiếp tục thật hả?! ",
+            "Ra chưa đủ hay sao!?\""
+        ],
+        "50": [
+            "\\nl< >\"Chưa~ đâu~♥ Chỗ dưới của \\str[121] ",
+            "vẫn chưa chịu đầu hàng đâu nè!",
+            "Cố chịu thêm tí xíu nữa thôi, sắp xong rồi...♥\""
+        ],
+        "51": [
+            "Ngay lúc này, chân tôi đã bắt đầu mềm nhũn.",
+            "Nhưng \\str[120] vẫn giữ tinh thần hiếu chiến cao độ, ",
+            "ngón tay nắm chặt lấy dương vật của tôi như đang cố vắt ra",
+            "từng giọt cuối cùng, cọ xát một cách tỉ mỉ."
+        ],
+        "52": [
+            "\"————————Guh... aaaaaagh!!\"",
+            "\\w[25]\\^"
+        ],
+        "53": [
+            "Dưới bàn tay vừa ép buộc vừa dịu dàng của em ấy,",
+            "những giọt chất lỏng mỏng manh cuối cùng cũng bị vắt kiệt ra hết.",
+            "Ngọn giáo kiêu hãnh của tôi cuối cùng cũng chịu khuất phục hoàn toàn ",
+            "trong lòng bàn tay của \\str[120]."
+        ],
+        "54": [
+            "\\nl< >\"Haah... Cuối cùng thì cũng sạch sẽ hoàn toàn rồi♥\""
+        ],
+        "55": [
+            "\"Nó... thật sự không còn một giọt nào còn sót lại nữa...\""
+        ],
+        "56": [
+            "\\nl< >\"Bây giờ anh đã sạch sẽ từ đầu đến cuối luôn rồi nha, \\str[121]~",
+            "Như thế này thì anh sẽ không còn suốt ngày mơ mộng ",
+            "những thứ biến thái như mọi khi nữa đâu♥\""
+        ],
+        "57": [
+            "\\str[120] dường như đang hiểu lầm rằng ",
+            "vắt kiệt cơ thể cũng đồng nghĩa với vắt kiệt cả đầu óc.",
+            "Nhưng sau khi bị vắt liên tục như thế, ",
+            "não tôi quả thật đã trống rỗng hoàn toàn.",
+            "Cảm giác như... ",
+            "chẳng còn gì trên đời này quan trọng nữa vậy..."
+        ],
+        "58": [
+            "\\nl< >\"*Khụ khụ*...                 \\w[90]",
+            "haah... Phần cuối cùng đau thật đấy...      \\w[90]",
+            "Cổ họng em giờ như bị lấp đầy hoàn toàn bởi",
+            "hương vị của \\str[121] luôn rồi...\""
+        ],
+        "59": [
+            "\\nl< >\"Huh...? Sao tự nhiên trông anh kiệt quệ thế kia?     \\w[120]",
+            "Bình thường \\str[121] phải trụ được lâu hơn thế mà...\""
+        ],
+        "60": [
+            "Dù vẫn chưa hết cảm giác ngạt thở vừa nãy, ",
+            "\\str[120] vẫn không chịu bỏ cuộc,",
+            "tiếp tục vuốt ve cậu nhỏ đang rũ đầu xuống, ",
+            "như thể cố gắng khơi dậy lại sức sống cho nó."
+        ],
+        "61": [
+            "\"Đ-đừng cố nữa... không... còn gì để xuất ra nữa đâu...\""
+        ],
+        "62": [
+            "Dù xấu hổ phải thừa nhận với \\str[120] rằng mình đã cạn kiệt,",
+            "nhưng đợt phóng thích không kiềm chế vừa rồi ",
+            "thực sự đã rút hết sức lực của tôi."
+        ],
+        "63": [
+            "\\nl< >\"À... vậy là \\str[121] đã thỏa mãn rồi sao,       \\w[120]",
+            "Thế thì hôm nay kết thúc đợt dọn sạch sẽ đặc biệt ở đây nhé♥\""
+        ],
+        "64": [
+            "\"Tôi... Tôi đang kiệt sức rồi...\""
+        ],
+        "65": [
+            "\\nl< >\"Xoa, xoa~                    \\w[90]",
+            "Nhìn có vẻ chẳng còn gì rỉ ra nữa... ",
+            "Lần này đúng là làm sạch sẽ triệt để luôn nè♥\""
+        ],
+        "66": [
+            "Chế độ xem ảnh",
+            "Chế độ cốt truyện"
+        ]
+    },
+    "8": {
+        "0": [
+            "Đã có rất nhiều bọt rồi…!",
+			"Mình có thực sự cần phải thêm nữa không?!"
+		],
+		"1": [
+            "Bọt đã rất nhiều rồi...",
+			"Mình có nên thêm ít dầu gội nữa không?"
+        ],
+        "2": [
+            "Cảm giác như bọt vẫn có thể mịn và bồng hơn một chút nữa...",
+            "Mình có nên thêm ít dầu gội nữa không?"
+        ],
+        "3": [
+		    "Gọi \\str[120]",
+            "Thêm nữa",
+			"Đủ rồi"
+        ],
+        "4": [
+            "\\{...Dầu gội đã hết rồi!"
+        ],
+        "5": [
+            "Thôi thì cứ dùng tạm thế này đã",
+			"rồi lần sau nhớ mua thêm là được..."
+        ],
+        "6": [
+            "Đã có quá nhiều bọt rồi!?",
+			"Tốt nhất là đừng lãng phí thêm dầu gội—"
+        ],
+        "7": [
+            "Huh? Mình có thực sự cần nhiều dầu gội đến thế không?",
+			"Da đầu tôi bắt đầu hơi rát rồi—"
+        ],
+        "8": [
+            "Oa, đã có rất nhiều bọt rồi—",
+			"Thế này chắc đủ rồi, nhỉ~?"
+        ],
+        "9": [
+            "Ừ, làm thêm một chút bọt nữa đi—"
+        ],
+        "10": [
+            "Mmm, nhiều bọt hơn làm tâm trạng thoải mái hẳn—"
+        ],
+        "11": [
+            "Đã có một bồn tắm thư giãn, dễ chịu."
+        ],
+        "12": [
+            "\"...À đúng rồi, hồi nãy mình có nhặt được cái đó mà.\""
+        ],
+        "13": [
+            "Tôi cẩn thận rửa sạch con vịt cao su, rồi nhẹ nhàng đặt nó xuống bồn tắm.",
+			"Nó trôi lơ lửng trên mặt nước—trông thật yên bình và dễ thương."
+        ],
+        "14": [
+            "\"Mhm... bầu không khí giờ thấy dễ chịu hơn hẳn.\""
+        ],
+        "15": [
+            "\"Phù... chắc cũng đến lúc đi ra thôi.\""
+        ],
+        "16": [
+            "\"...Cuối cùng cũng rửa sạch được cái mùi kỳ lạ trên người rồi.\""
+        ],
+        "17": [
+            "Tôi kỳ cọ người kỹ không biết bao nhiêu lần với đống sữa tắm,",
+            "và thậm chí tâm hồn tôi cũng cảm thấy như đã được thanh tẩy..."
+        ],
+        "18": [
+            "Sạch hết rồi—đến lúc ra ngoài thôi."
+        ],
+        "19": [
+            "\\nl< >\"\\str[121]!? ",
+			"Đừng có nghịch dầu gội nữa!\""
+        ],
+        "20": [
+            "\\nl< >\"Dầu gội dạo này dùng nhanh hết quá—",
+			"vậy là đúng là do anh làm à, \\str[121]!\""
+        ],
+        "21": [
+            "Ugh... bị mắng bởi \\str[120]."
+        ],
+        "22": [
+            "Tôi hỏi \\str[120] xem em ấy có thể giúp tôi cọ lưng không—"
+        ],
+        "23": [
+            "\\nl< >\"Được thôi! Chờ một chút nhé~!\""
+        ],
+        "24": [
+            "\\nl< >\"Kỳ mạnh thêm chút cũng không sao đâu ha,",
+			"\\str[121]?\""
+        ],
+        "25": [
+            "\"Ah... ừ, không sao đâu.\""
+        ],
+        "26": [
+            "\\nl< >\"Được rồi, em bắt đầu nhé—!  \\w[90]",
+			"-âyy—âyy—!           \\w[120]",
+			"-âyy—âyy—!           \\w[120]\""
+        ],
+        "27": [
+            "\\str[120] hăng hái kỳ lưng cho tôi bằng chiếc khăn tắm.",
+			"Sức của em ấy không mạnh lắm nên chẳng đau gì cả,",
+			"nhưng cảm giác cứ như mình đang bị lau như cái sàn bẩn vậy..."
+        ],
+        "28": [
+            "\\nl< >\"Phù... em mệt quá...    \\w[60]",
+			"\\str[121], Cảm giác có thoải mái không?\""
+        ],
+        "29": [
+            "Rửa phía trước...",
+			"Khen ngợi \\str[120]"
+        ],
+        "30": [
+            "\\nl< >\"Phía trước… cũng phải rửa nữa à?       \\w[60]",
+			"\\str[121] thật là…         \\w[60]",
+			"anh đâu còn là con nít nữa đâu, ",
+			"chẳng lẽ vẫn cần người khác rửa giúp à…?\"",
+			"\\w[120]"
+        ],
+        "31": [
+		    "Có vẻ mình hơi quá trớn rồi…",
+			"Mặt của \\str[120] đỏ bừng lên vì xấu hổ.",
+			"Có lẽ mình nên đợi đến khi cả hai thân thiết hơn một chút ",
+			"rồi mới thử lại lần nữa."
+        ],
+        "32": [
+		    "\\nl< >\"Phía trước… cũng phải rửa nữa sao?       \\w[60]",
+            "\\str[121] thật là…         \\w[60]",
+			"Anh đâu còn là con nít nữa, vậy mà vẫn còn nhõng nhẽo như thế…\""
+        ],
+        "33": [
+		    "\\nl< >\"Vậy nên… do \\str[121] không còn là trẻ con nữa,               \\w[120]",
+            "từ giờ em sẽ phải rửa cho anh như người lớn đấy nhé… được chứ?\"       \\w[120]"
+        ],
+        "34": [
+		    "\\nl< >\"Heh-heh-heh... Lần sau,                              \\w[60]",
+            "em sẽ cho anh xem kỹ thuật chà lưng còn tuyệt vời hơn nữa!\"        \\w[120]"
+        ],
+        "35": [
+            "\\nl< >\"Vậy thì, \\str[121]... ",
+            "Chính xác thì anh muốn em rửa ở đâu\""
+        ],
+        "36": [
+            "Rửa dương vật",
+            "Rửa cánh tay"
+        ],
+        "37": [
+            "\"Hãy làm ngay chỗ này đi—",
+            "Chắc chắn sẽ sạch hơn nhiều nếu \\str[120] làm đấy...!\""
+        ],
+        "38": [
+            "Tôi cố tình làm mặt nghiêm túc, ",
+            "tỉnh bơ rồi chỉ thẳng xuống dưới háng mình cho \\str[120] xem."
+        ],
+        "39": [
+            "\\nl< >\"Eh...? Anh muốn em rửa... ",
+            "ở chỗ đó á...?\""
+        ],
+        "40": [
+            "\\nl< >\"—Thật là, em biết ngay \\str[121] ",
+            "lúc nào cũng tìm cách đòi hỏi mấy chuyện hư hỏng thế này.",
+            "Anh chẳng bao giờ bỏ lỡ cơ hội, ",
+            "nghĩ về chuyện hư hỏng nhỉ...♥\""
+        ],
+        "41": [
+            "\\nl< >\"Eh—!? Không đời nào—!",
+            "\\str[121], anh lại đang tính kế gì hư hỏng nữa đúng không!",
+            "Nhìn dưới đó nhớp nháp, trơn tuột ghê quá... ",
+            "em không muốn đụng vào đâu!\""
+        ],
+        "42": [
+            "Mình có vẻ hơi vội vàng quá rồi...",
+            "\\str[120] đang nhìn chằm chằm vào dương vật đã cương cứng ",
+            "của tôi với vẻ mặt đầy miễn cưỡng và cảnh giác.",
+            "Chắc phải đợi hai đứa thân thiết hơn nữa mới dám thử lại thôi."
+        ],
+        "43": [
+            "\\nl< >\"...Just your arms?",
+            "\\str[121], you're being surprisingly ",
+            "well-behaved at a time like this...?\""
+        ]
+    },
+    "12": {
+        "0": [
+            "\\str[120] khẽ gật đầu một cách ngượng ngùng và phản ứng đáng yêu đó",
+            "khiến mình tràn ngập cảm giác muốn ôm lấy thật chặt và trân trọng em ấy.",
+            "Ngay khi mình còn đang đắm chìm trong cảm xúc xao xuyến ấy,",
+            "một cảm giác lạ lẫm, khó hiểu bỗng dâng lên từ bên dưới..."
+		],
+		"1": [
+            "\\nl< >\"Ah… \\str[121], bi của anh đang phát sáng kìa?\""
+        ],
+		"2": [
+            "\"Phải đấy, em biết không, ",
+			"bi của con trai luôn phát sáng khi tắm—",
+			"\\w[45]\\^"
+        ],
+		"3": [
+            "\\>\"Phải đấy, em biết không, ",
+			"\\>bi của con trai luôn phát sáng khi tắm—",
+			"Đ-\\<\\{Hả, đùa nhau à!!\"",
+			"\\}\\w[60]"
+        ],
+		"4": [
+            "Nhìn chằm chằm vào luồng ánh sáng đột ngột phát ra từ phần dưới cơ thể, ",
+			"tôi hoàn toàn bối rối."
+        ],
+		"5": [
+        	"Chẳng lẽ một con quái vật từ Vực Thẳm đã theo tôi đến đây sao!?",
+        	"Ngay khi ý nghĩ nguy hiểm đó lóe lên trong đầu tôi, tôi liền vứt khăn tắm",
+        	"sang một bên mà không một chút do dự—"
+        ],
+		"6": [
+            "Đùa—đúng là hai hòn bi của tôi đang phát sáng thật—"
+        ],
+		"7": [
+            "\\nl< >\"Ahwa, ahwahwahwahwah!     \\w[30]",
+			"\\str[121], bi của anh ngày càng sáng hơn kìa!!?\"   \\w[30]"
+        ],
+		"8": [
+            "《Nghi lễ Hợp đồng Ác Ma: ",
+			"Lời Nguyền tuyệt đối dành cho Con Người Thuần Khiết =",
+			"Từ hôm nay, cuộc đời bạn chính là Chế Độ Địa Ngục》!!",
+			"Bạn đã bị nguyền rủa— (Ciallo～(∠・ω< )⌒☆)"
+        ],
+		"9": [
+            "Ngay khoảnh khắc đó, ",
+			"những lời nói của con nhỏ chủ tiệm ác ma láu cá đó",
+            "chợt hiện lên trong đầu mình."
+        ],
+		"10": [
+        	"Vậy là lời nguyền này có nghĩa là vậy sao!?",
+        	"Cái con bé ác ma ranh mãnh chết tiệt đó—!!!"
+        ],
+		"11": [
+        	"\\c[2] Khi cảm xúc của tôi dâng trào đến đỉnh điểm, tôi thầm gầm lên một tiếng.",
+            "Luồng sáng bùng lên từ phía dưới lan tỏa nhanh chóng, ",
+			"nuốt chửng toàn bộ không gian chỉ trong chốc lát—"
+        ],
+		"12": [
+            "\\nl< >\"\\str[121] đang biến thành ánh sáng!!?\""
+        ],
+		"13": [
+            "Trong khoảng trống trắng tinh, chẳng nhìn thấy gì cả, ",
+			"Tôi hoàn toàn ngừng suy nghĩ."
+        ]		
+    }	
+}

@@ -1,0 +1,1285 @@
+{
+    "1": {
+        "name": [
+            "Bigorna"
+        ],
+        "subtitle": "[empty string]",
+        "description": [
+            "Uma pesada bigorna da oficina de um ferreiro, carregada ",
+            "como equipamento. Sua dureza e peso a tornam perfeita para",
+            "afiar armas, embora possa ser difícil de manejar para os novatos..."
+        ],
+        "ability": [
+            "Senpo muda para puxar a bigorna e reparar armas",
+            "Não repara armas mágicas ou de qualidade dourada"
+        ]
+    },
+    "2": {
+        "name": [
+            "Arma Joalhada"
+        ],
+        "subtitle": "",
+        "description": [
+            "Minerais adormecidos no subsolo são bons meios alquímicos",
+            "Dispositivo de magitecnologia em forma de adaga canaliza o poder de ",
+            "gemas preciosas, mas foi abandonada devido ao alto custo…"
+        ],
+        "ability": [
+            "Consome uma gema aleatória ao atacar para carregar e aumentar o dano",
+            "Quanto mais preciosa a gema, maior o dano mágico adicional"
+        ]
+    },
+    "3": {
+        "name": [
+            "Acessório de Cabelo Ímpar"
+        ],
+        "subtitle": "",
+        "description": [
+            "Um acessório de cabelo adornado com um ornamento incomum",
+            "É uma coelha… ou uma garota fantasiada de…?"
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "5": {
+        "name": [
+            "Luvas de Proteção"
+        ],
+        "subtitle": "",
+        "description": [
+            "Luvas de proteção feitas de materiais isolantes, originalmente ",
+            "usadas por trabalhadores como EPI, Surpreendentemente, ",
+            "elas também oferecem forte resistência contra ataques mágicos..."
+        ],
+        "ability": [
+            "Reduz consideravelmente o efeito de raios quando equipado"
+        ]
+    },
+    "6": {
+        "name": [
+            "Nascimento da Infortuna"
+        ],
+        "subtitle": "",
+        "description": [
+            "Parasitada por uma Pedra Filosofal, uma fraca criatura foi",
+            "imbuída de vitalidade infinita, presa em um ciclo interminável",
+            "até que a loucura tomou conta. Mesmo removida, esse poder permanece"
+        ],
+        "ability": [
+            "Aumenta o PV. Aumenta os efeitos de recuperação de PV em 25%",
+            "Concede regeneração automática quando equipado"
+        ]
+    },
+    "7": {
+        "name": [
+            "Feto Amaldiçoado"
+        ],
+        "subtitle": "",
+        "description": [
+            "Um feto amaldiçoado que, apesar de tudo,",
+            "permanece vivo.Sua intensa vontade de sobreviver e transbordar",
+            "vitalidade pode até mesmo influenciar seu portador"
+        ],
+        "ability": [
+            "Aumenta o PV. Aumenta os efeitos de recuperação de PV em 20%"
+        ]
+    },
+    "8": {
+        "name": [
+            "Aglomerado de Cristais de Mana"
+        ],
+        "subtitle": "",
+        "description": [
+            "Um mineral moldado pelo Grande Labirinto, contendo traços de mana",
+            "Carregá-lo aprimora a compreensão mágica"
+        ],
+        "ability": [
+            "Equipá-lo aumenta a velocidade de conjuração e o poder mágico",
+            "Os ataques de armas mágicas causam 5% de dano mágico adicional"
+        ]
+    },
+    "9": {
+        "name": [
+            "Aglomerado Abissal de Mana"
+        ],
+        "subtitle": "",
+        "description": [
+            "Um raro aglomerado infundido com mana densa,",
+            "irradiando ondas mágicas. Altamente cobiçado por alquimistas"
+        ],
+        "ability": [
+            "Ao equipá-lo, aumenta a velocidade de conjuração e o poder mágico",
+            "Os ataques de armas mágicas causam 10% de dano mágico adicional"
+        ]
+    },
+    "10": {
+        "name": [
+            "Tiara do Foco"
+        ],
+        "subtitle": "",
+        "description": [
+            "Uma tiara usada pelo grande sábio em sua juventude como",
+            "aventureiro. Foca a mente e repele distrações externas"
+        ],
+        "ability": [
+            "Imune a Atordoamento",
+            "Aprimora o poder mágico e a escala de conjuração"
+        ]
+    },
+    "11": {
+        "name": [
+            "Luvas Drenadoras de Mana"
+        ],
+        "subtitle": "",
+        "description": [
+            "Luvas usadas pelo grande sábio em sua juventude como",
+            "aventureiro. Elas reúnem mana naturalmente,",
+            "imbuindo as armas com propriedades mágicas"
+        ],
+        "ability": [
+            "Quando equipado, a arma empunhada se transforma em uma arma mágica",
+            "Os ataques de armas mágicas causam 30% de dano mágico adicional"
+        ]
+    },
+    "12": {
+        "name": [
+            "Garras de Neko Emprestadas"
+        ],
+        "subtitle": [
+            " “…Miau~?”"
+        ],
+        "description": [
+            "Garras de Neko escondidas dentro de um Slime Neko, aparentemente imbuídas",
+            "com o espírito de um gato. Ao equipá-las, aumentam sua agilidade!"
+        ],
+        "ability": [
+            "Aumenta o poder de ataque e a velocidade de ataque"
+        ]
+    },
+    "13": {
+        "name": [
+            "Garras de Neko Emprestadas"
+        ],
+        "subtitle": [
+            " “…Miau~?”"
+        ],
+        "description": [
+            "Patinhas de Neko escondidas dentro de um Slime Neko, aparentemente imbuídas",
+            "com o espírito de um gato. Ao equipá-las, aumentam sua agilidade!"
+        ],
+        "ability": [
+            "Aumenta a velocidade de ataque e de movimento, reduz a recarga de Senpo"
+        ]
+    },
+    "14": {
+        "name": [
+            "Anel da Relva Fragrante"
+        ],
+        "subtitle": "",
+        "description": [
+            "Forjado de folhas e rizomas entrelaçados, este anel libera um suave perfume herbal",
+            "Antes usado como talismã por viajantes, tornou-se um símbolo de vitalidade e energia"
+        ],
+        "ability": [
+            "PV Máx. +\\c[29]${QJ.MPMZ.tl.ex_fragrantGrassRingEffectResolve()}\\c[0]",
+            "Usar múltiplas peças deste equipamento aprimora seu efeito"
+        ]
+    },
+    "15": {
+        "name": [
+            "Traje de Pelúcia de Neko"
+        ],
+        "subtitle": "",
+        "description": [
+            "Um traje de pelúcia de gato aconchegante — felpudo e super grande",
+            "Seu design espaçoso envolve você e até esconde alguns extras~"
+        ],
+        "ability": [
+            "Aumenta a capacidade de transportar armas em +10",
+            "Aumenta a capacidade de transportar equipamentos em +20"
+        ]
+    },
+    "16": {
+        "name": [
+            "Elmo de Espinhos Perfurantes"
+        ],
+        "subtitle": "",
+        "description": [
+            "Uma armadura metálica cravejada de espinhos em todos os ângulos,",
+            "Oferecendo defesa sólida e causando automaticamente dano a inimigos próximos"
+        ],
+        "ability": [
+            "Causa dano automaticamente a inimigos próximos"
+        ]
+    },
+    "17": {
+        "name": [
+            "Armadura de Espinhos Perfurantes"
+        ],
+        "subtitle": "",
+        "description": [
+            "Uma armadura metálica cravejada de espinhos em todos os ângulos,",
+            "Oferecendo defesa sólida e causando automaticamente dano a inimigos próximos"
+        ],
+        "ability": [
+            "Causa dano automaticamente a inimigos próximos"
+        ]
+    },
+    "18": {
+        "name": [
+            "Manoplas de Espinhos Perfurantes"
+        ],
+        "subtitle": "",
+        "description": [
+            "Uma armadura metálica cravejada de espinhos em todos os ângulos,",
+            "Oferecendo defesa sólida e causando automaticamente dano a inimigos próximos"
+        ],
+        "ability": [
+            "Causa dano automaticamente a inimigos próximos ao atacar"
+        ]
+    },
+    "19": {
+        "name": [
+            "Botas de Espinhos Perfurantes"
+        ],
+        "subtitle": "",
+        "description": [
+            "Uma armadura metálica cravejada de espinhos em todos os ângulos,",
+            "Oferecendo defesa sólida e causando automaticamente dano a inimigos próximos"
+        ],
+        "ability": [
+            "Causa dano automaticamente a inimigos próximos ao se mover"
+        ]
+    },
+    "20": {
+        "name": [
+            "Elmo do Cavaleiro"
+        ],
+        "subtitle": "",
+        "description": [
+            "A armadura padrão dos cavaleiros da corte. Seu design ornamentado e robusto",
+            "simboliza a adesão deles ao código da cavalaria"
+        ],
+        "ability": [
+            "Aumenta a defesa quando o PV está abaixo de \\c[10]30%\\c[0]"
+        ]
+    },
+    "21": {
+        "name": [
+            "Armadura do Cavaleiro"
+        ],
+        "subtitle": "",
+        "description": [
+            "A armadura padrão dos cavaleiros da corte. Seu design ornamentado e robusto",
+            "Simboliza a adesão deles ao código da cavalaria"
+        ],
+        "ability": [
+            "Aumenta a defesa quando o PV está abaixo de \\c[10]30%\\c[0]"
+        ]
+    },
+    "22": {
+        "name": [
+            "Manoplas do Cavaleiro"
+        ],
+        "subtitle": "",
+        "description": [
+            "A armadura padrão dos cavaleiros da corte. Seu design ornamentado e robusto",
+            "Simboliza a adesão deles ao código da cavalaria"
+        ],
+        "ability": [
+            "Aumenta o ataque e a defesa quando o PV está abaixo de \\c[10]30%\\c[0]"
+        ]
+    },
+    "23": {
+        "name": [
+            "Caneleiras do Cavaleiro"
+        ],
+        "subtitle": "",
+        "description": [
+            "A armadura padrão dos cavaleiros da corte. Seu design ornamentado e robusto",
+            "Simboliza a adesão deles ao código da cavalaria"
+        ],
+        "ability": [
+            "Aumenta a velocidade de movimento quando o PV está abaixo de \\c[10]30%\\c[0]"
+        ]
+    },
+    "24": {
+        "name": [
+            "Traje do Caçador"
+        ],
+        "subtitle": "",
+        "description": [
+            "Feito de couro grosso e linho resistente, já foi o traje cotidiano ",
+            "Dos caçadores da floresta. Defesa limitada, mas leve e flexível ",
+            "Ideal para se mover rapidamente pela floresta"
+        ],
+        "ability": [
+            "Regenera lentamente o HP ao permanecer em terreno gramado"
+        ]
+    },
+    "25": {
+        "name": [
+            "Cinto do Caçador"
+        ],
+        "subtitle": "",
+        "description": [
+            "Confeccionado em couro resistente, com fivelas e bolsas duráveis",
+            "um dia essencial para os caçadores da floresta em suas jornadas, ",
+            "Continua leve e não sobrecarrega mesmo durante longas caminhadas"
+        ],
+        "ability": [
+            "PV Máx +20, velocidade de movimento aumentada",
+            "Capacidade extra de carga: armas +5, equipamentos +5"
+        ]
+    },
+    "26": {
+        "name": [
+            "Pena da Ave de Fogo"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "Uma pena da Ave de Fogo.",
+            "Símbolo da vida eterna, continua queimando com uma chama cálida.",
+            "Mesmo uma única pena guarda o poder de reviver os mortos."
+        ],
+        "ability": [
+            "Ativa quando o PV chega a zero, restaurando totalmente o HP",
+            "O ‘item’ é destruído após a ativação"
+        ]
+    },
+    "27": {
+        "name": [
+            "Papel Higiênico"
+        ],
+        "subtitle": "",
+        "description": [
+            "Um papel higiênico trazido de casa",
+            "Um item útil para aventureiros que de repente precisam",
+            "De uma pausa para ir ao banheiro em uma masmorra perigosa"
+        ],
+        "ability": [
+            "Reduz o dano de Sangramento recebido em \\c[10]30%\\c[0]"
+        ]
+    },
+    "28": {
+        "name": [
+            "Mão do demônio"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "Um braço maciço flamejante com a força bruta do clã dos demônios",
+            "Simboliza uma potência tão feroz que pode facilmente esmagar pedra sólida",
+            "Para humanos, é uma força muito difícil de controlar"
+        ],
+        "ability": [
+            "Poder de ataque físico +100%, velocidade de ataque diminui",
+            "É provável"
+        ]
+    },
+    "29": {
+        "name": [
+            "Jack Atrevido"
+        ],
+        "subtitle": [
+            "“Este anseia por gritos...”"
+        ],
+        "description": [
+            "Uma das armas letais de um infame assassino,",
+            "Ainda tremendo em antecipação"
+        ],
+        "ability": [
+            "Causa mais dano a inimigos com menos PV, até \\c[10]30%\\c[0]"
+        ]
+    },
+    "30": {
+        "name": [
+            "Adaga do Caçador"
+        ],
+        "subtitle": [
+            "“Morte pelo cano, fortuna pela lâmina”"
+        ],
+        "description": [
+            "Uma pequena e afiada adaga que cabe facilmente em uma bota",
+            "Para um caçador, ela sempre extrai a última oferenda da presa"
+        ],
+        "ability": [
+            "Aumenta as chances de obter carne"
+        ]
+    },
+    "31": {
+        "name": [
+            "Fantasma da Noite Nebulosa"
+        ],
+        "subtitle": [
+            "“Este anseia por desaparecer...”"
+        ],
+        "description": [
+            "Uma das ferramentas letais de um infame assassino,",
+            "Projetada para ocultar sua presença"
+        ],
+        "ability": [
+            "Entra periodicamente em estado invisível",
+            "Execuções enquanto invisível causam o dobro de dano"
+        ]
+    },
+    "32": {
+        "name": [
+            "Soco de Neko"
+        ],
+        "subtitle": "",
+        "description": [
+            "\"Hyaa! Não mexe comigo, miau!\"",
+            "Luvas de patinha de gato acolchoadas, a arma preciosa de uma certa catgirl",
+            "Usá-las concede agilidade felina e uma vontade de comer peixe…"
+        ],
+        "ability": [
+            "Velocidade de ataque aumentada. +1 ataque extra por ataque",
+            "A chance de ataques extras ativarem efeitos especiais é reduzida pela metade"
+        ]
+    },
+    "33": {
+        "name": [
+            "Capacete de Maçã"
+        ],
+        "subtitle": "",
+        "description": [
+            "Um capacete feito de maçãs, então não dá para",
+            "Esperar muita defesa. Mas as maçãs são tão deliciosas"
+        ],
+        "ability": [
+            "Há uma chance de ativar cura ao ser ferido"
+        ]
+    },
+    "34": {
+        "name": [
+            "Anel da Lâmina Afiada"
+        ],
+        "subtitle": "",
+        "description": [
+            "Diz a lenda que um aventureiro, com medo de lutar de mãos vazias, ",
+            "embutiu uma espada em um anel. Pequeno demais para ",
+            "ser usada como arma, mas aumenta a presença de quem a carrega"
+        ],
+        "ability": [
+            "Poder de ataque físico +15%"
+        ]
+    },
+    "35": {
+        "name": [
+            "Wakizashi"
+        ],
+        "subtitle": "",
+        "description": [
+            "Lâmina curta forjada com precisão, portada por samurais ",
+            "estrangeiros como arma secundária. Causa cortes profundos",
+            "e sangramento persistente"
+        ],
+        "ability": [
+            "Contagem de ataques normais com armas corpo a corpo +1",
+            "O ataque extra tem chance de infligir Sangramento"
+        ]
+    },
+    "36": {
+        "name": [
+            "Neko da Sorte"
+        ],
+        "subtitle": "",
+        "description": [
+            "Um pequeno Servo ganancioso, com um olhar eternamente insatisfeito",
+            "Recolhe com entusiasmo todos os itens, sem se importar com o valor"
+        ],
+        "ability": [
+            "O Neko da Sorte coleta automaticamente todos os itens para você",
+            "Ao equipar mais de um, apenas o alcance de coleta é ampliado"
+        ]
+    },
+    "37": {
+        "name": [
+            " Cofrinho"
+        ],
+        "subtitle": "",
+        "description": [
+            "Um Servo fofinho que guarda o dinheiro coletado",
+            "Algo pode acontecer quando estiver cheio, mas por enquanto, ele é apenas frágil"
+        ],
+        "ability": [
+            "Guarda o dinheiro com alegria. Poupança atual:\\c[6]${$gameSelfVariables.value([1, 110, 'deposit'])}\\c[0] ienes!",
+            "Quebra facilmente quando atacado, perdendo todo o dinheiro armazenado"
+        ]
+    },
+    "38": {
+        "name": [
+            " Cofrinho Ganancioso"
+        ],
+        "subtitle": "",
+        "description": [
+            "Um cofrinho cheio até a boca de riquezas — um sonho que virou realidade",
+            "Ainda assim, mesmo com a barriga cheia de ouro, sua ganância não conhece limites"
+        ],
+        "ability": [
+            "Emite a aura da Demanda de Mamon. Poupança atual: \\c[6]${$gameSelfVariables.value([1, 110, 'deposit'])}\\c[0] iene!",
+            "Acumula riquezas incessantemente, liberando juros a cada 10 segundos"
+        ]
+    },
+    "39": {
+        "name": [
+            "Casco de Tartaruga Verde"
+        ],
+        "subtitle": "",
+        "description": [
+            "Uma carapaça de tartaruga dura e pesada",
+            "Carregá-la em terra firme impossibilita levantar os pés…!"
+        ],
+        "ability": [
+            "Reduz a velocidade de movimento e aumenta a velocidade de nado"
+        ]
+    },
+    "40": {
+        "name": [
+            "Uniforme de Maid"
+        ],
+        "subtitle": "",
+        "description": [
+            "Um troféu obtido após dar uma lição na travessa garota de",
+            "Orelhas de coelho. Ainda carrega o cheiro de terra e cenouras"
+        ],
+        "ability": [
+            "Ao equipar, te disfarça como um monstro, mas não pode atacar",
+            "Ao equipá-lo, você se torna o melhor amigo da Maid Bunny"
+        ]
+    },
+    "41": {
+        "name": [
+            "Orelhas de Coelhinha Moe"
+        ],
+        "subtitle": "",
+        "description": [
+            "Um acessório de orelhas de coelho destacável",
+            "Não importa quem use, vai ficar absolutamente adorável!"
+        ],
+        "ability": [
+            "Abençoado com sorte! É provável que itens sejam dropados!"
+        ]
+    },
+    "42": {
+        "name": [
+            "Alma do Demônio das Bombas"
+        ],
+        "subtitle": [
+            "\"Explo————são!\""
+        ],
+        "description": [
+            "Uma determinação que abandonou tudo, consumida pelo desejo de explodir",
+            "Agora que a carrega, não vai almejar explosões ainda maiores?"
+        ],
+        "ability": [
+            "Pequena chance de causar uma explosão ao atacar ou ao ser atingido",
+            "Reduz em 50% o dano de explosões sofrido pelo próprio usuário"
+        ]
+    },
+    "43": {
+        "name": [
+            "Insígnia dos Guardiões da Lâmina"
+        ],
+        "subtitle": [
+            "\"Vocês, aventureiros, me dão nojo!",
+            "Só empunham suas lâminas para matar, sem ligar para o sofrimento deles"
+        ],
+        "description": [
+            "Uma insígnia de camaradas que defendem a preservação das armas"
+        ],
+        "ability": [
+            "Poder de ataque -20%, ataque máximo limitado a 200",
+            "Reduz em 20% toda a perda de durabilidade das armas"
+        ]
+    },
+    "44": {
+        "name": [
+            "◉▽◉"
+        ],
+        "subtitle": [
+            "\"A Sacabambaspis já viu de tudo.\""
+        ],
+        "description": [
+            "Uma antiga e lendária Serva-mesmo sendo um peixe, ela não consegue nadar",
+            "Tem uma pele resistente, seu movimento especial é o Jato de Canhão Ciclônico!"
+        ],
+        "ability": [
+            "Consegue levantar a tartaruga Saccabankame e arremessá-la como um ataque",
+            "Se cair na água, não consegue mais sair..."
+        ]
+    },
+    "45": {
+        "name": [
+            "Abraço Venenoso"
+        ],
+        "subtitle": [
+            "\"Esta adaga está carregada com um veneno mortal, sabia— (lambe\""
+        ],
+        "description": [
+            "Uma adaga curta mágica e venenosa — mantenha distância"
+        ],
+        "ability": [
+            "Um Servo que orbita automaticamente ao seu redor",
+            "Alta chance de envenenar ao contato"
+        ]
+    },
+    "46": {
+        "name": [
+            "Punho da Fúria"
+        ],
+        "subtitle": [
+            "\"Mão esquerda bate pesado, mão direita bate ainda mais pesado.\""
+        ],
+        "description": [
+            "Um poderoso punho mágico",
+            "Transbordando de uma fúria insondável, continua fechado em punho…"
+        ],
+        "ability": [
+            "Um Servo que orbita automaticamente ao seu redor",
+            "Empurra para trás qualquer inimigo que tocar"
+        ]
+    },
+    "47": {
+        "name": [
+            "Mão Amaldiçoada de Xerise"
+        ],
+        "subtitle": "",
+        "description": [
+            "Uma mão decepada imbuída de poder necromântico",
+            "Mesmo sem um corpo, permanece agitada e agressiva"
+        ],
+        "ability": [
+            "Um Servo que orbita automaticamente ao seu redor",
+            "Amaldiçoa qualquer alvo para o qual aponte o dedo do meio"
+        ]
+    },
+    "48": {
+        "name": [
+            "Contrato de Encadeamento de Feitiços"
+        ],
+        "subtitle": [
+            "\"Quando a pessoa que você ama morre, você deve tirar a própria vida.",
+            "Quando a pessoa que você ama morre, não há outro caminho.\""
+        ],
+        "description": [
+            "Para salvar seu familiar, um certo alquimista forjou este contrato…"
+        ],
+        "ability": [
+            "Vincule-se ao seu servo — qualquer dano que ele receber será seu",
+            "Cada servo vinculado concede a você um efeito de cura"
+        ]
+    },
+    "49": {
+        "name": [
+            "Chifre vermelho"
+        ],
+        "subtitle": [
+            "\"Você nunca parou!\""
+        ],
+        "description": [
+            "Um chifre carmesim repleto de magia de Jackalope",
+            "Se a magia pudesse ser fornecida infinitamente, continuará acelerando ",
+            "Até que se tornou um cometa que atravessou o céu!"
+        ],
+        "ability": [
+            "Quando totalmente carregado, o Senpo não tem recuperação e se move mais rápido",
+            "Quando a carga estiver esgotada, ela irá recarregar automaticamente"
+        ]
+    },
+    "50": {
+        "name": [
+            "Batata Frita"
+        ],
+        "subtitle": "",
+        "description": [
+            "Frito na hora com um molho quente,",
+            "Quente e saboroso. Cuidado com as gaivotas!"
+        ],
+        "ability": [
+            "Atrai gaivotas que roubam suas batatas fritas"
+        ]
+    },
+    "52": {
+        "name": [
+            "Presente de Shadowcrawler"
+        ],
+        "subtitle": "",
+        "description": [
+            "Disse ser um símbolo das profundezas onde as sombras espreitem",
+            "Segurando isso faz você se sentir como se algo fosse ",
+            "Silenciosamente escrevendo atrás de você —"
+        ],
+        "ability": [
+            "Velocidade de movimento aumenta",
+            "Conquiste a atenção de ├├├├├├-de."
+        ]
+    },
+    "53": {
+        "name": [
+            "Anel de Osso do Enforcado"
+        ],
+        "subtitle": "",
+        "description": [
+            "Um anel feito com os ossos do falecido Enforcado",
+            "Embora a maior parte de seu poder tenha se perdido,",
+            "ainda concede ao portador um pouco de liberdade da gravidade"
+        ],
+        "ability": [
+            "Reduz o dano de queda em 50%"
+        ]
+    },
+    "54": {
+        "name": [
+            "Cálice Dourado Incompleto"
+        ],
+        "subtitle": "",
+        "description": [
+            "Uma relíquia de santo ainda não preenchida, que abençoa",
+            "Imensa sorte. A origem dessa bênção permanece desconhecida,",
+            "Enquanto aguarda silenciosamente o dia em que será completada"
+        ],
+        "ability": [
+            "Aumenta grandemente a sorte. Dobra o dinheiro obtido"
+        ]
+    },
+    "55": {
+        "name": [
+            "Luvas do Incendiário"
+        ],
+        "subtitle": [
+            "\"Hah, que fogos de artifício imundos.\""
+        ],
+        "description": [
+            "Luvas grossas e à prova de calor, com cheiro forte de pólvora"
+        ],
+        "ability": [
+            "+30% de raio de explosão para bombas acionadas por você",
+            "Bombas têm chance de desencadear explosões em cadeia"
+        ]
+    },
+    "56": {
+        "name": [
+            "Misericórdia da Santa Donzela"
+        ],
+        "subtitle": [
+            "\"Boa criança, boa criança...\""
+        ],
+        "description": [
+            "Uma das vestes da freira, sedosa ao toque, inesquecível",
+            "A radiância sagrada flui por suas fibras, oferecendo conforto"
+        ],
+        "ability": [
+            "Entra à força no Modo Sábio",
+            "Ganha mais afinidade ao afagar a cabeça da \\str[120]"
+        ]
+    },
+    "57": {
+        "name": [
+            "Recupere o Ichigo!"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "ASABA, consumido pela tristeza pelo morango perdido, ",
+            "Libera sua arte suprema. Uma vez marcado, você é engolido",
+            "Por uma tempestade inevitável de combos… Mas a tristeza permanece—",
+            "queimado pelas emoções do destino, você herda esta técnica proibida! "
+        ],
+        "ability": [
+            "Liberte um golpe especial com o comando correto ",
+            "Quanto menor o seu PV, mais forte será o golpe especial"
+        ]
+    },
+    "59": {
+        "name": [
+            "Pingente Rubrum"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "A Preciosa Relíquia do Mago Caído. ",
+            "Um pingente forjado a partir de uma pequena quantidade de Fragmento do Filósofo ",
+            "Imbuído de um poder alquímico tênue, porém eterno"
+        ],
+        "ability": [
+            "Aumenta o ataque mágico com base na quantidade de Fragmentos do Filósofo em posse",
+            "Reduz o desgaste da durabilidade da arma ao conjurar magia em \\c[6]24%\\c[0]"
+        ]
+    },
+    "60": {
+        "name": [
+            "Diadema do Mago Caído"
+        ],
+        "subtitle": "",
+        "description": [
+            "Um círculo amaldiçoada, corrompida por magia negra,",
+            "Assombrada por um rancor teimoso que corrói a carne"
+        ],
+        "ability": [
+            "Poder de ataque mágico +100%",
+            "PV Máx -50%"
+        ]
+    },
+    "61": {
+        "name": [
+            "Manto do Mago Caído"
+        ],
+        "subtitle": "",
+        "description": [
+            "Um manto amaldiçoado, corrompido por magia sombria,",
+            "Assombrado por um espírito vingativo sedento por retribuição"
+        ],
+        "ability": [
+            "As pós-imagens criadas por Senpo permanecem por mais tempo",
+            "Objetos tocados por elas ficam congelados no lugar"
+        ]
+    },
+    "62": {
+        "name": [
+            "Luvas do Mago Caído"
+        ],
+        "subtitle": "",
+        "description": [
+            "Luvas amaldiçoadas manchadas por magia negra,",
+            "Imbuídas de um espírito vingativo ansioso para atacar"
+        ],
+        "ability": [
+            "Projéteis perseguem inimigos próximos"
+        ]
+    },
+    "63": {
+        "name": [
+            "Botas do Mago Caído"
+        ],
+        "subtitle": "",
+        "description": [
+            "Botas amaldiçoadas manchadas por magia negra,",
+            "Imbuídas de um espírito vingativo que concede agilidade fantasmagórica"
+        ],
+        "ability": [
+            "Aumenta a velocidade de movimento, concede estado de vazio ao usar Senpo"
+        ]
+    },
+    "65": {
+        "name": [
+            "Faixa de Determinação"
+        ],
+        "subtitle": [
+            "\"Quem diabos você pensa que eu sou!?\""
+        ],
+        "description": [
+            "Uma faixa que desperta paixão quando usada",
+            "Sem efeito real, mas com um espírito inabalável incomparável"
+        ],
+        "ability": [
+            "Reduz a chance de status anormal",
+            "Tem uma pequena chance de resistir a dano fatal"
+        ]
+    },
+    "67": {
+        "name": [
+            "Braçadeiras do Artista Marcial"
+        ],
+        "subtitle": "",
+        "description": [
+            "Braçadeiras enfaixadas usadas por artistas marciais durante os treinos",
+            "Protegem as articulações enquanto melhoram a precisão dos movimentos"
+        ],
+        "ability": [
+            "— 12% de consumo de durabilidade da arma",
+            "Velocidade de ataque aumentada e dano de combos desarmado reforçado"
+        ]
+    },
+    "68": {
+        "name": [
+            "Botas do Artista Marcial"
+        ],
+        "subtitle": "",
+        "description": [
+            "Sapatos comumente usados por artistas marciais que",
+            "Dominaram sua arte, irradiando uma aura poderosa"
+        ],
+        "ability": [
+            "Velocidade de movimento aumentada. Senpo aprimorado"
+        ]
+    },
+    "69": {
+        "name": [
+            "Quebra-Faces"
+        ],
+        "subtitle": [
+            "\"Droga... eu só quero socar alguém na cara...!\""
+        ],
+        "description": [
+            "Luvas de soco deixadas por um boxeador lendário.",
+            "Ainda é possível sentir a força avassaladora que permanece nelas."
+        ],
+        "ability": [
+            "Não é possível usar armas enquanto equipado",
+            "Ataques de soco podem causar dano extra baseado no PV do alvo"
+        ]
+    },
+    "70": {
+        "name": [
+            "Coração do Espantalho"
+        ],
+        "subtitle": "",
+        "description": [
+            "Um corpo oco de um espantalho",
+            "Sem calor, sem batimento cardíaco — ainda assim pode viver em seu lugar"
+        ],
+        "ability": [
+            "Impede todas as formas de recuperação de PV enquanto equipado",
+            "Com 0 PV, você permanece ativo por um pouco mais de tempo antes de cair"
+        ]
+    },
+    "73": {
+        "name": [
+            "Anel de Lava"
+        ],
+        "subtitle": "",
+        "description": [
+            "Um anel forjado a partir de rocha que flui com magma escaldante",
+            "Usá-lo alivia a dor tanto do gelo quanto da chama"
+        ],
+        "ability": [
+            "Reduz muito a chance de ser congelado",
+            "Reduz a chance de ser queimado"
+        ]
+    },
+    "74": {
+        "name": [
+            "Volumen Salamandrae"
+        ],
+        "subtitle": [
+            "\"Sim, eles realmente gostam de pimentas...\""
+        ],
+        "description": [
+            "Um grimório encadernado com escamas de salamandra. Embora se assemelhe",
+            "a uma enciclopédia, seus registros de salamandras que habitam vulcões ",
+            "Concedem uma compreensão mais profunda sobre o fogo quando estudado."
+        ],
+        "ability": [
+            "Fortalece o dano e a forma da magia do elemento fogo"
+        ]
+    },
+    "80": {
+        "name": [
+            "Decreto Real"
+        ],
+        "subtitle": "",
+        "description": [
+            "Um anel que simboliza a glória suprema de um verdadeiro rei",
+            "Aumenta muito o moral dos seguidores!"
+        ],
+        "ability": [
+            "Aumenta um pouco todos os atributos",
+            "Aumenta todos os servos e aprimora seus atributos especiais"
+        ]
+    },
+    "100": {
+        "name": [
+            "Unidade I Nexus"
+        ],
+        "subtitle": "",
+        "description": [
+            "Um núcleo muito mais avançado que a tecnologia moderna, sua superfície brilhante ",
+            "Com circuitos de energia misteriosos. Mesmo com a maioria das partes faltando, ",
+            "Ainda mostra um poder incrível de detecção e computação"
+        ],
+        "ability": [
+            "Concede detecção de área quando equipado",
+            "Aumentam os tipos dos objetos detectados conforme o nível do núcleo aumenta"
+        ]
+    },
+    "125": {
+        "name": [
+            "Atsu Atsu Bouzu"
+        ],
+        "subtitle": "",
+        "description": [
+            "Um boneco de pano feito com as orações sinceras de alguém. Ele",
+            "carrega desejos, trazendo pequenas mudanças aos padrões climáticos normais",
+            "No entanto, o boneco desaparece silenciosamente em seguida"
+        ],
+        "ability": [
+            "Quando equipado, garante clima escaldante no dia seguinte"
+        ]
+    },
+    "126": {
+        "name": [
+            "Teru Teru Bouzu"
+        ],
+        "subtitle": "",
+        "description": [
+            "Um boneco de pano feito com as orações sinceras de alguém. Ele",
+            "Carrega desejos, trazendo pequenas mudanças aos padrões climáticos normais",
+            "No entanto, o boneco desaparece silenciosamente em seguida"
+        ],
+        "ability": [
+            "Quando equipado, garante clima ensolarado no dia seguinte"
+        ]
+    },
+    "127": {
+        "name": [
+            "Kumo Kumo Bouzu"
+        ],
+        "subtitle": "",
+        "description": [
+            "Um boneco de pano feito com as orações sinceras de alguém. Ele",
+            "Carrega desejos, trazendo pequenas mudanças aos padrões climáticos normais",
+            "No entanto, o boneco desaparece silenciosamente em seguida"
+        ],
+        "ability": [
+            "Quando equipado, garante clima nublado no dia seguinte"
+        ]
+    },
+    "128": {
+        "name": [
+            "Ame Ame Bouzu"
+        ],
+        "subtitle": "",
+        "description": [
+            "Um boneco de pano feito com as orações sinceras de alguém. Ele",
+            "Carrega desejos, trazendo pequenas mudanças aos padrões climáticos normais",
+            "No entanto, o boneco desaparece silenciosamente em seguida"
+        ],
+        "ability": [
+            "Quando equipado, garante clima chuvoso no dia seguinte"
+        ]
+    },
+    "129": {
+        "name": [
+            "O sorriso de uma garota"
+        ],
+        "subtitle": [
+            "\"\\str[121], Você cumpriu bem a sua promessa!\""
+        ],
+        "description": [
+            "A imouto-chan que sempre admirou e se preocupou com seu",
+            "\\str[121] finalmente mostra um sorriso satisfeito",
+            "Para \\str[121], isso é suficiente para ser a motivação para continuar"
+        ],
+        "ability": [
+            "Desejo aumentado, todos os atributos aumentados"
+        ]
+    },
+    "130": {
+        "name": [
+            "calcinha da \\str[120] foi removida"
+        ],
+        "subtitle": [
+            "\"Ainda carrega o aroma da \\str[120]...\""
+        ],
+        "description": [
+            "Calcinha recebida da \\str[120] devido a um mal-entendido",
+            "Nunca devolvida, mas, no fundo, há felicidade",
+            "bem no fundo, uma leve e silenciosa sensação de felicidade paira..."
+        ],
+        "ability": [
+            "Regenera o PV automaticamente quando abaixo de 50%"
+        ]
+    },
+    "131": {
+        "name": [
+            "Coelho de Pelúcia"
+        ],
+        "subtitle": [
+            "\"Waaah—! Não rasgue ele~~!\""
+        ],
+        "description": [
+            "Um coelho de pelúcia que \\str[120] sempre carrega ",
+            "Seus braços, impregnado com seu aroma",
+            "Pensando bem… por que isso está em minhas mãos?"
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "147": {
+        "name": [
+            "Curativo"
+        ],
+        "subtitle": "",
+        "description": [
+            ""
+        ],
+        "ability": []
+    },
+    "150": {
+        "name": [
+            "Camiseta Bônus"
+        ],
+        "subtitle": "",
+        "description": [
+            "Uma roupa feita sob medida pelo cavaleiro,",
+            "Supostamente para promover o jogo",
+            "Mas eu realmente não quero usá-la"
+        ],
+        "ability": []
+    },
+    "152": {
+        "name": [
+            "Pijama da \\str[120]"
+        ],
+        "subtitle": "",
+        "description": [
+            "Um pijama de camisola que \\str[120] geralmente usa, ",
+            "Decorado com os laços que ela ama.",
+            "Pensando bem… por que isso está em minhas mãos?"
+        ],
+        "ability": []
+    },
+    "153": {
+        "name": [
+            "Shortinho da \\str[120]"
+        ],
+        "subtitle": "",
+        "description": [
+            "Shortinho macio e fofinho que \\str[120] geralmente usa, ",
+            "Decorado com os laços que ela ama.",
+            "Pensando bem… por que isso está em minhas mãos?"
+        ],
+        "ability": []
+    },
+    "154": {
+        "name": [
+            "Calcinha azul e branca"
+        ],
+        "subtitle": "",
+        "description": [
+            ""
+        ],
+        "ability": []
+    },
+    "155": {
+        "name": [
+            "Calcinha rosa e branca"
+        ],
+        "subtitle": "",
+        "description": [
+            ""
+        ],
+        "ability": []
+    },
+    "156": {
+        "name": [
+            "Calcinha branca"
+        ],
+        "subtitle": "",
+        "description": [
+            ""
+        ],
+        "ability": []
+    },
+    "157": {
+        "name": [
+            "Curativo"
+        ],
+        "subtitle": "",
+        "description": [
+            ""
+        ],
+        "ability": []
+    },
+    "159": {
+        "name": [
+            "Sem calcinha..."
+        ],
+        "subtitle": "",
+        "description": [
+            ""
+        ],
+        "ability": []
+    },
+    "296": {
+        "name": [
+            "Martelo da sorte da Ruika"
+        ],
+        "subtitle": [
+            "\"A chefe Maid-Ruika sempre o usa para bater em coelhos desobedientes.\""
+        ],
+        "description": [
+            "Um tesouro escondido das Coelhas-Maid, dizem ser o motivo de terem ",
+            "Dominado o mercado tão rápido. Com um leve movimento, garante desejos ao portador—",
+            "Aventureiros costumam ver consertando máquinas quebradas por arruaceiros"
+        ],
+        "ability": [
+            "Aumenta a chance de dropar ítens de dinheiro"
+        ]
+    },
+    "297": {
+        "name": [
+            "Kit de primeiros socorros da Mio"
+        ],
+        "subtitle": [
+            "\"Droga! Eu caí no buraco de novo!?\""
+        ],
+        "description": [
+            "Originalmente, uma ferramenta usada pelo dev para testar o sistemas de cura ",
+            "mas ele acabou esquecendo de apagar. Ainda é inútil ",
+            "Contra coisas que podem causar hit kill"
+        ],
+        "ability": [
+            "Restaura 100% do PV por segundo quando equipado"
+        ]
+    },
+    "298": {
+        "name": [
+            "Dedo dourado de Shiroin"
+        ],
+        "subtitle": [
+            "\"Você sabe que isso vai estragar o jogo né?\"",
+            "\"Eu sei.\"",
+            "\"E ainda assim você quer equipar?\"",
+            "\"Claro que sim.\""
+        ],
+        "description": [
+            "Uma relíquia que turna tudo que toca em ouro — o sonho de quem se apaixonou por uma arma."
+        ],
+        "ability": [
+            "Armas não quebram mais ao atacar"
+        ]
+    },
+    "299": {
+        "name": [
+            "Território Absoluto"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "O espaço sagrado entre a minissaia de uma garota e suas meias 3/4",
+            "Não apenas concede alta resistência mágica, mas também a habilidade ",
+            "Absurda de tirar todo tipo de item debaixo da saia à vontade"
+        ],
+        "ability": [
+            "Aumenta a capacidade de transportar armas em +99",
+            "Aumenta a capacidade de transportar equipamentos em +99"
+        ]
+    },
+    "300": {
+        "name": [
+            "Catalisador Amatoria"
+        ],
+        "subtitle": [
+            "\"Me dê o seu amor—! Caso contrário, vamos apenas morrer juntos~~~!\""
+        ],
+        "description": [
+            "Um artefato proibido forjado por uma certa arquidemônia yandere",
+            "Faz com que qualquer um que tocar se apaixone à força pelo portador",
+            "Ignorando sua vontade"
+        ],
+        "ability": [
+            "Aumenta grandemente os atributos ganhos ao afagar \\str[120]"
+        ]
+    }
+}

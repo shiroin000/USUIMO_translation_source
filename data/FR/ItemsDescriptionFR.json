@@ -1,0 +1,1771 @@
+{
+  "1": {
+    "name": [
+      "Chèque-cadeau pour le thé"
+    ],
+    "subtitle": "",
+    "description": [
+      "Bon émis par NLCH, utilisé pour échanger de délicieuses collations au thé",
+      "Mais… où est la boutique de NLCH au fait?"
+    ],
+    "ability": [
+      "Peut être introduit dans la machine gacha sans dommage pour déclencher une traction",
+      "Donne toujours un tirage à 11 avec au moins une boule d'or"
+    ]
+  },
+  "3": {
+    "name": [
+      "Ordure"
+    ],
+    "subtitle": "",
+    "description": [
+      "Divers débris, inutiles",
+      "Pourquoi ai-je choisi ça?"
+    ],
+    "ability": ""
+  },
+  "4": {
+    "name": [
+      "10 yens"
+    ],
+    "subtitle": "",
+    "description": [
+      ""
+    ],
+    "ability": ""
+  },
+  "5": {
+    "name": [
+      "50 yens"
+    ],
+    "subtitle": "",
+    "description": [
+      ""
+    ],
+    "ability": ""
+  },
+  "6": {
+    "name": [
+      "100 yens"
+    ],
+    "subtitle": "",
+    "description": [
+      ""
+    ],
+    "ability": ""
+  },
+  "7": {
+    "name": [
+      "500 yens"
+    ],
+    "subtitle": "",
+    "description": [
+      ""
+    ],
+    "ability": ""
+  },
+  "8": {
+    "name": [
+      "1000 yens"
+    ],
+    "subtitle": "",
+    "description": [
+      ""
+    ],
+    "ability": ""
+  },
+  "9": {
+    "name": [
+      "5000 yens"
+    ],
+    "subtitle": "",
+    "description": [
+      ""
+    ],
+    "ability": ""
+  },
+  "10": {
+    "name": [
+      "10 000 yens"
+    ],
+    "subtitle": "",
+    "description": [
+      ""
+    ],
+    "ability": ""
+  },
+  "11": {
+    "name": [
+      "50 000 yens"
+    ],
+    "subtitle": "",
+    "description": [
+      ""
+    ],
+    "ability": ""
+  },
+  "12": {
+    "name": [
+      "100 000 yens"
+    ],
+    "subtitle": "",
+    "description": [
+      ""
+    ],
+    "ability": ""
+  },
+  "14": {
+    "name": [
+      "Camera Magic"
+    ],
+    "subtitle": "",
+    "description": [
+      "On dit qu'il s'agit d'un artefact oriental, d'une fabrication exquise, mais perdu",
+      "dans l'Abîme... Il fige les scènes en images, mais c'est",
+      "facilement affecté par la magie, capturant parfois des choses étranges"
+    ],
+    "ability": [
+      "Appuyez sur F7 pour prendre une photo"
+    ]
+  },
+  "15": {
+    "name": [
+      "JoyStation V"
+    ],
+    "subtitle": "",
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "16": {
+    "name": [
+      "Contenu téléchargeable Shadow Souls"
+    ],
+    "subtitle": "",
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "17": {
+    "name": [
+      "Ahoge de la sœur"
+    ],
+    "subtitle": "",
+    "description": [
+      "Un ahoge retiré de la tête de ma sœur,",
+      "mais elle ne semble pas s'en rendre compte... Ce ahoge persiste obstinément",
+      "se lève et possède un ressort étrangement résilient"
+    ],
+    "ability": ""
+  },
+  "18": {
+    "name": [
+      "Canard en caoutchouc"
+    ],
+    "subtitle": "",
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "19": {
+    "name": [
+      "ventilateur électrique"
+    ],
+    "subtitle": "",
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "20": {
+    "name": [
+      "Fragment de pierre philosophale"
+    ],
+    "subtitle": [
+      "C'est la plus forte des forces,",
+      "tout solide et surmontant toute chose subtile"
+    ],
+    "description": [
+      "Même un simple fragment contient un pouvoir immense."
+    ],
+    "ability": ""
+  },
+  "23": {
+    "name": [
+      "Lait délicieux"
+    ],
+    "subtitle": [
+      "Sponsorisé par : NLCH"
+    ],
+    "description": [
+      "Une boisson provenant d'un étrange distributeur automatique",
+      "Peu importe le goût, pourquoi y a-t-il un distributeur automatique?"
+    ],
+    "ability": [
+      "PV+120, a obtenu le statut Délicieux!!"
+    ]
+  },
+  "24": {
+    "name": [
+      "Lait de carotte"
+    ],
+    "subtitle": [
+      "Sponsorisé par : NLCH"
+    ],
+    "description": [
+      "Une boisson provenant d'un étrange distributeur automatique",
+      "Peu importe le goût, pourquoi y a-t-il un distributeur automatique?"
+    ],
+    "ability": [
+      "PV+75, supprime aléatoirement 1 affection de statut"
+    ]
+  },
+  "25": {
+    "name": [
+      "Lait à la fraise"
+    ],
+    "subtitle": [
+      "Sponsorisé par : NLCH"
+    ],
+    "description": [
+      "Une boisson provenant d'un étrange distributeur automatique",
+      "Peu importe le goût, pourquoi y a-t-il un distributeur automatique?"
+    ],
+    "ability": [
+      "PV+75、Attaque+50% pendant un certain temps"
+    ]
+  },
+  "26": {
+    "name": [
+      "Lait de melon"
+    ],
+    "subtitle": [
+      "Sponsorisé par : NLCH"
+    ],
+    "description": [
+      "Une boisson provenant d'un étrange distributeur automatique",
+      "Peu importe le goût, pourquoi y a-t-il un distributeur automatique?"
+    ],
+    "ability": [
+      "PV+75、Magie Attaque+50% pendant un certain temps"
+    ]
+  },
+  "27": {
+    "name": [
+      "Lait de banane"
+    ],
+    "subtitle": [
+      "Sponsorisé par : NLCH"
+    ],
+    "description": [
+      "Une boisson provenant d'un étrange distributeur automatique",
+      "Peu importe le goût, pourquoi y a-t-il un distributeur automatique?"
+    ],
+    "ability": [
+      "PV+75、Accélérez pendant un moment"
+    ]
+  },
+  "30": {
+    "name": [
+      "Konpeito rose"
+    ],
+    "subtitle": [
+      "Fufufu... Mieux vaut ne pas connaître les ingrédients~♥"
+    ],
+    "description": [
+      "Konpeitō délicatement fabriqué à la main par l'Archidémon",
+      "Dégage un arôme de pêche qui vous donne le vertige rien qu'en le sentant…"
+    ],
+    "ability": [
+      "Rend tout votre corps chaud après avoir mangé!"
+    ]
+  },
+  "31": {
+    "name": [
+      "Konpeito Bleu"
+    ],
+    "subtitle": [
+      "Fufufu... Mieux vaut ne pas connaître les ingrédients~♥"
+    ],
+    "description": [
+      "Konpeitō délicatement fabriqué à la main par l'Archidémon",
+      "Dégage un arôme de myrtille qui apporte le calme rien qu'en le sentant…"
+    ],
+    "ability": [
+      "Apporte une sensation de calme après avoir mangé..."
+    ]
+  },
+  "32": {
+    "name": [
+      "Konpeito vert"
+    ],
+    "subtitle": [
+      "Fufufu... Mieux vaut ne pas connaître les ingrédients~♥"
+    ],
+    "description": [
+      "Konpeitō délicatement fabriqué à la main par l'Archidémon",
+      "Dégage un arôme de melon qui vous fait voyager rien qu'en le sentant…"
+    ],
+    "ability": [
+      "Effet non mis en œuvre"
+    ]
+  },
+  "33": {
+    "name": [
+      "Mizumanju élastique"
+    ],
+    "subtitle": [
+      "Fufufu... Mieux vaut ne pas connaître les ingrédients~♥"
+    ],
+    "description": [
+      "Fabriqué à la main par un archidémon, Mizumanju rebondissant et rafraîchissant",
+      "Ça fait un choc dès qu'il touche votre langue!"
+    ],
+    "ability": [
+      "Effet non mis en œuvre"
+    ]
+  },
+  "35": {
+    "name": [
+      "Cola de NLCH (G)"
+    ],
+    "subtitle": [
+      "Sponsorisé par : NLCH"
+    ],
+    "description": [
+      "Une boisson provenant d'un étrange distributeur automatique",
+      "Peu importe le goût, pourquoi y a-t-il un distributeur automatique?"
+    ],
+    "ability": [
+      "De violentes secousses peuvent déclencher une puissante explosion"
+    ]
+  },
+  "42": {
+    "name": [
+      "Kenaz"
+    ],
+    "subtitle": [
+      "\"Puissance explosive\""
+    ],
+    "description": [
+      "Une pierre gravée de runes magiques, conçue pour que ",
+      "même les novices sans connaissance de la magie puissent",
+      "facilement activer son effet"
+    ],
+    "ability": [
+      "Lance et transforme la cible qu'il touche en bombe",
+      "Explose en 5 secondes, les cibles plus grandes provoquant une explosion plus large."
+    ]
+  },
+  "43": {
+    "name": [
+      "Répondre"
+    ],
+    "subtitle": [
+      "Le pouvoir de la révélation"
+    ],
+    "description": [
+      "Une pierre gravée de runes. Conçue ainsi",
+      "même les novices peuvent facilement activer ses effets"
+    ],
+    "ability": [
+      "Laisse un signe marqué de texte à l'emplacement lorsqu'il est utilisé",
+      "Après la mise à jour, le signe devient visible pour les autres joueurs"
+    ]
+  },
+  "44": {
+    "name": [
+      "Raido"
+    ],
+    "subtitle": [
+      "Le pouvoir de l'équitation"
+    ],
+    "description": [
+      "Une pierre gravée de runes. Conçue ainsi",
+      "même les novices peuvent facilement activer ses effets"
+    ],
+    "ability": [
+      "Lance un marqueur qui permet d'échanger des positions"
+    ]
+  },
+  "45": {
+    "name": [
+      "Ahvaz"
+    ],
+    "subtitle": [
+      "Le pouvoir du changement"
+    ],
+    "description": [
+      "Une pierre gravée de runes. Conçue ainsi",
+      "même les novices peuvent facilement activer ses effets"
+    ],
+    "ability": [
+      "Lance et échange les positions avec la cible qu'il touche"
+    ]
+  },
+  "46": {
+    "name": [
+      "Le Fou"
+    ],
+    "subtitle": [
+      "La curiosité sans fin d'un aventurier insensé"
+    ],
+    "description": [
+      "Une carte magique imprégnée de sorts. Conçue pour",
+      "même les novices peuvent facilement activer ses effets"
+    ],
+    "ability": [
+      "utilisé de force vous téléporte vers une carte aléatoire"
+    ]
+  },
+  "48": {
+    "name": [
+      "La Grande Prêtresse"
+    ],
+    "subtitle": [
+      "Que tu reçoives sa faveur..."
+    ],
+    "description": [
+      "Une carte magique imprégnée de sorts. Conçue pour",
+      "même les novices peuvent facilement activer ses effets"
+    ],
+    "ability": [
+      "Lorsqu'il est utilisé, invoque une porte menant à l'Église déchue"
+    ]
+  },
+  "50": {
+    "name": [
+      "L'Empereur"
+    ],
+    "subtitle": [
+      "La majesté du dragon, inviolable"
+    ],
+    "description": [
+      "Une carte magique imprégnée de sorts. Conçue pour",
+      "même les novices peuvent facilement activer ses effets"
+    ],
+    "ability": [
+      "Utilisez le rugissement du dragon pour étourdir tous les ennemis à l'écran"
+    ]
+  },
+  "52": {
+    "name": [
+      "Les Amants"
+    ],
+    "subtitle": [
+      "L'odeur persistante de la sorcière"
+    ],
+    "description": [
+      "Une carte magique imprégnée de sorts. Conçue pour",
+      "même les novices peuvent facilement activer ses effets"
+    ],
+    "ability": [
+      "Lorsqu'il est utilisé, invoque des monstres et les rend brièvement fous."
+    ]
+  },
+  "53": {
+    "name": [
+      "Char"
+    ],
+    "subtitle": [
+      "À votre service! Hell Express!"
+    ],
+    "description": [
+      "Une carte magique imprégnée de sorts. Conçue pour",
+      "même les novices peuvent facilement activer ses effets"
+    ],
+    "ability": [
+      "Lorsqu'il est utilisé, un camion NLCH percute le joueur"
+    ]
+  },
+  "54": {
+    "name": [
+      "Force"
+    ],
+    "subtitle": [
+      "Libérez la puissance du Soldat Dieu Géant"
+    ],
+    "description": [
+      "Une carte magique imprégnée de sorts. Conçue pour",
+      "même les novices peuvent facilement activer ses effets"
+    ],
+    "ability": [
+      "Les armes de mêlée s'agrandissent temporairement et attaquent plus haut"
+    ]
+  },
+  "56": {
+    "name": [
+      "La Roue de la Fortune"
+    ],
+    "subtitle": [
+      "Roulette du jeu de l'âme"
+    ],
+    "description": [
+      "Une carte magique imprégnée de sorts. Conçue pour",
+      "même les novices peuvent facilement activer ses effets"
+    ],
+    "ability": [
+      "Lorsqu'il est utilisé, accorde un buff ou un debuff aléatoire"
+    ]
+  },
+  "57": {
+    "name": [
+      "Justice"
+    ],
+    "subtitle": [
+      "Des cendres aux cendres, de la poussière à la poussière"
+    ],
+    "description": [
+      "Une carte magique imprégnée de sorts. Conçue pour",
+      "même les novices peuvent facilement activer ses effets"
+    ],
+    "ability": [
+      "Lorsqu'il est utilisé, supprime tous les statuts du joueur"
+    ]
+  },
+  "59": {
+    "name": [
+      "La mort"
+    ],
+    "subtitle": [
+      "Le but de toute vie est la mort"
+    ],
+    "description": [
+      "Une carte magique imprégnée de sorts. Conçue pour",
+      "même les novices peuvent facilement activer ses effets"
+    ],
+    "ability": [
+      "Lorsqu'il est utilisé, le pouvoir du Diable de la Mort se manifeste ici"
+    ]
+  },
+  "60": {
+    "name": [
+      "Tempérance"
+    ],
+    "subtitle": [
+      "La boîte de Pandore de l'abîme"
+    ],
+    "description": [
+      "Une carte magique imprégnée de sorts. Conçue pour",
+      "même les novices peuvent facilement activer ses effets"
+    ],
+    "ability": [
+      "Lorsqu'il est utilisé, invoque une machine gacha"
+    ]
+  },
+  "63": {
+    "name": [
+      "L'étoile"
+    ],
+    "subtitle": [
+      "L'étoile est le phare qui nous guide vers la maison"
+    ],
+    "description": [
+      "Une carte magique imprégnée de sorts. Conçue pour",
+      "même les novices peuvent facilement activer ses effets"
+    ],
+    "ability": [
+      "Invoque une porte stellaire pour rentrer chez soi"
+    ]
+  },
+  "65": {
+    "name": [
+      "Le Soleil"
+    ],
+    "subtitle": [
+      "Renaissance des cendres"
+    ],
+    "description": [
+      "Une carte magique imprégnée de sorts. Conçue pour",
+      "même les novices peuvent facilement activer ses effets"
+    ],
+    "ability": [
+      "Accorde la bénédiction de l'oiseau de feu lors de son utilisation"
+    ]
+  },
+  "67": {
+    "name": [
+      "Le monde"
+    ],
+    "subtitle": [
+      "Tu invite dans le monde mystérieux du jardin miniature..."
+    ],
+    "description": [
+      "Une carte magique imprégnée de sorts. Conçue pour",
+      "même les novices peuvent facilement activer ses effets"
+    ],
+    "ability": [
+      "Réinitialise le compte à rebours des événements liés aux gouttes lors de l'utilisation"
+    ]
+  },
+  "70": {
+    "name": [
+      "Jack Bomb"
+    ],
+    "subtitle": [
+      "Regarde par ici...!"
+    ],
+    "description": [
+      "Une bombe alchimique imprégnée d'éléments de feu frénétiques",
+      "En raison de sa nature hautement instable, il explosera immédiatement",
+      "juste en le tenant",
+      "Il explosera instantanément dans les environnements chauds!"
+    ],
+    "ability": ""
+  },
+  "71": {
+    "name": [
+      "Bombe Jack Givré"
+    ],
+    "subtitle": [
+      "Regarde par ici...!"
+    ],
+    "description": [
+      "Une bombe alchimique infusée d'éléments de glace glaciale",
+      "En raison de sa nature hautement instable, il explosera immédiatement",
+      "juste en le tenant"
+    ],
+    "ability": ""
+  },
+  "72": {
+    "name": [
+      "Bombe Venom Jack"
+    ],
+    "subtitle": [
+      "Regarde par ici...!"
+    ],
+    "description": [
+      "Une bombe alchimique imprégnée d'un poison mortel",
+      "En raison de sa nature hautement instable, il explosera immédiatement",
+      "juste en le tenant"
+    ],
+    "ability": ""
+  },
+  "75": {
+    "name": [
+      "Montre scellée"
+    ],
+    "subtitle": "",
+    "description": [
+      "Un artefact magique spécial portant un sort de scellement",
+      "Lorsqu'il est brisé, il active son effet, provoquant tout",
+      "dans une certaine plage, y compris le temps lui-même, pour s'arrêter"
+    ],
+    "ability": ""
+  },
+  "76": {
+    "name": [
+      "Ginkela"
+    ],
+    "subtitle": "",
+    "description": [
+      "A strange feed of unknown origin, said to taste surprisingly good",
+      "Its aroma lures not only animals but even monsters!",
+      "Handle with care—the scent fades quickly if not stored well"
+    ],
+    "ability": [
+      "When thrown, it creates a scent cloud that draws in monsters"
+    ]
+  },
+  "77": {
+    "name": [
+      "Pouding aux sushis"
+    ],
+    "subtitle": "",
+    "description": [
+      "Un familier d'un certain Archidémon. Le lâcher.",
+      "vous mènera à l'endroit où se trouve l'Archidémon. Mais",
+      "Est-ce un Neko, un sushi ou un pudding? Ça a l'air délicieux quand même."
+    ],
+    "ability": ""
+  },
+  "88": {
+    "name": [
+      "Viande de cuisse d'oiseau"
+    ],
+    "subtitle": "",
+    "description": [
+      "Viande de cuisse récoltée sur divers oiseaux",
+      "La viande est tendre et dodue,",
+      "le rendant parfait pour les plats de viande"
+    ],
+    "ability": ""
+  },
+  "89": {
+    "name": [
+      "Viande de grosse bête"
+    ],
+    "subtitle": "",
+    "description": [
+      "Viande fraîche découpée sur un monstre. De délicieux plats de viande peuvent",
+      "être fabriqué à partir de cela. Les monstres mangent les gens, et les gens mangent les monstres",
+      "C'est l'ordre naturel"
+    ],
+    "ability": ""
+  },
+  "90": {
+    "name": [
+      "Viande de petite bête"
+    ],
+    "subtitle": "",
+    "description": [
+      "Viande fraîche découpée sur un monstre. De délicieux plats de viande peuvent",
+      "être fabriqué à partir de cela. Les monstres mangent les gens, et les gens mangent les monstres",
+      "C'est l'ordre naturel"
+    ],
+    "ability": ""
+  },
+  "97": {
+    "name": [
+      "EauMucus étrange"
+    ],
+    "subtitle": "",
+    "description": [
+      "Mucus sécrété par un WaterWeird, couramment utilisé comme remède général",
+      "ingrédient de l'alchimie",
+      "Il est parfois également utilisé comme lubrifiant"
+    ],
+    "ability": ""
+  },
+  "98": {
+    "name": [
+      "Champignons ambulants"
+    ],
+    "subtitle": "",
+    "description": [
+      "Un champignon de Walking Mushroom, maintenant immobile",
+      "Une fois tranché, il ressemble à un champignon ordinaire."
+    ],
+    "ability": ""
+  },
+  "100": {
+    "name": [
+      "Mucus visqueux"
+    ],
+    "subtitle": "",
+    "description": [
+      "Mucus sécrété par un slime, couramment utilisé comme remède général",
+      "ingrédient de l'alchimie",
+      "Il est parfois également utilisé comme lubrifiant"
+    ],
+    "ability": ""
+  },
+  "101": {
+    "name": [
+      "Pomme"
+    ],
+    "subtitle": "",
+    "description": [
+      "Fruits fraîchement cueillis, pleins de saveur rafraîchissante",
+      "Le manger directement restaure légèrement la santé"
+    ],
+    "ability": ""
+  },
+  "102": {
+    "name": [
+      "Bloc de curry"
+    ],
+    "subtitle": "",
+    "description": [
+      "Un bloc de curry épicé à base d'épices exotiques",
+      "Se marie bien avec le riz et peut être ajouté à divers ingrédients"
+    ],
+    "ability": ""
+  },
+  "103": {
+    "name": [
+      "Riz blanc"
+    ],
+    "subtitle": "",
+    "description": [
+      "Riz blanc simple mais réconfortant",
+      "Peut être consommé nature ou combiné avec divers ingrédients"
+    ],
+    "ability": ""
+  },
+  "104": {
+    "name": [
+      "Carotte"
+    ],
+    "subtitle": "",
+    "description": [
+      "Un légume commun, mais il est étrange de le trouver dans l'abîme",
+      "Nécessite une préparation adéquate avant de manger"
+    ],
+    "ability": ""
+  },
+  "105": {
+    "name": [
+      "Pomme de terre"
+    ],
+    "subtitle": "",
+    "description": [
+      "Un légume commun, mais il est étrange de le trouver dans l'abîme",
+      "Nécessite une préparation adéquate avant de manger"
+    ],
+    "ability": ""
+  },
+  "106": {
+    "name": [
+      "Chili"
+    ],
+    "subtitle": "",
+    "description": [
+      "Un légume commun, mais il est étrange de le trouver dans l'abîme",
+      "Nécessite une préparation adéquate avant de manger"
+    ],
+    "ability": ""
+  },
+  "107": {
+    "name": [
+      "Tomate"
+    ],
+    "subtitle": "",
+    "description": [
+      "Un légume commun, mais il est étrange de le trouver dans l'abîme",
+      "Nécessite une préparation adéquate avant de manger"
+    ],
+    "ability": ""
+  },
+  "108": {
+    "name": [
+      "Banane"
+    ],
+    "subtitle": "",
+    "description": [
+      "Fruits fraîchement cueillis, pleins de saveur rafraîchissante",
+      "Le manger directement restaure légèrement la santé"
+    ],
+    "ability": ""
+  },
+  "109": {
+    "name": [
+      "Fraise"
+    ],
+    "subtitle": "",
+    "description": [
+      "Fruits fraîchement cueillis, pleins de saveur rafraîchissante",
+      "Le manger directement restaure légèrement la santé"
+    ],
+    "ability": ""
+  },
+  "110": {
+    "name": [
+      "Raisin"
+    ],
+    "subtitle": "",
+    "description": [
+      "Fruits fraîchement cueillis, pleins de saveur rafraîchissante",
+      "Le manger directement restaure légèrement la santé"
+    ],
+    "ability": ""
+  },
+  "111": {
+    "name": [
+      "Ananas"
+    ],
+    "subtitle": "",
+    "description": [
+      "Fruits fraîchement cueillis, pleins de saveur rafraîchissante",
+      "Le manger directement restaure légèrement la santé"
+    ],
+    "ability": ""
+  },
+  "112": {
+    "name": [
+      "Pastèque"
+    ],
+    "subtitle": "",
+    "description": [
+      "Fruits fraîchement cueillis, pleins de saveur rafraîchissante",
+      "Le manger directement restaure légèrement la santé"
+    ],
+    "ability": ""
+  },
+  "113": {
+    "name": [
+      "Spaghetti"
+    ],
+    "subtitle": "",
+    "description": [
+      "Des nouilles élastiques et moelleuses qui se marient bien avec n'importe quel plat",
+      "Délicieux avec juste un peu de sauce"
+    ],
+    "ability": ""
+  },
+  "114": {
+    "name": [
+      "Sauce tomate"
+    ],
+    "subtitle": "",
+    "description": [
+      "Fabriqué à partir de tomates, avec une saveur acidulée et sucrée",
+      "Il vaut mieux ne pas penser à la raison pour laquelle un monstre laisserait tomber ça."
+    ],
+    "ability": ""
+  },
+  "115": {
+    "name": [
+      "farine de blé"
+    ],
+    "subtitle": "",
+    "description": [
+      "Farine de blé moulu, utile pour divers plats"
+    ],
+    "ability": ""
+  },
+  "116": {
+    "name": [
+      "Pleurote"
+    ],
+    "subtitle": "",
+    "description": [
+      "Un champignon commun souvent vu à l'extérieur",
+      "Cependant, le trouver dans l'abîme est assez inhabituel"
+    ],
+    "ability": ""
+  },
+  "117": {
+    "name": [
+      "Shiitake"
+    ],
+    "subtitle": "",
+    "description": [
+      "Un champignon commun souvent vu à l'extérieur",
+      "Cependant, le trouver dans l'abîme est assez inhabituel"
+    ],
+    "ability": ""
+  },
+  "118": {
+    "name": [
+      "Champignon du hêtre"
+    ],
+    "subtitle": "",
+    "description": [
+      "Un champignon commun souvent vu à l'extérieur",
+      "Cependant, le trouver dans l'abîme est assez inhabituel"
+    ],
+    "ability": ""
+  },
+  "119": {
+    "name": [
+      "Champignon lilas"
+    ],
+    "subtitle": "",
+    "description": [
+      "Un champignon commun souvent vu à l'extérieur",
+      "Cependant, le trouver dans l'abîme est assez inhabituel"
+    ],
+    "ability": ""
+  },
+  "120": {
+    "name": [
+      "Champignon au clair de lune"
+    ],
+    "subtitle": "",
+    "description": [
+      "Un champignon commun souvent vu à l'extérieur",
+      "Cependant, le trouver dans l'abîme est assez inhabituel"
+    ],
+    "ability": ""
+  },
+  "121": {
+    "name": [
+      "Champignon de bambou"
+    ],
+    "subtitle": "",
+    "description": [
+      "Un champignon commun souvent vu à l'extérieur",
+      "Cependant, le trouver dans l'abîme est assez inhabituel"
+    ],
+    "ability": ""
+  },
+  "122": {
+    "name": [
+      "ASABA's Fraise"
+    ],
+    "subtitle": [
+      "\"Mmm… des fraises… mes fraises…\""
+    ],
+    "description": [
+      "La fraise la plus précieuse et la plus savoureuse d'ASABA, qu'il ne peut se résoudre à manger.",
+      "Mais même après l'avoir désespérément gardée jusqu'à la fin,",
+      "elle ne devient finalement rien de plus qu'un trophée—"
+    ],
+    "ability": ""
+  },
+  "127": {
+    "name": [
+      "Tentacules de pieuvre"
+    ],
+    "subtitle": "",
+    "description": [
+      "Tentacules de poulpe brisés pêchés dans la mer, ils sentent bon lorsqu'ils sont grillés",
+      "Il peut également être cuisiné avec d'autres ingrédients"
+    ],
+    "ability": ""
+  },
+  "130": {
+    "name": [
+      "Dorade"
+    ],
+    "subtitle": "",
+    "description": [
+      "Fraîchement pêché dans la mer, parfait pour le sashimi",
+      "Il peut également être cuisiné avec d'autres ingrédients"
+    ],
+    "ability": ""
+  },
+  "131": {
+    "name": [
+      "Thon"
+    ],
+    "subtitle": "",
+    "description": [
+      "Fraîchement pêché dans la mer, parfait pour le sashimi",
+      "Il peut également être cuisiné avec d'autres ingrédients"
+    ],
+    "ability": ""
+  },
+  "132": {
+    "name": [
+      "Poisson-bec rayé"
+    ],
+    "subtitle": "",
+    "description": [
+      "Fraîchement pêché dans la mer, parfait pour le sashimi",
+      "Il peut également être cuisiné avec d'autres ingrédients"
+    ],
+    "ability": ""
+  },
+  "133": {
+    "name": [
+      "Mérou"
+    ],
+    "subtitle": "",
+    "description": [
+      "Fraîchement pêché dans la mer, parfait pour le sashimi",
+      "Il peut également être cuisiné avec d'autres ingrédients"
+    ],
+    "ability": ""
+  },
+  "134": {
+    "name": [
+      "balaou du Pacifique"
+    ],
+    "subtitle": "",
+    "description": [
+      "Fraîchement pêché dans la mer, parfait pour le sashimi",
+      "Il peut également être cuisiné avec d'autres ingrédients"
+    ],
+    "ability": ""
+  },
+  "135": {
+    "name": [
+      "Crevettes sucrées"
+    ],
+    "subtitle": "",
+    "description": [
+      "Crevettes fraîchement pêchées en mer, parfaites pour le sashimi",
+      "Il peut également être cuisiné avec d'autres ingrédients"
+    ],
+    "ability": ""
+  },
+  "136": {
+    "name": [
+      "langouste"
+    ],
+    "subtitle": "",
+    "description": [
+      "Homard fraîchement pêché en mer, attention à ne pas se faire pincer",
+      "Il peut également être cuisiné avec d'autres ingrédients"
+    ],
+    "ability": ""
+  },
+  "137": {
+    "name": [
+      "Crabe poilu"
+    ],
+    "subtitle": "",
+    "description": [
+      "Crabe fraîchement pêché en mer, attention à ne pas se faire pincer",
+      "Il peut également être cuisiné avec d'autres ingrédients"
+    ],
+    "ability": ""
+  },
+  "142": {
+    "name": [
+      "Saumon"
+    ],
+    "subtitle": "",
+    "description": [
+      "Fraîchement pêché dans la mer, parfait pour le sashimi",
+      "Il peut également être cuisiné avec d'autres ingrédients"
+    ],
+    "ability": ""
+  },
+  "143": {
+    "name": [
+      "Saumon royal"
+    ],
+    "subtitle": "",
+    "description": [
+      "Fraîchement pêché dans la mer, parfait pour le sashimi",
+      "Il peut également être cuisiné avec d'autres ingrédients"
+    ],
+    "ability": ""
+  },
+  "151": {
+    "name": [
+      "Viande de bête"
+    ],
+    "subtitle": "",
+    "description": [
+      "Viande prélevée sur un monstre. Elle peut servir à préparer de délicieux plats.",
+      "Les monstres mangent les humains et les humains mangent les monstres : c'est tout à fait naturel"
+    ],
+    "ability": ""
+  },
+  "153": {
+    "name": [
+      "Un gros œuf"
+    ],
+    "subtitle": "",
+    "description": [
+      "Un énorme œuf venu des abysses. De quelle créature provient-il?",
+      "Je n'ai pas trop réfléchi : un œuf est un œuf."
+    ],
+    "ability": ""
+  },
+  "173": {
+    "name": [
+      "Fée banane"
+    ],
+    "subtitle": "",
+    "description": [
+      "Mais qu'est-ce que c'est que ça?"
+    ],
+    "ability": ""
+  },
+  "175": {
+    "name": [
+      "Fée des pommes"
+    ],
+    "subtitle": "",
+    "description": [
+      "Mais qu'est-ce que c'est que ça?"
+    ],
+    "ability": ""
+  },
+  "190": {
+    "name": [
+      "Yuri Doujinshi"
+    ],
+    "subtitle": [
+      "Onee-chan... J'ai l'impression que... Je ne peux plus vivre sans toi..."
+    ],
+    "description": [
+      "Un doujinshi avec un bel art.",
+      "Mais il dépeint un amour interdit entre deux belles filles...",
+      "L'histoire est tellement torride que même les pages dégagent un léger parfum rose."
+    ],
+    "ability": [
+      "Augmente le désir après la lecture!"
+    ]
+  },
+  "191": {
+    "name": [
+      "Moe Doujinshi"
+    ],
+    "subtitle": [
+      "Mon amour mon amour~♡"
+    ],
+    "description": [
+      "Un doujinshi rempli de bulles roses et d'effets en forme de cœur.",
+      "Les personnages rougissent et s'énervent pour la moindre petite chose...",
+      "Ils disent que vous pourriez finir par soupirer \" so moe~ \" après l'avoir lu."
+    ],
+    "ability": [
+      "Augmente le désir après la lecture!"
+    ]
+  },
+  "192": {
+    "name": [
+      "Catgirl Doujinshi"
+    ],
+    "subtitle": [
+      "Maître... nya~ Puis-je avoir des caresses sur la tête?"
+    ],
+    "description": [
+      "Un doujinshi qui sent légèrement l'herbe à chat.",
+      "Montre des catgirls ronronnant, roulant et remuant la queue.",
+      "Cela pourrait vous donner envie d'avoir une nyan-wife qui parle..."
+    ],
+    "ability": [
+      "Augmente le désir après la lecture!"
+    ]
+  },
+  "197": {
+    "name": [
+      "Elixir Rubrum"
+    ],
+    "subtitle": [
+      "\"Haec est totius fortitudinis fortitudo fortis,  ",
+      "quia vincet omnem rem subtilem, omnemque solidam penetrabit.\""
+    ],
+    "description": [
+      "The reddened Philosopher's Fragment flows like blood",
+      "Its proper use is still unknown, but for now, ",
+      "just try drinking it like a beverage…"
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "199": {
+    "name": [
+      "Coupon de récompense pour sœur"
+    ],
+    "subtitle": [
+      "C'est couvert de beaucoup de gribouillis..."
+    ],
+    "description": [
+      "C'est une récompense spéciale de la part de la sœur pour \\str[121] qui travaille dur",
+      "Tu peux lui faire n'importe quelle demande, même déraisonnable.",
+      "Mais même sans cela, elle veut toujours aider à porter les fardeaux de \\str[121]"
+    ],
+    "ability": ""
+  },
+  "200": {
+    "name": [
+      "Polaroïd n°1 de NLCH"
+    ],
+    "subtitle": [
+      "Qu'est-ce que tu fais, à regarder ici comme ça…!"
+    ],
+    "description": [
+      "Des photos capturant la vie quotidienne des filles",
+      "l'équipe du thé, mais… qui a pris ces photos?"
+    ],
+    "ability": ""
+  },
+  "201": {
+    "name": [
+      "Polaroïd n°2 de NLCH"
+    ],
+    "subtitle": [
+      "C'est juste comme ça que les lapins montrent leur affection~"
+    ],
+    "description": [
+      "Des photos capturant la vie quotidienne des filles",
+      "l'équipe du thé, mais… qui a pris ces photos?"
+    ],
+    "ability": ""
+  },
+  "202": {
+    "name": [
+      "Polaroïd n°3 de NLCH"
+    ],
+    "subtitle": [
+      "…C'est déjà assez propre, non?"
+    ],
+    "description": [
+      "Des photos capturant la vie quotidienne des filles",
+      "l'équipe du thé, mais… qui a pris ces photos?"
+    ],
+    "ability": ""
+  },
+  "203": {
+    "name": [
+      "Polaroïd n°4 de NLCH"
+    ],
+    "subtitle": [
+      "N-Non, c'est mauvais... le médicament est trop fort!"
+    ],
+    "description": [
+      "Des photos capturant la vie quotidienne des filles",
+      "l'équipe du thé, mais… qui a pris ces photos?"
+    ],
+    "ability": ""
+  },
+  "204": {
+    "name": [
+      "Polaroïd n°5 de NLCH"
+    ],
+    "subtitle": [
+      "Oh, Seigneur, pardonne-moi d'être tenté par l'argent..."
+    ],
+    "description": [
+      "Des photos capturant la vie quotidienne des filles",
+      "l'équipe du thé, mais… qui a pris ces photos?"
+    ],
+    "ability": ""
+  },
+  "205": {
+    "name": [
+      "Polaroïd n°6 de NLCH"
+    ],
+    "subtitle": [
+      "Wouf... Ça ne suffit pas déjà...?"
+    ],
+    "description": [
+      "Des photos capturant la vie quotidienne des filles",
+      "l'équipe du thé, mais… qui a pris ces photos?"
+    ],
+    "ability": ""
+  },
+  "206": {
+    "name": [
+      "Polaroïd n°7 de NLCH"
+    ],
+    "subtitle": [
+      "Hehe~♥ Tu n'as rien vu, n'est-ce pas?"
+    ],
+    "description": [
+      "Des photos capturant la vie quotidienne des filles",
+      "l'équipe du thé, mais… qui a pris ces photos?"
+    ],
+    "ability": ""
+  },
+  "207": {
+    "name": [
+      "Polaroïd n°8 de NLCH"
+    ],
+    "subtitle": [
+      "Allez, cette pose devrait être bien, non?"
+    ],
+    "description": [
+      "Des photos capturant la vie quotidienne des filles",
+      "l'équipe du thé, mais… qui a pris ces photos?"
+    ],
+    "ability": ""
+  },
+  "208": {
+    "name": [
+      "Polaroïd n°9 de NLCH"
+    ],
+    "subtitle": [
+      "Qu'est-ce que c'est que ce regard amusé sur ton visage...?"
+    ],
+    "description": [
+      "Des photos capturant la vie quotidienne des filles",
+      "l'équipe du thé, mais… qui a pris ces photos?"
+    ],
+    "ability": ""
+  },
+  "209": {
+    "name": [
+      "Polaroïd n°10 de NLCH"
+    ],
+    "subtitle": [
+      "Je ne peux plus... continuer à chanter...!"
+    ],
+    "description": [
+      "Des photos capturant la vie quotidienne des filles",
+      "l'équipe du thé, mais… qui a pris ces photos?"
+    ],
+    "ability": ""
+  },
+  "210": {
+    "name": [
+      "Polaroïd n°11 de NLCH"
+    ],
+    "subtitle": [
+      "Alors, c'est ton souhait pour la nouvelle année?"
+    ],
+    "description": [
+      "Des photos capturant la vie quotidienne des filles",
+      "l'équipe du thé, mais… qui a pris ces photos?"
+    ],
+    "ability": ""
+  },
+  "211": {
+    "name": [
+      "Polaroïd n°12 de NLCH"
+    ],
+    "subtitle": [
+      "Ah, même le thé commence à avoir un goût plus sucré!"
+    ],
+    "description": [
+      "Des photos capturant la vie quotidienne des filles",
+      "l'équipe du thé, mais… qui a pris ces photos?"
+    ],
+    "ability": ""
+  },
+  "212": {
+    "name": [
+      "Polaroïd n°13 de NLCH"
+    ],
+    "subtitle": [
+      "Eh bien, c'est un travail à temps partiel, donc je ne peux pas m'en empêcher…"
+    ],
+    "description": [
+      "Des photos capturant la vie quotidienne des filles",
+      "l'équipe du thé, mais… qui a pris ces photos?"
+    ],
+    "ability": ""
+  },
+  "213": {
+    "name": [
+      "Polaroïd n°14 de NLCH"
+    ],
+    "subtitle": [
+      "Oh mon Dieu, tu es entré sans frapper~"
+    ],
+    "description": [
+      "Des photos capturant la vie quotidienne des filles",
+      "l'équipe du thé, mais… qui a pris ces photos?"
+    ],
+    "ability": ""
+  },
+  "214": {
+    "name": [
+      "Polaroïd n°15 de NLCH"
+    ],
+    "subtitle": [
+      "C'est vrai...? Un style de confession dont je n'ai jamais entendu parler..."
+    ],
+    "description": [
+      "Des photos capturant la vie quotidienne des filles",
+      "l'équipe du thé, mais… qui a pris ces photos?"
+    ],
+    "ability": ""
+  },
+  "215": {
+    "name": [
+      "Polaroïd n°16 de NLCH"
+    ],
+    "subtitle": [
+      "Haa... Haa... Mon corps n'en peut plus...!"
+    ],
+    "description": [
+      "Des photos capturant la vie quotidienne des filles",
+      "l'équipe du thé, mais… qui a pris ces photos?"
+    ],
+    "ability": ""
+  },
+  "216": {
+    "name": [
+      "Polaroïd n°17 de NLCH"
+    ],
+    "subtitle": [
+      "Oh, Seigneur... s'il te plaît, pardonne-moi..."
+    ],
+    "description": [
+      "Des photos capturant la vie quotidienne des filles",
+      "l'équipe du thé, mais… qui a pris ces photos?"
+    ],
+    "ability": ""
+  },
+  "217": {
+    "name": [
+      "Polaroïd n°18 de NLCH"
+    ],
+    "subtitle": [
+      "Wouf... Ça ne suffit pas déjà...?"
+    ],
+    "description": [
+      "Des photos capturant la vie quotidienne des filles",
+      "l'équipe du thé, mais… qui a pris ces photos?"
+    ],
+    "ability": ""
+  },
+  "218": {
+    "name": [
+      "Polaroïd n°19 de NLCH"
+    ],
+    "subtitle": [
+      "...Miaou?"
+    ],
+    "description": [
+      "Des photos capturant la vie quotidienne des filles",
+      "l'équipe du thé, mais… qui a pris ces photos?"
+    ],
+    "ability": ""
+  },
+  "219": {
+    "name": [
+      "Polaroïd n°20 de NLCH"
+    ],
+    "subtitle": [
+      "…Hein? Toujours pas nettoyé?"
+    ],
+    "description": [
+      "Des photos capturant la vie quotidienne des filles",
+      "l'équipe du thé, mais… qui a pris ces photos?"
+    ],
+    "ability": ""
+  },
+  "220": {
+    "name": [
+      "Polaroïd n°21 de NLCH"
+    ],
+    "subtitle": [
+      "Haa... C'est la 11ème chanson... N'est-ce pas suffisant?"
+    ],
+    "description": [
+      "Des photos capturant la vie quotidienne des filles",
+      "l'équipe du thé, mais… qui a pris ces photos?"
+    ],
+    "ability": ""
+  },
+  "221": {
+    "name": [
+      "Polaroïd n°22 de NLCH"
+    ],
+    "subtitle": [
+      "Pourquoi le regard semble-t-il plus chaud...?"
+    ],
+    "description": [
+      "Des photos capturant la vie quotidienne des filles",
+      "l'équipe du thé, mais… qui a pris ces photos?"
+    ],
+    "ability": ""
+  },
+  "222": {
+    "name": [
+      "Polaroïd n° 23 de NLCH"
+    ],
+    "subtitle": [
+      "Ton souhait du Nouvel An s'est réalisé immédiatement, heureux?"
+    ],
+    "description": [
+      "Des photos capturant la vie quotidienne des filles",
+      "l'équipe du thé, mais… qui a pris ces photos?"
+    ],
+    "ability": ""
+  },
+  "223": {
+    "name": [
+      "Polaroïd n°24 de NLCH"
+    ],
+    "subtitle": [
+      "As-tu ressenti l'amour du lapin~♥"
+    ],
+    "description": [
+      "Des photos capturant la vie quotidienne des filles",
+      "l'équipe du thé, mais… qui a pris ces photos?"
+    ],
+    "ability": ""
+  },
+  "224": {
+    "name": [
+      "Polaroïd n°25 de NLCH"
+    ],
+    "subtitle": [
+      "Un étrange lapin a été abandonné..."
+    ],
+    "description": [
+      "Des photos capturant la vie quotidienne des filles",
+      "l'équipe du thé, mais… qui a pris ces photos?"
+    ],
+    "ability": ""
+  },
+  "225": {
+    "name": [
+      "Polaroïd n°26 de NLCH"
+    ],
+    "subtitle": [
+      "J'ai failli me faire prendre..."
+    ],
+    "description": [
+      "Des photos capturant la vie quotidienne des filles",
+      "l'équipe du thé, mais… qui a pris ces photos?"
+    ],
+    "ability": ""
+  },
+  "226": {
+    "name": [
+      "Polaroïd n°27 de NLCH"
+    ],
+    "subtitle": [
+      "Entrer sans frapper... qu'est-ce que tu fais~♥"
+    ],
+    "description": [
+      "Des photos capturant la vie quotidienne des filles",
+      "l'équipe du thé, mais… qui a pris ces photos?"
+    ],
+    "ability": ""
+  },
+  "227": {
+    "name": [
+      "Polaroïd n°28 de NLCH"
+    ],
+    "subtitle": [
+      "C'est étrange... Je n'arrive pas à l'attacher..."
+    ],
+    "description": [
+      "Des photos capturant la vie quotidienne des filles",
+      "l'équipe du thé, mais… qui a pris ces photos?"
+    ],
+    "ability": ""
+  },
+  "228": {
+    "name": [
+      "Polaroïd n°29 de NLCH"
+    ],
+    "subtitle": [
+      "…Personne ne surveille ici, n'est-ce pas?"
+    ],
+    "description": [
+      "Des photos capturant la vie quotidienne des filles",
+      "l'équipe du thé, mais… qui a pris ces photos?"
+    ],
+    "ability": ""
+  },
+  "229": {
+    "name": [
+      "Polaroïd n°30 de NLCH"
+    ],
+    "subtitle": [
+      "Hehe~♥ Il ne s'est rien passé, d'accord?"
+    ],
+    "description": [
+      "Des photos capturant la vie quotidienne des filles",
+      "l'équipe du thé, mais… qui a pris ces photos?"
+    ],
+    "ability": ""
+  },
+  "230": {
+    "name": [
+      "Polaroïd n°31 de NLCH"
+    ],
+    "subtitle": [
+      "Mmm... Le thé a un goût encore plus sucré maintenant...!"
+    ],
+    "description": [
+      "Des photos capturant la vie quotidienne des filles",
+      "l'équipe du thé, mais… qui a pris ces photos?"
+    ],
+    "ability": ""
+  },
+  "231": {
+    "name": [
+      "Polaroïd n° 32 de NLCH"
+    ],
+    "subtitle": [
+      "Je sais que cela fait partie du travail, mais juste cette fois, d'accord?"
+    ],
+    "description": [
+      "Des photos capturant la vie quotidienne des filles",
+      "l'équipe du thé, mais… qui a pris ces photos?"
+    ],
+    "ability": ""
+  },
+  "232": {
+    "name": [
+      "Polaroïd n° 33 de NLCH"
+    ],
+    "subtitle": [
+      "S-s'il te plaît, ne touchez pas la marchandise sans précaution!"
+    ],
+    "description": [
+      "Des photos capturant la vie quotidienne des filles",
+      "l'équipe du thé, mais… qui a pris ces photos?"
+    ],
+    "ability": ""
+  },
+  "233": {
+    "name": [
+      "Polaroïd n° 34 de NLCH"
+    ],
+    "subtitle": [
+      "Mâche, mâche... C'est moyen, je suppose..."
+    ],
+    "description": [
+      "Des photos capturant la vie quotidienne des filles",
+      "l'équipe du thé, mais… qui a pris ces photos?"
+    ],
+    "ability": ""
+  },
+  "234": {
+    "name": [
+      "Polaroïd n° 35 de NLCH"
+    ],
+    "subtitle": [
+      "Maître? S'il te plaît, ne me taquinez pas dans un moment pareil…"
+    ],
+    "description": [
+      "Des photos capturant la vie quotidienne des filles",
+      "l'équipe du thé, mais… qui a pris ces photos?"
+    ],
+    "ability": ""
+  },
+  "235": {
+    "name": [
+      "Album de collection Polaroid"
+    ],
+    "subtitle": [
+      "Des filles douces et adorables ♥ Je veux toutes les ramener à la maison—!"
+    ],
+    "description": [
+      "Un album photo spécialement conçu pour collectionner de jolis clichés de filles.",
+      "En l'ouvrant, un léger parfum de thé noir se dégage..."
+    ],
+    "ability": [
+      "Polaroids Collected: \\c[6]${QJ.MPMZ.tl.checkPolaroidCount()}\\c[0]/35"
+    ]
+  },
+  "236": {
+    "name": [
+      "Album de collection Polaroid"
+    ],
+    "subtitle": [
+      "Des filles douces et adorables ♥ Je veux toutes les ramener à la maison—!"
+    ],
+    "description": [
+      "Un album photo spécialement conçu pour collectionner de jolis clichés de filles.",
+      "En l'ouvrant, un léger parfum de thé noir se dégage..."
+    ],
+    "ability": [
+      "Collection complète! Chance augmentée en permanence!"
+    ]
+  },
+  "311": {
+    "name": [
+      "Pierre bleue rayonnante"
+    ],
+    "subtitle": "",
+    "description": [
+      "Une pierre précieuse bleue avec une lueur captivante",
+      "Même si cela n'a aucune valeur pratique, quelqu'un pourrait en payer le prix fort…",
+      "ou avez-vous d'autres intentions?"
+    ],
+    "ability": ""
+  },
+  "312": {
+    "name": [
+      "Petit gel de mana"
+    ],
+    "subtitle": "",
+    "description": [
+      "Une substance gélatineuse formée uniquement de mana condensé",
+      "C'est comestible, mais son goût varie considérablement selon les aptitudes magiques de chacun.",
+      "Son utilisation principale est comme matériau consommable pour la magie"
+    ],
+    "ability": ""
+  },
+  "314": {
+    "name": [
+      "Pierre rhomboïdale rouge"
+    ],
+    "subtitle": "",
+    "description": [
+      "Une pierre précieuse rouge à l'éclat captivant.",
+      "Bien qu'elle n'ait aucune valeur pratique, quelqu'un pourrait",
+      "être prêt à payer le prix fort pour l'acquérir... ou avoir d'autres intentions ?"
+    ],
+    "ability": ""
+  }
+}

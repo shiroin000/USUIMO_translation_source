@@ -1,0 +1,46 @@
+{
+    "2": {
+        "0": [
+            "(...Chuyện gì đang xảy ra vậy? Nắng chói quá!?",
+            "Và khi chiếu vào da thì đau rát thật sự!!)"
+        ]
+    },
+    "4": {
+        "0": [
+            "Giờ vẫn còn sớm.",
+            "Mình thật sự định về nhà ngay bây giờ sao?"
+        ],
+        "1": [
+            "Vẫn còn chút thời gian trước khi mặt trời lặn…",
+            "Mình thật sự định về nhà ngay bây giờ sao?"
+        ],
+        "2": [
+            "Hôm nay nóng khủng khiếp.",
+            "Có lẽ nên quay về sớm thì hơn...?"
+        ],
+        "3": [
+            "Về nhà",
+            "Thôi vậy"
+        ]
+    },
+    "16": {
+        "0": [
+            " ",
+            " "
+        ]
+    },
+    "17": {
+        "0": [
+            "Bên trong còn có một mảnh giấy ghi chú nữa...     \\w[30]",
+            "Trên đó viết vài dòng chữ nguệch ngoạc đến mức gần như không đọc nổi—"
+        ],
+        "1": [
+            "\\py[24]\"Tuổi trẻ của ta được chôn vùi trong này...\"",
+            "\\w[60]"
+        ],
+        "2": [
+            "(Cảm giác này thật là...",
+            "nặng nề đến mức không thể chịu nổi...)"
+        ]
+    }
+}

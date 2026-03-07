@@ -1,0 +1,255 @@
+{ 
+  "2": { 
+        "0": [ 
+            "\\nl< >\"\\str[121]... aguanta... \\w[90]", 
+			"Seguro que te vas a mejorar.\"" 
+		], 
+        "1": [ 
+            "¿Qué va a pasar con mi dignidad como su \\str[121]..." 
+		], 
+        "2": [ 
+            "\\nl< >\"\\str[121]... no estés triste.\"" 
+		], 
+        "3": [ 
+            "\\nl< >\"\\{¿Hemorroides\\}? Eso debió ser causado por malos hábitos...\"" 
+		], 
+        "4": [ 
+            "Esto es malo. El malentendido solo está empeorando—" 
+		], 
+        "5": [ 
+            "\"Ah, por eso no estoy——\"", 
+			"\\w[45]\\^" 
+		], 
+        "6": [ 
+            "\\nl< >\\{ \"¿Podría ser algo aún más serio?\" " 
+		], 
+        "7": [ 
+            "\"Lo siento, solo son hemorroides.\"" 
+		], 
+        "8": [ 
+            "Y entonces, mi razón para pasar tanto tiempo en el baño ", 
+			"se decidió oficialmente…" 
+		], 
+        "9": [ 
+            "\\nl< >\"…¿Entonces realmente fue estreñimiento?\"" 
+		], 
+        "10": [ 
+            "No es bueno—", 
+			"\\str[120] está empezando a tener una idea equivocada." 
+		], 
+        "11": [ 
+            "\"Ay, Dios mío, tu \\str[120] ", 
+			"simplemente estaba reflexionando profundamente, ¿sabes?\"" 
+		], 
+        "12": [ 
+            "\\nl< >\"Ya veo...! Es increíble, \\str[121].\"" 
+		], 
+        "13": [ 
+            "Increíble, ¿verdad? ", 
+			"Tu \\str[121] acaba de ascender temporalmente al modo sabio." 
+		], 
+        "14": [ 
+            "\"¡Bueno, vamos a empezar a preparar la cena!\"" 
+		], 
+        "15": [ 
+            "\\nl< >\"\\str[121], otra vez estuviste en el baño un buen rato.\"" 
+		], 
+        "16": [ 
+            "Ni siquiera puedo negarlo... De verdad que estuve ahí dentro una eternidad..." 
+		], 
+        "17": [ 
+            "\"¡Ejem...! Eso no importa ahora mismo,",
+			"¡Vamos, a preparar la cena!" 
+		], 
+        "18": [ 
+            "\\nl< >\"Qué sospechoso…\"" 
+		], 
+        "19": [ 
+            "\\nl< >\"¡Qué lento eres, \\str[121]! ¿Estás estreñido?\"" 
+		], 
+        "20": [ 
+            "\"Ajaja… ni hablar…\"" 
+		], 
+        "21": [ 
+            "\"Ya tienes hambre, ¿verdad?",
+			"Bueno, ¡vamos a empezar con la cena!\"" 
+		] 
+    }, 
+  "3": { 
+        "0": [ 
+            "\\nl< >\"\\str[121]... ¿Sigues ahí, verdad?\"" 
+		], 
+        "1": [ 
+            "\\nl< >\"Los bichos dan mucho miedo, ", 
+			"pero \\str[121] vino a ayudarme enseguida.\"" 
+		], 
+        "2": [ 
+            "\\nl< >\"Llegaste tan rápido,", 
+			"es como si estuvieras esperando justo afuera del baño.\"" 
+		], 
+        "3": [ 
+            "\\>\\{\"—¡Ack!\"", 
+			"\\w[90]" 
+		], 
+        "4": [ 
+            "Abrumado por la culpa, ", 
+			"Perdí la concentración por un momento, resbalé y casi me caigo." 
+		], 
+        "5": [ 
+            "\\nl< >\"\\str[121]... ¿¡estás bien!?\"" 
+		], 
+        "6": [ 
+            "\"¡N-no, estoy bien! Solo corrí demasiado rápido,\"", 
+			"y me torcí un poco el tobillo, jajaja...\"" 
+		], 
+        "7": [ 
+            "Después de eso, de alguna manera logré quitármelo de encima con \\str[120]." 
+		], 
+        "8": [ 
+            "\\nl< >\"\\str[121], en serio, eras tan genial hace un momento...", 
+			"¡y ahora me estás tomando el pelo otra vez!\"" 
+		], 
+        "9": [ 
+            "\\nl< >\"Ahora que lo pienso, \\str[121] apareció muy rápido esta vez.", 
+			"¿No me digas que de verdad estabas esperando afuera del baño desde el principio...?\"" 
+		], 
+        "10": [ 
+            "\\nl< >\"Uf, los bichos sí que dan miedo...", 
+			"Me alegro mucho de que \\str[121] haya llegado justo a tiempo.\"" 
+		], 
+        "11": [ 
+            "\"No te preocupes, ", 
+			"¡Siempre vendré corriendo cuando estés en peligro!\"" 
+		], 
+        "12": [ 
+            "\\nl< >\"Pero sabes, \\str[121]...", 
+			"escondite afuera del baño desde el principio", 
+			"eso es bastante descuidado de tu parte~\"" 
+		], 
+        "13": [ 
+            "\\nl< >\"Eso no está bien, ¿sabes? ", 
+			"¡Mirar a una chica mientras está usando el baño~!\"" 
+		], 
+        "14": [ 
+            "\\nl< >\"Entonces, ¿cómo fue? ", 
+			"Ver a una chica orinar con esos ojos lascivos tuyos—", 
+			"¿qué se sintió?\"" 
+		], 
+        "15": [ 
+            "\"Ajaja... así que me descubrieron, ¿eh...?\"" 
+		], 
+        "16": [ 
+            "Un sudor frío me corrió por la espalda mientras miraba la sonrisa traviesa de \\str[120].",
+			"Por un momento, ni siquiera pude decir si estaba realmente enojada—", 
+			"tal vez... soy yo con quien están jugando aquí..." 
+		] 
+    },		 
+  "4": { 
+        "0": [ 
+            "Quería animar a \\str[120] un poco más", 
+			"pero me echaron de la habitación.\"" 
+		], 
+        "1": [ 
+            "Bueno, supongo que dormiré por ahora—", 
+			"Pensaré en algo mañana..." 
+		] 
+    },		 
+  "6": { 
+        "0": [ 
+            "Uf... menos mal que no me avergoncé", 
+			"delante de \\str[120]...", 
+			"Pero———" 
+		], 
+		"1": [ 
+            "\\{\"Ugh———\" \\w[60]" 
+        ], 
+        "2": [ 
+            "Esto es peor de lo que pensaba...", 
+            "¿Ha estado sucediendo durante más de media hora...?" 
+        ], 
+        "3": [ 
+            "Siento como si me estuvieran drenando todo el cuerpo...", 
+            "Tal vez realmente hubo algo anda mal", 
+			"con la cena?" 
+        ], 
+        "4": [ 
+            "\\nl< >\"\\str[121]... ¿estás bien...?", 
+			"Escuché... unos ruidos realmente aterradores...\"" 
+        ], 
+        "5": [ 
+            "\"Ahaha... tal vez comí algo malo…", 
+			"No te acerques… es peligroso aquí…\"" 
+        ],	 
+        "6": [ 
+            "Escuché la voz preocupada de \\str[120] desde ", 
+			"afuera de la puerta. Por mucho que quisiera ", 
+			"salir de aquí rápido, incluso las fuerzas para ", 
+			"ponerme de pie se me escapaban..." 
+        ],	 
+        "7": [ 
+            "\\{\"Uooohhhh—\" \\w[60]" 
+        ], 
+        "8": [ 
+            "No puedo…", 
+			"Simplemente no para..." 
+        ], 
+        "9": [ 
+            "\\nl< >\"\\str[121]… ¿sigues ahí dentro?\"" 
+        ], 
+        "10": [ 
+            "\\nl< >\"U-um... en realidad...", 
+			"También necesito usar el baño...\"" 
+        ], 
+        "11":[ 
+            "\\{\"Gwoooaaahhh—\" \\w[60]" 
+        ],	 
+        "12": [ 
+            "\\{\"N-todavía no—", 
+			"¡Todavía... no puedo salir—!\"" 
+        ], 
+        "13": [ 
+            "\\nl< >\"Eh... ya han pasado otros diez minutos...\\w[120]", 
+			"Yo... realmente necesito ir también...\"" 
+        ],	 
+        "14": [ 
+            "\"¡Uwooaaahhhh—!",
+			"¡N-no parará—!\"" 
+        ], 
+        "15": [ 
+            "\\nl< >\"\\str[121]... ya está...\"" 
+        ],	 
+        "16": [ 
+            "\"Uwooaaaaooooqaswdectfrvtghunijopioijoh——!\"" 
+        ], 
+        "17": [ 
+            "\\nl< >\"Uwaaaahhh——!", 
+			"¡No puedo aguantar más...!\"" 
+        ], 
+        "18": [ 
+            "\"Uwaaaaahhhhhhh——!\"", 
+			"\"Uwooooohhhhhhh——!\"" 
+        ], 
+        "19": [ 
+            "Esa noche, de una casa oscura", 
+			"llegaron los rugidos agonizantes de una bestia salvaje", 
+			"entremezclados con gritos que provocaban rubor", 
+			"y gemidos indescriptibles." 
+        ],	 
+        "20": [ 
+            "A veces bajos como los de una bestia moribunda lucha,", 
+			"a veces agudo como el grito de una niña tímida,", 
+			"se fundieron en una", 
+			"sinfonía caótica y ambigua." 
+        ],	 
+        "21": [ 
+            "Mientras tanto, en lo profundo de la noche lejana,", 
+			"incluso los aventureros que seguían luchando al", 
+			"borde del abismo se estremecieron, " ,
+			"haciendo una pausa instintiva con las espadas en la mano, ", 
+			"intercambiando miradas, preguntándose brevemente,", 
+			"si en algún lugar entre las sombras,", 
+			"había nacido una nueva y, criatura abisal desconocida."
+        ]
+    }
+		
+}	

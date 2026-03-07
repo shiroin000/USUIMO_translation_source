@@ -1,0 +1,402 @@
+{
+  "imoutoAhoge": {
+    "0": [
+      "J'ai accidentellement arraché l'ahoge de \\str[120]."
+    ],
+    "1": [
+      "Elle ne semblait rien remarquer d'inhabituel,",
+      "et il a repoussé rapidement.",
+      "...Pourrait-il s'agir d'une sorte de ressource renouvelable?"
+    ],
+    "2": [
+      "\\nl< >...Qu'est-ce qui ne va pas, \\str[121]?",
+      "Tu as l'air vraiment sérieux."
+    ],
+    "3": [
+      "Comme cela semble compliqué,",
+      "Je ferais mieux de ne pas trop y penser."
+    ],
+    "4": [
+      "Il vaut mieux ne plus y toucher..."
+    ],
+    "5": [
+      "\\nl< >...J'ai un peu de démangeaisons à la tête. \\w[30]",
+      "As-tu fait quelque chose, \\str[121]?"
+    ],
+    "6": [
+      "Je-je n'ai rien fait… Je le pense!"
+    ]
+  },
+  "cookingSystem": {
+    "0": [
+      "\\ii[\\v[\\v[85]]]est prêt. Que dois-je faire?"
+    ],
+    "1": [
+      "Échangez-le",
+      "Supprime-le"
+    ],
+    "2": [
+      "Je suis toujours en train de choisir les ingrédients!!"
+    ]
+  },
+  "inventoryExpansion": {
+    "0": [
+      "Il semble que l'utilisation de \\ii[312]",
+      "peut augmenter la capacité du sac à dos..."
+    ],
+    "1": [
+      "Développer les emplacements d'armes",
+      "Développer les emplacements d'équipement",
+      "Pas grave"
+    ],
+    "2": [
+      "La quantité de \\ii[312]",
+      "semble insuffisant..."
+    ]
+  },
+  "loadingEasterEgg": {
+    "0": [
+      "\\nl< >Le steak de Hambourg est le plat le plus délicieux.\" \\w[180] \\^"
+    ],
+    "1": [
+      "\\nl< >\\str[121] va sûrement revenir",
+      "avec une montagne de viande pour \\str[120]...\" \\w[360] \\^"
+    ],
+    "2": [
+      "Ma sœur semble dire quelque chose..."
+    ],
+    "3": [
+      "\\nl< >Mais les poivrons verts sont l'ennemi. \\w[120]",
+      "\\str[121], tu dois tous les manger… \\w[120]",
+      "Il faut vaincre l'ennemi vert~!\" \\w[120]\\^"
+    ],
+    "4": [
+      "\\nl< >Ah, tu es réveillé… \\w[60]",
+      "\\str[121], as-tu bien dormi?"
+    ],
+    "5": [
+      "Pas vraiment… Au fait,",
+      "J'ai cru entendre des bruits étranges.",
+      "for a while now…\""
+    ],
+    "6": [
+      "\\nl< >Eh hehe, c'était mon \\w[60]",
+      "service de sommeil spécial pour toi, \\str[121]!"
+    ],
+    "7": [
+      "\\nl< >Ma sœur est si mignonne... \\w[120]",
+      "C'est celle que j'aime le plus au monde... \\w[210]",
+      "Ma sœur est———— \\w[150]\\^"
+    ],
+    "8": [
+      "Ma sœur semble dire quelque chose..."
+    ],
+    "9": [
+      "\\nl< >Ah, \\str[121]! Bonsoir—!"
+    ],
+    "10": [
+      "\\nl< >Euh... Tu as entendu tout ce que je viens de dire?"
+    ],
+    "11": [
+      "\\nl< >\\str[121], ton visage endormi",
+      "c'était tellement drôle tout à l'heure~"
+    ],
+    "12": [
+      "\\nl< >C'est rare de te voir t'assoupir~"
+    ]
+  },
+  "rubberDuck": {
+    "0": [
+      "Un canard en caoutchouc solitaire",
+      "flotte sur l'eau..."
+    ],
+    "1": [
+      "Ramasse-le",
+      "Laisse-le tranquille"
+    ],
+    "2": [
+      "Quelqu'un a-t-il jeté ça?",
+      "Ça a l'air un peu triste, hein…"
+    ],
+    "3": [
+      "À bien y penser…",
+      "Moi aussi, j'ai été emporté par le courant en amont..."
+    ],
+    "4": [
+      "Si je ramène ça à la maison...",
+      "Ma sœur serait-elle heureuse?"
+    ],
+    "5": [
+      "Mais ça a l'air un peu sale,",
+      "alors peut-être que je devrais juste le laisser..."
+    ]
+  },
+  "drowning": {
+    "0": [
+      "Ahhh... c'était proche...",
+      "J'ai glissé de la berge et j'ai failli me noyer!"
+    ]
+  },
+  "erohon": {
+    "0": [
+      "(Il y a encore des gens ou des monstres à proximité...",
+      "(il vaut mieux ne pas sortir ce livre.)"
+    ]
+  },
+  "ninja": {
+    "0": [
+      "Je n'arrive pas à croire qu'il existe une pièce secrète artificielle dans un endroit comme celui-ci.",
+      "Qui aurait pu la construire…?"
+    ],
+    "1": [
+      "Ouah…!?",
+      "Il y a même une fille évanouie ici…"
+    ],
+    "2": [
+      "Maintenant que j'y pense, j'entends des grondements étranges…",
+      "Était-ce son estomac qui faisait ces bruits…?"
+    ],
+    "3": [
+      "Pouah…",
+      "Tellement faim…"
+    ],
+    "4": [
+      "…………",
+      "Est-ce qu'elle a tellement faim qu'elle est à peine consciente…?"
+    ],
+    "5": [
+      "Il y a un feu de camp ici, parfait.",
+      "Je vais lui préparer quelque chose à manger!"
+    ],
+    "6": [
+      "Dois-je simplement utiliser \\ii[\\v[90]]",
+      "et préparer quelque chose de simple?"
+    ],
+    "7": [
+      "Faisons-le!",
+      "…Pas grave."
+    ],
+    "8": [
+      "Hmm… Je devrais peut-être échanger",
+      "pour de meilleurs ingrédients…"
+    ],
+    "9": [
+      "Hé~ Je t'ai préparé de la nourriture chaude!",
+      "Penses-tu que tu peux manger?"
+    ],
+    "10": [
+      "Renifle, renifle… renifle, renifle…",
+      "Cette odeur… est-ce de la nourriture?"
+    ],
+    "11": [
+      "L'odeur de la nourriture!!"
+    ],
+    "12": [
+      "\\{Très bien, je creuse!!"
+    ],
+    "13": [
+      "Toi… toi le petit…",
+      "Je l'ai fait, tu sais..."
+    ],
+    "14": [
+      "(Elle l'a fini en quelques bouchées...",
+      "Elle devait vraiment mourir de faim…)"
+    ],
+    "15": [
+      "Mange, mange… Tu m'as totalement sauvé!",
+      "Je n'ai pas mangé depuis des jours… morveux morveux…"
+    ],
+    "16": [
+      "Je pensais que j'allais me transformer en un fantôme affamé",
+      "hante ce donjon… Grrrr…"
+    ],
+    "17": [
+      "Hé… mange juste un peu plus lentement… Au fait,",
+      "pourquoi es-tu seul ici dans un endroit comme celui-ci?"
+    ],
+    "18": [
+      "Ah! Alors…!",
+      "Je travaillais sérieusement sur ma mission, ok!"
+    ],
+    "19": [
+      "Je voulais chercher le trésor caché dans cette zone,",
+      "alors j'ai creusé une pièce secrète dans un endroit isolé!"
+    ],
+    "20": [
+      "Mais alors… morpion morpion.",
+      "Après être entré, l'entrée a été bloquée par une pierre tombale!"
+    ],
+    "21": [
+      "Ugh, je ne m'attendais vraiment pas à ça,",
+      "alors mes rations se sont épuisées très vite… et puis…"
+    ],
+    "22": [
+      "Un ninja qui se retrouve dans un tel pétrin…",
+      "Je ne peux pas faire face à l'organisation maintenant…"
+    ],
+    "23": [
+      "Hein… hein? Mais pourquoi as-tu même",
+      "creuser une pièce secrète en premier lieu…"
+    ],
+    "24": [
+      "Parce que ce trésor n'apparaît pas toujours,",
+      "alors il fallait que je sois prête pour un long séjour… boum boum."
+    ],
+    "25": [
+      "De plus, je ne peux laisser personne d'autre être au courant de cela.,",
+      "c'est une mission super secrète directement du boss!"
+    ],
+    "26": [
+      "Si quelqu'un d'autre le découvre…",
+      "Que pensez-vous qu'il va se passer…"
+    ],
+    "27": [
+      "Bien sûr, je devrais m'en occuper discrètement…",
+      "sinon, je serais un ninja raté… boum boum."
+    ],
+    "28": [
+      "…Attends, quoi?!",
+      "Je viens de divulguer des informations!"
+    ],
+    "29": [
+      "Euh… Je promets que je ne dirai rien…",
+      "alors, euh…"
+    ],
+    "30": [
+      "…Hein!?"
+    ],
+    "31": [
+      "Je n'arrive pas à croire que j'ai encore fait une telle erreur…",
+      "Ugh… même si tu m'avais sauvé…"
+    ],
+    "32": [
+      "A-attends une seconde!",
+      "Tu vas me tuer juste pour ça!?"
+    ],
+    "33": [
+      "C'est ça être un ninja…",
+      "Il faut se battre pour survivre…"
+    ],
+    "34": [
+      "Je veux dire, je ne veux pas vraiment te faire de mal non plus,",
+      "mais je te dois encore un repas…"
+    ],
+    "35": [
+      "Si c'est comme ça—",
+      "\\^"
+    ],
+    "36": [
+      "Alors il n'y a qu'une seule réponse :",
+      "Toi aussi, tu dois devenir un ninja!"
+    ],
+    "37": [
+      "Si vous rejoignez notre groupe,",
+      "il n'y a aucune raison pour que nous nous battions les uns contre les autres!"
+    ],
+    "38": [
+      "A-attends une seconde!",
+      "Je n'ai pas vraiment le choix ici, n'est-ce pas!?"
+    ],
+    "39": [
+      "C'est bien,",
+      "Je serai doux…"
+    ],
+    "40": [
+      "C'est bon",
+      "Reste loin de moi!!"
+    ],
+    "41": [
+      "Tu as vraiment un don pour ce truc de ninja…!",
+      "Tu avez tout appris avec juste un peu de pratique!"
+    ],
+    "42": [
+      "Maintenant,",
+      "tu es l'un des nôtres aussi!"
+    ],
+    "43": [
+      "Mais je devrai attendre que ma mission soit terminée.",
+      "avant que je puisse te présenter au patron!"
+    ],
+    "44": [
+      "À ce point,",
+      "plus rien n'a vraiment d'importance…"
+    ]
+  },
+  "autoUpdateReminder": {
+    "0": [
+      "Le processus de mise à jour démarrera automatiquement lorsque vous vous réveillerez le lendemain..",
+      "Veuillez vous assurer que votre connexion Internet est stable tout au long du processus !",
+      "\\w[120]"
+    ],
+    "1": [
+      "Impossible d'afficher le journal des mises à jour !",
+      "La connexion réseau a peut-être échoué !",
+      "\\w[120]"
+    ]
+  },
+  "maidBunnyBoss": {
+    "0": [
+      "Il n'y a vraiment rien de spécial devant nous !",
+      "Il n'est donc pas nécessaire d'aller vérifie usa"
+    ],
+    "1": [
+      "I-Il n'y a rien ici, vraiment ! N-Ne vous approchez pas !",
+      "J-Je te jure qu'il n'y a absolument rien de caché ici usa"
+    ],
+    "2": [
+      "...Usa?",
+      "C'est quoi ce bruit bizarre ?"
+    ],
+    "3": [
+      "...Usa!?",
+      "Comment as tu trouvé cet endroit ?"
+    ],
+    "4": [
+      "...Usa!?",
+      "Un humain...!!"
+    ],
+    "5": [
+      "Usaaaa, bâtard—                        \\w[45]",
+      "\\{Tu es là pour voler mes carottes ?!       \\w[60]\\^"
+    ],
+    "6": [
+      "Usa!? Mes carottes !!         \\w[45]",
+      "\\{Un voleur de carottes !!         \\w[60]\\^"
+    ]
+  },
+  "noBombFishing": {
+    "0": [
+      "La pêche à la bombe est strictement interdite !",
+      "Faites-le à vos risques et périls !"
+    ]
+  },
+  "PhilosophersFragment": {
+    "title": [
+      "Fragment de pierre philosophale"
+    ],
+    "description5": [
+      "Un fragment spécial obtenu auprès de la Bête rouge",
+      "Si divers fragments peuvent être collectés",
+      "cela pourrait aider à améliorer l'état de ${}."
+    ],
+    "description56": [
+      "Un fragment spécial obtenu auprès de la Maid Bunny",
+      "Si divers fragments peuvent être collectés",
+      "cela pourrait aider à améliorer l'état de ${}."
+    ]
+  },
+  "mecha": {
+    "0": [
+      "Un étrange robot, recouvert depuis longtemps de poussière, se tient ici...",
+      "Il ne répond pas, même lorsqu'on le touche."
+    ],
+    "1": [
+      "Huh...?",
+      "Il y a quelque chose ici ?"
+    ],
+    "2": [
+      "Une pièce détachée ?",
+      "On dirait qu'il pourrait encore être activé..."
+    ]
+  }
+}

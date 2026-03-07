@@ -1,0 +1,724 @@
+﻿{
+  "3": {
+    "name": [],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "variants": {
+      "0": {
+        "subtitle": [
+          "Merasa gelisah..."
+        ],
+        "description": [
+          "Tingkat Kegembiraan:\\c[2]\\v[25]%\\c[0]"
+        ]
+      },
+      "1": {
+        "subtitle": [
+          "Tubuh haus akan sensasi..."
+        ],
+        "description": [
+          "Tingkat Kegembiraan:\\c[10]\\v[25]%\\c[0]"
+        ]
+      },
+      "2": {
+        "subtitle": [
+          "Kehilangan kendali...!"
+        ],
+        "description": [
+          "Tingkat Kegembiraan:\\c[18]\\v[25]%\\c[0]"
+        ]
+      }
+    }
+  },
+  "4": {
+    "name": [],
+    "subtitle": [
+      "UWEO...!"
+    ],
+    "description": [
+      "Melesat menjadi Binatang yang gila nafsu!  Tingkat Kegembiraan::\\c[18]???%\\c[0]"
+    ]
+  },
+  "5": {
+    "name": [],
+    "subtitle": [
+      "Racun telah menginfeksi tubuh Anda"
+    ],
+    "description": [
+      "Menerima lebih banyak kerusakan seiring waktu!"
+    ]
+  },
+  "6": {
+    "name": [],
+    "subtitle": [
+      "Pendarahannya tidak berhenti"
+    ],
+    "description": [
+      "Menerima kerusakan berdasarkan HP maksimal!"
+    ]
+  },
+  "7": {
+    "name": [],
+    "subtitle": [
+      "Lihat, dia tersambar petir!"
+    ],
+    "description": [
+      "Lumpuh total—tidak bisa bergerak sama sekali!"
+    ]
+  },
+  "8": {
+    "name": [],
+    "subtitle": [
+      "Panas, panas, panas, panas—!"
+    ],
+    "description": [
+      "Menerapkan pembakaran terus menerus ke semua unit dalam jangkauan!"
+    ]
+  },
+  "9": {
+    "name": [],
+    "subtitle": [
+      "Berubah menjadi es pop!"
+    ],
+    "description": [
+      "Beku padat!"
+    ]
+  },
+  "11": {
+    "name": [],
+    "subtitle": [
+      "Pusing dan disorientasi!"
+    ],
+    "description": [
+      "Tidak dapat bertindak!"
+    ]
+  },
+  "13": {
+    "name": [],
+    "subtitle": [
+      "Fufu, ini yang kamu dapat karena menantangku~♥"
+    ],
+    "description": [
+      "Dikutuk oleh iblis kecil itu..."
+    ]
+  },
+  "14": {
+    "name": [],
+    "subtitle": [
+      "Panas sekali..."
+    ],
+    "description": [
+      "merasa lemas karena kepanasan..."
+    ]
+  },
+  "15": {
+    "name": [],
+    "subtitle": [
+      "Di mata monster, kamu hanyalah bayi prematur yang menyedihkan dan jelek…"
+    ],
+    "description": [
+      "Menyamar sebagai monster – monster tidak akan menyerang Anda secara aktif!"
+    ]
+  },
+  "16": {
+    "name": [],
+    "subtitle": [
+      "Anda bahkan tidak bisa memainkan permainan sederhana seperti itu? Sungguh ZAKO~"
+    ],
+    "description": [
+      "Disertifikasi sebagai ZAKO untuk kecurangan!"
+    ]
+  },
+  "28": {
+    "name": [],
+    "subtitle": [
+      "Permainan"
+    ],
+    "description": [
+      ""
+    ],
+    "variants": {
+      "0": {
+        "description": [
+          "Dia sangat fokus pada permainannya,",
+          "Sebaiknya jangan terlalu mengganggunya..."
+        ]
+      },
+      "1": {
+        "description": [
+          "Dia masih bermain...",
+          "Haruskah aku menggodanya sedikit?"
+        ]
+      }
+    }
+  },
+  "29": {
+    "name": [],
+    "subtitle": [
+      "Mandi"
+    ],
+    "description": [
+      ""
+    ],
+    "variants": {
+      "0": {
+        "description": [
+          "\\str[120] sedang mandi— aku bisa",
+          "samar-samar melihat siluetnya"
+        ]
+      },
+      "1": {
+        "description": [
+          "\\str[120] sedang mengeringkan rambutnya",
+          "dengan handuk"
+        ]
+      }
+    }
+  },
+  "30": {
+    "name": [],
+    "subtitle": [
+      "Beristirahat"
+    ],
+    "description": [
+      ""
+    ],
+    "variants": {
+      "0": {
+        "description": [
+          "\\str[120] terlihat sangat senang,",
+          "Ada hal menarik yang terjadi?"
+        ]
+      },
+      "1": {
+        "description": [
+          "\\str[120] semakin manis",
+          "Mungkin beri dia tepukan!"
+        ]
+      },
+      "2": {
+        "description": [
+          "\\str[120] baru saja duduk",
+          "di sana. Cobalah berbicara dengannya…"
+        ]
+      },
+      "3": {
+        "description": [
+          "\\str[120] terlihat agak sedih",
+          "Mungkin mencoba menghiburnya?"
+        ]
+      },
+      "4": {
+        "description": [
+          "\\str[120] sepertinya agak melenceng",
+          "Ingin tahu apa yang bisa dilakukan…"
+        ]
+      },
+      "5": {
+        "description": [
+          "\\str[120] terlihat mengantuk",
+          "Mungkin sudah waktunya tidur?"
+        ]
+      }
+    }
+  },
+  "31": {
+    "name": [],
+    "subtitle": [
+      "Sedang tidur"
+    ],
+    "description": [
+      ""
+    ],
+    "variants": {
+      "0": {
+        "description": [
+          "Tidur seperti tanaman…",
+          "tidak dapat dibangunkan…"
+        ]
+      },
+      "1": {
+        "description": [
+          "Tertidur nyenyak…",
+          "Sepertinya sulit untuk membangunkannya"
+        ]
+      },
+      "2": {
+        "description": [
+          "Tidur nyenyak,",
+          "benar-benar tenggelam dalam mimpinya…"
+        ]
+      },
+      "3": {
+        "description": [
+          "Bulu matanya bergerak-gerak",
+          "seolah bergumam dalam mimpi"
+        ]
+      },
+      "4": {
+        "description": [
+          "Dia tampak setengah sadar",
+          "bergumam secara tidak sengaja"
+        ]
+      },
+      "5": {
+        "description": [
+          "\\str[120] hampir bangun",
+          "tapi indranya masih kabur"
+        ]
+      }
+    }
+  },
+  "32": {
+    "name": [],
+    "subtitle": [
+      "Lapar"
+    ],
+    "description": [
+      ""
+    ],
+    "variants": {
+      "0": {
+        "description": [
+          "\\str[120] diam-diam menunggu",
+          "untuk makan malam"
+        ]
+      },
+      "1": {
+        "description": [
+          "\\str[120] sepertinya agak khawatir",
+          "tentang rasa makan malam…"
+        ]
+      },
+      "2": {
+        "description": [
+          "\\str[120] sepertinya",
+          "dia ingin membantu"
+        ]
+      }
+    }
+  },
+  "33": {
+    "name": [],
+    "subtitle": [
+      "Santai"
+    ],
+    "description": [
+      ""
+    ],
+    "variants": {
+      "0": {
+        "description": [
+          "\\str[120] menjilati es lolinya…",
+          "terlihat terlalu tak berdaya..."
+        ]
+      }
+    }
+  },
+  "34": {
+    "name": [],
+    "subtitle": [
+      "Penyikatan"
+    ],
+    "description": [
+      ""
+    ],
+    "variants": {
+      "0": {
+        "description": [
+          "\\str[120] dengan malas menyikat giginya",
+          "masih tampak setengah tertidur..."
+        ]
+      }
+    }
+  },
+  "35": {
+    "name": [],
+    "subtitle": [],
+    "description": [
+      "✦(Terasa seperti badan",
+      "menjadi sangat ringan...)"
+    ]
+  },
+  "36": {
+    "name": [],
+    "subtitle": [],
+    "description": [
+      "✦pikiran mulai mengendur—"
+    ]
+  },
+  "40": {
+    "name": [],
+    "subtitle": [
+      "Menangis"
+    ],
+    "description": [
+      ""
+    ],
+    "variants": {
+      "0": {
+        "description": [
+          "\\c[10]Dia makan terlalu banyak makanan pedas..."
+        ]
+      }
+    }
+  },
+  "41": {
+    "name": [],
+    "subtitle": [],
+    "description": [
+      "✦Puas setelah makan,",
+      "\\str[120] terasa senang!"
+    ]
+  },
+  "45": {
+    "name": [],
+    "subtitle": [
+      "Aku berjanji pada adikku tersayang, jadi aku harus menepatinya"
+    ],
+    "description": [
+      "Jangan pulang dengan luka parah…"
+    ]
+  },
+  "46": {
+    "name": [],
+    "subtitle": [
+      "Aku berjanji pada adikku tersayang, jadi aku harus menepatinya"
+    ],
+    "description": [
+      "Masak hidangan daging"
+    ]
+  },
+  "55": {
+    "name": [],
+    "subtitle": [
+      "Ini domainku, jadi tidak boleh ada kerusakan~♥"
+    ],
+    "description": [
+      "Serangan dilarang! Monster di sekitar dipenuhi rasa takut!"
+    ]
+  },
+  "57": {
+    "name": [],
+    "subtitle": [
+      "Saya merasa bisa melakukan apa pun saat ini"
+    ],
+    "description": [
+      "Sage Mode diaktifkan, semua statistik meningkat"
+    ]
+  },
+  "58": {
+    "name": [],
+    "subtitle": [
+      "Makan sesuatu yang buruk..."
+    ],
+    "description": [
+      "Sakit perut tidak mau berhenti!"
+    ]
+  },
+  "59": {
+    "name": [],
+    "subtitle": [],
+    "description": [
+      "...Lupa sesuatu yang penting? Mungkin itu akan kembali lagi nanti."
+    ]
+  },
+  "60": {
+    "name": [],
+    "subtitle": [],
+    "description": [
+      "Mengeluarkan bau busuk terus-menerus..."
+    ]
+  },
+  "61": {
+    "name": [],
+    "subtitle": [
+      "Bokongku terbakar..."
+    ],
+    "description": [
+      "Tidak bisa lari atau lari karena sakit pantat!"
+    ]
+  },
+  "62": {
+    "name": [],
+    "subtitle": [],
+    "description": [
+      "Fokus untuk serangan berikutnya, kecepatan gerakan berkurang"
+    ]
+  },
+  "63": {
+    "name": [],
+    "subtitle": [
+      "Kecepatan tiga kali lipat True Red"
+    ],
+    "description": [
+      ""
+    ]
+  },
+  "64": {
+    "name": [],
+    "subtitle": [],
+    "description": [
+      "Senpo sedang cooldown!"
+    ]
+  },
+  "65": {
+    "name": [],
+    "subtitle": [],
+    "description": [
+      "Merasa pusing..."
+    ]
+  },
+  "67": {
+    "name": [],
+    "subtitle": [],
+    "description": [
+      "Mengambang di atas air. Gerakan melambat, tidak bisa menyerang!"
+    ]
+  },
+  "68": {
+    "name": [],
+    "subtitle": [],
+    "description": [
+      "Mengucapkan mantra!"
+    ]
+  },
+  "71": {
+    "name": [],
+    "subtitle": [
+      "Makan sesuatu yang lezat—hangat dan nyaman di dalam~"
+    ],
+    "description": [
+      "Memulihkan sejumlah kecil kesehatan setiap detik"
+    ]
+  },
+  "72": {
+    "name": [],
+    "subtitle": [
+      "Kekuatan... melonjak melalui diriku!"
+    ],
+    "description": [
+      "Kekuatan serangan\\c[10]+50%\\c[0]"
+    ]
+  },
+  "73": {
+    "name": [],
+    "subtitle": [
+      "Aku mulai memahami segalanya"
+    ],
+    "description": [
+      "Kekuatan serangan sihir\\c[10]+50%\\c[0]"
+    ]
+  },
+  "74": {
+    "name": [],
+    "subtitle": [
+      "Bisakah kamu mengimbangi... dengan KECEPATANku?!"
+    ],
+    "description": [
+      "Kecepatan gerakan meningkat"
+    ]
+  },
+  "75": {
+    "name": [],
+    "subtitle": [
+      "Keturunan Senjata Ilahi"
+    ],
+    "description": [
+      "Senjata Gigantify, Peningkatan Kerusakan!"
+    ]
+  },
+  "77": {
+    "name": [],
+    "subtitle": [
+      "Api Kelahiran Kembali"
+    ],
+    "description": [
+      "Memungkinkan satu kebangkitan saat efeknya aktif"
+    ]
+  },
+  "78": {
+    "name": [],
+    "subtitle": [
+      "Putaran Takdir..."
+    ],
+    "description": [
+      "Diberkati oleh takdir—hal-hal baik lebih mungkin terjadi!"
+    ]
+  },
+  "79": {
+    "name": [],
+    "subtitle": [
+      "Putaran Takdir..."
+    ],
+    "description": [
+      "Diberkati oleh takdir—hal-hal menyedihkan lebih mungkin terjadi!"
+    ]
+  },
+  "80": {
+    "name": [],
+    "subtitle": [
+      "Kecepatan tiga kali lipat True Red"
+    ],
+    "description": [
+      ""
+    ]
+  },
+  "85": {
+    "name": [],
+    "subtitle": [
+      "Tapi rasanya benar-benar tidak enak..."
+    ],
+    "description": [
+      "Penuh dengan vitalitas—HP maksimal meningkat!"
+    ]
+  },
+  "86": {
+    "name": [],
+    "subtitle": [
+      "MASALAH KETERAMPILAN"
+    ],
+    "description": [
+      "Anda telah diejek tanpa ampun! Pertahanan dan keberuntungan sangat menurun!"
+    ]
+  },
+  "90": {
+    "name": [],
+    "subtitle": [
+      "Jangan memeriksa langsung, bodoh!?"
+    ],
+    "description": [
+      "Berada di semak-semak terasa aman… HP auto-regenerasi"
+    ]
+  },
+  "98": {
+    "name": [],
+    "subtitle": [
+      "Rasanya seperti adikku ada di sampingku..."
+    ],
+    "description": [
+      "Meregenerasi HP!"
+    ]
+  },
+  "99": {
+    "name": [],
+    "subtitle": [
+      "Kami adalah penjaganya!"
+    ],
+    "description": [
+      "Kekuatan serangan +30"
+    ]
+  },
+  "101": {
+    "name": [],
+    "subtitle": [
+      "LIHAT KE DALAM MATA JAHATKU, LIHAT SESUATU DI DALAM!"
+    ],
+    "description": [
+      "Menjadi tidak terlihat sebentar setiap \\v[221] detik!"
+    ]
+  },
+  "104": {
+    "name": [],
+    "subtitle": [
+      "Anda memancarkan kemuliaan!"
+    ],
+    "description": [
+      "Semua atribut meningkat, tak terkalahkan sementara"
+    ]
+  },
+  "105": {
+    "name": [],
+    "subtitle": [
+      "Bagikan berkat ini kepadamu"
+    ],
+    "description": [
+      "menggandakan uang yang diperoleh"
+    ]
+  },
+  "106": {
+    "name": [],
+    "subtitle": [
+      "Aku... aku tidak bisa mengangkatnya..."
+    ],
+    "description": [
+      "Kekuatannya tidak cukup untuk menggunakan senjata sepenuhnya!"
+    ]
+  },
+  "107": {
+    "name": [],
+    "subtitle": [
+      "Kami adalah penjaganya!"
+    ],
+    "description": [
+      "Kecepatan gerakan meningkat!"
+    ]
+  },
+  "108": {
+    "name": [],
+    "subtitle": [
+      "Kami adalah penjaganya!"
+    ],
+    "description": [
+      "Serangan dan pertahanan meningkat!"
+    ]
+  },
+  "109": {
+    "name": [],
+    "subtitle": [
+      "Kami adalah penjaganya!"
+    ],
+    "description": [
+      "Pertahanan meningkat!"
+    ]
+  },
+  "110": {
+    "name": [],
+    "subtitle": [
+      "Kami adalah penjaganya!"
+    ],
+    "description": [
+      "Max HP dan pertahanan meningkat!"
+    ]
+  },
+  "115": {
+    "name": [],
+    "subtitle": [
+      "Hati orang-orangan sawah yang abadi, namun pembusukan adalah takdir"
+    ],
+    "description": [
+      "Tidak ada pemulihan HP!"
+    ]
+  },
+  "116": {
+    "name": [],
+    "subtitle": [
+      "Keserakahan yang tak ada habisnya telah menemukanmu—"
+    ],
+    "description": [
+      "Jatuhkan uang yang ditahan saat menerima kerusakan!"
+    ]
+  },
+  "117": {
+    "name": [],
+    "subtitle": [
+      "Dengan demikian kamu akan memperoleh kemuliaan dunia, dan segala kegelapan akan lenyap"
+    ],
+    "description": [
+      ""
+    ]
+  },
+  "122": {
+    "name": [],
+    "subtitle": [
+      "Heh heh aku akan bertahan, aku bersumpah"
+    ],
+    "description": [
+      "Mengembalikan HP secara permanen secara otomatis"
+    ]
+  }
+}

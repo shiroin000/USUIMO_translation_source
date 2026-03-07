@@ -1,0 +1,75 @@
+{ 
+  "father": [	               
+            "Hombre" 
+    ], 
+  "2": { 
+        "0": [ 
+            "Un aire pesado y sofocante llenaba la habitación tenuemente iluminada." 
+		], 
+		"1": [ 
+            "\"Tos\\w[30]... tos, tos...\\w[30]\"" 
+        ], 
+        "2": [ 
+            "El hombre yacía débilmente en la cama", 
+            "la tela que lo cubría temblaba con sus ", 
+			"respiraciones superficiales, como si fuera a dejar de moverse ", 
+			"en cualquier momento." 
+        ], 
+        "3": [ 
+            "Incluso cuando era un niño ingenuo", 
+			"sentí instintivamente por ese cuerpo frágil ", 
+			"y rostro pálido que esto era lo que parecía ", 
+			"cuando una vida estaba a punto de quemarse." 
+        ], 
+        "4": [ 
+            "\"Probablemente lo pasarás mal después de esto...\"" 
+        ], 
+        "5": [ 
+            "Su voz era ronca y débil, cada palabra sonaba ", 
+			"como si drenara la poca vida que le quedaba", 
+			"dolorosamente forzada a salir de su garganta." 
+        ], 
+        "6": [ 
+            "\"Sé que esto no es algo que un padre debería decir... \\w[30]", 
+			"pero aún así espero que puedas prometerme—\"" 
+        ], 
+        "7": [ 
+            "\"…………?\"" 
+        ], 
+        "8": [ 
+            "Me quedé allí aturdido, ", 
+			"incapaz de procesar este repentino mensaje final, ", 
+			"mi mente completamente en blanco." 
+        ], 
+        "9": [ 
+            "Ah... estas eran palabras importantes, ", 
+			"y aun así no podía concentrarme en absoluto", 
+			"Solo podía mirar fijamente el rostro de mi padre ", 
+			"mientras la luz lo abandonaba lentamente." 
+        ],	 
+        "10": [ 
+            "\"…Por favor, cuida de ella, \\w[30]", 
+			"de ahora en adelante, trátala como tu ○○—" 
+        ],	 
+        "11": [ 
+            "Su voz se desvaneció como humo en el viento, ", 
+			"demasiado débil para terminar sus últimas palabras. ", 
+			"Lentamente giró la cabeza hacia", 
+			"un rincón sombreado de la habitación." 
+        ],	
+        "12": [ 
+            "Ese rincón estaba envuelto en densas sombras", 
+			"como si ocultara algo de gran importancia." 
+        ], 
+        "13": [ 
+            "Este hombre, que era a la vez mi padre y mi amo", 
+			"tomó su último aliento así como así.", 
+			"Sus ojos permanecieron abiertos",
+			"pero la luz de la vida ya los había abandonado." 
+        ], 
+        "14": [ 
+            "Inconscientemente, mis ojos también siguieron su mirada", 
+			"mirando hacia ese rincón misterioso—————" 
+        ]		 
+    } 
+}

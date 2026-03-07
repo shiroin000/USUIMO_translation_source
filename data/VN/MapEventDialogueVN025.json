@@ -1,0 +1,393 @@
+{
+    "2": {
+        "0": [
+            "\\nl< >\"\\str[121]... cố lên nhé...    \\w[90]",
+			"Chắc chắn anh sẽ khỏe lại thôi.\""
+		],
+        "1": [
+            "Liệu phẩm giá của tôi với tư cách là \\str[121] của em ấy sẽ ra sao..."
+		],
+        "2": [
+            "\\nl< >\"\\str[121]... đừng buồn.\""
+		],
+        "3": [
+            "\\nl< >\"\\{Trĩ\\}? Chắc là do thói quen xấu thôi...\""
+		],
+        "4": [
+            "Tệ thật. Hiểu lầm càng lúc càng nghiêm trọng—"
+		],
+        "5": [
+            "\"Đó là nguyên nhân anh không——\"",
+			"\\w[45]\\^"
+		],
+        "6": [
+            "\\nl< >\\{  \"Chẳng lẽ là chuyện nghiêm trọng hơn sao!?\"   "
+		],
+        "7": [
+            "\"Xin lỗi, chỉ là trĩ thôi.\""
+		],
+        "8": [
+            "Và vậy là lý do tôi ngồi lâu trong nhà vệ sinh ",
+			"chính thức được xác định..."
+		],
+        "9": [
+            "\\nl< >\"...Thì ra là táo bón thật sao?\""
+		],
+        "10": [
+            "Không ổn—",
+			"\\str[120] bắt đầu hiểu nhầm rồi."
+		],
+        "11": [
+            "\"Ôi \\str[120] ơi, \\str[121] của em ",
+			"chỉ đang suy nghĩ về những chuyện sâu xa thôi, biết chưa?\""
+		],
+        "12": [
+            "\\nl< >\"Hiểu rồi...! Thật tuyệt vời, \\str[121].\""
+		],
+        "13": [
+            "Tuyệt vời phải không? ",
+			"\\str[121] của em vừa tạm thời đạt tới cảnh giới hiền triết."
+		],
+        "14": [
+            "\"Dù sao đi nữa, bắt đầu nấu bữa tối thôi!\""
+		],
+        "15": [
+            "\\nl< >\"\\str[121], anh lại ngồi trong nhà vệ sinh lâu quá.\""
+		],
+        "16": [
+            "Không thể chối được... Tôi thật sự ở trong đó lâu thật..."
+		],
+        "17": [
+            "\"Ahem...! Hiện giờ chuyện đó không quan trọng,",
+			"nào, bắt đầu làm bữa tối thôi!\""
+		],
+        "18": [
+            "\\nl< >\"Thật đáng ngờ...\""
+		],
+        "19": [
+            "\\nl< >\"Anh chậm quá, \\str[121]! Anh bị táo bón à?!\""
+		],
+        "20": [
+            "\"Ahaha... không thể nào...\""
+		],
+        "21": [
+            "\"Em đói rồi đúng không? ",
+			"Được rồi, bắt đầu nấu bữa tối nào—!!\""
+		]
+    },
+    "3": {
+        "0": [
+            "\\nl< >\"\\str[121]... Anh vẫn còn ở đó, phải không?\""
+		],
+        "1": [
+            "\\nl< >\"Côn trùng thật đáng sợ, ",
+			"nhưng \\str[121] đã đến giúp em ngay lập tức.\""
+		],
+        "2": [
+            "\\nl< >\"Anh đến nhanh thật đấy,",
+			"giống như thể anh đang đợi sẵn ngay bên ngoài nhà vệ sinh vậy.\""
+		],
+        "3": [
+            "\\>\\{\"—Áck!\"",
+			"\\w[90]"
+		],
+        "4": [
+            "Bị cảm giác tội lỗi chiếm lấy,",
+			"Tôi mất tập trung một lúc, trượt chân và suýt ngã."
+		],
+        "5": [
+            "\\nl< >\"\\str[121]... anh có sao không!?\""
+		],
+        "6": [
+            "\"K-không sao, anh ổn mà! Anh chỉ chạy quá nhanh,",
+			"nên bị trẹo chân một chút thôi, ahaha...\""
+		],
+        "7": [
+            "Sau đó, tôi bằng cách nào đó cũng xoay sở để che giấu chuyện đó trước mặt \\str[120]."
+		],
+        "8": [
+            "\\nl< >\"\\str[121], thật là— lúc nãy anh trông ngầu lắm cơ...",
+			"vậy mà giờ lại trêu em nữa!\""
+		],
+        "9": [
+            "\\nl< >\"Nghĩ lại thì, lần này \\str[121] xuất hiện khá nhanh.",
+			"Đừng nói là anh đã đợi sẵn ở ngoài nhà vệ sinh nhé...?\""
+		],
+        "10": [
+            "\\nl< >\"Ugh, côn trùng thật sự đáng sợ...",
+			"Em mừng vì \\str[121] đã đến đúng lúc.\""
+		],
+        "11": [
+            "\"Đừng lo, ",
+			"anh sẽ luôn chạy đến bất cứ khi nào em gặp nguy hiểm!\""
+		],
+        "12": [
+            "\\nl< >\"Nhưng mà này, \\str[121]...",
+			"núp sẵn ở ngoài nhà vệ sinh ngay từ đầu,",
+			"như thế thì hơi bất cẩn đấy〜\""
+		],
+        "13": [
+            "\\nl< >\"Không được đâu nhé? ",
+			"Nhìn lén một cô gái khi cô ấy đang trong nhà vệ sinh~!\""
+		],
+        "14": [
+            "\\nl< >\"Vậy sao nào? ",
+			"Nhìn thấy một cô gái đang đi vệ sinh bằng ánh mắt dâm đãng của anh—",
+			"cảm giác thế nào hả?\""
+		],
+        "15": [
+            "\"Ahaha... vậy là anh bị phát hiện rồi sao...?\""
+		],
+        "16": [
+            "Mồ hôi lạnh chảy dọc sống lưng khi tôi nhìn nụ cười tinh nghịch của \\str[120].",
+			"Trong một khoảnh khắc, tôi tự hỏi liệu em ấy có thực sự tức giận không—",
+			"hay là... chính tôi mới là người đang bị em ấy trêu đùa..."
+		]
+    },
+    "4": {
+        "0": [
+            "Tôi muốn làm \\str[120] vui hơn một chút,",
+			"nhưng lại bị đuổi ra khỏi phòng.\""
+		],
+        "1": [
+            "Thôi được, chắc tôi sẽ đi ngủ trước—",
+			"mai sẽ nghĩ cách khác..."
+		]
+    },
+    "5": {	
+		"1": [
+            "\\nl< >\"...\\str[121]?",
+			"Chúng ta... đang đi đâu thế?\""
+        ],
+		"2": [
+            "Ngay lúc tôi định quay lại gác mái, ",
+			"chuyển động lắc lư đã khiến em ấy mơ màng mở mắt."
+        ],			
+		"3": [
+            "\"Ngoan nào, cũng muộn lắm rồi. ",
+			"Về phòng ngủ tiếp thôi.\""
+        ],		
+		"4": [
+            "\\nl< >\"Mmh... nhưng mà...          \\w[150]",
+			"Em vẫn chưa tắm nữa... người dính dính khó chịu lắm...\""
+        ],
+		"5": [
+            "\\nl< >\"Em ghét cái cảm giác này... dù mới đã mới rửa xong...   \\w[150]",
+			"Nhưng \\str[121]... lại làm em dính nhớp nháp...\""
+        ],
+		"6": [
+            "\"Chúng ta có thể tắm lại vào ban ngày mà, được không?\""
+        ],
+		"7": [
+            "\\nl< >\"Muu... nếu làm vậy thì...                   \\w[120]",
+			"Em sẽ không còn bị bao phủ bởi mùi hương của \\str[121] nữa...?      \\w[120]",
+            "Nó hơi hôi... nhưng đó là mùi của anh... Em thích nó... ♥\""
+        ],
+		"8": [
+            "\\str[120] lẩm bẩm phản đối trong cơn buồn ngủ. Trong chốc lát,",
+			"tôi cũng chẳng phân biệt được là em ấy thực sự ghét mùi đó hay không..."
+        ],
+		"9": [
+            "\\nl< >\"\\str[121]... đừng bỏ em lại...      \\w[120]",
+			"Tối nay... mình ngủ cùng nhau đi...\""
+        ],		
+		"10": [
+            "Những đầu ngón tay em ấy khẽ kéo lấy tay áo tôi, như một lời nài nỉ rất nhẹ nhàng,",
+			"phát ra trong giọng nói gần như sắp chìm sâu vào giấc ngủ."
+        ],	
+		"11": [
+            "Đương nhiên là tôi không thể từ chối yêu cầu hiếm hoi mang vẻ làm nũng của \\str[120],",
+			"Thế nhưng ngay khoảnh khắc tiếp theo, tôi lại vô thức quay đầu nhìn về ",
+			"căn phòng ở gần đó—căn phòng mà đã rất lâu rồi tôi chưa bước vào. ",
+			"Bao nhiêu suy nghĩ từng bị chôn giấu sâu trong tim bỗng chốc ùa về."
+        ],	
+		"12": [
+            "\"Ừ... Tối nay anh sẽ ở bên em...",
+			"cùng ngủ với nhau nhé...\""
+        ],	
+		"13": [
+            "Tôi khẽ dụi má vào khuôn mặt nhỏ nhắn của em ấy, ",
+			"Sau khi nghe em ấy phát ra một tiếng khẽ ngân nga thỏa mãn,",
+			"tôi liền bước thẳng về phía cánh cửa đóng chặt kia—"
+        ],	
+		"14": [
+            "Mở cánh cửa ra, ",
+			"một mùi hương thảo mộc ô-liu thanh mát nhẹ nhàng lan tỏa.",
+			"Căn phòng vốn thường để trống ấy lại sạch sẽ tinh tươm.",
+			"rõ ràng là em ấy chưa từng ngừng chăm chút nơi này."
+        ],	
+		"15": [
+            "Dù nơi đây chất chứa biết bao ký ức đau lòng…...",
+			"không hiểu vì sao, riêng đêm nay, ",
+			"tôi lại muốn cùng em ấy trải qua nó ở chính nơi này..."
+        ],	
+		"16": [
+            "\\nl< >\"Mmuu... nya...\""
+        ],	
+		"17": [
+            "Cảm nhận được mùi hương còn vương trên chiếc gối, cô ấy khẽ phát ra",
+			"một tiếng ngân nga dễ chịu. Được bao bọc trong làn hương ô-liu mát nhẹ ",
+			"nhàn nhạt ấy, em ấy dần chìm vào một giấc ngủ sâu và yên bình."
+        ],
+		"18": [
+            "\"Ngủ ngon nhé...",
+			"Không chỉ đêm nay, mà cả ngày mai, và mãi mãi về sau... Anh sẽ tìm ra cách ",
+			"để em có thể hoàn toàn khỏe mạnh trở lại...\""
+        ],
+		"19": [
+            "Ngôi nhà nhỏ bé này chính là cả thế giới của em ấy.",
+			"Bị tách biệt khỏi ánh nắng và không khí ngoài trời, không ai biết đến, ",
+			"cũng chẳng được thế giới chạm tới.",
+			" ",
+			"Em ấy thậm chí không thể bước ra ngoài dù chỉ một bước.",
+			"Và tôi là người duy nhất vẫn luôn ở bên cạnh em ấy."
+        ],
+		"20": [
+            "Cô gái ấy, người thường ngày chỉ quanh quẩn trên gác mái ",
+			"và tìm thấy niềm vui trong những trò chơi nhỏ bé, ",
+            "mỗi khi thỉnh thoảng nhìn ra ngoài khung cửa sổ, hướng ánh mắt về ",
+			"thế giới bên kia… rốt cuộc em ấy đang nghĩ gì trong lòng? "
+        ],
+		"21": [
+            "Ngay cả khi tôi sẵn sàng ở bên em ấy mãi mãi, thì trong mắt cô gái",
+			"bị nhốt trong chiếc lồng chim này cũng sẽ chỉ nghĩ rằng tôi đang bị",
+			"em ấy trói buộc, bị giam cầm vì em ấy mà thôi..",
+			" ",
+			"Chính vì vậy, tôi mới liều mạng tìm kiếm Elixir Rubrum, ",
+			"dù chẳng biết liệu nó có thực sự có tác dụng hay không..."
+        ],
+		"22": [
+			"Và giờ đây, khi tôi đã xác nhận được hiệu quả ",
+			"của thứ thuốc ấy, cuối cùng thì em ấy cũng có,",
+            "một niềm hy vọng rõ ràng... phải không?"
+        ],	
+		"23": [	
+            "...Nhưng còn tôi thì sao?",
+			"Nhân cơ hội này... buông xuôi trước dục vọng",
+			"của chính mình, chạm vào cơ thể của người thân yêu...,",
+			"rốt cuộc điều đó khiến tôi trở thành kẻ như thế nào...?"
+        ],	
+		"24": [	
+            "Nếu em ấy biết rằng '\\str[121] tuyệt vời' trong mắt em ấy",
+			"suốt thời gian qua thực chất vẫn luôn kìm nén những suy nghĩ bẩn thỉu, ",
+			"đáng khinh như thế… liệu em ấy có thất vọng, có vỡ mộng hay không?"
+        ],	
+		"25": [
+            "\"Lão già chết tiệt đó...     \\w[60]",
+			"tại sao ông lại phải gọi em ấy là “em gái” của tôi chứ...?\""
+        ],	
+		"26": [
+            "Tôi không kìm được mà lẩm bẩm một tiếng cười khẩy ",
+			"hướng về người đàn ông đã rời khỏi thế giới này từ lâu.",
+			"Nhưng rốt cuộc thì sự thật là gì đây…? Chuyện đó cứ để đến khi ",
+			"tôi tìm được nốt phần thuốc còn lại rồi hẵng tính vậy."
+        ],	
+		"27": [
+            "Bị ảnh hưởng bởi nhịp thở đều đặn, ",
+			"ấm áp của \\str[120] ngay bên cạnh,",
+			"ý thức của tôi dần trở nên mơ hồ.",
+			" ",
+			"Trong căn phòng yên tĩnh ngập tràn hương ô-liu ấy,",
+			"tôi siết chặt lấy em ấy và cứ như thế, ",
+			"cả hai cùng nhanh chóng chìm sâu vào một giấc mộng dài—"
+        ]	  
+    },
+    "6": {
+        "0": [
+            "Haa... may mà tôi không phải đội cái quần ",
+			"trước mặt \\str[120]...",
+			"Nhưng———"
+		],
+		"1": [
+            "\\{\"Ugh———\"  \\w[60]"
+        ],
+        "2": [
+            "Tệ hơn tôi nghĩ...",
+            "Đã hơn nửa tiếng rồi sao...?"
+        ],
+        "3": [
+            "Cảm giác như toàn thân bị rút hết sức lực...",
+            "Chắc chắn có gì đó không ổn ",
+			"với bữa tối rồi?"
+        ],
+        "4": [
+            "\\nl< >\"\\str[121]... anh có ổn không...?",
+			"Em nghe thấy... những âm thanh đáng sợ lắm...\""
+        ],
+        "5": [
+            "\"Ahaha... có lẽ anh bị ngộ độc thực phẩm rồi...",
+			"Đừng lại gần... ở đây nguy hiểm lắm...\""
+        ],	
+        "6": [
+            "Tôi nghe giọng lo lắng của \\str[120] từ ",
+			"bên ngoài cửa. Dù rất muốn ",
+			"ra khỏi đây nhanh, ngay cả sức để ",
+			"đứng cũng dần trượt khỏi tôi..."
+        ],	
+        "7": [
+            "\\{\"Uooohhhh—\"  \\w[60]"
+        ],
+        "8": [
+            "Mình không thể...",
+			"Nó cứ không dừng lại được..."
+        ],
+        "9": [
+            "\\nl< >\"\\str[121]... anh vẫn còn ở đó à?\""
+        ],
+        "10": [
+            "\\nl< >\"U-um... thực ra...",
+			"Em cũng cần phải vào nhà vệ sinh...\""
+        ],
+        "11": [
+            "\\{\"Gwoooaaahhh—\" \\w[60]"
+        ],	
+        "12": [
+            "\\{\"Ch-chưa xong—",
+			"Anh vẫn... chưa thể ra—!\""
+        ],
+        "13": [
+            "\\nl< >\"Eh... đã đứng ở đây được thêm mười phút nữa rồi đó...\\w[120]",
+			"Em... Em thật sự cũng cần phải đi...\""
+        ],	
+        "14": [
+            "\"Uwooaaahhhh—!",
+			"N-nó không ngừng—!\""
+        ],
+        "15": [
+            "\\nl< >\"\\str[121]... nó sắp tới rồi...\""
+        ],	
+        "16": [
+            "\"Uwooaaaaooooqaswdectfrvtghunijopioijoh——!\""
+        ],
+        "17": [
+            "\\nl< >\"Uwaaaahhh——!",
+			"Em không thể kiềm nén được nữa...!\""
+        ],
+        "18": [
+            "\"Uwaaaaahhhhhhh——!\"",
+			"\"Uwooooohhhhhhh——!\""
+        ],
+        "19": [
+            "Đêm đó, từ một căn nhà hẻo lánh,",
+			"phát ra tiếng gầm của một con quái thú,",
+			"trộn lẫn với tiếng rên rỉ ",
+			"và tiếng thở khó tả."
+        ],	
+        "20": [
+            "Đôi khi trầm như con quái thú sắp chết,",
+			"đôi khi chói tai như tiếng thét của một cô gái nhút nhát,",
+			"chúng hòa vào một bản giao hưởng hỗn loạn",
+			"và mơ hồ."
+        ],	
+        "21": [
+            "Trong khi đó, sâu vào màn đêm khuya xa xôi,",
+			"ngay cả những mạo hiểm giả vẫn chiến đấu ở ",
+			"tận rìa vực thẳm cũng cảm thấy rùng mình.",
+			"Bản năng khiến họ tạm dừng tay cầm kiếm,",
+			"giao nhau ánh mắt, thoáng chốc tự hỏi liệu đâu đó",
+			"trong bóng tối, một sinh vật vực thẳm mới ",
+			"chưa ai từng biết vừa được sinh ra."
+        ]
+    }
+		
+}

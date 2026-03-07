@@ -1,0 +1,244 @@
+{
+  "1": {
+        "0": [
+            "Hum, eu não consigo pegar no sono..."
+        ],
+        "1": [
+            "Meu estômago dói... Será que é indigestão?",
+            "Talvez eu tenha exagerado no jantar..."
+        ],
+        "2": [
+            "Ah, eu acordei de repente ...!"
+        ],
+        "3": [
+            "Ainda está no meio da noite.",
+            "Então eu posso dormir um pouco mais...\\w[30].\\w[30].\\w[30].",
+            "Deveria dar uma olhada na minha imouto?"
+        ],
+        "4": [
+            "Quarto da \\str[120]",
+            "Voltar a Dormir"
+        ],
+        "5": [
+            "Só vou dormir até o dia clarear...?"
+        ],
+        "6": [
+            "Dormir",
+            "Ainda Não"
+        ],
+        "7": [
+            "\"Ahhhhhhhhhhh—!!?\""
+        ],
+        "8": [
+            "Q-Que? Oh, acho que foi só um pesadelo..."
+        ],
+        "9": [
+            "Aquilo realmente me assustou... ",
+            "Eu acho que eu vi uma versão aterrorizante da \\str[120]."
+        ],
+        "10": [
+            "…Eu deveria ir checar a \\str[120].",
+            "E se aquele sonho—"
+        ],
+        "11": [
+            "É, aquele sonho foi muito assustador...",
+            "É melhor ir descansar mais cedo..."
+        ]
+  },
+  "2": {
+        "0": [
+            "\\c[10]—Requisição de atualização de dados da versão \\str[1].  \\w[60]",
+            "Você gostaria de executar essa atualização automática agora?"
+        ],
+        "1": [
+            "Atualizar",
+            "Não agora"
+        ],
+        "2": [
+            "...Já é de manhã? ",
+            "Eu sinto que eu tive um tipo de sonho sobre a ",
+            "\\str[120] mas eu não consigo lembrar...",
+            "mas não consigo lembrar dele..."
+        ],
+        "3": [
+            "...Já é de manhã? ",
+            "Acho que não dormi muito bem..."
+        ],
+        "4": [
+            "Ah, já é manhã? Eu dormi tão bem."
+        ],
+        "5": [
+            "Hoje está um dia lindo...\\w[45]huh? ",
+            "Parece que a luz do sol está um pouco mais intensa?"
+        ],
+        "6": [
+            "Hoje está um dia lindo."
+        ],
+        "7": [
+            "O tempo não parece muito bom hoje."
+        ],
+        "8": [
+            "Tá chovendo? ",
+            "Espero que isso não afete nossa aventura..."
+        ],
+        "9": [
+            "Faz alguns dias que não dou uma olhada na minha irmã… ",
+            "Acho que devo dar uma passada lá hoje."
+        ],
+        "10": [
+            "Ok, estou acordado. Qual o plano para hoje—"
+        ],
+        "11": [
+            "Ver a \\str[120]",
+            "Sair Agora"
+        ],
+        "12": [
+            "Certo, vamos dar uma olhada na \\str[120]!"
+        ],
+        "13": [
+            "Certo, hora de botar tudo em ordem ",
+            "e partir para uma aventura!"
+        ]
+  },
+  "3": {
+        "0": [
+            "Minha mente limpa lentamente... ",
+            "Finalmente me dei conta de que não estou no meu quarto.",
+            "Algo quente e macio está pressionado contra mim, ",
+            "sua respiração está suave e gentil."
+        ],
+        "1": [
+            "É apenas \\str[120]...",
+            "As memórias começam a voltar— \\w[120]",
+            "Certo, nos dois estavam entrelaçados ",
+            "até tarde da noite..."
+        ],
+        "2": [
+            "Olhando para o seu rostinho indefeso enquanto dorme. ",
+            "ainda com um leve rubor do brilho residual da noite passada,",
+            "Eu não consigo me controlar e a tocar, meus dedos afundando suavemente ",
+            "em seu cabelo, liso como seda."
+        ],
+        "3": [
+            "\\nl< >\"Mmm... mmn... ♥\""
+        ],
+        "4": [
+            "Como se percebendo o afeto, ela solta um suspiro, ",
+            "som de satisfação, inconscientemente aconchegando-se na minha palma."
+        ],
+        "5": [
+            "\"Já amanheceu. Vamos levantar?\""
+        ],
+        "6": [
+            "Eu acaricio levemente o ombro dela, ",
+            "tentando acordá-la do seu sono."
+        ],
+        "6.5": [
+            "\\nl< >\".............. Nnn.\""
+        ],
+        "7": [
+            "Depois que seus longos cílios tremulam algumas vezes, ",
+            "ela finalmente abre os olhos lentamente.",
+            " ",
+            " ",
+            "Ela encara o vazio por um instante, com o olhar perdido,",
+            "então inclina a cabeça para olhar para mim ao lado dela, ",
+            "suas pupilas estavam cheias de sono."
+        ],
+        "8": [
+            "\\nl< >\"Eh... \\str[121]...?",
+            "Por quê... você também está na cama...?\""
+        ],
+        "9": [
+            "Parece que o cérebro dela ainda não terminou de iniciar. ",
+            "ela apenas inclina a cabeça, olhando para mim com um olhar bobo por um longo tempo."
+        ],
+        "10": [
+            "Não até as memórias fragmentadas da noite passada ",
+            "se recomporem fazendo o sangue correndo nas veias ",
+            "se direcionarem para suas bochechas em uma velocidade visível."
+        ],
+        "11": [
+            "\\nl< >\"Uu... ♥ B-bom dia... \\str[121]...",
+            "Sobre a ontem à noite... hum... obrigado...\""
+        ],
+        "12": [
+            "Completamente sem saber como lidar com uma situação tão embaraçosa, ",
+            "ela apenas abaixou a cabeça,",
+            "sussurrando um agradecimento um tanto sem sentido."
+        ],
+        "13": [
+            "A atmosfera torna-se sutil e claustrofóbica.",
+            "Nós nos vestimos silenciosamente com as costas um para o outro, ",
+            "então, mantendo um entendimento tácito indescritível,",
+            "entramos no banheiro juntos."
+        ],
+        "14": [
+            "\\nl< >\"...Mmuu... nya...♥",
+            "\\str[121]... aí não... aí não é bom...\""
+        ],
+        "15": [
+            "Ela só deixou um murmúrio abafado, ",
+            "agarrar seu travesseiro e enterrar seu rosto ainda mais profundo."
+        ],
+        "16": [
+            "Embora eu esteja curioso de que tipo de sonho maravilhoso ela está tendo, ",
+            "já que ela ainda está dormindo tão bem,",
+            "é melhor não forçá-la a acordar..."
+        ],
+        "17": [
+            "O esforço da noite passada acabou sendo um exercício muito pesado para ela,",
+            "melhor deixá-la dormir mais um pouco..."
+        ],
+        "18": [
+            "Segurando minha respiração, ",
+            "Eu afasto delicadamente o braço dela que ainda me envolvia,",
+            "saindo da cama quente sem fazer um único som."
+        ],
+        "19": [
+            "Dando uma última olhada em seu perfil sereno, ",
+            "ligeiramente pálida pela luz da manhã,",
+            "Saio silenciosamente do quarto e fecho a porta com cuidado."
+        ],
+        "20": [
+            "Observando seu rosto indefeso enquanto dorme, embora eu saiba que ela precisa descansar,",
+            "a tranquilidade peculiar desta manhã e o aroma ",
+            "que ela irradia continuam provocando a minha sanidade."
+        ],
+        "21": [
+            "Eu quis só acariciar sua cabeça, ",
+            "mas meus dedos deslizaram involuntariamente pelo pescoço.",
+            "Dos seus ombros arredondados à ligeira curva da sua cintura, ",
+            "toco avidamente em cada centímetro da sua pele."
+        ],
+        "22": [
+            "\\nl< >\"...Hnngh ♥",
+            "Uu... nnh... ah... ♥\""
+        ],
+        "23": [
+            "Mesmo enquanto dormia, seu corpo, que acabara de perder a inocência, ",
+            "já reagia ao meu toque.",
+            "Ela soltou alguns gemidos inconscientes ao sentir ",
+            "o calor irradiando da ponta dos meus dedos."
+        ],
+        "24": [
+            "...Não! O que estou pensando!",
+            "Como pude fazer isso com ela tão cedo pela manhã...",
+            "É melhor eu apenas me levantar!"
+        ]
+  },
+  "4": {
+        "0": [
+            "\"...Huh!?\\w[60]...Espera, \\w[60]",
+            "já é de manhã…?"
+        ],
+        "1": [
+            "Minha cabeça tá girando... ",
+            "Será que eu acabei dormindo dessa forma ontem a noite...?"
+        ],
+        "2": [
+            "\"Eu não consigo lembrar de nada do que aconteceu ontem ",
+            "a noite...  \\w[90] Eu provavelmente só estava exausto.\""
+        ]
+  }
+}

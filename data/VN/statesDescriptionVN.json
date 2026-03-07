@@ -1,0 +1,786 @@
+{
+	"3": {
+		"name": [],
+		"subtitle": [
+			""
+		],
+		"description": [
+			""
+		],
+		"variants": {
+			"0": {
+				"subtitle": [
+					"\"Cảm thấy bồn chồn...\""
+				],
+				"description": [
+					"Mức độ hưng phấn:\\c[2]\\v[25]%\\c[0]"
+				]
+			},		
+			"1": {
+				"subtitle": [
+					"\"Cơ thể khao khát cảm giác mạnh...\""
+				],
+				"description": [
+					"Mức độ hưng phấn:\\c[10]\\v[25]%\\c[0]"
+				]
+			},
+			"2": {
+				"subtitle": [
+					"\"Mất kiểm soát...!\""
+				],
+				"description": [
+					"Mức độ hưng phấn:\\c[18]\\v[25]%\\c[0]"
+				]
+			}
+		}
+	},
+	"4": {
+		"name": [],
+		"subtitle": [
+			"\"Uwoooo...!\""
+		],
+		"description": [
+			"Biến thành Quái thú điên loạn vì ham muốn!  Mức độ hưng phấn:\\c[18]???%\\c[0]"
+		]
+	},
+	"5": {
+		"name": [],
+		"subtitle": [
+			"\"Độc đã xâm nhập vào cơ thể bạn\""
+		],
+		"description": [
+			"Nhận thêm sát thương theo thời gian!"
+		]
+	},
+	"6": {
+		"name": [],
+		"subtitle": [
+			"\"Máu chảy mãi không ngừng\""
+		],
+		"description": [
+			"Nhận sát thương dựa trên HP tối đa!"
+		]
+	},
+	"7": {
+		"name": [],
+		"subtitle": [
+			"\"Nhìn kìa, hắn bị sét đánh rồi!\""
+		],
+		"description": [
+			"Bị tê liệt hoàn toàn, không thể di chuyển!"
+		]
+	},
+	"8": {
+		"name": [],
+		"subtitle": [
+			"\"Nóng, nóng, nóng, nóng—!\""
+		],
+		"description": [
+			"Gây hiệu ứng cháy liên tục cho tất cả mục tiêu trong phạm vi!"
+		]
+	},
+	"9": {
+		"name": [],
+		"subtitle": [
+			"\"Biến thành que kem!\""
+		],
+		"description": [
+			"Bị đóng băng hoàn toàn!"
+		]
+	},
+	"11": {
+		"name": [],
+		"subtitle": [
+			"\"Chóng mặt và choáng váng!\""
+		],
+		"description": [
+			"Không thể hành động!"
+		]
+	},
+	"13": {
+		"name": [],
+		"subtitle": [
+			"\"Fufu, đây là cái giá phải trả khi dám chống lại em đấy~♥\""
+		],
+		"description": [
+			"Bị nguyền rủa bởi con quỷ nhỏ đó..."
+		]
+	},
+	"14": {
+		"name": [],
+		"subtitle": [
+			"\"Nóng quá đi...\""
+		],
+		"description": [
+			"Cảm thấy yếu vì nóng..."
+		]
+	},
+	"15": {
+		"name": [],
+		"subtitle": [
+			"\"Trong mắt quái vật, bạn chỉ là một đứa trẻ yếu ớt, xấu xí thôi...\""
+		],
+		"description": [
+			"Ngụy trang thành quái vật, quái vật sẽ không chủ động tấn công bạn!"
+		]
+	},
+	"16": {
+		"name": [],
+		"subtitle": [
+			"\"Một trò đơn giản thế này mà cũng không chơi được? Đúng là quá GÀ~\""
+		],
+		"description": [
+			"Bị chứng nhận là GÀ vì gian lận!"
+		]
+	},    
+	"28": {
+		"name": [],
+		"subtitle": [
+			"\\str[120] đang chơi game"
+		],
+		"description": [
+			""	
+		],
+		"variants": {
+			"0": {
+				"description": [
+					"Em gái đang tập trung chơi game, ",
+					"Tốt nhất đừng làm phiền em ấy quá nhiều..."
+				]
+			},		
+			"1": {
+				"description": [
+					"Em ấy vẫn đang chơi...",
+					"Có nên trêu em một chút không nhỉ?"
+				]
+			}
+		}	
+	},   
+	"29": {
+		"name": [],
+		"subtitle": [
+			"\\str[120] đang tắm"
+		],
+		"description": [
+			""	
+		],
+		"variants": {
+			"0": {
+				"description": [
+					"\\str[120] đang tắm, tôi có thể",
+					"lờ mờ thấy bóng dáng em ấy"
+				]
+			},		
+			"1": {
+				"description": [
+					"\\str[120] đang lau tóc ",
+					"bằng khăn tắm"
+				]
+			}
+		}	
+	},
+	"30": {
+		"name": [],
+		"subtitle": [
+			"\\str[120] đang nghỉ ngơi"
+		],
+		"description": [
+			""
+		],
+		"variants": {
+			"0": {
+				"description": [
+					"\\str[120] trông rất vui,",
+					"Có gì thú vị xảy ra không?"
+				]
+			},		
+			"1": {
+				"description": [
+					"\\str[120] càng ngày càng dễ thương",
+					"Nên xoa đầu một cái không?"
+				]
+			},
+			"2": {
+				"description": [
+					"\\str[120] chỉ ngồi đó thôi.",
+					"Thử nói chuyện với em ấy xem..."
+				]
+			},
+			"3": {
+				"description": [
+					"\\str[120] trông hơi buồn",
+					"Nên thử an ủi em ấy không?"
+				]
+			},
+			"4": {
+				"description": [
+					"\\str[120] có vẻ hơi bối rối",
+					"Không biết nên làm gì đây..."
+				]
+			},
+			"5": {
+				"description": [
+					"\\str[120] trông buồn ngủ",
+					"Có lẽ đến giờ đi ngủ rồi."
+				]
+			}
+		}
+	},    
+	"31": {
+		"name": [],
+		"subtitle": [
+			"\\str[120] đang ngủ"
+		],
+		"description": [
+			""
+		],
+		"variants": {
+			"0": {
+				"description": [
+					"Ngủ như chết...",
+					"không thể đánh thức..."
+				]
+			},		
+			"1": {
+				"description": [
+					"Ngủ rất sâu...",
+					"Có vẻ khó đánh thức em ấy"
+				]
+			},
+			"2": {
+				"description": [
+					"Ngủ ngon lành,",
+					"hoàn toàn chìm trong giấc mơ..."
+				]
+			},
+			"3": {
+				"description": [
+					"Lông mi em ấy khẽ động",
+					"như đang thì thầm trong mơ"
+				]
+			},
+			"4": {
+				"description": [
+					"Em ấy có vẻ nửa tỉnh nửa mê",
+					"lẩm bẩm trong vô thức"
+				]
+			},
+			"5": {
+				"description": [
+					"\\str[120] gần như tỉnh dậy",
+					"nhưng vẫn còn mơ màng"
+				]
+			},
+			"6": {
+				"description": [
+					"Không chút phòng bị, đắm chìm ",
+        			"trong khoái cảm của đêm qua"
+				]
+
+			}
+		}
+	},   
+	"32": {
+		"name": [],
+		"subtitle": [
+			"\\str[120] đói bụng"
+		],
+		"description": [
+			""	
+		],
+		"variants": {
+			"0": {
+				"description": [
+					"\\str[120] đang lặng lẽ chờ ",
+					"đến giờ ăn tối"
+				]
+			},		
+			"1": {
+				"description": [
+					"\\str[120] có vẻ hơi lo lắng",
+					"về hương vị đồ ăn tối..."
+				]
+			},
+			"2": {
+				"description": [
+					"\\str[120] có vẻ như ",
+					"muốn giúp một tay"
+				]
+			}
+		}	
+	},   
+	"33": {
+		"name": [],
+		"subtitle": [
+			"\\str[120] đang thư giản"
+		],
+		"description": [
+			""	
+		],
+		"variants": {
+			"0": {
+				"description": [
+					"\\str[120] đang liếm cây kem...",
+					"trông cực kì ngây thơ..."
+				]
+			}
+		}	
+	},   
+	"34": {
+		"name": [],
+		"subtitle": [
+			"\\str[120] đang đánh răng"
+		],
+		"description": [
+			""	
+		],
+		"variants": {
+			"0": {
+				"description": [
+					"\\str[120] lười biếng đánh răng",
+					"vẫn còn ngái ngủ..."
+				]
+			}
+		}	
+	},
+	"35": {
+		"name": [],
+		"subtitle": [],
+		"description": [
+			"✦(Cảm giác cơ thể ",
+			"trở nên nhẹ bẫng...)"
+		]
+	},
+	"36": {
+		"name": [],
+		"subtitle": [],
+		"description": [
+			"✦tâm trí bắt đầu thả lỏng—"
+		]
+	},
+	"40": {
+		"name": [],
+		"subtitle": [
+			"\\str[120] đang khóc"
+		],	
+		"description": [
+			""
+		],
+		"variants": {
+			"0": {
+				"description": [
+					"\\c[10]Em ấy ăn quá nhiều đồ cay..."
+				]
+			}
+		}	
+	},
+	"41": {
+		"name": [],
+		"subtitle": [],
+		"description": [
+			"✦No nê sau khi ăn,",
+			"\\str[120] cảm thấy rất vui!"
+		]
+	},
+	"42": {
+    	"name": [],
+    	"subtitle": [
+	  		"\\str[120] đang xem TV"
+		],
+   		"description": [
+      		""
+    	],
+		"variants": {
+			"0": {
+           		"description": [
+             		"\\str[120] cuộn tròn như con mèo, ",
+					"lén liếc nhìn tôi."
+           		]
+			},
+			"1": {
+           		"description": [
+            		"Em ấy áp sát vào tôi, ",
+			 		"như đang ôm một chiếc gối."
+          		]
+			}
+		}	
+	},
+	"43": {
+    	"name": [],
+    	"subtitle": [
+	  		"\\str[120] sợ hãi"
+		],
+   		"description": [
+    		""	
+    	],
+		"variants": {
+			"0": {
+           		"description": [
+            		"\\str[120] bám chặt lấy tôi,",
+					"cơ thể em ấy run rẩy nhẹ…"
+        		]
+			},
+			"1": {
+           		"description": [
+            		"Cơ thể chúng tôi hoàn toàn quấn lấy nhau, ",
+					"Trao đổi hơi ấm cho nhau…"
+           		]
+			}	
+		}	
+  	},
+	"45": {
+		"name": [],
+		"subtitle": [
+			"\"Tôi đã hứa với em ấy, nên phải giữ lời\""
+		],
+		"description": [
+			"Đừng trở về nhà với thương tích đầy mình..."
+		]
+	},
+	"46": {
+		"name": [],
+		"subtitle": [
+			"\"Tôi đã hứa với em ấy, nên phải giữ lời\""
+		],
+		"description": [
+			"Nấu một món thịt"
+		]
+	},
+	"54": {
+		"name": [],
+		"subtitle": [
+			"\"sột soạt... sột soạt...\""
+		],
+		"description": [
+			"Bạn đang bị một nhóm sinh vật nhỏ theo dõi..."
+		]
+  	},
+	"55": {
+		"name": [],
+		"subtitle": [
+			"\"Đây là lãnh địa của ta, không được nghịch ngợm nha~♥\""
+		],
+		"description": [
+			"Cấm tấn công! Quái vật xung quanh đều sợ hãi!"
+		]
+	},
+	"57": {
+		"name": [],
+		"subtitle": [
+			"\"Cảm giác như tôi có thể làm bất cứ điều gì\""
+		],
+		"description": [
+			"Kích hoạt chế độ Hiền Giả, tăng tất cả các chỉ số"
+		]
+	},
+	"58": {
+		"name": [],
+		"subtitle": [
+			"\"Ăn phải thứ gì đó không tốt...\""
+		],
+		"description": [
+			"Đau bụng mãi không dứt!"
+		]
+	},
+	"59": {
+		"name": [],
+		"subtitle": [],
+		"description": [
+			"...Quên mất điều gì đó quan trọng? Có lẽ sẽ nhớ lại sau."
+		]
+	},
+	"60": {
+		"name": [],
+		"subtitle": [],
+		"description": [
+			"Tỏa ra mùi hôi liên tục..."
+		]
+	},
+	"61": {
+		"name": [],
+		"subtitle": [
+			"\"Mông tôi như đang cháy...\""
+		],
+		"description": [
+			"Không thể chạy hay lao nhanh vì đau mông!"
+		]
+	},
+	"62": {
+		"name": [],
+		"subtitle": [],
+		"description": [
+			"Tập trung cho cú đánh tiếp theo, tốc độ di chuyển giảm"
+		]
+	},
+	"63": {
+		"name": [],
+		"subtitle": [
+			"\"Tốc độ gấp ba lần True Red\""
+		],
+		"description": [
+			""
+		]
+	},
+	"64": {
+		"name": [],
+		"subtitle": [],
+		"description": [
+			"Senpo đang hồi chiêu!"
+		]
+	},
+	"65": {
+		"name": [],
+		"subtitle": [],
+		"description": [
+			"Cảm thấy chóng mặt..."
+		]
+	},
+	"67": {
+		"name": [],
+		"subtitle": [],
+		"description": [
+			"Nổi trên mặt nước. Di chuyển chậm, không thể tấn công!"
+		]
+	},
+	"68": {
+		"name": [],
+		"subtitle": [],
+		"description": [
+			"Đang niệm chú!"
+		]
+	},
+	"71": {
+		"name": [],
+		"subtitle": [
+			"\"Ăn món gì đó ngon, cảm thấy ấm áp bên trong~\""
+		],
+		"description": [
+			"Hồi một lượng máu nhỏ mỗi giây"
+		]
+	},
+	"72": {
+		"name": [],
+		"subtitle": [
+			"\"Sức mạnh... đang tràn ngập trong tôi!\""
+		],
+		"description": [
+			"Sức tấn công\\c[10]+50%\\c[0]"
+		]
+	},
+	"73": {
+		"name": [],
+		"subtitle": [
+			"\"Tôi bắt đầu hiểu ra mọi thứ rồi\""
+		],
+		"description": [
+			"Sức tấn công phép thuật\\c[10]+50%\\c[0]"
+		]
+	},
+	"74": {
+		"name": [],
+		"subtitle": [
+			"\"Ngươi có theo kịp... tốc độ của ta không?!\""
+		],
+		"description": [
+			"Tăng tốc độ di chuyển"
+		]
+	},
+	"75": {
+		"name": [],
+		"subtitle": [
+			"\"Vũ Khí Thần Thánh Giáng Lâm\""
+		],
+		"description": [
+			"Vũ khí khổng lồ, tăng sát thương!"
+		]
+	},
+	"77": {
+		"name": [],
+		"subtitle": [
+			"\"Ngọn Lửa Tái Sinh\""
+		],
+		"description": [
+			"Cho phép hồi sinh một lần khi hiệu ứng còn kích hoạt"
+		]
+	},
+	"78": {
+		"name": [],
+		"subtitle": [
+			"\"Xoay Chuyển Số Phận...\""
+		],
+		"description": [
+			"Được số phận ban phước, những điều tốt đẹp dễ xảy ra hơn!"
+		]
+	},
+	"79": {
+		"name": [],
+		"subtitle": [
+			"\"Xoay Chuyển Số Phận...\""
+		],
+		"description": [
+			"Được số phận ban phước, những điều buồn bã dễ xảy ra hơn!"
+		]
+	},
+	"80": {
+		"name": [],
+		"subtitle": [
+			"\"Tốc độ gấp ba lần True Red\""
+		],
+		"description": [
+			""
+		]
+	},
+	"85": {
+		"name": [],
+		"subtitle": [
+			"\"Nhưng mà vị tệ thật...\""
+		],
+		"description": [
+			"Tràn đầy sinh lực, tăng HP tối đa!"
+		]
+	},
+	"86": {
+		"name": [],
+		"subtitle": [
+			"\"VẤNG ĐỀ KỸ NĂNG\""
+		],
+		"description": [
+			"Bị trêu chọc không thương tiếc! Phòng thủ và may mắn giảm mạnh!"
+		]
+	},
+	"90": {
+		"name": [],
+		"subtitle": [
+			"「Đừng chui vào bụi mà không kiểm tra trước, đồ ngốc!?」"
+		],
+		"description": [
+			"Cảm thấy an toàn khi ở trong bụi cây... HP tự động hồi phục"
+		]
+	},
+	"98": {
+		"name": [],
+		"subtitle": [
+			"\"Cảm giác như em ấy đang ở ngay bên cạnh tôi...\""
+		],
+		"description": [
+			"Hồi phục HP!"
+		]
+	},
+	"99": {
+		"name": [],
+		"subtitle": [
+			"\"Chúng ta là những người bảo vệ!\""
+		],
+		"description": [
+			"Sức tấn công +30"
+		]
+	},
+	"101": {
+		"name": [],
+		"subtitle": [
+			"\"NHÌN VÀO ĐÔI MẮT QUỶ NÀY ĐI LÀ SẼ THẤY CÁI GÌ Ở BÊN TRONG!\""
+		],
+		"description": [
+			"Biến mất trong chốc lát mỗi \\v[221] giây!"
+		]
+	},
+	"104": {
+		"name": [],
+		"subtitle": [
+			"\"Tỏa sáng rực rỡ!\""
+		],
+		"description": [
+			"Tăng tất cả thuộc tính, tạm thời bất tử"
+		]
+	},
+	"105": {
+		"name": [],
+		"subtitle": [
+			"\"Chia sẻ phước lành\""
+		],
+		"description": [
+			"Tiền kiếm được gấp đôi"
+		]
+	},
+	"106": {
+		"name": [],
+		"subtitle": [
+			"\"Tôi... Tôi không nhấc nổi...\""
+		],
+		"description": [
+			"Không đủ sức mạnh để sử dụng vũ khí!"
+		]
+	},
+	"107": {
+		"name": [],
+		"subtitle": [
+			"\"Chúng ta là những người bảo vệ!\""
+		],
+		"description": [
+			"Tăng tốc độ di chuyển!"
+		]
+	},
+	"108": {
+		"name": [],
+		"subtitle": [
+			"\"Chúng ta là những người bảo vệ!\""
+		],
+		"description": [
+			"Tăng sức tấn công và phòng thủ!"
+		]
+	},
+	"109": {
+		"name": [],
+		"subtitle": [
+			"\"Chúng ta là những người bảo vệ!\""
+		],
+		"description": [
+			"Tăng phòng thủ!"
+		]
+	},
+	"110": {
+		"name": [],
+		"subtitle": [
+			"\"Chúng ta là những người bảo vệ!\""
+		],
+		"description": [
+			"Tăng HP tối đa và phòng thủ!"
+		]
+	},
+	"115": {
+		"name": [],
+		"subtitle": [
+			"\"Trái tim của bù nhìn bất tử, nhưng cuối cùng cũng phải mục nát\""
+		],
+		"description": [
+			"Không thể hồi phục HP!"
+		]
+	},
+	"116": {
+		"name": [],
+		"subtitle": [
+			"\"Lòng tham vô tận đã tìm đến ta—\""
+		],
+		"description": [
+			"Rơi tiền khi bị thương!"
+		]
+	},
+	"117": {
+		"name": [],
+		"subtitle": [
+			"\"Vậy là ngươi sẽ có được vinh quang của thế giới, và mọi bóng tối sẽ tan biến\""
+		],
+		"description": [
+			""
+		]
+	},
+	"122": {
+		"name": [],
+		"subtitle": [
+			"\"Heh heh, tôi sẽ sống sót, tôi thề đấy.\""
+		],
+		"description": [
+			"Tự động hồi phục HP vĩnh viễn."
+		]
+  	}
+}
