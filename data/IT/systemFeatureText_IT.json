@@ -1,0 +1,247 @@
+{
+  "gameTitle": [
+    "Una Vita Semplice con la mia Sorella Discreta"
+  ],
+  "goldHeld": [
+    "Oro"
+  ],
+  "quantityHeld": [
+    "\\fs[16]•Quantità:\\c[17] ${} \\c[0]\\py[-8]"
+  ],
+  "autoUpdate": [
+    "Aggiornamento disponibile: Dati di versione ${} rilevati. ",
+    "Vuoi scaricarla ed aggiornare ora?"
+  ],
+  "fullScreen": [
+    "Schermo Intero"
+  ],
+  "masterVolume": [
+    "Volume Globale"
+  ],
+  "voiceVolume": [
+    "Volume delle voci"
+  ],
+  "BgmVolume": [
+    "Volume sottofondo"
+  ],
+  "BgsVolume": [
+    "Volume suoni"
+  ],
+  "SeVolume": [
+    "Volume effetti sonori"
+  ],
+  "MaxPlayerMsgs": [
+    "Messaggi massimi giocatore"
+  ],
+  "GameFAQ": [
+    "Guida"
+  ],
+  "ShowWeaponDurability": [
+    "Mostra durabilità dell'arma"
+  ],
+  "DisableAutoUpdate": [
+    "Disattiva aggiornamenti automatici"
+  ],
+  "LockedFPS": [
+    "Blocco 60 FPS"
+  ],
+  "Language": [
+    "Lingua"
+  ],
+  "SwitchLanguage": [
+    "Rilevato la modifica della lingua!",
+    "Riavviando il gioco per applicare le nuove impostazioni!"
+  ],
+  "ErrorReport": [
+    "Si è verificato un errore. Per favore, segnala il bug sul server discord NLCH.",
+    "(Clicca 'OK' per aprire il link)",
+    "(Includi uno screenshot dell'errore)"
+  ],
+  "UpdateComplete1": [
+    "Aggiornamento completato!",
+    "Il gioco si riaprirà autonomamente dopo la chiusura di questa finestra.",
+    "Puoi ricaricare il salvataggio automatico per riprendere da dove eri rimasto!"
+  ],
+  "UpdateComplete2": [
+    "Aggiornamento completato!",
+    "Il gioco si riavverà per applicarlo!"
+  ],
+  "RemindToUpdate": [
+    "Si è verificato un errore ed il gioco è in blocco.",
+    "E' disponibile una nuova patch—",
+    "Usa l'auto-aggiornamento per risolvere il problema!"
+  ],
+  "bagFull": [
+    "Hai raggiunto il limite dell'inventario!!"
+  ],
+  "noStatusEffects": [
+    "Nessun effetto di stato!!"
+  ],
+  "unimplementedDoor": [
+    "La porta non si apre da questo lato"
+  ],
+  "zipUpdateComplete": [
+    "Patch installata correttamente. ",
+    "Riavviando il gioco per applicare le nuove impostazioni!"
+  ],
+  "zipUpdateFail": [
+    "Errore durante estrazione ed installazione della patch!",
+    "Prova ad effettuare nuovamente l'aggiornamento automatico, oppure",
+    "effettua un'estrazione manuale dei file per installarla autonomamente."
+  ],
+  "fileDownloadedSuccessfully": [
+    "${} scaricato correttamente!"
+  ],
+  "fileDownloadFailed": [
+    "Download di ${} fallito! Nuovo tentativo in corso!"
+  ],
+  "installPatch": [
+    "La patch richiede estrazione ed installazione. Potrebbe causare rallentamenti nel gioco, abbi pazienza!"
+  ],
+  "totalFilesToUpdate": [
+    "Rilevato/i ${} file da aggiornare—processo di download iniziato!"
+  ],
+  "silentUpdateSuccess": [
+    "I nuovi contenuti di patch per ${} sono stati installati correttamente e saranno validi al prossimo riavvio del gioco."
+  ],
+  "outdatedVersionWarning": [
+    "La tua versione attuale è obsoleta. La versione più recente è ${}.",
+    "Aggiornamenti di versione maggiore non supportano la feature di aggiornamento automatico. ",
+    "Ti invitiamo a riscaricare il gioco dalla fonte ufficiale."
+  ],
+  "renameCharacter": [
+    "Ora ricordo—",
+    "è..."
+  ],
+  "heroName": [
+    "Onii-chan"
+  ],
+  "heroineName": [
+    "Imouto"
+  ],
+  "nonHardwareAccelerated": [
+    "Il gioco è attualmente in esecuzione sulla GPU integrata!",
+    "Se il tuo PC ha una GPU dedicata, ti consigliamo di configurare Game.exe ",
+    "nelle tue impostazioni grafiche al fine di migliorare la performance."
+  ],
+  "isAmdCPU": [
+    "È stata rilevata una GPU AMD.",
+    "Alcune GPU AMD possono avere cali di performance durante la riproduzione di video VP9 (WebM) ",
+    "in ambiente Chromium. Se dovesse capitare, prova a forzare il gioco ad usare il rendering GPU ",
+    "oppure aggiorna i driver. Dovrebbe alleviare il problema."
+  ],
+  "failedToLoad": [
+    "Questo genere di problemi è solitamente causato da:",
+    "① File del gioco danneggiati, o nomi degli stessi errati a causa di problemi di encoding durante estrazione o installazione.",
+    "② Lo sviluppatore ha dimenticato di includere un file - aspetta una patch o aggiornamento per risolvere il problema."
+  ],
+  "LowResMode": [
+    "Modalità Grafica Ridotta"
+  ],
+  "lowResModeWarning": [
+    "Questa feature è pensata per migliorare la performance su dispositivi Android e potrebbe avere piccoli miglioramenti nella versione PC.",
+    "Quando è attivata, mappe ed immagini sono renderizzate ad una risoluzione minore e poi ingrandite, ",
+    "alleggerendo il carico sulla GPU su dispositivi mobili e abbassando utilizzo della batteria e temperature.",
+    "N.B.: È una feature sperimentale, e l'efficacia varia in base al dispositivo.",
+    "Puoi disattivarla in qualsiasi momento e il gioco tornerà a renderizzare asset alle dimensioni originali."
+  ],
+  "cloudSaveServiceWarning": [
+    "Il database per i salvataggi cloud è ancora in fase di sviluppo,",
+    "questa funzionalità richiederà momentaneamente accesso al tuo Google Drive",
+    "al fine di caricare i file di salvatataggio nella cartella NLCH/save.",
+    "I file di salvataggio caricati saranno usati esclusivamente per sincronizzazioni future e ",
+    "non saranno usati per nessun altro scopo",
+    "Confermi di voler concedere accesso al tuo Google Drive da parte del gioco?"
+  ],
+  "uploadSaveFile": [
+    "Scaricare un file di salvataggio da Google Drive sovrascriverà quelli attuali!",
+    "Sei sicuro di voler continuare?"
+  ],
+  "nearbyMonstersCount": [
+    "Rilevati mostri nelle vicinanze"
+  ],
+  "nearbyTreasuresCount": [
+    "Rilevati tesori nelle vicinanze"
+  ],
+  "underwaterTreasuresCount": [
+    "Rilevati tesori subacquei nelle vicinanze"
+  ],
+  "steamWishlist": [
+    "La nostra pagina su Steam è finalmente pubblicata!",
+    "Saremmo grati se l'aggiungessi alla tua wishlist per supportarci! (*´∀`)~♥",
+    "⬇Clicca qui sotto per aprire la pagina su Steam."
+  ],
+  "memberMenu": {
+    "firstTimeNotice": [
+      "Questa funzionalità di verifica della priorità è attualmente sperimentale.",
+      "Puoi effettuare il login con Patreon qui, ",
+      "oppure collegare il tuo account Itch al fine di convalidare la proprietà del gioco.",
+      "Se hai un abbonamento attivo, ",
+      "o possiedi già il gioco su Itch,",
+      "puoi usare feature come l'aggiornamento automatico delle versioni maggiori.",
+      "",
+      "Tieni a mente:",
+      "Al momento, la verifica è disponibile solo ",
+      "per chi ha comprato il gioco su Itch o Patreon, ",
+      "oppure giocatori con un abbonamento attivo su Patreon."
+    ],
+    "shortHint": " È ora possibile abilitare salvataggi in cloud e aggiornamenti di versione maggiore",
+    "waitingLogin": "Tentando l'accesso...",
+    "notLoggedIn": "Non loggato",
+    "RequestingLogin": "Ottenendo link di accesso...",
+    "openingWindow": "Aprendo la pagina di login Patreon...",
+    "cloudSave": "Usa salvataggi cloud",
+    "logInFirst": "Ti invitiamo a cliccare questo tasto per fare il login",
+    "CheckUpdates": "Aggiorna all'Ultima Versione",
+    "Subscribed": "Abbonamento confermato!",
+    "subscribedAndItchUser": "Abbonamento confermato! (Proprietà su Itch convalidata)",
+    "NotSubscribed": "Nessun abbonamento attivo rilevato. Alcune funzionalità non saranno disponibili.",
+    "lastCheck": "Ultimo Controllo: ",
+    "checkLatestVersion": "Controllando l'ultima versione, attendi...",
+    "isLatestVersion": "Sei già sull'ultima versione!",
+    "notSponsor": "Utenti non verificati devono prima effettuare l'abbonamento!",
+    "ImoutoFavorite": "Il preferito della sorellina",
+    "itchUser": "Utente Itch confermato!",
+    "nonItchUser": "Il gioco non è stato rilevato nella tua libreria di Itch!",
+    "itchVerifyNotice": "Puoi verificare qui la proprietà della versione Itch",
+    "itchVerifyAlert": "Effettua il login prima di convalidare la versione Itch!",    
+    "majorUpdateFailed": [
+      "Aggiornamento di versione maggiore fallito!",
+      "Codice di errore: ${}",
+      "Per favore, prova ad effettuare il login al fine della verifica e rieffettua l'aggiornamento,",
+      "oppure invia questo screenshot nel server Discord per assistenza!"
+    ]
+  },
+  "AdventurersPathway": {
+    "mapName": " -Sentiero dell'Avventuriero- "
+  },
+  "ShallowRuinsLabyrinth": {
+    "mapName": " -Labirinto delle Rovine Superficiali- ",
+    "mapDescription": " Un vasto labirinto pieno di misteri "
+  },
+  "ForgottenCatacombe": {
+    "mapName": " -Catacombe Dimenticate- "
+  },
+  "ForestofRuins": {
+    "mapName": " -Foresta delle Rovine- "
+  },
+  "AbandonedForest": {
+    "mapName": " -Foresta Abbandonata- "
+  },
+  "ExcavationSite": {
+    "mapName": " -Scavi- "
+  },
+  "TheFallenChurch": {
+    "mapName": " -La Chiesa Perduta- "
+  },
+  "DoorofStar": {
+    "mapName": " -Porta Stellare- "
+  },
+  "ScorchingLavaZone": {
+    "mapName": " -Zona della Lava Ardente- ",
+    "mapDescription": " La terra infuocata delle peripezie che ardono per l'eternità "
+  },
+  "Nibelungen": {
+    "mapName": " -Nibelungen- "
+  }
+}
