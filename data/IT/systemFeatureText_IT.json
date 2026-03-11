@@ -9,7 +9,7 @@
     "\\fs[16]•Quantità:\\c[17] ${} \\c[0]\\py[-8]"
   ],
   "autoUpdate": [
-    "Aggiornamento disponibile: Dati di versione ${} rilevati. ",
+    "Aggiornamento disponibile: Versione ${} pronta all'installazione. ",
     "Vuoi scaricarla ed aggiornare ora?"
   ],
   "fullScreen": [
@@ -19,16 +19,16 @@
     "Volume Globale"
   ],
   "voiceVolume": [
-    "Volume delle voci"
+    "Volume Voci"
   ],
   "BgmVolume": [
-    "Volume sottofondo"
+    "Volume Musica di Sottofondo"
   ],
   "BgsVolume": [
-    "Volume suoni"
+    "Volume Suoni di Sottofondo"
   ],
   "SeVolume": [
-    "Volume effetti sonori"
+    "Volume Effetti Sonori"
   ],
   "MaxPlayerMsgs": [
     "Messaggi massimi giocatore"
@@ -49,8 +49,8 @@
     "Lingua"
   ],
   "SwitchLanguage": [
-    "Rilevato la modifica della lingua!",
-    "Riavviando il gioco per applicare le nuove impostazioni!"
+    "Modifica della lingua rilevata!",
+    "Il gioco si riavvierà per applicare le nuove impostazioni!"
   ],
   "ErrorReport": [
     "Si è verificato un errore. Per favore, segnala il bug sul server discord NLCH.",
@@ -67,12 +67,12 @@
     "Il gioco si riavverà per applicarlo!"
   ],
   "RemindToUpdate": [
-    "Si è verificato un errore ed il gioco è in blocco.",
-    "E' disponibile una nuova patch—",
-    "Usa l'auto-aggiornamento per risolvere il problema!"
+    "Il gioco è in blocco a causa di un errore.",
+    "È disponibile una nuova patch—",
+    "Utilizza l'aggiornamento automatico per risolvere il problema!"
   ],
   "bagFull": [
-    "Hai raggiunto il limite dell'inventario!!"
+    "Il tuo inventario è pieno!!"
   ],
   "noStatusEffects": [
     "Nessun effetto di stato!!"
@@ -82,7 +82,7 @@
   ],
   "zipUpdateComplete": [
     "Patch installata correttamente. ",
-    "Riavviando il gioco per applicare le nuove impostazioni!"
+    "Il gioco si riavvierà per applicare le nuove impostazioni!"
   ],
   "zipUpdateFail": [
     "Errore durante estrazione ed installazione della patch!",
@@ -99,14 +99,14 @@
     "La patch richiede estrazione ed installazione. Potrebbe causare rallentamenti nel gioco, abbi pazienza!"
   ],
   "totalFilesToUpdate": [
-    "Rilevato/i ${} file da aggiornare—processo di download iniziato!"
+    "Rilevato/i ${} file da aggiornare — processo di download iniziato!"
   ],
   "silentUpdateSuccess": [
     "I nuovi contenuti di patch per ${} sono stati installati correttamente e saranno validi al prossimo riavvio del gioco."
   ],
   "outdatedVersionWarning": [
-    "La tua versione attuale è obsoleta. La versione più recente è ${}.",
-    "Aggiornamenti di versione maggiore non supportano la feature di aggiornamento automatico. ",
+    "La versione attuale è obsoleta. La versione più recente è ${}.",
+    "Aggiornamenti di versione maggiore non supportano l'aggiornamento automatico. ",
     "Ti invitiamo a riscaricare il gioco dalla fonte ufficiale."
   ],
   "renameCharacter": [
@@ -120,9 +120,9 @@
     "Imouto"
   ],
   "nonHardwareAccelerated": [
-    "Il gioco è attualmente in esecuzione sulla GPU integrata!",
+    "Il gioco è attualmente in esecuzione su GPU integrata!",
     "Se il tuo PC ha una GPU dedicata, ti consigliamo di configurare Game.exe ",
-    "nelle tue impostazioni grafiche al fine di migliorare la performance."
+    "in modo che la utilizzi nel pannello grafico - migliorerà la performance."
   ],
   "isAmdCPU": [
     "È stata rilevata una GPU AMD.",
@@ -139,14 +139,14 @@
     "Modalità Grafica Ridotta"
   ],
   "lowResModeWarning": [
-    "Questa feature è pensata per migliorare la performance su dispositivi Android e potrebbe avere piccoli miglioramenti nella versione PC.",
-    "Quando è attivata, mappe ed immagini sono renderizzate ad una risoluzione minore e poi ingrandite, ",
-    "alleggerendo il carico sulla GPU su dispositivi mobili e abbassando utilizzo della batteria e temperature.",
+    "È pensata per migliorare la performance su dispositivi Android e potrebbe non dare grandi vantaggi nella versione PC.",
+    "Quando è attiva, mappe ed immagini sono renderizzate ad una risoluzione minore e poi ingrandite, ",
+    "alleggerendo il carico sulla GPU su dispositivi mobili, abbassando utilizzo della batteria e diminuendo la temperatura.",
     "N.B.: È una feature sperimentale, e l'efficacia varia in base al dispositivo.",
     "Puoi disattivarla in qualsiasi momento e il gioco tornerà a renderizzare asset alle dimensioni originali."
   ],
   "cloudSaveServiceWarning": [
-    "Il database per i salvataggi cloud è ancora in fase di sviluppo,",
+    "Il database per i salvataggi in cloud è ancora in fase di sviluppo,",
     "questa funzionalità richiederà momentaneamente accesso al tuo Google Drive",
     "al fine di caricare i file di salvatataggio nella cartella NLCH/save.",
     "I file di salvataggio caricati saranno usati esclusivamente per sincronizzazioni future e ",
@@ -154,7 +154,7 @@
     "Confermi di voler concedere accesso al tuo Google Drive da parte del gioco?"
   ],
   "uploadSaveFile": [
-    "Scaricare un file di salvataggio da Google Drive sovrascriverà quelli attuali!",
+    "Scaricare file di salvataggio da Google Drive sovrascriverà quelli attuali!",
     "Sei sicuro di voler continuare?"
   ],
   "nearbyMonstersCount": [
@@ -167,18 +167,18 @@
     "Rilevati tesori subacquei nelle vicinanze"
   ],
   "steamWishlist": [
-    "La nostra pagina su Steam è finalmente pubblicata!",
+    "La nostra pagina Steam è finalmente pubblicata!",
     "Saremmo grati se l'aggiungessi alla tua wishlist per supportarci! (*´∀`)~♥",
     "⬇Clicca qui sotto per aprire la pagina su Steam."
   ],
   "memberMenu": {
     "firstTimeNotice": [
-      "Questa funzionalità di verifica della priorità è attualmente sperimentale.",
+      "La funzionalità di verifica proprietà è attualmente sperimentale.",
       "Puoi effettuare il login con Patreon qui, ",
       "oppure collegare il tuo account Itch al fine di convalidare la proprietà del gioco.",
       "Se hai un abbonamento attivo, ",
       "o possiedi già il gioco su Itch,",
-      "puoi usare feature come l'aggiornamento automatico delle versioni maggiori.",
+      "hai accesso a funzionalità come l'aggiornamento automatico delle versioni maggiori.",
       "",
       "Tieni a mente:",
       "Al momento, la verifica è disponibile solo ",
@@ -208,8 +208,8 @@
     "majorUpdateFailed": [
       "Aggiornamento di versione maggiore fallito!",
       "Codice di errore: ${}",
-      "Per favore, prova ad effettuare il login al fine della verifica e rieffettua l'aggiornamento,",
-      "oppure invia questo screenshot nel server Discord per assistenza!"
+      "Ti invitiamo ad effettuare il login al fine della verifica e ritentare l'aggiornamento,",
+      "oppure invia questo screenshot nel server Discord per ricevere assistenza!"
     ]
   },
   "AdventurersPathway": {
@@ -238,7 +238,7 @@
     "mapName": " -Porta Stellare- "
   },
   "ScorchingLavaZone": {
-    "mapName": " -Zona della Lava Ardente- ",
+    "mapName": " -Ardente Zona di Lava- ",
     "mapDescription": " La terra infuocata delle peripezie che ardono per l'eternità "
   },
   "Nibelungen": {
