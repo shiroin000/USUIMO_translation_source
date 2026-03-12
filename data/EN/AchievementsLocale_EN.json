@@ -1,0 +1,36 @@
+{
+  "categories": {
+    "SLG": {
+      "Category Name": "和妹妹一起的回忆",
+      "New Scene Name": "",
+      "Trophy Description": "完成该分类下全部成就后解锁奖杯。"
+    },
+    "RPG": {
+      "Category Name": "在深渊战斗的回忆",
+      "New Scene Name": "",
+      "Trophy Description": "在战斗中证明你的实力。"
+    },
+    "Gacha": {
+      "Category Name": "各种收集物的回忆",
+      "New Scene Name": "",
+      "Trophy Description": "完成该分类下全部成就后解锁奖杯。"
+    },
+    "Ryouri": {
+      "Category Name": "料理的回忆",
+      "New Scene Name": "",
+      "Trophy Description": "完成该分类下全部成就后解锁奖杯。"
+    }
+  },
+  "achievements": {
+    "JoyStation V": {
+      "Name": "游戏机Get!",
+      "Description": "可以和妹妹一起玩游戏了！",
+      "Pop Up Desc": "遊戲机Get!"
+    },
+    "隐藏的访客": {
+      "Name": "隐藏的访客",
+      "Description": "找到一次隐藏房间。",
+      "Pop Up Desc": "发现隐藏区域"
+    }
+  }
+}
