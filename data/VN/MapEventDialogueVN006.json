@@ -239,9 +239,9 @@
 			"Thật là làm người ta khó xử đấy, anh biết không...\""
         ],
         "60": [
-            "Sau khi tắm sơ qua, như một con rối vô hồn,",
-            "tôi để \\str[120] nắm tay dẫn vào bồn tắm nước nóng.",
-            "Hơi nóng lập tức bao trùm lấy cơ thể, nhưng trong tôi không dấy lên chút cảm xúc nào,",
+            "Sau khi tắm sơ qua, như một con rối vô hồn, tôi để \\str[120] ",
+            "nắm tay dẫn vào bồn tắm nước nóng. Hơi nóng lập tức ",
+            "bao trùm lấy cơ thể, nhưng trong tôi không dấy lên chút cảm xúc nào,",
             "như thể chính thân xác mình đang tan chảy vào làn nước."
         ],
         "61": [
@@ -1063,7 +1063,7 @@
             "\\nl< >\"..................Cho thành hai đi.\""
         ],
         "22.2": [
-            "\\{ em ấy đang trả giá ngay tại chỗ——!!"
+            "\\{ em ấy đang trả giá ngay tại chỗ hả——!!"
         ],
         "22.3": [
             "\"Urgh——————    \\w[60]\\{",
@@ -1098,7 +1098,7 @@
             "Anh dùng Phiếu Thưởng luôn, ngay bây giờ!\""
         ],
         "23.1": [
-            "Đó là tấm “Phiếu Thưởng” em ấy tự tay làm cho tôi. ",
+            "Đó là tấm 'Phiếu Thưởng' em ấy tự tay làm cho tôi. ",
             "Lúc trước em ấy từng nói rằng chỉ cần tôi đưa nó ra, ",
             "thì dù yêu cầu có ích kỷ hay làm nũng đến mức nào đi chăng nữa,",
             "em ấy cũng sẽ đồng ý hết."

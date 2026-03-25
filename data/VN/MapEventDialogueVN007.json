@@ -1,59 +1,59 @@
 {
     "21": {
         "0": [
-            "I tentatively pick up \\str[120] and place her between my thighs.",
-            "Being this close, every breath is filled with that pleasant, ",
-            "faint scent of oranges lingering on her."
+            "Tôi khẽ bế \\str[120] lên rồi đặt em ấy vào giữa đùi của mình.",
+            "Ở khoảng cách gần thế này, mỗi nhịp thở đều ngập tràn mùi hương cam ",
+            "thoang thoảng dễ chịu từ trên người em ấy."
         ],
         "1": [
-            "The sudden intimate contact makes the \\str[120]'s body stiffen visibly,",
-            "but she seems to be at a critical moment in her game walkthrough. ",
-            "she only mumbles a bit and offers no verbal resistance."
+            "Sự tiếp xúc thân mật đột ngột ấy khiến cơ thể \\str[120] đột ngột sững lại,",
+            "nhưng có lẽ em ấy đang đến giai đoạn then chốt trong lúc chơi game. ",
+            "nên chỉ lẩm bẩm đôi chút chứ không hề lên tiếng phản đối."
         ], 
         "2": [
-            "The soft, warm, and sweet touch in my arms is ",
-            "certainly refreshing, but as time passes, ",
-            "this feeling of being left out and ignored ",
-            "starts to make me feel a bit bored."
+            "Cái cảm giác mềm mại, ấm áp và ngọt ngào trong vòng tay tôi ",
+            "quả thật rất dễ chịu, nhưng theo thời gian,",
+            "mình có cảm giác như đang bị cho ra rìa và phớt lờ đi,",
+            "nó dần khiến tôi cảm thấy hơi chán."
         ],
         "3": [
-            "\"Is there... ",
-            "anything special you want to eat tomorrow?\""
+            "\"Ngày mai... ",
+            "em có muốn ăn gì đặc biệt không?\""
         ], 
         "4": [
-            "\\nl< >\"Mm, anything's fine.\""
+            "\\nl< >\"Mm, gì cũng được.\""
         ],  
         "5": [
-            "\\{What...!?      \\}",
-            "That \\str[120] of mine, who usually gets stars ",
-            "in her eyes at the mention of meat,",
+            "\\{Hả...!?      \\}",
+            "\\str[120] của tôi, cô em gái mà bình thường cứ hễ ",
+            "nhắc tới thịt là hai mắt sáng rực lên.",
             "\\w[15]",
-            "actually skipped the thinking process entirely and ",
-            "threw out a casual 'anything's fine' just now."
+            "Vậy mà lần này lại không hề suy nghĩ rồi cứ buột miệng ",
+            "đáp một câu rất hờ hững là 'gì cũng được'."
         ], 
         "6": [
-            "It seems the magic of this game is truly significant. ",
-            "it's made her completely neglect everything else..."
+            "Xem ra sức mê hoặc của con game này thật sự quá ghê gớm.",
+            "Nó khiến em ấy hoàn toàn lơ là với mọi thứ khác..."
         ], 
         "7": [
-            "Amidst a strange sense of loss, I just hold her like that,",
-            "silently accompanying her as she clears a high-difficulty BOSS."
+            "Giữa cảm giác mất mát khó tả, tôi cứ ôm em ấy như vậy,",
+            "lặng lẽ ở bên cạnh trong lúc em ấy hạ gục một con BOSS độ khó cao."
         ], 
         "8": [
-            "She's really been obsessed with this game lately. ",
-            "as soon as she picks up the controller, ",
-            "she's dead to the world.",
+            "Dạo gần đây em ấy thật sự mê game này đến mức ám ảnh. ",
+            "Chỉ cần cầm tay cầm lên là y như rằng em ấy ",
+            "hoàn toàn cắt đứt liên hệ với thế giới bên ngoài.",
             "\\w[15]",
-            "Even though I was the one who proactively embraced her, ",
-            "now I feel like I've turned into nothing more than ",
-            "a human backrest for her."
+            "Dù rõ ràng là tôi chủ động ôm em ấy trước, ",
+            "vậy mà giờ đây lại có cảm giác mình chẳng khác nào ",
+            "một cái tựa lưng sống cho em ấy."
         ],  
         "9": [
-            "\"Hey, speaking of which, ",
-            "the weather lately seems to be getting hotter.\""
+            "\"Này, mà nói mới nhớ, ",
+            "dạo gần đây thời tiết hình như đang nóng lên thì phải.\""
         ],  
         "10": [
-            "\\nl< >\"Is that so?\""
+            "\\nl< >\"Thế à?\""
         ],  
         "11": [
             "\"……………………………………\""
@@ -62,42 +62,42 @@
             "\\nl< >\"……………………………………\""
         ],    
         "13": [
-            "Though I tried my best to find topics to chat with her about,",
-            "all of them were absentmindedly brushed off by her.",
-            "Being ignored by my \\str[120] feels so lonely..."
+            "Dù tôi đã cố hết sức tìm chủ đề để nói chuyện với em ấy,",
+            "tất cả đều bị em ấy gạt đi một cách hờ hững, lơ đãng.",
+            "Bị \\str[120] của mình phớt lờ thế này thật cô đơn biết bao..."
         ],  
         "14": [
-            "...Maybe I should pull a little prank,",
-            "and make her acknowledge my existence!"
+            "...Hay là mình thử trêu em ấy một chút,",
+            "phải cho em ấy nhận ra sự hiện diện của mình mới được!"
         ],   
         "15": [
-            "Prank her",
-            "Forget it"
+            "Trêu em ấy",
+            "Thôi bỏ đi"
         ],   
         "16": [
-            "...Forget it. It feels a bit mean to interrupt her progress,",
-            "I should just focus on keeping her company."
+            "...Thôi bỏ đi. Cắt ngang tiến độ của em ấy lúc này có vẻ hơi xấu tính,",
+            "mình cứ tập trung ở bên cạnh em ấy là được rồi."
         ],   
         "17": [
-            "I skillfully pick up \\str[120], who is buried in her game,",
-            "everything feels so natural as I smoothly ",
-            "settle her firmly into my embrace."
+            "Tôi khéo léo bế \\str[120] lên, dù em ấy vẫn đang đắm chìm vào game,",
+            "mọi thứ lại diễn ra tự nhiên đến mức khi tôi thuận tay ",
+            "ôm gọn em ấy vào lòng một cách rất đỗi thuần thục."
         ],   
         "18": [
-            "\\str[120] is clearly used to these sudden raids. ",
-            "her fingertip movements don't hesitate for a second.",
-            "But whenever my hand touches certain subtle edges, ",
-            "her petite back still breaks into a slight shiver."
+            "\\str[120] rõ ràng đã quen với những cuộc tập kích bất ngờ như thế này rồi. ",
+            "Các đầu ngón tay em ấy thậm chí không khựng lại lấy một giây nào.",
+            "Nhưng mỗi khi tay tôi chạm vào vài chỗ nhạy cảm tinh tế nào đó, ",
+            "tấm lưng nhỏ nhắn của em ấy vẫn khẽ run lên."
         ],   
         "19": [
-            "\\nl< >\"Ugh... honestly, \\str[121], you're doing it again...",
-            "You know perfectly well I can't spare my hands right now...!\""
+            "\\nl< >\"Ugh... thật tình, \\str[121], anh lại thế nữa rồi...",
+            "Anh thừa biết bây giờ em không rảnh tay mà...!\""
         ],   
         "20": [
-            "This powerless pout serves as the perfect catalyst instead.",
-            "Watching her look so flustered—forced to let me ",
-            "have my way because she's addicted to the game—",
-            "the restless urge to prank her begins to stir in my heart again."
+            "Cái vẻ hờn dỗi bất lực ấy lại trở thành cái cớ hoàn hảo.",
+            "Nhìn em ấy bối rối đến thế, vì quá mê game mà đành phải để mặc tôi ",
+            "muốn làm gì thì làm, khiến trong lòng tôi lại dâng lên ",
+            "một sự thôi thúc muốn trêu chọc em ấy thêm lần nữa."
         ],   
         "22": [
             "Eh... are we using this position...?"
@@ -105,463 +105,465 @@
     },  
     "22": {
         "0": [
-            "Success! ",
-            "\\str[120] didn't notice my little move at all.",
-            "Even though her crotch is completely exposed now, ",
-            "she’s still glued to the screen.",
-            "With her brain full of nothing but the game, ",
-            "she has no idea she's about to be completely at my mercy."
+            "Thành công rồi! ",
+            "\\str[120] hoàn toàn không hề nhận ra động tác nhỏ của tôi.",
+            "Mặc dù chỗ kín đáo của em ấy đã hoàn toàn trần trụi ",
+            "nhưng em ấy vẫn dán chặt mắt vào màn hình.",
+            "Trong đầu của em ấy hoàn toàn đắm chìm vào thế giới game, ",
+            "không biết rằng tiếp theo tôi có thể để mặc tôi tự do hành động."
         ],
         "1": [
-            "Squeeze her breasts",
-            "Caress her pussy",
-            "Close her thighs"
+            "Bóp ngực",
+            "Sờ âm hộ",
+            "Khép đùi lại"
         ],
         "2": [
-            "Take off shortpants",
-            "Take off panties"
+            "Cởi quần đùi",
+            "Cởi quần lót"
         ],
         "3": [
-            "Lift her camisole",
-            "Fix her camisole"
+            "Vén áo ngực lên",
+            "Sửa lại áo ngực"
         ],
         "4": [
-            "Taking advantage of the gap while \\str[120] is focused on an enemy,",
-            "I quickly hook my fingers into her waistband and yank downward—"
+            "Nhân lúc \\str[120] đang tập trung đối phó với kẻ địch,",
+            "tôi chớp lấy thời cơ nhanh chóng túm lấy quần em ấy rồi kéo mạnh xuống—"
         ],
         "4.5": [
             "\\nl< >\"——————————!?\""
         ],
         "5": [
-            "The movement is one fluid motion. ",
-            "before she can even react,",
-            "her shortpants are stripped off and tossed aside."
+            "Động tác diễn ra liền mạch như nước chảy. ",
+            "Trước khi em ấy kịp phản ứng,",
+            "chiếc quần đùi đã bị cởi ra và bị ném sang một bên."
         ],
         "6": [
-            "Without the shorts in the way, the sight before me steals my breath.",
-            "It turns out \\str[120] wasn't wearing anything underneath today!",
-            "Her little pussy is displayed right before my eyes, ",
-            "completely unobstructed."
+            "Không còn chiếc quần đùi che chắn, cảnh tượng trước mắt khiến tôi nghẹn thở.",
+            "Hóa ra hôm nay \\str[120] không mặc gì bên trong cả! ",
+            "Chiếc âm hộ nhỏ xinh của em ấy hoàn toàn bị phơi bày ra,",
+            "hiện diện rõ ràng ngay trước mắt tôi."
         ],
         "7": [
-            "Seeing \\str[120] wearing these tie-side panties ",
-            "feels like a gift meant just for me.",
-            "I reach out, skillfully hooking the two slender ribbons,",
-            "and with a light tug, they come completely undone—"
+            "Nhìn \\str[120] mặc chiếc quần lót buộc dây bên hông này, ",
+            "cảm giác như bản thân được nhận một món quà chỉ dành riêng cho mình.",
+            "Tôi đưa tay ra, khéo léo móc hai dải ruy băng mỏng manh,",
+            "và với một cú kéo nhẹ, chúng đã hoàn toàn bung ra—"
         ],
         "8": [
-            "With her panties gone, \\str[120]'s most private place is exposed to the air.",
-            "Even though she's totally exposed, ",
-            "she just knits her brows and stares at the screen,",
-            "completely unaware that her defenses are entirely down."
+            "Chiếc quần lót rơi xuống, nơi linh thiên nhất của \\str[120] ",
+            "hoàn toàn phơi bày giữa không khí. Dù em ấy đã trần trụi hết mọi thứ, ",
+            "nhưng vẫn chỉ chau mày và mắt dán chặt vào màn hình, ",
+            "không hay biết rằng lớp phòng vệ cuối cùng của mình đã bị lột sạch sẽ."
         ],
         "9": [
-            "The only flaw is that from this angle, ",
-            "I can't fully see the view between her parted legs.",
-            "I'll have to do some thorough exploring next..."
+            "Điểm trừ duy nhất từ góc nhìn này là, ",
+            "tôi vẫn chưa nhìn rõ hết phần giữa hai chân đang dạng ra của em ấy.",
+            "Lần sau mình phải khám phá thật kỹ mới được..."
         ],
         "10": [
-            "I stealthily slide my hand between \\str[120]'s legs, ",
-            "pretending it's an accidental brush,",
-            "continuously stroking up and down with my fingers—"
+            "Tôi lén lút đưa tay luồn vào giữa hai chân \\str[120], ",
+            "giả vờ như vô tình chạm phải,",
+            "rồi dùng ngón tay liên tục vuốt ve lên xuống một cách chậm rãi—"
         ],
         "11": [
-            "The center of \\str[120]'s panties is already soaking wet.",
-            "Through the fabric drenched in love juice, ",
-            "I can clearly feel the deep contour of her slit."
+            "Phần giữa quần lót của \\str[120] đã ướt át từ bao giờ rồi.",
+            "Qua lớp vải thấm đẫm nước dịch tiết ra, ",
+            "tôi có thể cảm nhận rõ ràng đường khe sâu và mềm mại của em ấy."
         ], 
         "12": [
-            "Now, only a thin layer of soaked fabric sits between ",
-            "my fingers and her honey-pot.",
-            "I can feel the heat radiating from the indentation of her folds. ",
-            "it's incredibly hot against my fingertips."
+            "Giờ đây, chỉ còn một lớp vải mỏng đã thấm đẫm ngăn cách ",
+            "giữa ngón tay tôi và vùng kín của em ấy.",
+            "Tôi có thể cảm nhận rõ hơi nóng đang tỏa ra từ khe rãnh mềm mại ấy. ",
+            "Nó nóng bỏng đến khó tin khi chạm vào đầu ngón tay tôi."
         ],
         "13": [
-            "Confirming she hasn't reacted, I get even bolder.",
-            "One moment I’m kneading the hard little nub at the very top of the slit,",
-            "the next I'm tracing the dip of her panties with my middle finger,",
-            "watching the fabric grow wetter and more disheveled under my touch."
+            "Xác nhận rằng em ấy vẫn chưa có phản ứng gì, tôi càng trở nên táo bạo hơn.",
+            "Lúc thì ngón tay khẽ xoa nắn hạt nhỏ cứng ở khe ,",
+            "lúc lại dùng ngón giữa lướt dọc theo đường lõm của quần lót,",
+            "nhìn lớp vải càng lúc càng ướt át và xộc xệch dưới sự vuốt ve của tôi."
         ],  
         "14": [
-            "Ooh... the sensation from my fingertips is so real.",
-            "The soft, warm feedback from between \\str[120]'s legs ",
-            "is definitely coming through.",
-            "But this feeling is...!"
+            "Ooh... cảm giác đến từ đầu ngón tay thật quá rõ ràng.",
+            "Sự mềm mại, ấm áp từ giữa hai chân \\str[120] ",
+            "đang truyền đến rất chân thật.",
+            "Nhưng cảm giác này...!"
         ],   
         "15": [
-            "Even without looking, ",
-            "it's obvious she's soaked a large patch between her legs.",
-            "That hot, viscous sensation surprises me. ",
+            "Dù không nhìn rõ lắm, ",
+            "Nhưng cũng có thể thấy rằng là em ấy đã ướt sũng giữa hai chân.",
+            "Cảm giác nóng ran, nhớp nháp ấy khiến tôi bất ngờ. ",
             "\\w[5]",
-            "my fingers are actually trembling with excitement.",
-            "To be this wet... she's clearly feeling quite a lot."
+            "Ngón tay tôi thậm chí còn đang run lên vì kích động.",
+            "Ướt đến mức này... rõ ràng là em ấy đang cảm nhận rất nhiều rồi."
         ],    
         "16": [
-            "My fingertips are covered in this warm, sticky moisture. ",
-            "It seems no matter how calm she acts,",
-            "the pleasure her body is producing can't lie. ",
-            "These juices are the best evidence."
+            "Đầu ngón tay tôi giờ đã dính đầy chất dịch ấm nóng, nhớp nháp.. ",
+            "Dù em ấy cố gắng giữ vẻ mặt bình tĩnh đến đâu,",
+            "thì khoái cảm mà cơ thể em ấy đang tiết ra cũng không thể nói dối được. ",
+            "Những giọt dâm thủy này chính là bằng chứng rõ ràng nhất."
         ], 
         "17": [
-            "Even before taking off her shorts, ",
-            "a patch of the fabric is already soaked through.",
-            "It seems like a total flood down there. Since I've come this far,",
-            "I need to peel away this annoying cloth and see for myself."
+            "Thậm chí còn chưa kịp cởi quần ngoài ra, ",
+            "một mảng vải đã ướt đẫm từ trước rồi.",
+            "Bên dưới dường như đã ngập tràn dâm thủy. Đã đến nước này rồi,",
+            "mình cần phải gạt bỏ lớp vải phiền toái đó đi và tận mắt xem thử mới được."
         ],    
         "18": [
-            "Ooh...! The soft, hot flesh of \\str[120]'s crotch",
-            "is tangibly rubbing against my fingers."
+            "Ooh...! Làn da mềm mại, nóng bỏng giữa háng \\str[120]",
+            "đang cọ sát rõ rệt vào ngón tay tôi."
         ],
         "19": [
-            "The temperature here is much higher than her belly.",
-            "With every nervous breath she takes, ",
-            "I can feel her muscles twitching slightly.",
+            "Nhiệt độ ở chỗ này cao hơn hẳn vùng bụng của em ấy.",
+            "Theo từng nhịp thở căng thẳng, ",
+            "tôi có thể cảm nhận được cơ thể em ấy khẽ co giật nhẹ.",
             " ",
-            "The resistance of my fingertips sliding against that ",
-            "soft fabric is enough to make my imagination run wild."
+            "Cảm giác đầu ngón tay lướt qua lớp vải mềm mại ấy, mang theo chút lực cản tinh tế ",
+            "cũng đủ khiến trí tưởng tượng của tôi bắt đầu bay xa."
         ],   
         "20": [
-            "Now \\str[120]'s lower body is completely naked.",
-            "My fingers press directly against her labia, ",
-            "which are slippery and drenched in juice.",
+            "Giờ thì phần thân dưới của \\str[120] đã hoàn toàn khỏa thân.",
+            "Ngón tay tôi ấn thẳng vào hai mép âm hộ ướt át, ",
+            "trơn trượt vì nước dịch dâm đãng ấy.",
             " ",
-            "I flick back and forth along that slit, ",
-            "savoring the unobstructed, incredible softness."
+            "Tôi khẽ lướt ngón tay qua lại dọc theo đường khe mềm mại ấy, ",
+            "tận hưởng sự mềm mại không gì cản trở, tuyệt vời đến mức khó tin."
         ],   
         "21": [
-            "Without even trying, my fingertips sink into \\str[120]'s pussy.",
-            "The feeling of being tightly wrapped by those warm, wet, ",
-            "and folding walls is a hundred times better than ",
-            "any feedback a game could give."
+            "Chỉ một thoáng không chú ý, ngón tay tôi đã chìm sâu vào trong .",
+            "âm hộ \\str[120]. Cảm giác bị những lớp da ấm áp, ướt át ",
+            "và co thắt chặt chẽ bao quanh thật sự sướng gấp trăm lần ",
+            "so với bất kỳ cảm giác nào mà game có thể mang lại."
         ],   
         "22": [
-            "Now \\str[120]'s lower body is completely naked.",
-            "I gently caress her smooth, bare labia with my fingers.",
-            "This unbelievable, silk-like flesh is truly addictive."
+            "Giờ thì phần thân dưới của \\str[120] đã hoàn toàn khỏa thân.",
+            "Ngón tay tôi nhẹ nhàng vuốt ve âm hộ trơn mịn, không một sợi lông.",
+            "Thứ thịt mềm mại như lụa này thật sự khiến người ta nghiện không dứt."
         ],    
         "23": [
-            "My fingers move back and forth along her labia, ",
-            "finally pressing onto the slightly hardened nub at the top.",
-            "With just a light rub, her body jolts visibly,",
-            "and that little bean becomes hot and swollen—she's being very honest."
+            "Ngón tay tôi vuốt qua vuốt lại dọc theo khe rãnh ấy, ",
+            "cuối cùng dừng lại và ấn nhẹ lên hạt nhỏ hơi cứng ở phía trên.",
+            "Chỉ cần xoa nhẹ một chút, cả người em ấy đã giật tít lên rõ rệt. ",
+            "Hạt nhỏ ấy nhanh chóng nóng lên và sưng mọng—cơ thể em ấy đang cực kỳ trung thực."
         ]    
     },     
     "26": {
         "0": [
-            "Keep calling her",
-            "Call \\str[120] over",
-            "Never mind"
+            "Tiếp tục gọi em ấy",
+            "Gọi \\str[120] lại",
+            "Thôi bỏ đi"
         ],
         "1": [
-            "\\str[120] is still fully focused on the screen, ",
-            "with no intention of stopping.",
-            "Should I do something to get her attention—?"
+            "\\str[120] vẫn hoàn toàn dán mắt vào màn hình, ",
+            "không hề có ý định dừng lại.",
+            "Mình có nên làm gì đó để thu hút sự chú ý của em ấy không nhỉ—?"
         ], 
         "2": [
-            "Yeah, I probably shouldn't tease \\str[120] right now."
+            "Ừ, có lẽ bây giờ không nên trêu \\str[120] thì hơn."
         ],
         "3": [
             "\\nl< >\"Mngh...\"",
             "\\w[120]"
         ],  
         "4": [
-            "\\nl< >\"I don't have time for you right now... ",
-            "it's already the final stage...\"",
+            "\\nl< >\"Giờ em không có thời gian cho anh đâu... ",
+            "đang đánh đến màn cuối rồi...\"",
             "\\w[60]"
         ],   
         "5": [
-            "\\nl< >\"Ehh... I'm playing right now...\"",
+            "\\nl< >\"Ehh... em đang chơi mà...\"",
             "\\w[60]"
         ],   
         "6": [
-            "\\str[120] is immersed in the game...              \\w[60]",
-            "Was it an action game called 'Shadow Souls'?        \\w[60]",
-            "It was recommended by that strange person ",
-            "wearing a full suit of armor."
+            "\\str[120] đang đắm chìm trong trò chơi...              \\w[60]",
+            "Hình như đó là một game hành động tên là 'Shadow Souls'?        \\w[60]",
+            "Con game đấy được một người khá kỳ lạ ",
+            "mặc nguyên bộ giáp kín mít kia giới thiệu."
         ],
         "7": [
-            "Watching her skillfully control the character, ",
-            "slaughtering enemies in all directions with frame-perfect dodges,",
-            "I can't help but marvel, this girl's talent for gaming is truly unfathomable."
+            "Nhìn em ấy điều khiển nhân vật một cách điêu luyện, ",
+            "né đòn chuẩn từng khung hình rồi tàn sát kẻ địch tứ phía,",
+            "tôi không khỏi thán phục, tài năng chơi game ",
+            "của đứa em gái này đúng là khó mà đong đếm nổi."
         ], 
         "8": [
-            "However, seeing her so focused that she's completely ignored me, ",
-            "leaving me all alone on the side...",
-            "As her \\str[121], I can't help but feel a slight sense of defeat."
+            "Thế nhưng, thấy em ấy tập trung đến mức hoàn toàn phớt lờ mình, ",
+            "để tôi bị bỏ rơi sang một bên như thế này...",
+            "Là \\str[121] của em ấy, tôi không khỏi cảm thấy có chút buồn bã."
         ],
         "9": [
-            "Just sitting here is indeed quite boring, ",
-            "but I don't have the heart to interrupt her fun...",
-            "Is there anything else I can do—?"
+            "Chỉ ngồi không thế này quả thật khá là chán, ",
+            "nhưng mình lại không nỡ làm gián đoạn niềm vui của em ấy...",
+            "Có cách nào khác để giết thời gian không nhỉ—?"
         ], 
         "10": [
-            "Pick her up"
+            "Bế em ấy lên"
         ],
         "11": [
-            "\\{That's right—there's always that method!"
+            "\\{Đúng rồi—vẫn còn cách đó mà!!"
         ],
         "12": [
-            "While \\str[120] is fully concentrated, ",
-            "I skillfully reach out and wrap my arm around her waist,",
-            "lifting her petite body and settling it firmly onto my lap."
+            "Nhân lúc \\str[120] đang hoàn toàn tập trung, ",
+            "tôi khéo léo đưa tay vòng qua eo em ấy,",
+            "bế cơ thể nhỏ nhắn ấy lên rồi đặt vững vàng lên đùi mình."
         ]    
     },
     "27": {
         "0": [
-            "Squeeze her breasts",
-            "Lift her camisole",
-            "Fix her camisole",
-            "Stroke her thighs",
-            "Part her thighs",
-            "Stop pranking"
+            "Bóp ngực em ấy",
+            "Vén áo ngực lên",
+            "Sửa lại áo ngực",
+            "Vuốt ve đùi em ấy",
+            "Dạng đùi em ấy ra",
+            "Ngừng trêu chọc"
         ],
         "1": [
-            "How should I tease my \\str[120]...?"
+            "Nên trêu \\str[120] của mình thế nào đây...?"
         ], 
         "2": [
-            "Very well~ The first target for the prank is—"
+            "Được rồi~ Mục tiêu đầu tiên cho trò đùa là—"
         ],
         "3": [
-            "\\str[120] is trapped in a complex maze.",
-            " in order to find the exit, she is concentrating fully on ",
-            "sketching the route in her mind."
+            "\\str[120] đang mắc kẹt trong một mê cung phức tạp.",
+            "Để tìm được lối ra, em ấy dồn toàn bộ sự tập trung ",
+            "để phác họa lộ trình trong đầu mình."
         ],
         "4": [
-            "\\str[120] is challenging an extremely difficult enemy,",
-            "the enemy's continuous onslaught leaves her without even a moment to blink."
+            "\\str[120] đang đối đầu với một kẻ địch cực kỳ khó nhằn,",
+            "chuỗi tấn công dồn dập của đối phương khiến em ấy thậm chí ",
+            "không có nổi một khoảnh khắc để chớp mắt. "
         ],
         "5": [
-            "The BOSS on the screen is in a berserk state,",
-            "she stares breathlessly at the opponent's movements, ",
-            "looking for that fleeting moment to counterattack."
+            "Con BOSS trên màn hình đang trong trạng thái cuồng nộ,",
+            "em ấy nín thở chăm chú quan sát từng cử động của đối phương, ",
+            "chờ đợi khoảnh khắc quyết định để phản công."
         ],
         "6": [
-            "\\str[120] is executing a stealth mission,",
-            "the surrounding patrol guards force her to focus all her ",
-            "energy on controlling her breathing and positioning."
+            "\\str[120] đang thực hiện một nhiệm vụ lén lút,",
+            "đám lính tuần tra xung quanh buộc em ấy phải dồn hết tinh thần ",
+            "để kiểm soát nhịp thở và vị trí di chuyển."
         ],
         "7": [
-            "Ahead is a cliff section that tests jumping precision,",
-            "\\str[120] is staring intently at the screen, ",
-            "looking for that split-second opening."
+            "Phía trước là một đoạn vách đá đòi hỏi độ chính xác khi nhảy cực cao,",
+            "\\str[120] chăm chú nhìn chằm chằm vào màn hình, ",
+            "tìm kiếm khoảnh khắc thời cơ thích hợp ấy."
         ],
         "8": [
-            "The NPC in front of her is relaying a crucial hidden quest clue,",
-            "\\str[120] holds her breath, for fear of missing ",
-            "a single keyword in the dialogue."
+            "NPC trước mặt đang truyền đạt manh mối quan trọng cho một nhiệm vụ ẩn,",
+            "\\str[120] nín thở, sợ bỏ lỡ dù chỉ một từ khóa trong đoạn hội thoại. ",
+            " "
         ],
         "9": [
-            "This area hides extremely difficult-to-find collectibles,",
-            "\\str[120] scans every inch of the wall's texture, ",
-            "unwilling to let any suspicious crack go unnoticed."
+            "Khu vực này ẩn giấu những vật phẩm sưu tầm cực kỳ khó tìm,",
+            "\\str[120] rà soát từng chi tiết trên bề mặt bức tường, ",
+            "không muốn bỏ sót bất kỳ vết nứt đáng nghi nào."
         ],
         "10": [
-            "In this state, even bolder actions ",
-            "don't seem like they would startle her. \\w[45]",
-            "my gaze unconsciously falls upon her thin camisole,",
-            "my fingertips slowly extend, tentatively pinching the hem..."
+            "Trong trạng thái này, có lẽ dù làm những hành động táo bạo hơn ",
+            "cũng khó mà khiến em ấy giật mình. \\w[45]",
+            "Ánh mắt tôi vô thức dừng lại trên chiếc áo mỏng manh của em ấy,",
+            "đầu ngón tay chậm rãi vươn ra, dè dặt kẹp lấy vạt áo..."
         ],
         "11": [
-            "As the camisole is lifted, \\str[120]'s incredibly plump breasts ",
-            "are exposed to the air without reservation.",
-            "Without the restraint of fabric, that heavy sense of pressure ",
-            "becomes even more startling—"
+            "Khi chiếc áo được vén lên, bộ ngực căng tròn, đầy đặn một cách ",
+            "đáng kinh ngạc của \\str[120] lộ ra ngoài không chút e dè.",
+            "Không còn bị lớp vải kìm hãm, cảm giác áp lực nặng nề đó ",
+            "càng trở nên rõ rệt hơn—"
         ],
         "12": [
-            "\\str[120]'s body just flinches slightly as if hit ",
-            "by an electric shock, but immediately acts as if nothing happened,",
-            "returning motionlessly to the intense game screen."
+            "Cơ thể của \\str[120] khẽ khẽ run lên như bị điện giật, ",
+            "nhưng ngay lập tức em ấy lại làm như không có gì xảy ra,",
+            "tiếp tục bất động dán mắt vào màn hình game đầy căng thẳng."
         ],
         "13": [
-            "The moment she's raided, \\str[120]'s back snaps straight,",
-            "but she immediately bites her lower lip, ",
-            "forcing her wavering vision to lock back onto the screen,",
-            "her finger inputs even become faster than before due to the tension."
+            "Ngay khoảnh khắc bị tập kích, lưng của \\str[120] bật thẳng lên,",
+            "sau đó em ấy lập tức bậm môi, ",
+            "cố gắng dồn ánh mắt đang lung lay trở về màn hình,",
+            "Ngón tay em ấy thậm chí còn thao tác nhanh hơn trước vì căng thẳng."
         ],
         "14": [
-            "A muffled groan escapes from deep within \\str[120]'s throat. ",
-            "She instinctively squirms her body to avoid my hand,",
-            "but her hands remain death-gripped on the controller, ",
-            "with no intention of stopping to deal with me."
+            "Từ sâu trong cổ họng của \\str[120] vang lên một tiếng rên nghẹn ngào. ",
+            "Theo bản năng, em ấy vặn vẹo cơ thể để né tránh tay tôi,",
+            "nhưng hai của tay em ấy vẫn đang nắm chặt tay cầm, ",
+            "hoàn toàn không có ý định dừng lại để đối phó với tôi."
         ],
         "15": [
-            "\\str[120]'s breathing becomes rapid, ",
-            "and her body trembles uncontrollably under my little movements.",
-            "But her eyes stay glued to the screen, ",
-            "barely maintaining her operations amidst the chaos."
+            "Hơi thở của \\str[120] trở nên dồn dập, ",
+            "cơ thể run rẩy không kiểm soát dưới những động tác nhỏ của tôi.",
+            "nhưng ánh mắt em ấy vẫn dán chặt vào màn hình, ",
+            "cố gắng duy trì thao tác giữa cơn hỗn loạn."
         ],
         "16": [
-            "Tears have started to well up in the corners of \\str[120]'s eyes, ",
-            "and her fingers press buttons randomly on the controller.",
-            "No matter how you look at it, ",
-            "she's reached her limit from being bullied by me..."
+            "Nước mắt đã bắt đầu đọng nơi khóe mắt của \\str[120], ",
+            "các ngón tay bấm nút trên tay cầm một cách hỗn loạn.",
+            "Dù nhìn thế nào đi nữa, ",
+            "em ấy cũng đã bị tôi trêu chọc đến giới hạn rồi..."
         ],
         "17": [
-            "Target locked: those completely exposed thighs of \\str[120]!",
-            "I'll use a tickle attack to bring her back to ",
-            "reality from the game world!"
+            "Mục tiêu đã khóa: cặp đùi đang hoàn toàn lộ ra của \\str[120]!",
+            "Mình sẽ dùng đòn cù lét để kéo em ấy trở lại ",
+            "thực tại từ thế giới trong game!"
         ],
         "18": [
-            "The hand originally wrapped around her waist slides ",
-            "down the curve, pressing directly against her thigh.",
-            "My palm instantly feels the delicate and elastic heat. ",
+            "Bàn tay vốn đang ôm quanh eo em ấy đang trượt dọc theo ",
+            "đường cong cơ thể, trực tiếp áp lên đùi.",
+            "Lòng bàn tay tôi lập tức cảm nhận được hơi ấm mềm mại, đàn hồi. ",
             "\\w[15]",
-            "though I intended to tease her with tickling,",
-            "my movements have unknowingly turned into ",
-            "repeated caresses across her thighs."
+            "Dù ban đầu định trêu chọc em ấy bằng cách cù lét,",
+            "nhưng không biết từ lúc nào, động tác của tôi lại biến thành ",
+            "những lần vuốt ve lặp đi lặp lại trên đùi em ấy."
         ],
         "19": [
             "\\nl< >\"Mmn...\""
         ],
         "20": [
-            "The prank just now didn't seem to shake \\str[120]...",
-            "But I'm not giving up just because of a small setback like this!"
+            "Pha trêu chọc vừa rồi dường như vẫn chưa khiến \\str[120] dao động...",
+            "Nhưng mình đâu thể vì chút trở ngại nhỏ này mà bỏ cuộc được!"
         ],
         "21": [
-            "\\nl< >\"It tickles...\""
+            "\\nl< >\"Nhột quá...\""
         ],
         "22": [
-            "Good, let's do it again!",
-            "This time I'll definitely get her to notice me!"
+            "Tốt, làm lại lần nữa nào!",
+            "Lần này nhất định phải khiến em ấy chú ý đến mình!"
         ],
         "23": [
             "\\nl< >\"........................\""
         ],
         "24": [
-            "\\str[120] still hasn't shown much of a reaction,",
-            "is my existence really as pitiful as that of a paramecium...?"
+            "\\str[120] dường như không có phản ứng gì đáng kể,",
+            "chẳng lẽ sự tồn tại của mình lại nhỏ bé như một con côn trùng sao...?"
         ],
         "25": [
-            "I've gone this far, ",
-            "she's bound to have some kind of reaction this time!"
+            "Đã đi xa đến mức này rồi, ",
+            "lần này chắc chắn em ấy phải có phản ứng gì đó!!"
         ],
         "26": [
-            "Squeeze both sides",
-            "Squeeze just one"
+            "Bóp cả hai bên",
+            "Chỉ bóp một bên"
         ],
         "27": [
             "\\nl< >\"————————！？\""
         ],
         "28": [
-            "My palm presses against the form-fitting camisole, ",
-            "wandering wantonly over those proud contours.",
+            "Lòng bàn tay tôi ấn lên lớp áo lót mỏng đang ôm sát cơ thể, ",
+            "mò mẫn một cách tùy tiện trên những đường cong kiêu hãnh ấy.",
             "\\w[5]",
             "\\w[5]",
-            "As I knead them, the originally flat fabric ",
-            "is pulled into tight, strained lines,",
-            "outlining the pair of large, restless silhouettes beneath."
+            "Khi tôi xoa bóp, lớp vải vốn phẳng lì đã bị kéo căng tạo ra ",
+            "những đường nét căng cứng, phác họa rõ nét bộ ngực khủng ",
+            "căng mọng đang rung rinh bên dưới."
         ],
         "29": [
-            "Through that thin layer of the camisole, ",
-            "the sensation from my palm takes on a subtle haziness.",
-            "Though I can't touch them directly, ",
-            "as my fingertips graze the smooth fabric,",
-            "I can clearly feel the rich rise and elasticity ",
-            "of the pair underneath."
+            "Qua lớp áo mỏng ấy, ",
+            "cảm giác từ lòng bàn tay trở nên hơi mơ hồ.",
+            "Dù không thể chạm trực tiếp, ",
+            "nhưng mỗi khi đầu ngón tay lướt qua bề mặt vải trơn mịn,",
+            "tôi vẫn có thể cảm nhận rõ ràng độ đầy đặn ",
+            "và đàn hồi phong phú của bộ ngực bên trong."
         ],
         "30": [
-            "Without the obstruction of the camisole, ",
-            "that startling soft-mochi texture hits my palm directly.",
-            "I can lift \\str[120]'s breasts as a whole mass, ",
-            "savoring that heavy yet tender weight.",
-            "As each finger sinks into that abundance, ",
-            "I can feel the pulse of her body heat..."
+            "Không còn bị lớp áo cản trở, ",
+            "cảm giác mềm mại đến kinh ngạc ấy truyền thẳng vào lòng bàn tay tôi.",
+            "Tôi có thể nâng cả bầu ngực của \\str[120] lên, ",
+            "tận hưởng sức nặng vừa to vừa mềm mại đó.",
+            "Mỗi khi ngón tay chìm vào sự đầy đặn ấy, ",
+            "tôi có thể cảm nhận được nhịp đập từ hơi ấm cơ thể em ấy..."
         ],
         "31": [
-            "Without the obstruction of the camisole, ",
-            "that startling soft-mochi texture hits my palm directly.",
-            "Watching my fingers sink deep into that fair, ",
-            "soft flesh, this sense of control—",
-            "treating her like my private property to be ",
-            "manipulated at will—is more intoxicating than the mere touch."
+            "Không còn bị lớp áo cản trở, ",
+            "cảm giác mềm mại đến kinh ngạc ấy truyền thẳng vào lòng bàn tay tôi.",
+            "Nhìn những ngón tay mình dần lún sâu vào làn da trắng mịn ấy, ",
+            "cái cảm giác kiểm soát—",
+            "Như thể tùy ý thao túng em ấy theo ý mình— ",
+            "còn khiến người ta say mê hơn cả cả việc chạm vào trực tiếp thuần túy."
         ],
         "32": [
-            "The sensation of squeezing both breasts through ",
-            "her camisole is incredibly distinct.",
-            "I can feel the friction of the fabric rubbing back and ",
-            "forth between my palms and \\str[120]'s skin.",
-            "As I keep kneading them, my fingertips quickly catch those hard, ",
-            "erect peaks beneath the camisole,",
-            "poking right against my palms through the thin cloth."
+            "Cảm giác bóp nắn cả hai bầu ngực qua lớp áo lót cực kỳ rõ ràng. ",
+            "Tôi có thể cảm nhận được ma sát của lớp vải cọ qua cọ lại ",
+            "giữa lòng bàn tay và da thịt của \\str[120].",
+            "",
+            "Khi tôi tiếp tục xoa bóp, đầu ngón tay nhanh chóng tìm được những núm vú",
+            "hồng hào đang cương cứng dưới lớp áo,",
+            "chúng cọ thẳng vào lòng bàn tay tôi qua lớp vải mỏng."
         ],
         "33": [
-            "I grab full handfuls of \\str[120]'s heavy, milky flesh, ",
-            "burying my fingers deep and squeezing hard through the camisole.",
-            "Hearing the lewd rustling of the fabric as I work them ",
-            "feels like a form of pure healing.",
-            "The way these hard, stiff points poke through the fabric is ",
-            "proof enough that her body is being much more honest than ",
-            "her composed, indifferent face."
+            "Tôi túm lấy từng nắm bầu ngực nặng trĩu, trắng sữa của \\str[120], ",
+            "ngón tay chìm sâu vào và bóp mạnh qua lớp áo lót. ",
+            "Tiếng vải sột soạt dâm đãng vang lên mỗi khi tôi tác động ",
+            "nghe như một loại âm thanh chữa lành thuần túy.",
+            " ",
+            "Những núm vú cứng ngắc cọ qua lớp vải chính là bằng chứng rõ ràng nhất ",
+            "rằng cơ thể em ấy đang thành thật hơn nhiều so với vẻ mặt bình tĩnh, thờ ơ của mình."
         ],
         "34": [
-            "My hands slide directly over \\str[120]'s defenseless breasts, ",
-            "my fingertips slowly pressing and tracing every inch.",
-            "I knead and crush that tender, ",
-            "yielding flesh with a slow, massaging rhythm,",
-            "watching her body snap taut from the wave of pleasure—",
-            "it's incredibly satisfying to see my lewd intentions take hold."
+            "Bàn tay tôi trượt thẳng lên bầu ngực trần không chút phòng bị của \\str[120], ",
+            "đầu ngón tay chậm rãi ấn xuống, lần theo từng tấc da.",
+            "Tôi nhào nặn và bóp chặt lớp thịt mềm mại ấy, ",
+            "theo nhịp chậm rãi như mát-xa,",
+            "nhìn cơ thể em ấy căng cứng lại vì những đợt khoái cảm dâng trào—",
+            "thật vô cùng thỏa mãn khi thấy những ý đồ dâm đãng của tôi được thực hiện."
         ],
         "35": [
-            "I apply pressure with both hands, taking total, ",
-            "unobstructed command of \\str[120]'s soft mounds.",
-            "As I feel that incredible springiness, ",
-            "I watch them flatten and stretch under my palms,",
-            "this sense of dominance—handling her private parts as ",
-            "if they are my own playthings—is an absolute thrill."
+            "Tôi dồn lực từ cả hai tay, hoàn toàn nắm chặt không chút cản trở, ",
+            "xoa bóp bộ ngực mềm mại của \\str[120].",
+            "Cảm nhận được độ đàn hồi kinh ngạc ấy, ",
+            "tôi nhìn chúng bị lòng bàn tay mình nhào nặn liên tiếp,",
+            "cảm giác chiếm hữu—coi bộ phận riêng tư của em ấy ",
+            "như món đồ chơi của chính mình—mang lại khoái cảm cực độ."
         ],
         "36": [
-            "Ordinary teasing doesn't seem to be enough to ",
-            "break her focus anymore... Looking at her thighs, ",
-            "clamped shut and swaying slightly with the rhythm of the game,",
-            "a much more provocative idea flashes through my mind—"
+            "Những trò trêu chọc thông thường dường như đã không còn đủ ",
+            "để phá vỡ sự tập trung của em ấy nữa... Looking at her thighs,",
+            "Nhìn cặp đùi khép chặt, khẽ lay động theo nhịp của trò chơi,",
+            "một ý nghĩ còn táo bạo hơn chợt lóe lên trong đầu tôi—"
         ],
         "37": [
-            "I slide my hand deep between \\str[120]'s inner thighs ",
-            "and start prying them apart. Sensing the intrusion, ",
-            "she instinctively tries to squeeze her legs tighter,",
-            "but against my firm, forceful pressure, her weak resistance doesn't stand a chance."
+            "Tay tôi luồn sâu vào giữa hai đùi trong của \\str[120] ",
+            "và bắt đầu dạng chúng ra. Cảm nhận được sự xâm nhập, ",
+            "theo phản xạ em ấy cố siết chặt chân lại, nhưng trước sức ép vững chắc ",
+            "và mạnh mẽ của tôi, sự chống cự yếu ớt ấy hoàn toàn không có cơ hội."
         ],
         "38": [
-            "As I slowly force open those tightly shut legs, ",
-            "that secret, hidden crevice is finally, defenselessly, ",
-            "and completely exposed to my greedy eyes."
+            "Khi tôi chậm rãi ép mở hai chân đang khép chặt ấy, ",
+            "nơi riêng tư vốn được giấu kín cuối cùng cũng lộ ra hoàn toàn, ",
+            "không chút phòng bị trước ánh nhìn đầy tham lam của tôi."
         ],
         "39": [
-            "Having learned from my previous failure,",
-            "I'm much more deliberate this time when I reach for \\str[120]'s thighs.",
-            "I pretend to just be shifting my weight while watching her reaction,",
-            "all while steadily applying force to pry open those clamped-shut thighs..."
+            "Rút kinh nghiệm từ lần thất bại trước,",
+            "tôi với tay ra đến đùi của \\str[120] một cách cẩn trọng hơn.",
+            "Tôi giả vờ như chỉ đang điều chỉnh tư thế, vừa quan sát phản ứng của em ấy",
+            "vừa từ từ tăng lực để dạng hai đùi đang khép chặt ra..."
         ],
         "40": [
-            "With plenty of experience now, ",
-            "I reach for \\str[120]'s thighs with practiced ease.",
-            "I act like I'm just getting comfortable, but my hands naturally exert force,",
-            "prying open those thighs she had been trying so hard to keep closed..."
+            "Với kinh nghiệm đã có, ",
+            "tôi với tay ra đến đùi của \\str[120] một cách thuần thục.",
+            "Bề ngoài giả như chỉ đang tìm tư thế thoải mái hơn, nhưng đôi tay ",
+            "lại tự nhiên dồn lực, dạng dần hai đùi mà em ấy vẫn luôn cố gắng giữ chặt lại..."
         ]        
     },  
     "47": {
         "0": [
-            "\\nl< >\"Aaaaah—! Honestly! ",
-            "It's all because \\str[121] was messing around, ",
-            "you made me lose!\""
+            "\\nl< >\"Aaaaah—! Thật không thể tin được! ",
+            "Tất cả tại \\str[121] cứ nghịch ngợm quậy phá, ",
+            "làm em thua rồi nè!\""
         ],
         "1": [
-            "Because of my interference just now, ",
-            "\\str[120] got distracted at a critical moment against the BOSS,",
-            "and as a result, took a full hit from the enemy's ultimate move, ",
-            "ending in a regrettable defeat..."
+            "Vì sự quấy rối của tôi vừa rồi, ",
+            "\\str[120] đã mất tập trung đúng vào thời khắc then chốt khi đối đầu với BOSS,",
+            "kết quả là trúng trọn đòn tất sát của đối phương, ",
+            "dẫn đến một thất bại đầy tiếc nuối..."
         ], 
         "2": [
-            "\\nl< >\"\\str[121]!? Where on earth are you touching————\""
+            "\\nl< >\"\\str[121]!? Rốt cuộc anh đang chạm vào đâu thế————\""
         ],  
         "3": [
-            "\\nl< >\"Ah, no, stop itaaaaah——\""
+            "\\nl< >\"Ah, không, Đừng màaaaaa——\""
         ], 
         "4": [
-            "Because of my interference just now, ",
-            "\\str[120]'s certain-kill backstab failed completely.",
-            "Her position exposed, she was instantly swarmed by every enemy in the village,",
-            "and in the chaotic mob attack, the game soon reached its end..."
+            "Cũng vì sự can thiệp vừa rồi của tôi, ",
+            "cú ám sát chí mạng của \\str[120] hoàn toàn thất bại.",
+            "Vị trí bị lộ, em ấy lập tức bị toàn bộ kẻ địch trong làng bao vây,",
+            "và giữa đợt tấn công hỗn loạn đó, ván game nhanh chóng đi đến hồi kết..."
         ]  
     }
 }
