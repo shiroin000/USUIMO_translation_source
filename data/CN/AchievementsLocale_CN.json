@@ -59,7 +59,12 @@
       "Name": "扭蛋是坏文明！",
       "Description": "在扭蛋上浪费太多钱被妹妹训了……",
       "Pop Up Desc": "扭蛋是坏文明！"
-    },                    
+    },         
+    "CanYouSendMe50K": {
+      "Name": "请给我50000元~！",
+      "Description": "给妹妹发了5万以上的红包！",
+      "Pop Up Desc": "请给我50000元~！"
+    },                
     "PeopleDieIfTheyAreKilled": {
       "Name": "人被杀就会死？",
       "Description": "在深渊里体力归零……",

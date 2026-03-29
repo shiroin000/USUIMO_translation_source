@@ -62,7 +62,12 @@
       "Name": "Gacha Is a Bad Civilization!",
       "Description": "Spent too much money on gacha and got scolded by Imouto...",
       "Pop Up Desc": "\\fs[21]Gacha Is a Bad Civilization!"
-    },        
+    }, 
+    "CanYouSendMe50K": {
+      "Name": "Can You Send Me 50K~?",
+      "Description": "Gave Imouto over 50,000 in allowance at once!",
+      "Pop Up Desc": "Can You Send Me 50K~?"
+    },           
     "PeopleDieIfTheyAreKilled": {
       "Name": "People Die If They Are Killed?",
       "Description": "Your HP drops to zero in the Abyss...",

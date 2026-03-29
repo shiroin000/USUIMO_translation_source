@@ -460,6 +460,67 @@
       "you’re getting way too into this…!?\"    \\w[180]\\^"
     ]
   },
+  "6": {
+    "0": [
+      "\\nl< >\"It's a shiny coin!",
+      "It's okay, every cent counts! ",
+      "I'll keep it safe for you~!\""
+    ],
+    "1": [
+      "\\nl< >\"Small savings are the first step to financial management!",
+      "I'll store it away carefully for you, \\str[121]! Ehehe~\""
+    ],
+    "2": [
+      "\\nl< >\"Ooh, it's a banknote!",
+      "With this much, can we have something extra ",
+      "for dinner tomorrow!?\""
+    ],
+    "3": [
+      "\\nl< >\"Good work today, \\str[121]!",
+      "Hehe, saving a thousand every day means in a year it'll be...\""
+    ],
+    "4": [
+      "\\nl< >\"So much... it feels heavy.",
+      "Just holding it gives me such a sense of accomplishment!\""
+    ],
+    "5": [
+      "\\nl< >\"\\str[121], you were amazing today...!",
+      "Being so generous... did you complete a big commission or something?\""
+    ],
+    "6": [
+      "\\nl< >\"T-Ten thousand!? \\str[121]...",
+      "today's adventure must have been really tough, right?",
+      "Please don't push yourself too hard, okay...?\""
+    ],
+    "7": [
+      "\\nl< >\"\\str[121]!?",
+      "With this much... ",
+      "can I ask for a few more bottles of milk?\""
+    ],
+    "8": [
+      "\\nl< >\"W-what's with this thickness!?",
+      "\\str[121]... you aren't doing anything reckless out there, ",
+      "are you...?\""
+    ],
+    "9": [
+      "\\nl< >\"Is... is this the power of money...",
+      "I feel like I'm floating...\""
+    ],
+    "10": [
+      "\\nl< >\"One, two, three...",
+      "Ueeeh, I've lost count already~!",
+      "Is... is it really okay to leave this much in my care...?\""
+    ],
+    "11": [
+      "\\nl< >\"I'm getting a bit confused...",
+      "\\str[121]... is our family actually... really rich...?\""
+    ],
+    "12": [
+      "I've already given \\str[120] an allowance today.",
+      "Doing it too frequently might put too much pressure on her.",
+      "Better wait until tomorrow..."
+    ]
+  },
   "7": {
     "0": [
       "\\str[120] looks like she’s sleeping so peacefully..."
@@ -653,7 +714,7 @@
       "\\str[120] just breaks down in tears.",
       "I fumble around, drying her hair while desperately ",
       "trying to soothe her with apologies."
-    ]    
+    ]
   },
   "13": {
     "0": [

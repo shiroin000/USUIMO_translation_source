@@ -56,7 +56,12 @@
       "Name": "ガチャは悪い文明！",
       "Description": "ガチャにお金を使いすぎて妹に叱られた……",
       "Pop Up Desc": "ガチャは悪い文明！"
-    },       
+    },
+    "CanYouSendMe50K": {
+      "Name": "5万円を送ってもらえます？",
+      "Description": "妹に一度で5万以上のお小遣いをあげた！",
+      "Pop Up Desc": "5万円を送ってもらえます？"
+    },           
     "PeopleDieIfTheyAreKilled": {
       "Name": "人は殺されれば死ぬ……か？",
       "Description": "アビスで体力がゼロになる……",
