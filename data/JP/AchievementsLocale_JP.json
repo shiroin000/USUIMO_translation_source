@@ -51,7 +51,12 @@
       "Name": "妹の抱き枕になる",
       "Description": "ゲーム中に妹を膝の上に乗せられるようになった！",
       "Pop Up Desc": "妹がいればいいじゃない？"
-    },    
+    }, 
+    "GachaIsBadCivilization": {
+      "Name": "ガチャは悪い文明！",
+      "Description": "ガチャにお金を使いすぎて妹に叱られた……",
+      "Pop Up Desc": "ガチャは悪い文明！"
+    },       
     "PeopleDieIfTheyAreKilled": {
       "Name": "人は殺されれば死ぬ……か？",
       "Description": "アビスで体力がゼロになる……",

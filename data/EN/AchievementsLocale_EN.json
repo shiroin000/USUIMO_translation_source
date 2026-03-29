@@ -57,7 +57,12 @@
       "Name": "Imouto Body Pillow",
       "Description": "can now have Imouto sit on lap while gaming!",
       "Pop Up Desc": "\\fs[20]Isn't having Imouto enough?"
-    },    
+    },
+    "GachaIsBadCivilization": {
+      "Name": "Gacha Is a Bad Civilization!",
+      "Description": "Spent too much money on gacha and got scolded by Imouto...",
+      "Pop Up Desc": "\\fs[21]Gacha Is a Bad Civilization!"
+    },        
     "PeopleDieIfTheyAreKilled": {
       "Name": "People Die If They Are Killed?",
       "Description": "Your HP drops to zero in the Abyss...",

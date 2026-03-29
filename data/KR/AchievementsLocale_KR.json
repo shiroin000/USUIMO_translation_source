@@ -11,7 +11,7 @@
       "Trophy Description": "싸워라...싸워라!!"
     },
     "Gacha": {
-      "Category Name": "수집의 추억",
+      "Category Name": "수집품의 추억",
       "New Scene Name": "",
       "Trophy Description": "모든 아이템을 모으면 소환할 수 있다고 한다—"
     },
@@ -19,13 +19,20 @@
       "Category Name": "요리의 추억",
       "New Scene Name": "",
       "Trophy Description": "요리는 사람들에게 행복을 가져다주는 것"
+    },
+    "Hentai": {
+      "Category Name": "야릇한 추억",
+      "New Scene Name": "",
+      "Trophy Description": "여자는 설탕과 향신료, 그리고 멋진 것들로 만들어져 있다"
     }
   },
   "achievements": {
     "JoyStation V": {
       "Name": "게임 콘솔을 얻었다!",
       "Description": "이제 여동생과 함께 게임을 할 수 있다!",
-      "Pop Up Desc": "게임 콘솔을 얻었다!"
+      "Pop Up Desc": [
+        "게임이라 해도 놀이가 아니다"
+      ]
     },
     "AirKing": {
       "Name": "에어 킹",
@@ -55,14 +62,14 @@
     },
     "UnlimitedBladeWaste": {
       "Name": "무한의 검총",
-      "Description": "무기의 저장량은 충분한가?",
+      "Description": "100자루 이상의 무기를 파괴했다",
       "Pop Up Desc": [
         "무기의 저장량은 충분한가?"
       ]
     },
     "YouTooCanBecomeLight": {
       "Name": "빛이 될 수 있어!",
-      "Description": "사람은 누구나 스스로 빛이 될 수 있어!",
+      "Description": "아키의 저주가 다시금 불타올랐다.",
       "Pop Up Desc": [
         "\\fs[36]빛이 될 수 있어!"
       ]
@@ -74,6 +81,65 @@
         "\\fs[24]「이제……",
         "한 방울도 남지 않았어……」"
       ]
+    },
+    "MyImoutoIsJustThatCute": {
+      "Name": "내 여동생이 이렇게 귀여울 리가!",
+      "Description": "서로에 대한 호감도는 최고가 되었다!",
+      "Pop Up Desc": [
+        "내 여동생이 이렇게 귀여울 리가!"
+      ]
+    },
+    "ImoutoBodyPillow": {
+      "Name": "여동생을 위한 방석",
+      "Description": "게임 중에 여동생을 무릎 위에 앉힐 수 있게 되었다!",
+      "Pop Up Desc": "여동생만 있으면 되잖아?"
+    },
+    "PeopleDieIfTheyAreKilled": {
+      "Name": "사람은 살해당하면 죽는...가?",
+      "Description": "아비스에서 체력이 0이 된다...",
+      "Pop Up Desc": [
+        "사람은 살해당하면 죽는...가?"
+      ]
+    },
+    "HoardingHabit": {
+      "Name": "수집 버릇",
+      "Description": "별의 문에 대량의 아이템을 넣었다",
+      "Pop Up Desc": [
+        "모으지 않으면 죽는 병에 걸렸다"
+      ]
+    },
+    "TransportedToIsekai": {
+      "Name": "이세계 전생?",
+      "Description": "트럭에 무정하게 치였다...",
+      "Pop Up Desc": "이세계 전생 마법!?"
+    },
+    "YouAreAlreadyDead": {
+      "Name": "레퀴엠",
+      "Description": "사신에게 죽음을 선고받았다",
+      "Pop Up Desc": "너는 이미 죽어 있다"
+    },
+    "ServantAndMaster": {
+      "Name": "서번트와 마스터",
+      "Description": "동시에 5체의 서번트를 사역한다",
+      "Pop Up Desc": [
+        "\\fs[24]「묻겠다.",
+        "그대가 우리들의 마스터인가?"
+      ]
+    },
+    "BossFirstAppearance": {
+      "Name": "왕의 탄생을 축하하라!",
+      "Description": "처음으로 보스와 전투한다",
+      "Pop Up Desc": "왕의 탄생을 축하하라!"
+    },
+    "ObtainWornPanties": {
+      "Name": "입지 않은 팬티는 아무런 가치도 없어!",
+      "Description": "여동생에게 팬티를 받았다~!",
+      "Pop Up Desc": "입지 않은 팬티는 아무런 가치도 없어!"
+    },
+    "ErogameWithImouto": {
+      "Name": "구제불능 시스콘",
+      "Description": "여동생의 방에서, 여동생의 컴퓨터를 사용해, 여동생에게 파렴치한 짓을 한다",
+      "Pop Up Desc": "여동생과 게임을 할까?"
     }
   }
 }

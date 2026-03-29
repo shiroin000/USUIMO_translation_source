@@ -54,14 +54,19 @@
       "Name": "我的妹妹就是这么可爱！",
       "Description": "和妹妹的亲密度达到顶点！",
       "Pop Up Desc": "我的妹妹就是这么可爱！"
-    },               
+    },
+    "GachaIsBadCivilization": {
+      "Name": "扭蛋是坏文明！",
+      "Description": "在扭蛋上浪费太多钱被妹妹训了……",
+      "Pop Up Desc": "扭蛋是坏文明！"
+    },                    
     "PeopleDieIfTheyAreKilled": {
       "Name": "人被杀就会死？",
       "Description": "在深渊里体力归零……",
       "Pop Up Desc": "人被杀就会死？"
     }, 
     "HoardingHabit": {
-      "Name": "囤积癖",
+      "Name": "仓鼠党",
       "Description": "向星之门放入了大量物品",
       "Pop Up Desc": [
         "\\fs[24]得了一种不囤东西",
