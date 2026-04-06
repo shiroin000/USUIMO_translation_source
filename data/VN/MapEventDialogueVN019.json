@@ -1,0 +1,679 @@
+{
+    "Note": [
+        "(This note is for the translator only and does not need to be translated.)", 
+        "If you notice strange gaps appearing in each line of text, those are placeholders.",
+        "The game is already set up so that each dialogue box can display a maximum of four lines of text, ",
+        "and any text exceeding four lines will automatically continue in the next dialogue box. ",
+        "To avoid awkward line breaks in the actual display, I will manually trim long passages whenever necessary so that, ",
+        "as much as possible, a complete sentence appears within a single dialogue box.",
+        "The intentional insertion of spaces is meant to split the text into content for different dialogue boxes.",
+        "So when translating into other languages, you may follow this rule and add blank placeholders yourself to split the text."
+    ],   
+    "1": {
+        "0": [
+            "I hold my breath, moving to the head of \\str[120]'s bed ",
+            "as silently as a phantom in the night.",
+            "...Heh, even I'm in awe of stealth skills like these."
+        ],
+        "1": [
+            "I carefully shift my feet toward the side of the bed,",
+            "terrified that the slight creak of the floorboards might wake \\str[120]."
+        ],
+        "2": [
+            "What should I do...?"
+        ],
+        "10": [
+            "First, I should take a careful look at \\str[120]'s condition.",
+            "\\w[60]\\^"
+        ],
+        "11": [
+            "\\str[120] is sleeping so soundly, ",
+            "she probably won't notice if I give her a few light touches, right...?",
+            "\\w[60]\\^"
+        ],
+        "12": [
+            "Gulp... I'm starting to get nervous...",
+            "\\w[60]\\^"
+        ],
+        "13": [
+            "It's safer to keep a bit of distance for now.",
+            "it'll be a disaster if I'm caught...",
+            "\\w[60]\\^"
+        ],
+        "14": [
+            "Actually, I'll get a little closer... ",
+            "I want to see her more clearly.",
+            "\\w[60]\\^"
+        ],
+        "15": [
+            "Should I call it a night here...?",
+            "It's getting late."
+        ],
+        "16": [
+            "Return to Sleep",
+            "Stay a while"
+        ],
+        "17": [
+            "Yeah, I should hurry back to sleep too."
+        ],
+        "18": [
+            "I'll stay just a little longer.",
+            "I never get tired of looking at this defenseless sleeping face..."
+        ],
+        "19": [
+            "Crap, before that, ",
+            "I have to fix \\str[120]'s clothes that I messed up.",
+            "I can't leave any traces—"
+        ],
+        "20": [
+            "Phew, it looks exactly like it did before..."
+        ],
+        "21": [
+            "I can't resist giving \\str[120]'s head one last pat",
+            "before satisfiedly slipping back to my room and passing out."
+        ],
+        "22": [
+            "Oh no, it's already this late—        \\w[30]",
+            "I have to get up early tomorrow, ",
+            "I need to get back to sleep now..."
+        ],
+        "23": [
+            "Bad sign, \\str[120]'s eyelids are fluttering.",
+            "she's about to wake up—! I can't continue!",
+            "let's end things here for tonight..."
+        ],
+        "24": [
+            "I carefully roll \\str[120]'s body over.",
+            "Though the sound of clothes rubbing against the sheets is piercing",
+            "in the dead silence of the room, \\str[120] seems completely ",
+            "lost in a deep dream with no sign of waking up."
+        ]
+    },
+    "2": {
+        "0": [
+            "What is this... some kind of cute new species of reptile?",
+            "I knew \\str[120] sometimes had bad sleeping habits,",
+            "but this bizarre pose before me leaves me ",
+            "in a momentary state of confusion."
+        ],
+        "1": [
+            "Just what kind of dream results in a pose like this..."
+        ],
+        "2": [
+            "Even though \\str[120] is sleeping deeply ",
+            "and doesn't seem uncomfortable,",
+            "I've decided to fix her sleeping posture.",
+            "it's just too worrying to look at otherwise..."
+        ],
+        "3": [
+            "\"....................\""
+        ],
+        "4": [
+            "Through my efforts, ",
+            "I successfully got \\str[120] into a different position."
+        ],
+        "5": [
+            "\"...Ah, crap!",
+            "It ended up being a weird sleeping pose after all...!\""
+        ]
+    },
+    "6": {
+        "0": [
+            "\\str[120]'s face is flushed with an unusually deep crimson, ",
+            "a heat that seems to have spread from her cheeks to her ears.",
+            "Her wet, rapid gasps are clearly audible in the silent room,",
+            "as if every breath is telling a story of some unspeakable emotion."
+        ],
+        "1": [
+            "\\str[120]'s plump, rounded cheek bulges slightly against the pillow.",
+            "This defenseless sleeping face radiates an innocent, child-like purity.",
+            "just watching her brings a sense of inner peace that heals the soul."
+        ],
+        "2": [
+            "The moment my fingertips touch \\str[120]'s cheek, ",
+            "an unusual, burning heat is transmitted through them.",
+            "The fine beads of sweat seeping out from the heat give her ",
+            "skin a delicate, slick, and moist texture."
+        ],
+        "3": [
+            "I try to gently pinch \\str[120]'s puffy cheek.",
+            "The soft, mochi-like, bouncy texture is absolutely addictive;",
+            "the thick elasticity under my fingertips feels just like ",
+            "a squirrel's cheeks."
+        ],
+        "4": [
+            "I'll try patting \\str[120]'s head. ",
+            "maybe it'll help her sleep more soundly."
+        ],
+        "5": [
+            "I reach out, my fingertips gently sinking into \\str[120]'s ",
+            "silky-smooth hair, slowly stroking her small head.",
+            "\\str[120] lets out a satisfied, faint murmur, ",
+            "seemingly able to feel my touch even in her sleep."
+        ],
+        "6": [
+            "I press my palm against \\str[120]'s slightly sweaty forehead,",
+            "kneading repeatedly through the sticky roots of her hair, ",
+            "taking in that thick scent that is almost cloying.",
+            " ",
+            "Even though her body shudders reflexively from the heat, ",
+            "her previously furrowed brow gradually relaxes."
+        ],
+        "7": [
+            "Brushing aside the silver strands on her cheek, ",
+            "\\str[120]'s long, pointed ears are revealed.",
+            "Under the dim light, those ears have a nearly transparent quality,",
+            "rising and falling slightly with her breath, appearing both sacred and serene."
+        ],
+        "8": [
+            "Even in the dark room, it's obvious at a glance that ",
+            "the tips of \\str[120]'s ears are red enough to drip blood.",
+            "That looming heat is a silent accusation of the unspeakable ",
+            "restlessness within her..."
+        ],
+        "9": [
+            "I reach out, my fingertips lightly tracing the cool, ",
+            "delicate edge of \\str[120]'s ear.",
+            "As I stroke her gently, she lets out a sweet, ",
+            "kitten-like purr of comfort."
+        ],
+        "10": [
+            "The moment I pinch those burning ear tips, ",
+            "a startling heat spreads through my fingers.",
+            "With just a slight kneading, \\str[120]'s body begins to tremble softly."
+        ]
+    },
+    "7": {
+        "0": [
+            "\\str[120]'s small hand rests quietly to the side, ",
+            "her fingers slender and ivory-white."
+        ],
+        "1": [
+            "I gently take \\str[120]'s cool, soft hand in mine,",
+            "my fingertips tracing the outline of her frail knuckles, ",
+            "occasionally teasing her palm with a mischievous flick."
+        ],
+        "2": [
+            "\\str[120] has her legs curled up, ",
+            "her fair toes hooking naturally in her deep sleep.",
+            "The delicate arc of her instep gives off a satin-like sheen ",
+            "under the light."
+        ],
+        "3": [
+            "The tips of \\str[120]'s ten small toes are reflexively clawing ",
+            "at the sheets due to some strange heat, and the fine sweat ",
+            "on her soles reflects a slick glimmer in the light."
+        ],
+        "4": [
+            "I reach out, ",
+            "my fingertips lightly grazing the soles of \\str[120]'s feet.",
+            "Even with just this level of stroking, she curls her legs ",
+            "even tighter as if she were ticklish."
+        ],
+        "5": [
+            "Holding those soles that are flushed pink from the high fever, ",
+            "a startling heat instantly spreads to my fingertips.",
+            " ",
+            " ",
+            "As I knead them playfully, ",
+            "her ten small toes curl tightly from oversensitivity,",
+            "stretching her white instep into a tempting curve."
+        ],
+        "6": [
+            "In her side-lying position, ",
+            "\\str[120]'s belly forms an extremely flat and soft curve.",
+            "It rises and falls evenly with her steady breathing, ",
+            "radiating a vulnerable, innocent beauty."
+        ],
+        "7": [
+            "I gently rest my hand on her flat, soft belly.",
+            "Usually, \\str[120] would complain about whether I think she's getting fat,",
+            "and thinking of that makes me want to rub it even more."
+        ],
+        "8": [
+            "In the dim light, ",
+            "the skin all over \\str[120]'s body has a translucent ivory hue.",
+            "The air is filled with a faint, girlish fragrance, ",
+            "as if every inch of her skin is radiating a tempting aura."
+        ],
+        "9": [
+            "\\str[120]'s originally white skin is now flushed with a ",
+            "tempting peach-red, especially at her joints and neck, ",
+            "where the flush is particularly deep and moist.",
+            " ",
+            "Due to her rising temperature, a thick, ",
+            "cloying girlish scent hangs in the air,",
+            "making it impossible not to want to feel her from even closer."
+        ],
+        "10": [
+            "My fingertips slide over \\str[120]'s skin. ",
+            "that silky-smooth, cool touch, combined with a girl's",
+            "startling elasticity, makes it hard to pull away."
+        ],
+        "11": [
+            "The moment I touch \\str[120]'s skin, ",
+            "my fingertips are enveloped in a startling heat.",
+            "Every inch of skin pressed by my fingers leaves a temporary red mark.",
+            "even in her sleep, her body trembles with my movements."
+        ]
+    },
+    "9": {
+        "0": [
+            "First, ",
+            "I'll try pulling this annoying camisole down a little..."
+        ],
+        "1": [
+            "I have to carefully slide the strap to the side to ",
+            "let the whole garment slip off her shoulder.",
+            "This is the most critical step... ",
+            "the movement must be slow, even slower..."
+        ],
+        "2": [
+            "The last bit of obstruction is gone.",
+            "While \\str[120] is still asleep, ",
+            "let's strip it off completely in one go!"
+        ],
+        "3": [
+            "Start from the edge of the shorts, ",
+            "pulling them down just a bit..."
+        ],
+        "5": [
+            "I've reached the base of her thighs.",
+            "In one burst of energy, ",
+            "let's take these annoying shorts off entirely!"
+        ],
+        "6": [
+            "No good, the outer shorts are blocking everything. ",
+            "I have to take off the outer layer first."
+        ],
+        "7": [
+            "Since I've already stripped her this far, ",
+            "I might as well take her panties off too!"
+        ],
+        "8": [
+            "While this 'peek-a-boo' wrapped sensation is extremely charming,",
+            "I'm more interested in what's actually under that fabric right now...",
+            "As expected, let's just take them off!"
+        ],
+        "9": [
+            "Apply a little more force and pull them down further...",
+            "I'll be able to see \\str[120]'s most private place ",
+            "in just a second..."
+        ],
+        "10": [
+            "Now's the time—",
+            "let's uncover this final line of defense entirely!"
+        ]
+    },
+    "12": {
+        "1": [
+            "\\str[120] doesn't have the best constitution, ",
+            "but her sleeping style is incredibly bold."
+        ],
+        "2": [
+            "\"Just how much tossing and turning does it take to end up ",
+            "in a weird pose like this...?\""
+        ],
+        "3": [
+            "Since I've come across such a fresh sight, ",
+            "should I take the chance to do something...?"
+        ],
+        "4": [
+            "Prop up her butt",
+            "Adjust sleeping pose"
+        ],
+        "5": [
+            "Hmm... in this position, ",
+            "I might actually be able to do it..."
+        ],
+        "6": [
+            "\"....................\""
+        ],
+        "7": [
+            "Under my manipulation, ",
+            "\\str[120] is posed in a way that is both comical and seductive."
+        ],
+        "8": [
+            "Even so, she's still sleeping deeply with no sign of waking up...",
+            "I feel like I could do a bit more?"
+        ],
+        "9": [
+            "No, no, snap out of it!",
+            "How could I treat \\str[120] like a toy...!?"
+        ],
+        "10": [
+            "\"...If she sleeps like this, ",
+            "her body's going to be too sore to move tomorrow.\""
+        ],
+        "11": [
+            "Touch pussy",
+            "Touch butt",
+            "Take off panties",
+            "Take off shorts",
+            "Adjust sleeping pose"
+        ],
+        "12": [
+            "As the final cover is removed, ",
+            "\\str[120]'s lower body is laid bare.",
+            "That elegantly colored, plump pussy is now defenselessly exposed ",
+            "under the light and shadow."
+        ],
+        "13": [
+            "I was prepared for this,",
+            "but seeing \\str[120] completely bare down there",
+            "makes a strange impulse surge through my heart."
+        ],
+        "14": [
+            "I can't help but reach my finger toward ",
+            "the deepest part of the indentation...",
+            "Even though it's still a budding, tender flower, ",
+            "it seems to possess a magical power, clinging tightly to my fingertip."
+        ],
+        "15": [
+            "I hold my breath, tentatively parting those closed petals... \\w[60]",
+            "That's right, this sacred land of \\str[120]'s that no one ",
+            "has yet set foot upon is about to be taken by me...!"
+        ],
+        "16": [
+            "You can't blame me... ",
+            "it's just that \\str[120]'s rounded butt is too tempting...",
+            "I mutter these self-deceiving excuses in my head ",
+            "as I reach out my hand."
+        ],
+        "17": [
+            "Even through a thin layer of fabric, ",
+            "I can clearly feel the contour of \\str[120]'s butt.",
+            " ",
+            " ",
+            "Pressing down slightly, ",
+            "my fingers sink into a mound of warm, soft flesh.",
+            "with every gentle knead, ",
+            "the body beneath the fabric gives a full bounce."
+        ],
+        "18": [
+            "Compared to the outer shorts, ",
+            "these tie-side panties offer a pitiful amount of coverage.",
+            "When my palm completely covers \\str[120]'s butt, my fingertips easily ",
+            "clear the edge of the fabric, resting directly against her skin."
+        ],
+        "19": [
+            "I instinctively slide my fingers between \\str[120]'s panties ",
+            "and her butt, rubbing repeatedly.",
+            "I enjoy watching the ties grow loose and precarious ",
+            "under my prying fingers."
+        ],
+        "20": [
+            "\\nl< >\"Ugh... mmmgh...\""
+        ],
+        "21": [
+            "\\str[120] seems to sense the abnormality in her lower body ",
+            "and lets out a resistant murmur.",
+            " ",
+            " ",
+            "That soft, seemingly unwilling groan is like ",
+            "a bucket of ice water poured directly on my heart.",
+            "I clumsily withdraw my hand, not daring to make a sound."
+        ],
+        "22": [
+            "Fortunately, ",
+            "heavy sleep pulls \\str[120] back into her dreams once more.",
+            "I slowly exhale, with the cold wind blowing, ",
+            "my heated brain finally cools down.",
+            "I was definitely moving too fast just now. ",
+            "Let's... stop here for now."
+        ]
+    },
+    "8": {
+        "0": [
+            "Leaning in, every breath is filled with the faint scent of oranges from \\str[120].",
+            "Through the thin camisole, those perky contours are clearly visible,",
+            "with the two small points in the center standing out sharply under the lamp's shadow."
+        ],
+        "1": [
+            "Leaning in, every breath is filled with the faint scent of oranges from \\str[120].",
+            "Through the thin camisole, those perky contours are clearly visible,",
+            "rising and falling in my vision with her breath."
+        ],
+        "2": [
+            "As the camisole is pulled down a bit, ",
+            "the edge of a faint areola becomes faintly visible.",
+            "Without the restraint of clothing, this tangible sense of fullness ",
+            "is many times more spectacular than when viewed through fabric."
+        ],
+        "3": [
+            "The camisole has been pulled down more than halfway. ",
+            "\\str[120]'s breasts are almost entirely exposed.",
+            "The nipples and areolae are a vivid, undeveloped pink, ",
+            "their shape rounded and perfect."
+        ],
+        "4": [
+            "\\str[120]'s breasts are presented before me without any concealment.",
+            "Uncharacteristic of her slender frame, ",
+            "they are like heavy fruit hanging from a thin branch;",
+            "just looking at them makes me want to take a hard bite."
+        ],
+        "5": [
+            "I reach out and grab one through the camisole. ",
+            "my palm is instantly filled with extreme softness.",
+            " ",
+            " ",
+            "My fingertips trace that perky contour through the fabric. ",
+            "\\str[120] seems to enjoy this deep stroking,",
+            "as her breathing grows even sweeter in her sleep-talk."
+        ],
+        "6": [
+            "I reach out and grab one through the camisole. ",
+            "my palm is instantly filled with extreme softness.",
+            "This sensation—sinking in like a marshmallow yet bursting with life—",
+            "is truly impossible to leave."
+        ],
+        "8": [
+            "Now that the camisole is pulled down halfway, ",
+            "I can finally touch her directly.",
+            "The startling heat around the areola makes every slide of ",
+            "my fingertips feel like walking on a burning edge."
+        ],
+        "9": [
+            "The nipples at the tips have become completely erect.",
+            "When I twist them with my fingertips, they feel incredibly hot,",
+            "a sensation completely different from touching her through clothes."
+        ],
+        "10": [
+            "My fingertips sink deep into that mound of plump, soft flesh. ",
+            "this ultimate sensation makes me shiver with excitement."
+        ],
+        "11": [
+            "As more of the camisole is pulled down,",
+            "the area I can touch grows larger and larger."
+        ],
+        "12": [
+            "I take \\str[120]'s breast entirely in my hand and knead it wantonly,",
+            "like a ball of soft raw dough, ",
+            "changing into various lewd shapes under my strength."
+        ],
+        "13": [
+            "My palm is occasionally grazed by that hard little point.",
+            "if I feel carefully, I can clearly tell that ",
+            "\\str[120]'s body temperature is rising."
+        ],
+        "14": [
+            "\\str[120]'s heartbeat is passing through this layer of soft fat",
+            "and being clearly transmitted to my palm."
+        ],
+        "15": [
+            "These warm, plump soft mounds of \\str[120]'s have finally ",
+            "fallen completely into my hands. ",
+            "This tangible flesh and body heat make those earlier attempts ",
+            "through the camisole seem quite dull."
+        ],
+        "16": [
+            "When I pinch and tease the nipple with a bit more force,",
+            "I can hear a faint gasp escape her lips, and her small body shudders."
+        ],
+        "17": [
+            "Every knead results in a completely different, fresh feedback;",
+            "my palm seems to be firmly stuck to her as if by some magic called lust."
+        ],
+        "19": [
+            "Due to her side-lying, curled-up position, ",
+            "\\str[120]'s legs are tightly crossed,",
+            "squeezing the base of her thighs into a plump, soft curve. ",
+            "her skin is so white it seems to glow."
+        ],
+        "20": [
+            "The skin on the inside of \\str[120]'s thighs is currently flushed ",
+            "a tempting pink, with fine beads of sweat sliding down her crotch.",
+            "As her breathing grows restless, ",
+            "her crossed feet occasionally rub against each other."
+        ],
+        "21": [
+            "I reach out and slide my hand along that long line, ",
+            "my fingertips sinking into the soft flesh at the base of her thigh.",
+            " ",
+            " ",
+            "Even with just this level of gentle stroking, ",
+            "\\str[120] instinctively kicks her leg slightly in her sleep.",
+            "I find this animal-like feedback quite interesting."
+        ],
+        "22": [
+            "Just as I tentatively slide my fingertips into that ",
+            "tightly closed gap between her thighs, ",
+            "\\str[120] reflexively squeezes her legs shut.",
+            " ",
+            "My fingertips are immediately enveloped and ",
+            "squeezed by two mounds of warm, soft flesh.",
+            "especially with the fine sweat from her rising temperature, ",
+            "this skin-on-skin friction becomes exceptionally slick."
+        ]
+    },
+    "16": {
+        "23": [
+            "Even through those fluffy shorts,",
+            "the rounded contours of \\str[120]'s butt are clearly visible, ",
+            "stretching the fabric tight."
+        ],
+        "24": [
+            "\"Hehe... she's wearing \\sa[\\v[90]] right now.",
+            "Looks like that'll be tomorrow's lucky color~\""
+        ],
+        "25": [
+            "As the shorts are pulled down a bit, the edge of that white, ",
+            "deep butt crack becomes visible.",
+            "Just looking at the flesh squeezed out from the pressure, ",
+            "I can imagine how good the texture feels."
+        ],
+        "26": [
+            "The edge of the tiny panties has sunken deep into the curve of the crack,",
+            "completely bringing out the heavy quality of \\str[120]'s butt.",
+            "This plump, squeezed arc, paired with the faint wrinkles,",
+            "just makes you want to reach out and touch it."
+        ],
+        "27": [
+            "\\str[120]'s butt is presented before me without any concealment, ",
+            "giving off a slick glimmer in the light.",
+            "I really want to give it a hard smack just to see it jiggle."
+        ],
+        "28": [
+            "Kneading \\str[120]'s butt through the fluffy fabric ",
+            "feels like playing with a large stuffed animal.",
+            "that soft, mochi-like bounce makes me want to squeeze it a few more times."
+        ],
+        "29": [
+            "............Wait, this is strange.",
+            "I didn't notice when, ",
+            "but my palm is starting to feel a sticky dampness.",
+            "Why is the originally dry fabric starting to get sticky?"
+        ],
+        "30": [
+            "As the shorts are pulled down a bit more, ",
+            "my palm finally clears the obstruction of the fabric",
+            "and rests tangible against \\str[120]'s butt.",
+            "The intense satisfaction makes me squeeze it hard a few times."
+        ],
+        "31": [
+            "Without the shorts to hide it, ",
+            "\\str[120]'s rounded butt is completely presented before me.",
+            " ",
+            " ",
+            "What's more, those thin panties are still cutting deep into her crack,",
+            "completely defining the contour of her butt, ",
+            "even making the tempting wrinkles clearly visible."
+        ],
+        "32": [
+            "With a bit of a mischievous spirit, I extend my finger",
+            "and slowly sink it toward the deepest indentation—",
+            "As the fabric is pushed into that narrow slit by my fingertip, the already ",
+            "prominent contour becomes even deeper and more defined from the pressure."
+        ],
+        "33": [
+            "What excites me even more is that the fabric ",
+            "pushed inside is instantly soaked by a wave of moisture.",
+            "With just a stir of my finger, I can feel that ",
+            "sticky dampness spreading around my fingertip."
+        ],
+        "34": [
+            "\\str[120]'s butt is now displayed before me completely bare.",
+            "I try to press my entire palm firmly against it,",
+            "then mischievously grab and knead it to my heart's content."
+        ],
+        "35": [
+            "After just a few rounds of kneading, ",
+            "my palm is suddenly stained with a clear, sticky brilliance.",
+            " ",
+            " ",
+            "It's the moist love juice seeping out from the deepest part of the crack, ",
+            "being spread repeatedly by my movements,",
+            "making every subsequent squeeze exceptionally slick."
+        ],
+        "36": [
+            "This soft, fleshy elasticity is full of healing.",
+            "I almost want to use it as a pillow and just sleep like this."
+        ],
+        "37": [
+            "The annoying shorts are still blocking the most critical spot. ",
+            "this 'one step away' feeling is really teasing.",
+            "It seems I won't be able to see the real scenery unless ",
+            "I pull them down a little further."
+        ],
+        "38": [
+            "Even though the shorts are halfway down, ",
+            "the panties inside are still guarding the final pass.",
+            "This 'half-hidden' look is the most agonizing. ",
+            "I can only see a tiny bit of the pure white edge in that narrow slit."
+        ],
+        "39": [
+            "...Looking closely, I can see a small patch of deep-colored ",
+            "water stains spreading in the middle of that narrow slit.",
+            "That wet, translucent look... even without touching it, ",
+            "I can feel a startling heat."
+        ],
+        "40": [
+            "Without the shorts to hide it, the contour of her slit, ",
+            "tightly defined by the pure white fabric, is clearly visible.",
+            "Even though the real thing is still hidden, ",
+            "this tantalizing, half-concealed view is even more exciting."
+        ],
+        "41": [
+            "Even though her panties have been pulled down a bit,",
+            "the layers of white fabric are all bunched up at the base of her thighs,",
+            "completely obstructing the most critical view.",
+            " ",
+            "This feeling of being so close, ",
+            "yet still unable to reach her secret garden, is truly agonizing."
+        ],
+        "42": [
+            "I rest my palm on \\str[120]'s lower body and ",
+            "stroke it back and forth slowly.",
+            "Through that thick layer of fabric, ",
+            "all I can feel is a mound of startling warmth and softness.",
+            "The resistance from the friction of the fabric only fuels ",
+            "my desire to rip it off completely."
+        ],
+        "43": [
+            "...My palm is soon filled with a sticky dampness.",
+            "It seems \\str[120]'s body has already become a mess from the heat.",
+            "even fabric of this thickness is about to be ",
+            "soaked through with love juice."
+        ]
+    }
+}
