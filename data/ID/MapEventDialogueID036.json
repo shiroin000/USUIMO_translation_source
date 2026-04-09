@@ -1,107 +1,218 @@
-﻿{
+{
   "1": {
     "0": [
-      "Sekarang adalah era bertahun-tahun setelahnya",
-      "Raja Iblis dikalahkan oleh Pahlawan."
+      "Kini, sudah bertahun-tahun berlalu sejak Raja Iblis dikalahkan oleh",
+      "Sang Pahlawan."
     ],
     "1": [
-      "Pahlawan dan Sage yang dulunya terkenal,",
-      "legenda mereka kini tidak ada lagi",
-      "daripada dongeng yang digunakan orang dewasa untuk memarahi anak-anak."
+      "Sang Pahlawan dan Sang Bijak yang dulu termasyhur,",
+      "Kisah mereka kini tak lebih dari",
+      "Dongeng yang dipakai orang dewasa untuk menasihati anak-anak."
     ],
     "2": [
-      "Ini adalah nama yang diberikan untuk labirin raksasa misterius",
-      "yang tiba-tiba muncul ke permukaan sepuluh tahun lalu."
+      "Ini adalah sebutan untuk yang tiba-tiba muncul di permukaan, sepuluh",
+      "tahun lalu, Labirin besar misterius itu."
     ],
     "3": [
-      "Kedalamannya yang tampaknya tak ada habisnya,",
-      "daerah yang dipenuhi dengan berbagai reruntuhan,",
-      "dan monster berkembang biak dengan cepat di bawah kekuatan magisnya."
+      "Kedalaman yang seolah tiada akhir,",
+      "Area yang bercampur dengan berbagai reruntuhan,",
+      "Monster yang berkembang biak cepat, disuburkan oleh kekuatan sihir."
     ],
     "4": [
-      "Dengan Raja Iblis yang tidak lagi mengancam umat manusia,",
-      "kelahiran tiba-tiba dari labirin yang tidak diketahui ini,",
-      "seketika menghancurkan kedamaian singkat di dunia manusia."
+      "Kini, saat Raja Iblis tak lagi mengancam dunia manusia,",
+      "Kemunculan labirin tak dikenal yang tak pernah diketahui siapa pun",
+      "ini, Seketika menghancurkan kedamaian singkat dunia manusia."
     ],
     "5": [
-      "Guild Petualang mengorganisir banyak tim eksplorasi",
-      "untuk menyelidikinya, tetapi mereka tidak pernah membuat kemajuan yang berarti.",
-      "Namun, labirin tidak pernah menunjukkan niat untuk menyerang",
-      "atau menyerang dunia luar."
+      "Serikat Petualang telah berkali-kali membentuk tim penjelajah untuk",
+      "masuk jauh ke dalamnya, Namun, tak pernah mencapai kemajuan yang",
+      "berarti. Namun, labirin ini tak pernah menunjukkan niat menyerang",
+      "atau membalas ke dunia luar."
     ],
     "6": [
-      "Penguasa lokal dan berbagai kekuatan,",
-      "semua mencoba memberi nama dan mengelola labirin."
+      "Para penguasa lokal dan berbagai pihak berkuasa,",
+      "Semua pernah mencoba menamai dan mengelola labirin ini."
     ],
     "7": [
-      "Namun semua nama itu terlupakan seiring berjalannya waktu,",
-      "dan pada akhirnya, hanya 'Abyss' yang tersisa,",
-      "tertanam kuat dalam ingatan orang-orang."
+      "Namun, semua nama terlupakan seiring berjalannya waktu,",
+      "Pada akhirnya, hanya tersisa sebutan “Jurang Maut”,",
+      "Terukir dalam di ingatan manusia."
     ],
     "8": [
-      "Karena labirin tidak menunjukkan tanda-tanda",
-      "berkembang untuk mengkonsumsi dunia,",
-      "Guild Petualang akhirnya memutuskan——",
-      "membuka hak eksplorasinya kepada masyarakat."
+      "Karena labirin tidak menunjukkan tanda-tanda akan meluas dan menelan",
+      "dunia, Serikat Petualang akhirnya memutuskan— Untuk membuka hak",
+      "eksplorasi labirin ini kepada dunia."
     ],
     "9": [
-      "Jadi, profesi yang pernah terlupakan,",
-      "'petualang',",
-      "menyambut era baru yang penuh kejayaan dan semangat."
+      "Maka, profesi yang tadinya perlahan terlupakan,",
+      "“Petualang”,",
+      "Kembali menyambut kejayaan dan gelombang baru."
     ],
     "10": [
-      "Dan di labirin besar terakhir ini,",
-      "Aku hanya punya satu tujuan——",
-      "untuk menemukan cara untuk sepenuhnya menyembuhkan kondisi \\str[120]ku———"
+      "Dan di dalam labirin besar terakhir yang misterius ini,",
+      "Tujuanku hanya satu—",
+      "Yaitu menemukan cara untuk menyembuhkan sepenuhnya kondisi \\str[120]—"
     ]
   },
   "4": {
     "0": [
-      "Ayah saya adalah seorang alkemis yang brilian."
+      "Ayah adalah seorang alkemis yang sangat berbakat."
     ],
     "1": [
-      "Bahkan di era damai dimana tidak perlu lagi melawan iblis,",
-      "dia masih aktif memecahkan beberapa misteri alkimia."
+      "Bahkan di era damai sekarang, di mana tidak perlu lagi bertarung",
+      "dengan iblis, Ayah masih dengan gigih memecahkan beberapa masalah",
+      "alkimia."
     ],
     "2": [
-      "maafkan aku… tentang ibumu…"
+      "「Aku sangat menyesal soal Ibu…」"
     ],
     "3": [
-      "Saya sudah mencoba segalanya…",
-      "Tetapi…!"
+      "「Semua metode sudah kucoba…",
+      "Tapi…!」"
     ],
     "4": [
-      "Namun pria ini, yang dikagumi oleh semua orang,",
-      "sekarang berlutut dengan lemah di tanah,",
-      "berulang kali meminta maaf",
-      "untuk aku yang masih muda."
+      "Namun, pria yang begitu dihormati oleh dunia ini,",
+      "Kini berlutut tak berdaya di tanah,",
+      "Berulang kali,",
+      "Meminta maaf padaku yang masih kecil."
     ],
     "5": [
-      "Cengkeramannya di bahuku semakin erat,",
-      "dan aku tidak bisa menahan tangisnya.",
-      "Mungkin menyadari dia kehilangan kendali,",
-      "dia perlahan mengendurkan tangannya dan dengan lembut menepuk kepalaku."
+      "Tangan pria itu yang memegang bahuku perlahan mengerat,",
+      "Aku tak kuasa menahan tangis. Seolah akhirnya menyadari",
+      "kekhilafannya, Perlahan ia melepaskan tangannya, lalu beralih",
+      "mengelus rambutku dengan lembut."
     ],
     "6": [
-      "Tidak apa-apa sekarang… ini salah Ayah,",
-      "Aku seharusnya tidak menyerah begitu saja…"
+      "「Sudah tak apa, ini salah Ayah,",
+      "Seharusnya tak menyerah secepat ini...」"
     ],
     "7": [
-      "Kamu anak yang baik,",
-      "kamu tidak harus menanggung semua ini…",
-      "serahkan sisanya pada Ayah."
+      "「Kau anak baik, belum perlu menanggung semua ini...",
+      "Serahkan saja urusan selanjutnya pada Ayah.」"
     ],
     "8": [
-      "Itu benar… meskipun itu harus mengorbankan segalanya… aku harus…"
+      "「Benar... bahkan jika karena ini... aku harus...」"
     ],
     "9": [
-      "Suaranya mulai bergetar,",
-      "apakah dia takut pada sesuatu?"
+      "Suara pria itu perlahan bergetar,",
+      "Apakah karena sesuatu ia merasa takut?"
     ],
     "10": [
-      "Saat itu aku tidak mengerti satupun,",
-      "tapi aku ingat setelah hari itu,",
-      "dia tidak pernah kembali menjadi ayah yang baik dan lembut yang pernah kukenal."
+      "Aku masih tak tahu apa-apa tentang itu, hanya ingat setelah itu,",
+      "pria itu, Tak pernah lagi kembali menjadi sosok ayah berwajah ramah",
+      "yang kuingat."
+    ]
+  },
+  "5": {
+    "0": [
+      "\\nl<Pria>「Bulu... yang dijatuhkan Burung Api...",
+      "Meski direndam dalam asam kuat pun tak akan hancur...",
+      "Jika itu untuk itu... di sini masih butuh—」"
+    ],
+    "1": [
+      "Suara pria itu bergema rendah di bengkel yang penuh buku kuno,",
+      "Di atas meja, berbagai peralatan alkimia tertata rapi."
+    ],
+    "2": [
+      "Suara langkah kaki yang tergesa dan ringan tiba-tiba menginterupsi",
+      "gumaman pria itu. Seorang gadis berkaki telanjang, dengan rambut",
+      "seputih salju, Tanpa peringatan, menerobos masuk ke bengkel",
+      "berantakan yang penuh debu dan bau ramuan ini."
+    ],
+    "3": [
+      "\\nl<少年>\\{「Ah...! Ketemu juga!!",
+      "Berkeliaran lagi!!」"
+    ],
+    "4": [
+      "Di belakang gadis itu, seorang pemuda yang sedikit lebih tua",
+      "mengikutinya. Ia jelas sudah mengejar lama, terengah-engah sambil",
+      "memegangi lutut, menunjuk gadis itu dengan suara kesal."
+    ],
+    "5": [
+      "\\nl<少女>「……………………………………",
+      "……………………………………」"
+    ],
+    "6": [
+      "Gadis yang ditegur itu hanya berdiri terpaku, matanya yang kosong",
+      "tak memantulkan bayangan siapa pun."
+    ],
+    "7": [
+      "\\nl<少年>「Sialan! Wajah itu lagi, bahkan tak bersuara sedikit pun!",
+      "Ayah! Aku tak mau lagi menjaganya!!」"
+    ],
+    "8": [
+      "\\nl<少年>「Sudah beberapa hari, ia bahkan tak membuka mulutnya sekali pun!",
+      "Dan selalu kabur begitu saja... Ini sama sekali tak menyenangkan!!」"
+    ],
+    "9": [
+      "\\nl<男人>「Haaah... Begini lagi, ya...」"
+    ],
+    "10": [
+      "Melihat gadis itu terpaku menatap alat alkimia, sementara putranya",
+      "merengek di sampingnya, Pria itu tak bisa menahan diri untuk",
+      "menghela napas panjang, dan hanya bisa menghentikan pekerjaannya."
+    ],
+    "11": [
+      "\\nl<男人>「Kau juga bocah yang merepotkan, ya.",
+      "Sudah berapa kali kukatakan, jangan masuk bengkel tanpa izinku, itu",
+      "terlalu berbahaya!」"
+    ],
+    "12": [
+      "\\nl<少年>「Cih... Padahal kau orang dewasa tak berguna yang bahkan makan",
+      "siang saja harus dibuatkan anak kecil! Daripada barang rongsokan",
+      "membosankan ini, kapan kau akan mengajariku alkimia sejati?」"
+    ],
+    "13": [
+      "\\nl<男人>「Uhuk uhuk...! Bukankah beberapa hari lalu aku baru saja",
+      "membuatkanmu pedang mainan? Ayah akhir-akhir ini sibuk",
+      "mengidentifikasi relik dari Abyss yang dibawa untuk Guild, Sungguh",
+      "tak ada waktu untuk menemanimu bermain--」"
+    ],
+    "14": [
+      "\\nl<少年>「Pedang bobrok itu sudah lama patah, tahu! Abyss?",
+      "Maksudmu labirin besar yang tiba-tiba muncul itu!?",
+      "Hei, hei! Kapan aku bisa melihatnya juga!?」"
+    ],
+    "15": [
+      "\\nl<男人>「Tidak boleh! Itu bukan tempat anak kecil berpetualang!",
+      "Kita pindah ke sini juga untuk penelitian dan menyusun strategi,",
+      "jadi bersabarlah sedikit lagi...!」"
+    ],
+    "16": [
+      "\\nl<少女>「..............................",
+      "……………………………………」"
+    ],
+    "17": [
+      "Gadis yang tadinya diam seperti boneka itu, seolah menyadari",
+      "sesuatu, Gerakannya yang presisi seperti mesin, kembali bergerak,",
+      "Tiba-tiba berbalik, melewati keduanya, dan langsung berlari keluar",
+      "bengkel."
+    ],
+    "18": [
+      "\\nl<少年>「Aaaah—! Lihat! Dia tidak patuh lagi!!」"
+    ],
+    "19": [
+      "\\nl<男人>「Hah... selalu membuat khawatir... Cepat kejar dan bawa dia",
+      "kembali! Ingat, jangan sampai dia keluar dari area mansion,",
+      "penghalang di sini belum sepenuhnya stabil!」"
+    ],
+    "20": [
+      "Sang pemuda sebenarnya ingin membantah lagi, tapi melihat gadis itu",
+      "hampir lari dari pandangan, Dia hanya bisa menghentakkan kaki dengan",
+      "kesal, lalu kembali berlari mengejar."
+    ],
+    "21": [
+      "\\nl<男人>「..................Hah.",
+      "Semoga saja, waktu masih cukup.」"
+    ],
+    "22": [
+      "Pria itu berdiri di ambang pintu, menatap sosok di kejauhan yang",
+      "akhirnya berhasil mengejar gadis itu, keduanya bergumul menjadi",
+      "satu, Dengan lembut ia menghela napas, gumaman penuh kekhawatiran."
+    ],
+    "23": [
+      "Kemudian, seolah ingin menghindari firasat tertentu, ia kembali",
+      "duduk di kursi, Dan kembali membenamkan diri dalam penelitian."
     ]
   }
 }

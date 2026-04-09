@@ -1,154 +1,249 @@
-﻿{
+{
   "gameTitle": [
-    "Hidup Sederhana dengan Gadisku yang Tidak Mengganggu"
+    "Kehidupan Sederhana Bersama Adikku yang Tidak Mencolok"
+  ],
+  "translationNotes": [
+    "Saat ini, versi Bahasa Indonesia masih dalam proses penerjemahan dan pelengkapan konten.",
+    "Selama proses ini berlangsung, Anda mungkin akan menemukan teks yang hilang atau kesalahan dalam penerjemahan.",
+    "Mohon kesabaran Anda untuk menunggu pembaruan dan konten tambahan di masa mendatang."
+  ],
+  "goldHeld": [
+    "Emas"
   ],
   "quantityHeld": [
-    "\\fs[16]•Jumlah yang Dimiliki:\\c[17] ${} \\c[0]\\py[-8]"
+    "\\fs[18]•Jumlah Dimiliki:\\c[17] ${} \\c[0]\\py[-8]"
   ],
   "autoUpdate": [
-    "Pembaruan tersedia: Data game versi ${} terdeteksi.",
-    "Apakah Anda ingin mengunduh dan memperbarui sekarang?"
+    "Terdeteksi data game versi ${} yang dapat disinkronkan, apakah kau ingin mengunduh dan memperbarui sekarang?"
   ],
   "fullScreen": [
-    "Layar Penuh"
+    "Tampilan Layar Penuh"
   ],
   "masterVolume": [
-    "Jilid Utama"
+    "Volume Utama"
   ],
   "voiceVolume": [
-    "Volume Suara"
+    "Volume Karakter"
   ],
   "BgmVolume": [
-    "Volume BGM"
+    "Volume Musik Latar"
   ],
   "BgsVolume": [
-    "Volume BGS"
+    "Volume Efek Suara Latar"
   ],
   "SeVolume": [
-    "Jilid SE"
+    "Volume Efek Suara"
   ],
   "MaxPlayerMsgs": [
-    "Pesan Pemain Maks"
+    "Jumlah Maksimal Pesan Pemain yang Ditampilkan"
   ],
   "GameFAQ": [
-    "Panduan Permainan"
+    "Panduan Game"
   ],
   "ShowWeaponDurability": [
-    "Tunjukkan Daya Tahan Senjata"
+    "Selalu Tampilkan Daya Tahan Senjata"
   ],
   "DisableAutoUpdate": [
     "Nonaktifkan Pembaruan Otomatis"
   ],
   "LockedFPS": [
-    "Terkunci 60 FPS"
+    "Kunci 60 FPS"
   ],
   "Language": [
-    "Bahasa Permainan"
+    "Bahasa Game"
   ],
   "SwitchLanguage": [
-    "Perubahan bahasa game terdeteksi!",
-    "Mulai ulang sekarang untuk menerapkan pengaturan bahasa baru!"
+    "Terdeteksi perubahan pada pengaturan bahasa game!",
+    "Game akan segera dimulai ulang untuk menyesuaikan dengan lingkungan bahasa baru!"
   ],
   "ErrorReport": [
-    "Terjadi kesalahan. Silakan laporkan bug di server NLCH Discord.",
-    "(Klik 'OK' untuk membuka tautan undangan)",
-    "(Lampirkan tangkapan layar kesalahannya)"
+    "Terjadi kesalahan pada game, apakah kau ingin pergi ke server Discord Reverse Flow Tea Party untuk melaporkan bug?",
+    "(Menekan 'OK' akan membuka tautan undangan Discord)",
+    "(Mohon sertakan tangkapan layar kesalahan game)"
   ],
   "UpdateComplete1": [
-    "Pembaruan game selesai!",
-    "Permainan akan dimulai ulang secara otomatis setelah jendela ini ditutup.",
-    "Anda dapat memuat simpan otomatis untuk melanjutkan kemajuan!"
+    "Pembaruan otomatis game selesai!",
+    "Setelah menutup pop-up ini, game akan otomatis dimulai ulang untuk menyesuaikan dengan konten pembaruan!",
+    "Setelah dimulai ulang, kau bisa memuat simpanan otomatis untuk kembali ke progres saat ini!"
   ],
   "UpdateComplete2": [
-    "Pembaruan game selesai!",
-    "Game akan segera dimulai ulang untuk menerapkan pembaruan!"
+    "Pembaruan otomatis game selesai!",
+    "Game akan segera dimulai ulang secara otomatis untuk menyesuaikan dengan konten pembaruan!"
   ],
   "RemindToUpdate": [
-    "Terjadi kesalahan dan permainan dibekukan.",
-    "Patch yang lebih baru tersedia—",
-    "Silakan gunakan pembaruan otomatis untuk memperbaiki masalah ini!"
+    "Terdeteksi kesalahan pada game dan telah membeku!",
+    "Saat ini, sudah ada versi patch yang lebih tinggi dirilis untuk game,",
+    "Mohon terapkan patch melalui pembaruan otomatis untuk memperbaiki masalah!"
+  ],
+  "cloudSaveServiceWarning": [
+    "Karena basis data simpanan awan masih dalam pembangunan,",
+    "fitur ini sementara akan meminta akses ke Google Drive-mu,",
+    "agar dapat menyimpan data game ke folder NLCH/save.",
+    "File simpanan yang diunggah hanya akan digunakan untuk sinkronisasi dan pengunduhan kembali ke game, tidak untuk tujuan lain.",
+    "Apakah kau setuju untuk memberikan izin akses Google Drive kepada game?"
+  ],
+  "uploadSaveFile": [
+    "Mengunduh simpanan dari Google Drive akan menimpa file simpanan lokalmu saat ini!",
+    "Apakah kamu ingin melanjutkan?"
   ],
   "bagFull": [
-    "Batas inventaris terlampaui!!"
+    "Kapasitas tas penuh!!"
   ],
   "noStatusEffects": [
-    "Tidak ada efek status sama sekali!"
+    "Tidak ada status apa pun!"
   ],
   "unimplementedDoor": [
-    "Pintu ini tidak akan terbuka dari sisi ini"
+    "Pintu ini tidak bisa dibuka dari sisi ini."
   ],
   "zipUpdateComplete": [
-    "Patch berhasil diinstal.",
-    "Mulai ulang game untuk menerapkan pembaruan!"
+    "Patch berhasil diinstal,",
+    "Game akan segera dimulai ulang untuk menerapkan pembaruan!"
   ],
   "zipUpdateFail": [
     "Gagal mengekstrak dan menginstal patch!",
-    "Silakan coba pembaruan otomatis lagi atau",
-    "ekstrak file patch secara manual untuk diinstal!"
+    "Mohon coba lagi pembaruan otomatis atau",
+    "Ekstrak file patch secara manual untuk instalasi!"
   ],
   "fileDownloadedSuccessfully": [
-    "${} berhasil diunduh!"
+    "Berhasil mengunduh file ${}!"
   ],
   "fileDownloadFailed": [
-    "${} gagal diunduh! Coba lagi sekarang!"
+    "Gagal mengunduh file ${}! Sedang mencoba mengunduh ulang!"
   ],
   "installPatch": [
-    "Patch memerlukan ekstraksi—instal sekarang. Hal ini dapat menyebabkan permainan menjadi lag, harap bersabar!"
+    "Terdeteksi patch yang perlu diekstrak dan diinstal. Sedang mengekstrak dan menginstal—proses ini mungkin menyebabkan layar game macet, mohon bersabar!"
   ],
   "totalFilesToUpdate": [
-    "Mendeteksi ${} file untuk diperbarui—memulai proses pengunduhan!"
+    "Terdeteksi ${} file perlu diperbarui—memulai proses pengunduhan!"
+  ],
+  "silentUpdateSuccess": [
+    "Berhasil menginstal konten patch baru ${}, akan berlaku saat game dimulai ulang berikutnya!"
+  ],
+  "outdatedVersionWarning": [
+    "Versi game saat ini sudah kedaluwarsa, versi terbaru adalah ${}.",
+    "Pembaruan versi besar tidak mendukung pembaruan otomatis, mohon unduh ulang game dari saluran resmi."
   ],
   "renameCharacter": [
     "Aku ingat sekarang—",
-    "dia adalah..."
+    "Dia adalah—"
   ],
   "heroName": [
-    "Onii-chan"
+    "Kakak"
   ],
   "heroineName": [
-    "Aku keluar"
+    "Adik"
   ],
   "nonHardwareAccelerated": [
-    "Game ini sedang berjalan pada grafis terintegrasi!",
-    "Jika PC Anda memiliki GPU khusus, kami menyarankan pengaturan Game.exe",
-    "untuk menggunakannya di panel kontrol grafis Anda untuk pengalaman bermain game yang lebih lancar."
+    "Terdeteksi game saat ini tidak menggunakan kartu grafis diskrit untuk rendering!",
+    "Jika komputermu dilengkapi kartu grafis diskrit, demi pengalaman bermain yang lebih lancar,",
+    "Mohon atur ulang prosesor grafis pilihan untuk Game.exe di panel kontrol kartu grafis."
   ],
   "isAmdCPU": [
-    "CPU Anda terdeteksi sebagai prosesor AMD.",
-    "Beberapa chip AMD mungkin mengalami penurunan bingkai saat memutar video VP9 (WebM).",
-    "dalam lingkungan Chromium. Jika Anda mengalami masalah ini, coba paksa permainannya",
-    "gunakan rendering GPU atau perbarui driver Anda untuk membantu mengatasi masalah."
+    "Terdeteksi CPU perangkat ini bermerek AMD.",
+    "Beberapa chip AMD saat memutar video VP9 (WebM) di lingkungan Chromium",
+    "Mungkin terjadi penurunan frame rate. Jika mengalami masalah ini, kau bisa mencoba",
+    "memaksa game untuk menggunakan render GPU, atau perbarui driver untuk meringankan masalah ini."
   ],
   "failedToLoad": [
-    "Masalah seperti ini mungkin disebabkan oleh:",
-    "① File game rusak atau nama file kacau karena masalah pengkodean selama ekstraksi/instalasi.",
-    "② Pengembang lupa menyertakan file—harap tunggu pembaruan patch untuk memperbaikinya."
+    "Masalah ini mungkin disebabkan oleh hal berikut:",
+    "① Game rusak atau nama file terdistorsi karena masalah encoding saat proses dekompresi instalasi.",
+    "② Pengembang lupa menambahkan file ini, mohon tunggu pembaruan patch untuk perbaikan."
   ],
   "LowResMode": [
-    "Mode Grafik Rendah"
+    "Mode Kualitas Rendah"
   ],
   "lowResModeWarning": [
-    "Fitur ini terutama untuk pengoptimalan kinerja pada perangkat Android dan mungkin berdampak kecil pada versi PC.",
-    "Saat diaktifkan, game merender peta dan gambar pada resolusi lebih rendah dan kemudian memperbesarnya,",
-    "mengurangi beban GPU pada perangkat seluler dan menurunkan pembangkitan panas dan konsumsi daya.",
-    "Catatan: Ini adalah fitur eksperimental, dan efektivitasnya mungkin berbeda-beda tergantung perangkatnya.",
-    "Anda dapat menonaktifkan fitur ini kapan saja untuk segera mengembalikan kejernihan gambar secara penuh."
+    "Fitur ini terutama untuk optimasi performa perangkat Android, mungkin tidak terlalu efektif untuk versi PC.",
+    "Setelah diaktifkan, game akan merender peta dan gambar dengan resolusi lebih rendah, lalu diperbesar,",
+    "sehingga mengurangi beban GPU ponsel, menurunkan panas, dan konsumsi daya.",
+    "Perhatian: Ini adalah fitur eksperimental, efeknya mungkin bervariasi tergantung perangkat.",
+    "Kau bisa mematikan fitur ini kapan saja untuk segera mengembalikan kejernihan tampilan."
   ],
   "nearbyMonstersCount": [
-    "Mendeteksi monster di sekitar"
+    "Mendeteksi monster di dekat sini."
   ],
   "nearbyTreasuresCount": [
-    "Mendeteksi harta karun di dekatnya"
+    "Mendeteksi relik di dekat sini."
   ],
   "underwaterTreasuresCount": [
-    "Harta karun bawah air yang terdeteksi"
+    "Mendeteksi relik di bawah air."
+  ],
+  "guideHint": [
+    "Tekan Ctrl+F untuk membuka bilah pencarian, klik tombol di bawah dokumen untuk beralih konten dokumen."
   ],
   "steamWishlist": [
-    "Halaman toko Steam kami akhirnya aktif!",
-    "Silakan tambahkan kami ke daftar keinginan Anda dan dukung kami! (*´∀`)~♥",
-    "⬇Klik di bawah untuk membuka halaman Steam."
+    "Halaman toko Steam kami sudah tayang!",
+    "Selamat datang untuk menambahkannya ke daftar keinginan untuk mendukung kami! (*´∀`)~♥",
+    "⬇Klik untuk melompat ke halaman Steam"
   ],
-  "numberDays": [
-    "Hari"
-  ]  
+  "memberMenu": {
+    "firstTimeNotice": [
+      "Ini adalah fitur verifikasi keaslian yang masih dalam tahap eksperimen.",
+      "Kau bisa masuk ke akun Patreon-mu di sini,",
+      "Atau, ikat akun Itch tambahan untuk verifikasi identitas asli.",
+      "Jika akunmu memiliki langganan aktif, atau sudah memiliki riwayat game di Itch,",
+      "Kau akan mendapatkan fitur seperti pembaruan otomatis versi besar.",
+      "Mohon perhatian:",
+      "Saat ini, hanya mendukung verifikasi bagi yang telah membeli game melalui Itch atau Patreon,",
+      "atau pemain yang berlangganan berbayar di Patreon!"
+    ],
+    "shortHint": "Dapat mengaktifkan fitur penyimpanan cloud dan pembaruan otomatis versi besar.",
+    "waitingLogin": "Menunggu proses verifikasi login selesai...",
+    "notLoggedIn": "Belum melakukan verifikasi login...",
+    "RequestingLogin": "Sedang memulai permintaan login...",
+    "openingWindow": "Sedang membuka jendela login Patreon...",
+    "cloudSave": "Aktifkan Penyimpanan Cloud",
+    "logInFirst": "Mohon klik tombol ini untuk login terlebih dahulu.",
+    "CheckUpdates": "Perbarui ke Versi Terbaru",
+    "Subscribed": "Telah dikonfirmasi sebagai sponsor!",
+    "subscribedAndItchUser": "Telah dikonfirmasi sebagai sponsor! (Verifikasi Itch)",
+    "NotSubscribed": "Tidak ditemukan catatan sponsor, tidak dapat menggunakan beberapa fitur!",
+    "lastCheck": "Waktu login terakhir:",
+    "checkLatestVersion": "Sedang memeriksa nomor versi terbaru, mohon tunggu...",
+    "isLatestVersion": "Sudah versi terbaru, kok!",
+    "notSponsor": "Pengguna yang belum terverifikasi, mohon berdonasi dulu!",
+    "ImoutoFavorite": "Kesukaan adikku!",
+    "itchUser": "Telah dikonfirmasi sebagai pemain versi Itch!",
+    "nonItchUser": "Tidak terdeteksi bahwa kau memiliki game ini di Itch!",
+    "itchVerifyNotice": "Verifikasi kepemilikan game versi Itch dapat dilakukan.",
+    "itchVerifyAlert": "Mohon masuk dulu sebelum melakukan deteksi versi Itch!",
+    "majorUpdateFailed": [
+      "Pembaruan versi besar gagal!",
+      "Kode kesalahan: ${}",
+      "Mohon coba lagi verifikasi masuk dan mulai pembaruan,",
+      "Atau kirim tangkapan layar ini ke server Discord kami untuk bantuan!"
+    ]
+  },
+  "AdventurersPathway": {
+    "mapName": "-Jalur Petualang-"
+  },
+  "ShallowRuinsLabyrinth": {
+    "mapName": "-Labirin Reruntuhan Dangkal-",
+    "mapDescription": "Labirin raksasa yang menyimpan banyak misteri"
+  },
+  "ForgottenCatacombe": {
+    "mapName": "-Makam Terlupakan-"
+  },
+  "ForestofRuins": {
+    "mapName": "-Hutan Reruntuhan-"
+  },
+  "AbandonedForest": {
+    "mapName": "-Hutan Tersesat-"
+  },
+  "ExcavationSite": {
+    "mapName": "-Area dalam Pengembangan-"
+  },
+  "TheFallenChurch": {
+    "mapName": "-Kuil yang Jatuh-"
+  },
+  "DoorofStar": {
+    "mapName": "-Gerbang Bintang-"
+  },
+  "ScorchingLavaZone": {
+    "mapName": "-Zona Lava Panas Membara-",
+    "mapDescription": "Tanah lahar membara yang mengalir deras, hanya yang berketetapan hati yang mampu menapakinya."
+  },
+  "Nibelungen": {
+    "mapName": "-Nibelungen-"
+  }
 }

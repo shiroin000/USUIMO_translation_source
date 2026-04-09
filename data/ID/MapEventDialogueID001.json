@@ -1,10 +1,10 @@
-﻿{
+{
   "possibleDrops": [
-    "Kemungkinan Jatuh"
+    "Potensi Jatuhan"
   ],
   "7": {
     "objectName": [
-      "Api unggun"
+      "Api Unggun"
     ],
     "sentouryoku": [
       "???"
@@ -13,108 +13,720 @@
       ""
     ],
     "1": [
-      "Menemukan api unggun...",
-      "sekarang apa yang harus aku lakukan?"
+      "Menemukan sebuah api unggun.",
+      "Apa yang ingin kau lakukan?"
     ],
     "2": [
-      "Beristirahat",
-      "Jangan melakukan apa pun"
+      "Mari beristirahat.",
+      "Tidak melakukan apa-apa."
     ]
   },
   "8": {
     "objectName": [
-      "\\c[116] A↗sa↘ba↗"
+      "\\c[116]A↗SA↘BA↗"
+    ],
+    "subtitle": [
+      "Bersemayam di Jalur Petualang"
+    ],
+    "bossName": [
+      "Pemakan Beri"
     ],
     "sentouryoku": [
       "2333"
     ],
-    "subtitle": [
-      "Tinggal di Jalan Petualang"
-    ],
-    "bossName": [
-      "Pemakan Berry"
-    ],
     "description": [
-      "Makhluk aneh yang suka makan stroberi",
-      "Ia memiliki kulit yang kuat dan pertahanan yang tidak masuk akal, tapi sejak itu",
-      "itu sangat fokus pada stroberi,",
-      "ia kurang memiliki keinginan untuk menyerang. Karena itu,",
-      "petualang yang lewat sering kali akhirnya memberinya makan…"
+      "Makhluk aneh suka makan stroberi. Kulitnya tebal,",
+      "dengan pertahanan sangat luar biasa. Namun,",
+      "karena fokus pada stroberi, ia tak punya",
+      "keinginan menyerang yang kuat. Karena itu,",
+      "ia sering diberi makan oleh petualang yang",
+      "lewat..."
     ],
     "1": [
-      "ASABA menatapku dengan antisipasi—",
-      "Apakah aku mencium sesuatu...?"
+      "ASABA menatapku penuh harap——",
+      "Apakah ia mencium sesuatu dariku...?"
     ],
     "2": [
-      "ASABA menatapku dengan rasa ingin tahu—",
-      "Apakah aku mencium sesuatu...?"
+      "ASABA menatapku dengan rasa ingin tahu——",
+      "Apakah ia mencium sesuatu dariku...?"
     ],
     "3": [
-      "ASABA menatapku dengan jijik—",
-      "Apa aku benar-benar membuatnya kesal...?"
+      "ASABA menatapku dengan ekspresi jijik——",
+      "Benar, apakah itu membuatnya tak senang...?"
     ],
     "4": [
-      "Haruskah saya mencoba memberi makan ASABA?"
+      "Mau mencoba memberi makan ASABA?"
     ],
     "5": [
-      "Beri makan!",
-      "Tidak mau"
+      "Beri Makan!",
+      "Tidak mau makan."
     ],
     "6": [
-      "ASABA menghabiskan makanannya dengan tatapan kosong—",
-      "Mungkin dia tidak menyukainya..."
+      "ASABA menghabiskan makanannya dengan ekspresi datar—",
+      "Apa kau tidak suka makanan seperti ini...?"
     ],
     "7": [
-      "ASABA tampaknya sangat senang dengan stroberi—",
-      "Diberikan berkah yang aneh oleh ASABA!"
+      "ASABA sangat puas dengan stroberinya—",
+      "Diberi berkah aneh oleh ASABA!"
     ],
     "8": [
       "ASABA menatapku dengan jijik—",
-      "Apakah seburuk itu...? Makanan tadi..."
+      "Apa rasanya seburuk itu... makanan tadi...?"
     ],
     "9": [
-      ".................?!  \\w[45]",
-      "ASABA... rusak!!"
+      "……………………？！！ \\w[45]",
+      "ASABA, rusak...!!"
     ],
     "10": [
-      "ASABA sudah penuh—"
+      "ASABA sudah kenyang—"
     ],
     "11": [
       "………………!",
-      "sekarang ASABA menaruh dendam padaku…"
+      "ASABA menyimpan dendam padaku..."
+    ]
+  },
+  "9": {
+    "objectName": [
+      "\\c[116]Bayangan Ikan"
+    ],
+    "sentouryoku": [
+      "1"
+    ],
+    "description": [
+      "Bayangan ikan berenang di bawah air akan",
+      "menyadari kedatangan orang dan segera",
+      "melarikan diri. Dengan cara apa aku bisa",
+      "menangkap mereka...?",
+      "",
+      ""
+    ]
+  },
+  "10": {
+    "objectName": [
+      "Pendekar Pedang Misterius"
+    ],
+    "sentouryoku": [
+      "?99"
+    ],
+    "description": [
+      "Gadis bertelinga kucing dari desa, terlihat",
+      "imut dan lincah. Namun, katana di pinggangnya",
+      "mengingatkan orang lain bahwa dia bukanlah",
+      "orang biasa. Saat ini, dia sedang bersemangat",
+      "menantang para petarung kuat di mana-mana,",
+      "namun gaya mencolok itu membuatku khawatir..."
+    ],
+    "1": [
+      "Aku hanya datang untuk menantang diriku sendiri,",
+      "Kebenaran labirin besar atau semacamnya, aku tidak tertarik."
+    ],
+    "2": [
+      "Itu yang ada padamu...!",
+      "Kau juga penggemar Tuan Pahlawan!?"
+    ],
+    "3": [
+      "Pedang kayu dengan kualitas sebagus ini...",
+      "Tidak mudah didapatkan, lho..."
+    ],
+    "4": [
+      "Itu—!",
+      "Jika kau tak keberatan..."
+    ],
+    "5": [
+      "Maukah kau bertarung denganku?",
+      "Sebagai saingan, aku ingin tahu siapa yang lebih unggul."
+    ],
+    "6": [
+      "Terima",
+      "Tolak"
+    ],
+    "7": [
+      "Baguslah kalau begitu!",
+      "Mari kita mulai sekarang!"
+    ],
+    "8": [
+      "Begitu ya...",
+      "Sayang sekali."
+    ],
+    "9": [
+      "Tapi jika suatu saat kau tertarik,",
+      "Aku selalu siap menemanimu."
+    ],
+    "10": [
+      "Berasal dari Desa Sepuluh Mil...",
+      "Cita-citaku adalah menjadi Ksatria Pedang!"
+    ],
+    "11": [
+      "\\{... Datang ke sini!"
+    ],
+    "12": [
+      "Ah... sepertinya kau baik-baik saja.",
+      "Hebat sekali!"
+    ],
+    "13": [
+      "Tentang tantangan duelku sebelumnya,",
+      "Aku sungguh minta maaf!"
+    ],
+    "14": [
+      "Sepertinya aku sedikit terlalu memaksakan diri...",
+      "Tapi!"
+    ],
+    "15": [
+      "Karena ini adalah duel,",
+      "Aku akan mengerahkan seluruh kekuatanku."
+    ],
+    "16": [
+      "Tantang dia!",
+      "Sudahlah."
+    ],
+    "17": [
+      "Aura bertarung yang hebat—",
+      "Tentu saja, aku takkan menolak tantangan!"
+    ],
+    "18": [
+      "Hah... hah...",
+      "Aku kalah..."
+    ],
+    "19": [
+      "Kau sungguh hebat,",
+      "Serangan terakhirmu sungguh indah."
+    ],
+    "20": [
+      "Gaya bertarungmu yang tak terduga itu,",
+      "Benar-benar membuka mataku!"
+    ],
+    "21": [
+      "Memintamu untuk berduel denganku secara tak masuk akal seperti ini,",
+      "Dan tak memberimu imbalan apa pun, aku merasa tak enak..."
+    ],
+    "22": [
+      "Terimalah ini, ini adalah skill yang kutemukan sendiri—",
+      "Pasti akan sangat membantumu!"
+    ],
+    "23": [
+      "Meski sedikit sombong,",
+      "Aku sudah jadi yang terkuat di desa ini."
+    ],
+    "24": [
+      "Tapi berkat dirimu,",
+      "Aku jadi tahu ada yang lebih hebat dariku."
+    ],
+    "25": [
+      "Astaga,",
+      "Aku harus lebih giat berlatih pedang lagi!!"
+    ]
+  },
+  "11": {
+    "objectName": [
+      "Ksatria Aneh"
+    ],
+    "sentouryoku": [
+      "???"
+    ],
+    "description": [
+      "Seorang ksatria berzirah dengan aura tak menyenangkan.",
+      "Helm rapat membuat suaranya teredam, tak jelas.",
+      "Mengaku sebagai pengembang game, cari inspirasi.",
+      "Ia bertanya kisah menarik, tawarkan bantuan materi.",
+      "Entah mengapa, ia tahu segalanya tentang Abyss—",
+      ""
+    ],
+    "1": [
+      "…………Oh, oh!",
+      "Apakah kau juga seorang petualang yang datang demi mencari Labirin",
+      "Agung?"
+    ],
+    "2": [
+      "Mungkin kau pernah mendengar—",
+      "Aku hanyalah seorang pengembang game yang belum sukses."
+    ],
+    "3": [
+      "Terpikat oleh Labirin Agung ini, aku berharap",
+      "Bisa menyampaikan pesona misterius tempat rahasia ini kepada dunia."
+    ],
+    "4": [
+      "Tapi jujur saja, aku tidak mahir dalam seni bela diri,",
+      "Hanya dengan berkarya, aku bisa mengungkapkan gairah di hatiku ini."
+    ],
+    "5": [
+      "…Apa?",
+      "Apakah kau sangat tertarik dengan zirah ini?"
+    ],
+    "6": [
+      "Hahaha…",
+      "Ini hanyalah sedikit hobi yang kumiliki!"
+    ],
+    "7": [
+      "Hanya dengan mengenakan perlengkapan seperti ini,",
+      "Aku juga bisa sedikit merasakan bagaimana rasanya menjadi seorang",
+      "petualang."
+    ],
+    "8": [
+      "Tentu saja, ini sangat berat!",
+      "Sejujurnya, aku sudah hampir tidak bisa bergerak karena terbebani…"
+    ],
+    "9": [
+      "Tapi meski begitu…!",
+      "Aku tidak akan pernah menyerah!"
+    ],
+    "10": [
+      "Begitu banyak pahlawan dan legenda berkumpul di tempat ini,",
+      "Aku harus terus mengumpulkan inspirasi dan bahan."
+    ],
+    "11": [
+      "Ngomong-ngomong, jika kau tidak keberatan,",
+      "Maukah kau mencoba karyaku yang sederhana ini?"
+    ],
+    "12": [
+      "Pasti akan membantu penjelajahanmu",
+      "————"
+    ],
+    "13": [
+      "…Apa! Kau tidak mengenalku,",
+      "dan tidak punya mesin untuk menjalankan game di dekatmu!?"
+    ],
+    "14": [
+      "Jangan khawatir! Untuk menghadapi situasi ini,",
+      "Selalu membawa perlengkapan misi bersamaku!"
+    ],
+    "15": [
+      "Pertemuan denganmu juga adalah takdir,",
+      "Aku bersedia menyerahkan mesin ini padamu dengan harga pokok!"
+    ],
+    "16": [
+      "Selain itu, untuk membantu para petualang,",
+      "Aku juga kebetulan mengelola sebuah toko kecil—"
+    ],
+    "17": [
+      "Tentu saja, ini juga karena aku harus mengumpulkan",
+      "dana untuk pengembangan berkelanjutan..."
+    ],
+    "18": [
+      "Jadi, jika kau tertarik,",
+      "mohon dukunglah usahaku!"
+    ],
+    "19": [
+      "Hahaha, dengan begitu, kontrak pun terbentuk.",
+      "Aku menantikan penilaianmu setelah bermain."
+    ],
+    "20": [
+      "Jika kau bersedia, kau juga bisa berbagi pengalaman petualanganmu,",
+      "Aku pun bisa mengambil inspirasi darinya, untuk melanjutkan",
+      "karya-karya berikutnya."
+    ],
+    "30": [
+      "Bicara",
+      "Beli Barang",
+      "Bagikan Pengalaman"
+    ],
+    "31": [
+      "—Oh, oh! Kita bertemu lagi!",
+      "Saudaraku!"
+    ],
+    "32": [
+      "—Oh, oh! Kita bertemu lagi.",
+      "Bagaimana? Apakah kau mulai tertarik untuk bergabung dalam karyaku",
+      "yang agung?"
+    ],
+    "33": [
+      "Bagaimana? Adakah dari karyaku yang sederhana ini,",
+      "kau mendapatkan kesan apa pun?"
+    ],
+    "34": [
+      "Demi adikmu, kau menempuh jalan mencari penawar, ya?",
+      "Sungguh tekad yang mengharukan!"
+    ],
+    "35": [
+      "Sayangnya, aku juga merasa malu akan hal ini.",
+      "Tentang ramuan alkimia rahasia seperti Cairan Sumsum Merah,",
+      "pengetahuanku sungguh terbatas..."
+    ],
+    "36": [
+      "Dengan tingkat perlengkapanmu saat ini,",
+      "saat menyusup ke jurang, kau mungkin akan merasa sangat kesulitan."
+    ],
+    "37": [
+      "Ada baiknya kau mempersiapkan lebih banyak item,",
+      "atau menenangkan diri dan mempelajari dengan cermat karakteristik",
+      "senjatamu."
+    ],
+    "38": [
+      "Di tempat ini, banyak item alkimia dari era lampau yang tertinggal,",
+      "kau bisa lebih memperhatikannya, mungkin kau akan menemukan kegunaan",
+      "aslinya."
+    ],
+    "39": [
+      "Aku juga biasa mengumpulkan beberapa benda yang berguna,",
+      "jika kau tak keberatan, mohon sering-seringlah berbelanja."
+    ],
+    "40": [
+      "Di antara para monster, ada juga ras cerdas yang bisa memahami",
+      "bahasa manusia, tak sedikit dari mereka yang memiliki niat baik",
+      "terhadap manusia."
+    ],
+    "41": [
+      "Jika kau bertemu mereka di perjalanan, tak perlu terkejut.",
+      "Mungkin kau bahkan bisa bertukar informasi berguna dari mereka."
+    ],
+    "42": [
+      "Berhati-hatilah di jalan,",
+      "wahai saudaraku!"
+    ],
+    "43": [
+      "Tak apa, tak perlu terburu-buru.",
+      "Jika kau butuh, datanglah padaku."
+    ],
+    "44": [
+      "Kau butuh \\ii[\\v[84]] itu, ya?",
+      "Kalau begitu, barang ini akan kubanderol \\c[6]\\v[85]\\c[0] Emas."
+    ],
+    "45": [
+      "Kau butuh \\ii[\\v[84]] itu, ya?",
+      "Demi sesama, \\c[6]\\v[85]\\c[0] Emas saja."
+    ],
+    "46": [
+      "Beli",
+      "Lupakan saja."
+    ],
+    "47": [
+      "Semoga benda ini,",
+      "Dapat membantumu melewati rintangan ini."
+    ],
+    "48": [
+      "Pilihan yang bijak.",
+      "Semoga ia dapat membantumu di saat genting."
+    ],
+    "49": [
+      "Sepertinya kau sedikit tergesa.",
+      "Bahkan di antara petualang, transaksi harus transparan."
+    ],
+    "50": [
+      "Kau tak perlu memaksakan diri.",
+      "Datanglah lagi saat kau punya cukup."
+    ],
+    "51": [
+      "Memang benar dirimu, kau membeli semua barang yang ada.",
+      "Tapi hari ini, hanya ini yang bisa kusediakan."
+    ],
+    "52": [
+      "Persediaanku sudah habis.",
+      "Jika sampai di tanganmu, itu sudah selayaknya."
+    ],
+    "53": [
+      "Ini benar-benar kelalaianku... Apa kau mencari benda ini?",
+      "Kebetulan sekali jatuh di kakiku, sungguh takdir!"
+    ],
+    "54": [
+      "Kalau begitu—",
+      "Apa ada sesuatu yang membawa keberuntungan bagimu?"
+    ],
+    "55": [
+      "(Hmm... sepertinya tidak ada yang",
+      "layak dibagikan...)"
+    ],
+    "56": [
+      "Membagikan \\str[120] saat bermain Shadow Souls",
+      "beberapa kesan."
+    ],
+    "57": [
+      "Oh! Mendapat pujian dari adikmu,",
+      "sungguh membuatku merasa terhormat."
+    ],
+    "58": [
+      "Dengan begitu,",
+      "semangat untuk memperbarui jadi lebih besar."
+    ],
+    "59": [
+      "Ngomong-ngomong, sepertinya aku belum",
+      "mendengar penilaianmu sendiri."
+    ],
+    "60": [
+      "Hah? Besar... dan putih...",
+      "Dan sangat lembut?"
+    ],
+    "61": [
+      "...Dalam permainanku,",
+      "apakah benar ada konten yang membuat orang berpikir begitu?"
+    ],
+    "62": [
+      "Sial, aku terlalu asyik dengan sensasi itu",
+      "sampai salah bicara..."
+    ],
+    "63": [
+      "Membagikan informasi tentang jamur yang tumbuh di Jamur Berjalan.",
+      "Ternyata rasanya sangat lezat."
+    ],
+    "64": [
+      "Masakan monster, ya! Ini benar-benar ide yang baru!",
+      "Memang tak salah lagi, Tuan."
+    ],
+    "65": [
+      "Membagikan informasi tentang burung aneh di labirin.",
+      "Suaranya sangat bising."
+    ],
+    "66": [
+      "Anak Garuda, ya... Entah jika dibandingkan dengan raungan naga",
+      "legendaris, Siapa yang akan lebih unggul."
+    ],
+    "67": [
+      "Membagikan informasi tentang potongan daging Orc.",
+      "Rasanya sangat lezat."
+    ],
+    "68": [
+      "Membagikan informasi tentang adanya lorong rahasia di labirin,",
+      "Yang terhubung ke dunia luar."
+    ],
+    "69": [
+      "Sepertinya ini adalah proyek yang ditinggalkan oleh tim pengembang",
+      "sebelumnya. Kudengar mereka dulu ingin menggali seluruh labirin."
+    ],
+    "70": [
+      "Namun, proyek itu tiba-tiba terhenti di tengah jalan.",
+      "Entah masalah apa yang mereka hadapi."
+    ],
+    "71": [
+      "Membagikan informasi bahwa di ujung hutan yang menyesatkan itu,",
+      "Ada rumah jamur yang aneh."
+    ],
+    "72": [
+      "Kudengar banyak petualang tersesat di dalamnya...",
+      "Namun, memang tak salah lagi, Tuan, kau berhasil menembus hutan itu",
+      "dengan lancar."
+    ],
+    "73": [
+      "Mengenai rumah jamur raksasa itu...",
+      "Memang membuat penasaran, makhluk macam apa yang menghuni di",
+      "dalamnya."
+    ],
+    "74": [
+      "Berbagi pengalaman di labirin",
+      "Jatuh ke dalam lubang secara tak sengaja."
+    ],
+    "75": [
+      "Hahaha...! Ini benar-benar pengalaman yang memalukan.",
+      "Sebagai petualang, seharusnya selalu waspada terhadap sekitar."
+    ],
+    "76": [
+      "Berbagi informasi tentang area tak dikenal",
+      "Menemukan sebuah mecha."
+    ],
+    "77": [
+      "Begitu rupanya... sungguh pertemuan yang aneh.",
+      "Di dalam labirin besar, memang masih tersembunyi jejak peradaban",
+      "kuno."
+    ],
+    "78": [
+      "...Sudah menghilang, ya.",
+      "Aku tidak akan meragukan perkataanmu."
+    ],
+    "79": [
+      "Ini pasti semacam takdir,",
+      "Suatu hari nanti, ia pasti akan muncul kembali."
+    ],
+    "80": [
+      "Berbagi informasi tentang jeli yang terbuat dari slime",
+      "Ternyata rasanya tidak buruk."
+    ],
+    "81": [
+      "Oh, saudaraku!",
+      "Cepat, terimalah ini!"
+    ],
+    "82": [
+      "Selama ini, kau telah memberiku banyak inspirasi menarik,",
+      "Jika tidak ada sedikit pun ucapan terima kasih, rasanya tidak",
+      "pantas."
+    ],
+    "83": [
+      "Ini adalah kostum yang kudisain sendiri untuk promosi game,",
+      "Anggap saja ini hadiah sebagai tanda ketulusanku."
+    ],
+    "84": [
+      "（Eh... kaus bonus...?",
+      "Ba-bagaimana ini...)"
+    ],
+    "85": [
+      "（Aku tak mau pakai benda seperti ini keluar rumah...",
+      "Entah adikku akan suka pakaian seperti ini...)"
+    ],
+    "86": [
+      "...Begitu rupanya.",
+      "Kau mencari acara menarik yang bisa ditonton larut malam?"
+    ],
+    "87": [
+      "Ini kebetulan sekali!",
+      "Aku mengoleksi banyak kaset video demi mencari inspirasi."
+    ],
+    "88": [
+      "Di antaranya ada banyak konten menarik—",
+      "Memberikan satu untukmu juga tak masalah."
+    ],
+    "89": [
+      "Seperti biasa,",
+      "Mohon dukung terus usahaku ya...!"
+    ]
+  },
+  "12": {
+    "objectName": [
+      "Mesin Penjual Otomatis"
+    ],
+    "sentouryoku": [
+      "1"
+    ],
+    "description": [
+      "Mesin dioperasikan oleh Kelinci Pelayan.",
+      "Tak jelas kenapa monster tiru bisnis manusia.",
+      "Namun, semua orang menerimanya dengan wajar.",
+      "Ngomong-ngomong, susu wortel rating terendah.",
+      "",
+      ""
+    ],
+    "1": [
+      "Sebuah mesin penjual otomatis yang aneh...",
+      "Satu botol minuman... \\c[6]\\v[86]\\c[0] Emas."
+    ],
+    "2": [
+      "Beli satu botol.",
+      "Sudahlah."
+    ],
+    "3": [
+      "Tidak bisa...",
+      "Uangku tidak cukup..."
+    ],
+    "4": [
+      "Karena mesin dirusak oleh orang tak dikenal, denda perbaikan",
+      "sementara ditambahkan... Sebelum denda dilunasi... satu botol",
+      "minuman... \\c[6]\\v[86]\\c[0] Emas!?"
+    ],
+    "5": [
+      "(Di dalamnya sudah...",
+      "Tidak ada minuman lagi!)"
+    ]
+  },
+  "13": {
+    "objectName": [
+      "Shione"
+    ],
+    "subtitle": [
+      "Biarawati Iblis dari Kuil yang Jatuh"
+    ],
+    "bossName": [
+      "Iblis Kesombongan"
+    ],
+    "garble": true
+  },
+  "14": {
+    "objectName": [
+      "\\c[116] Gelembung Misterius"
+    ],
+    "sentouryoku": [
+      "1"
+    ],
+    "description": [
+      "Sepertinya ada sesuatu di bawah air...",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "15": {
+    "objectName": [
+      "\\c[115] Kelinci Bertanduk Rusa"
+    ],
+    "sentouryoku": [
+      "555"
+    ],
+    "description": [
+      "Monster sihir tingkat tinggi yang berevolusi",
+      "dari Kelinci Bertanduk. Bagi monster sihir,",
+      "tanduk adalah senjata, dan juga inti",
+      "penyimpanan kekuatan sihir. Berbeda dengan",
+      "Kelinci Bertanduk, sifatnya sangat agresif.",
+      "Saat bersemangat, tubuhnya memerah & menyerang."
+    ]
+  },
+  "16": {
+    "objectName": [
+      "Z yang Tak Terlukiskan"
+    ],
+    "sentouryoku": [
+      "9"
+    ],
+    "description": [
+      "Itu adalah keberadaan yang begitu tercela,",
+      "hingga namanya pun menjadi tabu. Secara teori,",
+      "itu hampir tidak berbahaya— Namun, wujudnya",
+      "yang mengerikan dan gerakannya yang misterius",
+      "Cukup untuk menjerumuskan semua yang ada di",
+      "sana ke dalam kekacauan."
+    ]
+  },
+  "22": {
+    "objectName": [
+      "\\c[116]Fanatik Menara"
+    ],
+    "sentouryoku": [
+      "800"
+    ],
+    "description": [
+      "Penganut fanatik yang memuja kekuatan Abyss,",
+      "memuja kutukan Menara. Mereka sangat yakin",
+      "kekuatan yang tak dapat dikendalikan manusia",
+      "ini, pada akhirnya akan membawa kelahiran",
+      "kembali bagi dunia ini. Meskipun semua ini,",
+      "dibangun di atas penderitaan semua orang—"
+    ]
+  },
+  "18": {
+    "objectName": [
+      "Prasasti Akhir"
+    ],
+    "sentouryoku": [
+      "1"
+    ],
+    "description": [
+      "Sebuah prasasti batu yang sudah lama tak terurus,",
+      "penuh retakan dan noda. Terlihat dulunya diukir",
+      "dengan sangat indah, setelah tergerus waktu.",
+      "Masih mempertahankan aura yang membangkitkan",
+      "rasa hormat dan kekaguman.",
+      ""
     ]
   },
   "24": {
     "objectName": [
-      "\\c[114]Pembantu Kelinci"
+      "\\c[114]Pelayan Kelinci"
     ],
     "sentouryoku": [
       "?77"
     ],
     "description": [
-      "Seorang gadis aneh yang selalu berpakaian seperti pelayan dengan telinga kelinci.",
-      "Memiliki kemampuan untuk berteleportasi,",
-      "muncul dari segala macam lubang aneh.",
-      "Sering menggoda petualang tetapi sebagian besar tidak berbahaya."
+      "Gadis aneh yang selalu mengenakan seragam pelayan,",
+      "bertelinga kelinci. Memiliki kemampuan berpindah",
+      "ruang, bisa muncul dari berbagai lubang aneh.",
+      "Sering mengerjai para petualang, tapi pada",
+      "dasarnya tidak berbahaya.",
+      ""
     ],
     "1": [
-      "……Amerika Serikat?",
-      "Mengapa kamu begitu jelek di Amerika…?"
+      "…………Usah?",
+      "Kenapa kau jelek sekali, Usah?"
     ],
     "2": [
-      "Amerika…… Aku mencium…",
-      "Anda memiliki aroma wortel, usa…"
+      "Usah...",
+      "Tercium bau wortel darimu…"
     ]
   },
   "28": {
     "objectName": [
-      "Sacabambaspis raksasa"
+      "Ikan Sakabamba Raksasa"
     ],
     "subtitle": [
-      "Tinggal di dalam air"
+      "Bersemayam di bawah air"
     ],
     "bossName": [
-      "Sang Penguasa Sungai—bukankah ia sudah punah!?"
+      "Penguasa sungai yang seharusnya sudah punah!?"
     ],
     "sentouryoku": [
       "999"
@@ -123,92 +735,134 @@
       ""
     ]
   },
+  "29": {
+    "objectName": [
+      "Iblis Nafsu \\c[10]"
+    ],
+    "subtitle": [
+      "Masih dalam penekanan"
+    ],
+    "bossName": [
+      "Iblis Nafsu"
+    ],
+    "garble": true,
+    "sentouryoku": [
+      "6666"
+    ],
+    "description": [
+      "Iblis Nafsu muncul setelah segelnya dilepaskan",
+      "dari menara. Karena wujudnya belum pulih, ia",
+      "belum bisa mengerahkan kekuatan iblis sejati.",
+      "Meski mengemban tugas nafsu, ia bersikap seperti",
+      "bangsawan dan sangat cerewet. Jika minatnya",
+      "bangkit, ia akan gunakan alat ritualnya yang tebal."
+    ]
+  },
   "32": {
     "objectName": [
-      "Gacha yang Misterius"
+      "Mesin Gacha Misterius"
     ],
     "sentouryoku": [
       "9"
     ],
     "description": [
-      "Mesin gacha yang dipanggil dengan kartu Tarot.",
-      "Ia memakan apa pun yang ditawarkan petualang.",
-      "Ketika puas, ia berputar dengan gembira dan",
-      "akhirnya mengeluarkan kapsul berisi hadiah.",
-      "Namun berhati-hatilah untuk tidak memberinya makan berlebihan—meskipun demikian",
-      "sebuah mesin, sepertinya keracunan makanan..."
+      "Mesin gacha bulat muncul karena panggilan kartu",
+      "tarot. Ia melahap barang-barang yang diberikan",
+      "petualang dengan rakus, namun sangat pemilih.",
+      "Saat puas, ia berputar dengan gembira, lalu",
+      "memuntahkan gacha berisi hadiah. Tapi hati-hati,",
+      "jangan beri terlalu banyak, ia bisa keracunan."
     ],
     "1": [
       "Masih di sungai!"
     ],
     "2": [
-      "Saya menemukan mesin gacha yang aneh...",
-      "Ekspresinya terlihat seperti \\str[120]..."
+      "Menemukan mesin gacha aneh...",
+      "Ngomong-ngomong, ekspresinya mirip \\str[120] ya..."
     ],
     "3": [
-      "Coba masukkan uang",
-      "Cobalah memberinya makan"
+      "Coba masukkan koin",
+      "Coba beri makan"
     ],
     "4": [
-      "Tapi saya tidak punya cukup uang untuk memberinya makan…"
+      "Tidak punya cukup uang untuk memberi makan..."
     ],
     "5": [
-      "Haruskah aku memberinya makan",
-      "\\ii[\\v[90]]…?"
+      "Yakin ingin memberi makan",
+      "\\ii[\\v[90]]?"
     ],
     "6": [
       "Ya",
-      "Tidak"
+      "Lupakan saja"
     ]
   },
   "41": {
     "objectName": [
-      "\\c[114]Pengiriman NLCH!"
+      "Pengiriman Pesta Teh Arus Balik \\c[114]!"
     ],
     "sentouryoku": [
       "?999"
     ],
     "description": [
-      "Sebuah toko keliling yang dijalankan oleh dua gadis kucing.",
-      "Mereka muncul dengan cepat ketika para petualang menelepon.",
-      "Barang sebagian besar adalah sampah Abyss yang mereka temukan.",
-      "Hati-hati, harga bisa menjadi penipuan total.",
-      "Meremehkan mereka, dan dipukuli...",
-      "PS:\\c[2]Daftar Hitam oleh Maid Bunnies",
-      "\\c[2]karena mencuri pelanggan."
+      "Toko keliling dikelola dua gadis kucing kecil.",
+      "Selalu muncul gagah menanggapi panggilan",
+      "petualang. Barang dijual hasil pungutan harian",
+      "dari Abyss. Sedikit lengah, bisa ditipu harga",
+      "selangit. Jika meremehkan mereka, justru kau",
+      "akan dihajar habis-habisan oleh mereka."
     ],
     "1": [
-      "Hai~! Selamat datang, nya ♪ Luangkan waktumu untuk melihat-lihat,",
-      "dan jangan ragu untuk menanyakan apa pun padaku, nya!"
+      "Hai~! Selamat datang, meong♪",
+      "Silakan lihat-lihat, ya. Jika ada yang menarik, tanyakan saja padaku",
+      "kapan pun, meong!"
     ]
   },
   "43": {
     "objectName": [
-      "Kamar Mandi Berjalan"
+      "Jamur Berjalan"
     ],
     "sentouryoku": [
       "120"
     ],
     "description": [
-      "Monster aneh yang sering ditemukan di hutan,",
-      "jauh lebih besar dari jamur biasa.",
-      "Ia dapat dengan bebas berjalan dengan kakinya dan bersifat agresif.",
-      "Namun rasanya yang lezat menjadikannya favorit",
-      "target bagi para petualang dan koki."
+      "Monster aneh sering muncul di hutan, jauh lebih",
+      "besar dari jamur biasa. Bisa berjalan bebas",
+      "dengan kakinya, dan bersifat agresif. Namun",
+      "karena rasanya sangat lezat, ia jadi target",
+      "favorit para petualang dan koki.",
+      ""
+    ]
+  },
+  "47": {
+    "objectName": [
+      "\\c[114] Gerbang Bintang"
+    ],
+    "sentouryoku": [
+      "1"
+    ],
+    "description": [
+      "Gerbang yang dipanggil oleh Kartu Tarot Bintang,",
+      "dapat dilewati. Bintang-bintang diyakini dapat",
+      "menuntun jalan pulang. Lewati gerbang ini, dan",
+      "kau bisa kembali ke area yang relatif aman.",
+      "Para petualang biasanya menggunakannya untuk",
+      "kembali ke tempat istirahat, atau melarikan diri."
     ]
   },
   "51": {
     "objectName": [
-      "\\c[116]Orc yang lebih rendah"
+      "\\c[116] Orc Pemula"
     ],
     "sentouryoku": [
       "320"
     ],
     "description": [
-      "Orc muda yang masih dalam fase pertumbuhan,",
-      "sudah seukuran manusia.",
-      "Ia bereaksi terhadap makhluk hidup dan rakus",
-      "menyerap kekuatan hidup mereka."
+      "Orc yang masih dalam masa pertumbuhan,",
+      "fisiknya sudah setara dengan manusia.",
+      "Bereaksi terhadap makhluk hidup, dengan rakus",
+      "menyerap energi kehidupan target.",
+      "",
+      ""
     ]
   },
   "53": {
@@ -219,20 +873,23 @@
       "210"
     ],
     "description": [
-      "Mayat dihidupkan kembali melalui necromancy.",
-      "Ia masih mempertahankan agresi dan kepemilikannya",
-      "kemampuan tempur yang cukup besar."
+      "Mayat yang dapat bergerak karena pengaruh",
+      "sihir necromancy. Namun, ia masih memiliki",
+      "keganasan dan kemampuan bertarung yang kuat.",
+      "",
+      "",
+      ""
     ]
   },
   "59": {
     "objectName": [
-      "Kelinci Putih Negeri Ajaib"
+      "Kelinci Putih Taman Miniatur"
     ],
     "subtitle": [
-      "Tinggal di Hutan Reruntuhan"
+      "Berhabitat di Hutan Reruntuhan."
     ],
     "bossName": [
-      "Kelinci Putih Negeri Ajaib"
+      "Kelinci Putih Taman Miniatur"
     ],
     "sentouryoku": [
       "???"
@@ -243,91 +900,94 @@
   },
   "65": {
     "objectName": [
-      "\\c[116]Burung Mengerikan"
+      "\\c[116] Burung Aneh"
     ],
     "sentouryoku": [
       "260"
     ],
     "description": [
-      "Seekor burung raksasa.",
-      "Ia menyerang para petualang dengan tubuhnya yang besar,",
-      "dan juga menggunakan serangan sonik, jadi berhati-hatilah."
+      "Monster burung berukuran raksasa. Ia akan",
+      "menabrak para petualang dengan tubuhnya yang",
+      "besar. Selain itu, waspadai juga serangan",
+      "gelombang suara.",
+      "",
+      ""
     ]
   },
   "66": {
     "objectName": [
-      "\\c[114]Lendir Kucing Kucing Oranye"
+      "\\c[114] Slime Kucing Oranye"
     ],
     "sentouryoku": [
       "?10"
     ],
     "description": [
-      "Slime yang bermutasi secara tidak sengaja",
-      "memakan kucing yang menggemaskan,",
-      "dan menjadi lucu sebagai hasilnya.",
-      "Ia telah kehilangan keinginannya untuk menyerang,",
-      "tapi akan menggembung seperti kucing bila diancam..."
+      "Bermutasi karena tidak sengaja memakan kucing",
+      "lucu. Slime yang juga mulai menjadi",
+      "menggemaskan. Kehilangan keinginan aslinya untuk",
+      "menyerang, Namun saat terancam, ia tetap akan",
+      "marah seperti kucing…",
+      ""
     ],
     "1": [
-      "Lendir kucing sepertinya",
-      "sangat menyukaiku..."
+      "Slime kucing ini sepertinya sangat menyukaiku…"
     ]
   },
   "67": {
     "objectName": [
-      "\\c[114]Lendir Kucing Calico Bergaris"
+      "\\c[114]Slime Kucing Belang Tiga"
     ],
     "sentouryoku": [
       "?10"
     ],
     "description": [
-      "Slime yang bermutasi secara tidak sengaja",
-      "memakan kucing yang menggemaskan,",
-      "dan menjadi lucu sebagai hasilnya.",
-      "Ia telah kehilangan keinginannya untuk menyerang,",
-      "tapi akan menggembung seperti kucing bila diancam..."
+      "Bermutasi karena tak sengaja memakan kucing",
+      "lucu, Slime yang juga mulai menjadi",
+      "menggemaskan. Kehilangan keinginan aslinya untuk",
+      "menyerang, Namun saat terancam, ia tetap akan",
+      "marah seperti kucing…",
+      ""
     ],
     "1": [
-      "Lendir kucing sepertinya",
-      "sangat menyukaiku..."
+      "Slime kucing ini sepertinya sangat menyukaiku…"
     ]
   },
   "68": {
     "objectName": [
-      "\\c[114]Lendir Kucing Kucing Putih"
+      "\\c[114]Slime Kucing Tabby"
     ],
     "sentouryoku": [
       "?10"
     ],
     "description": [
-      "Slime yang bermutasi secara tidak sengaja",
-      "memakan kucing yang menggemaskan,",
-      "dan menjadi lucu sebagai hasilnya.",
-      "Ia telah kehilangan keinginannya untuk menyerang,",
-      "tapi akan menggembung seperti kucing bila diancam..."
+      "Bermutasi karena tak sengaja memakan kucing lucu,",
+      "Slime yang juga mulai menjadi menggemaskan.",
+      "Kehilangan keinginan aslinya untuk menyerang,",
+      "Namun saat terancam, ia tetap akan marah",
+      "seperti kucing…",
+      ""
     ],
     "1": [
-      "Lendir kucing sepertinya",
-      "sangat menyukaiku..."
+      "Slime kucing ini sepertinya sangat menyukaiku…"
     ]
   },
   "69": {
     "objectName": [
-      "\\c[114]Lendir Kucing Siam"
+      "\\c[114]Slime Kucing Siam"
     ],
     "sentouryoku": [
       "?10"
     ],
     "description": [
-      "Slime yang bermutasi secara tidak sengaja",
-      "memakan kucing yang menggemaskan,",
-      "dan menjadi lucu sebagai hasilnya.",
-      "Ia telah kehilangan keinginannya untuk menyerang,",
-      "tapi akan menggembung seperti kucing bila diancam..."
+      "Bermutasi karena tak sengaja memakan kucing lucu,",
+      "Slime yang juga mulai menjadi menggemaskan.",
+      "Kehilangan keinginan aslinya untuk menyerang,",
+      "Namun, saat terancam, ia akan marah seperti",
+      "kucing yang bulunya berdiri...",
+      ""
     ],
     "1": [
-      "Lendir kucing sepertinya",
-      "sangat menyukaiku..."
+      "Slime Kucing sepertinya sangat menyukaiku..."
     ]
   },
   "70": {
@@ -338,11 +998,12 @@
       "?10"
     ],
     "description": [
-      "Makhluk…? berbentuk seperti pisang.",
-      "Peri yang lahir dari pengaruh Abyssal",
-      "aura, Ini menimbulkan sedikit ancaman bagi para petualang.",
-      "Namun, ada rumor yang mengatakan hal itu bisa terjadi",
-      "dengan mudah mengirim orang terbang…"
+      "Makhluk... berbentuk pisang? Peri yang lahir",
+      "karena pengaruh aura Abyss, Tidak berbahaya",
+      "bagi para petualang. Namun, ada rumor bahwa",
+      "siapa pun yang mendekat akan mudah",
+      "terlempar...",
+      ""
     ]
   },
   "71": {
@@ -353,77 +1014,84 @@
       "?10"
     ],
     "description": [
-      "Makhluk…? berbentuk seperti apel.",
-      "Peri yang lahir dari pengaruh Abyssal",
-      "aura, Ini menimbulkan sedikit ancaman bagi para petualang.",
-      "Namun, ada rumor yang mengatakan hal itu bisa terjadi",
-      "dengan mudah mengirim orang terbang…"
+      "Makhluk... berbentuk apel? Peri yang lahir",
+      "karena pengaruh aura Abyss, Tidak berbahaya",
+      "bagi para petualang. Namun, ada rumor bahwa",
+      "siapa pun yang mendekat akan mudah",
+      "terlempar...",
+      ""
     ]
   },
   "72": {
     "objectName": [
-      "\\c[115]Tangan Terputus Penyihir Jatuh"
+      "\\c[115] Tangan Terputus Penyihir Jatuh"
     ],
     "sentouryoku": [
       "480"
     ],
     "description": [
-      "Anggota tubuh penyihir yang sudah mati.",
-      "Tidak ada yang tahu apa yang dialami pemilik aslinya,",
-      "Namun diresapi dengan necromancy, tangan ini tetap aktif.",
-      "Petualang sering melihatnya membuat isyarat yang jelas",
-      "saat menyerang."
+      "Anggota tubuh terputus dari penyihir yang",
+      "telah mati. Tidak ada yang tahu apa yang",
+      "dialami oleh pemilik aslinya, Namun, tangan",
+      "terputus ini, yang dirasuki oleh sihir",
+      "necromancy, masih sangat aktif, Para",
+      "petualang sering melihatnya melancarkan"
     ]
   },
   "73": {
     "objectName": [
-      "AirAneh"
+      "Monster Air"
     ],
     "sentouryoku": [
       "180"
     ],
     "description": [
-      "Makhluk unsur alkimia yang terdiri dari",
-      "air yang menggunakan sihir unsur.",
-      "Ia memiliki ketahanan yang tinggi terhadap serangan fisik,",
-      "tetapi tidak dapat bertahan hidup di lingkungan tanpa air."
+      "Makhluk elemen alkimia yang terbuat dari air,",
+      "mampu menggunakan sihir elemen. Juga memiliki",
+      "resistensi kuat terhadap serangan fisik, Namun",
+      "tak bisa bergerak di lingkungan tanpa air.",
+      "",
+      ""
     ]
   },
   "77": {
     "objectName": [
-      "\\c[115]Kucing Setan"
+      "\\c[115] Kucing Iblis"
     ],
     "sentouryoku": [
       "300"
     ],
     "description": [
-      "Seekor kucing liar yang dirasuki kekuatan iblis.",
-      "Ia memperoleh kemampuan untuk terbang bersama",
-      "kekuatan magis gelap. Namun pada akhirnya,",
-      "itu masih seekor kucing—",
-      "Paling-paling, itu hanya menembakkan ledakan sihir kecil."
+      "Kucing liar yang dirasuki kekuatan iblis.",
+      "Selain mendapatkan kemampuan terbang, ia",
+      "juga menguasai kekuatan jahat. Namun,",
+      "bagaimanapun juga, ia hanyalah seekor",
+      "kucing. Paling-paling, ia hanya ancaman",
+      "yang memuntahkan peluru sihir."
     ]
   },
   "78": {
     "objectName": [
-      "\\c[115]Semangat Dendam"
+      "\\c[115] Roh Pendendam"
     ],
     "sentouryoku": [
       "400"
     ],
     "description": [
-      "Makhluk ajaib yang lahir dari dendam jiwa yang sudah mati",
-      "melalui necromancy. Ia tanpa henti menjelajahi kuburan",
-      "dan memiliki ketahanan yang tinggi terhadap serangan fisik,",
-      "dan bisa memuntahkan api hantu yang mematikan."
+      "Makhluk sihir yang lahir dari obsesi orang",
+      "mati melalui nekromansi. Selalu berkeliaran",
+      "di dalam makam, memiliki resistansi tinggi",
+      "terhadap serangan fisik, Dan juga bisa",
+      "memuntahkan api hantu yang mematikan.",
+      ""
     ]
   },
   "80": {
     "bossName": [
-      "Binatang Merah Tua yang Gila"
+      "Binatang Merah yang Mengamuk"
     ],
     "subtitle": [
-      "Tinggal di Katakombe yang Terlupakan"
+      "Mendiami makam yang terlupakan."
     ],
     "sentouryoku": [
       "1600"
@@ -434,106 +1102,114 @@
   },
   "87": {
     "objectName": [
-      "Lendir Herbivora"
+      "Slime Herbivora"
     ],
     "sentouryoku": [
       "60"
     ],
     "description": [
-      "Monster yang umum ditemukan di pinggiran",
-      "jurang maut. Itu berevolusi menjadi warna hijau karena itu",
-      "kebiasaan memakan tanaman. Saat didekati",
-      "tiba-tiba, ia menjadi gelisah, dan mulai",
-      "menyemprotkan slime korosif."
+      "Monster biasa yang bisa ditemukan di mana",
+      "saja di pinggiran jurang. Berevolusi menjadi",
+      "hijau karena kebiasaannya menggerogoti",
+      "tumbuhan. Jika kau mendekat tanpa pikir",
+      "panjang, ia akan menjadi agresif, Dan mulai",
+      "menyemprotkan lendir korosif."
     ]
   },
   "88": {
     "objectName": [
-      "Jack Lendir"
+      "Slime Jack"
     ],
     "sentouryoku": [
       "999"
     ],
     "description": [
-      "Slime yang secara tidak sengaja memakan Jack Bomb.",
-      "Meski tidak langsung meledak,",
-      "itu tetap sangat tidak stabil, dan menjadi",
-      "gelisah dan merusak diri sendiri ketika diprovokasi."
+      "Slime yang tak sengaja memakan Bom Jack.",
+      "Meskipun tidak langsung meledak, ia tetap",
+      "sangat tidak stabil. Saat terprovokasi,",
+      "ia mudah mengamuk dan meledakkan diri.",
+      "",
+      ""
     ]
   },
   "89": {
     "objectName": [
-      "\\c[116]Lendir Hantu"
+      "\\c[116]Slime Roh Jahat"
     ],
     "sentouryoku": [
       "340"
     ],
     "description": [
-      "Slime yang bermutasi dipengaruhi oleh lingkungan",
-      "dari kuburan. Ia secara agresif menyerang para petualang",
-      "seperti zombie, menjadi lebih ganas,",
-      "dan aura mematikan di sekitarnya.",
-      "tubuhnya dapat menulari orang lain melalui kontak,",
-      "menyebabkan kematian instan jika Anda tidak berhati-hati."
+      "Slime yang bermutasi karena tumbuh di",
+      "pemakaman dan terpengaruh. Seperti zombi,",
+      "ia aktif menyerang petualang, serangannya",
+      "menjadi lebih ganas, dan... Aura kematian",
+      "yang menyelimutinya juga akan menular pada",
+      "petualang melalui serangannya."
     ]
   },
   "90": {
     "objectName": [
-      "\\c[116]Lendir Beku"
+      "\\c[116]Slime Pembeku"
     ],
     "sentouryoku": [
       "400"
     ],
     "description": [
-      "Slime bermutasi setelah menyerap sihir",
-      "sumber yang tidak diketahui. Ini tumbuh subur di daerah berair",
-      "dan menciptakan lapisan es tebal menggunakan sihirnya.",
-      "Ini menyerap air dalam jumlah besar,",
-      "mendinginkannya dengan cepat, dan meledakkannya ke arah para petualang."
+      "Slime yang bermutasi setelah menyerap energi",
+      "sihir dari entah mana. Hanya aktif di",
+      "perairan, menciptakan zirah es tebal untuk",
+      "dirinya melalui energi sihir. Ia akan",
+      "menyerap banyak air, mendinginkannya dengan",
+      "cepat, lalu menyemburkannya untuk menyerang."
     ]
   },
   "91": {
     "objectName": [
-      "\\c[116]Slime Berderak"
+      "\\c[116]Slime Listrik"
     ],
     "sentouryoku": [
       "280"
     ],
     "description": [
-      "Slime berkilau yang dapat mengeluarkan listrik",
-      "seluruh tubuhnya. Bahkan slime pun tidak tahu apa itu",
-      "makan untuk bermutasi seperti ini. Namun dalam kondisi saat ini",
-      "mengeluarkan listrik secara bebas, mendekat itu berbahaya..."
+      "Slime yang kini bisa mengeluarkan listrik dari",
+      "seluruh tubuhnya, berkilauan. Bahkan slime itu",
+      "sendiri tak tahu apa yang dimakannya hingga",
+      "bermutasi seperti ini. Namun, kondisi yang",
+      "terus-menerus mengeluarkan arus listrik",
+      "membuatnya tak bisa lagi didekati dengan mudah..."
     ]
   },
   "92": {
     "objectName": [
-      "Lendir Bijih"
+      "Slime Bijih"
     ],
     "sentouryoku": [
       "350"
     ],
     "description": [
-      "Slime yang memakan kristal yang mengandung sihir,",
-      "mengeraskan tubuhnya. Mineral keras tumbuh di atasnya",
-      "permukaan, membentuk senjata mematikan.",
-      "Meskipun lebih keras, ia tetaplah slime.",
-      "Selain itu, bijih yang dijatuhkannya tampaknya cukup berharga…"
+      "Slime yang mengeras setelah memakan banyak",
+      "kristal berisi energi sihir. Bijih keras mulai",
+      "tumbuh di tubuhnya, dan ia bisa mengendalikannya",
+      "menjadi senjata tajam. Meski telah mengeras,",
+      "pada akhirnya ia tetaplah hanya seekor slime.",
+      "Lagipula, bijih yang dijatuhkannya juga sangat berharga..."
     ]
   },
   "101": {
     "objectName": [
-      "\\c[116]Anak Merah"
+      "\\c[116]Monster Merah Kecil"
     ],
     "sentouryoku": [
       "380"
     ],
     "description": [
-      "Makhluk aneh yang lahir dari telur.",
-      "Lingkungan pertumbuhannya yang cacat dan tidak alami",
-      "telah memutar tubuhnya menjadi kumpulan jaringan yang kusut.",
-      "Ia memiliki keinginan yang kuat untuk menyerang,",
-      "didorong oleh keinginan untuk melahap daging dan dilahirkan kembali."
+      "Makhluk asing yang lahir dari telur. Lingkungan",
+      "tumbuh yang cacat dan salah membuat berbagai",
+      "jaringannya saling terpelintir. Memiliki hasrat",
+      "menyerang yang kuat, mendambakan kelahiran",
+      "kembali dengan melahap daging dan darah.",
+      ""
     ]
   },
   "102": {
@@ -544,28 +1220,27 @@
       "???"
     ],
     "description": [
-      "Bahkan di Abyss yang mematikan, membuang sampah sembarangan bukanlah hal yang keren.",
-      "Namun, apa pun yang Anda lempar akan hilang keesokan harinya...",
-      "Terasa seperti seseorang sedang membersihkan.",
-      "Namun hati-hati—jangan membuang barang yang mudah terbakar.",
-      "Perlakukan itu terlalu kasar,",
-      "dan Anda mungkin memicu sesuatu yang buruk."
+      "Bahkan di tempat penuh bahaya seperti jurang ini,",
+      "membuang barang sembarangan tetap tidak",
+      "dianjurkan. Namun, apa pun yang dibuang, akan",
+      "selalu menghilang secara misterius keesokan",
+      "harinya. Tapi, berhati-hatilah, jangan sembarangan",
+      "membuang benda mudah terbakar ke dalamnya."
     ],
     "1": [
-      "Menemukan tempat sampah...",
-      "Apa yang harus dilakukan dengan itu?"
+      "Menemukan sebuah tempat sampah...",
+      "Apa yang harus kulakukan?"
     ],
     "2": [
-      "Cari di Sekitar",
-      "Jatuhkan Senjata",
-      "Jatuhkan Perlengkapan"
+      "Menggeledah",
+      "Buang Senjata",
+      "Buang Perlengkapan"
     ],
     "3": [
-      "Itu hanya sekedar materi",
-      "aku membuangnya begitu saja..."
+      "Di dalamnya hanya ada barang yang baru saja kubuang..."
     ],
     "4": [
-      "(Ugh... Ranselku penuh...",
+      "（Ugh... tasku benar-benar penuh...",
       "Aku harus membuang semuanya sekaligus...)"
     ],
     "5": [
@@ -573,24 +1248,27 @@
       "Pikirkan lagi..."
     ],
     "6": [
-      "...Haruskah aku membuang ini?",
+      "……Apa kau yakin ingin membuang semua ini?",
       "\\str[8]"
     ],
     "7": [
-      "\\fr${itemIcon}\\fr dan ${itemLength} peralatan secara total."
+      "\\fr${itemIcon} dan ${itemLength} peralatan lainnya"
     ]
   },
   "110": {
     "objectName": [
-      "orang-orangan sawah"
+      "Orang-orangan Sawah"
     ],
     "sentouryoku": [
       "???"
     ],
     "description": [
-      "Aku hanyalah orang-orangan sawah.",
-      "Karena aku tidak punya hati,",
-      "Saya tidak bisa merasakan sakit."
+      "「Aku hanyalah orang-orangan sawah, karena tak",
+      "punya hati, Aku takkan merasakan sakit—— 」",
+      "",
+      "",
+      "",
+      ""
     ]
   },
   "113": {
@@ -601,46 +1279,102 @@
       "50"
     ],
     "description": [
-      "Kelinci liar yang bermutasi karena kontaminasi sihir—",
-      "tanduk di kepalanya adalah tanda perubahan ini.",
-      "Namun, ini masih dalam tahap pertumbuhan",
-      "dan tidak terlalu berbahaya.",
-      "Selain itu, dagingnya tetap empuk dan lezat."
+      "Kelinci liar yang bermutasi karena polusi sihir,",
+      "tanduk di kepalanya adalah simbol mutasi ini.",
+      "Namun, ia masih dalam masa pertumbuhan, jadi",
+      "ancamannya tidak terlalu besar. Lagipula,",
+      "dagingnya masih lezat dan nikmat.",
+      ""
+    ]
+  },
+  "106": {
+    "objectName": [
+      "Pohon Cabai"
+    ],
+    "sentouryoku": [
+      "1"
+    ],
+    "description": [
+      "Ternyata cabai tumbuh di pohon, ya…?",
+      "Meskipun aku tidak terlalu suka,",
+      "tapi sebagai petualang,",
+      "aku tak boleh pilih-pilih makanan!",
+      "",
+      ""
+    ]
+  },
+  "107": {
+    "objectName": [
+      "Kentang"
+    ],
+    "sentouryoku": [
+      "1"
+    ],
+    "description": [
+      "Jika tidak diperhatikan baik-baik, mudah sekali mengira ini gulma",
+      "dan mengabaikannya, Padahal, jika digali ke bawah, kau bisa",
+      "menemukan kentang lezat."
+    ]
+  },
+  "108": {
+    "objectName": [
+      "Tomat"
+    ],
+    "sentouryoku": [
+      "1"
+    ],
+    "description": [
+      "Tomat yang penuh air dan memancarkan aroma segar,",
+      "Seolah-olah dirawat dengan cermat oleh seseorang…"
+    ]
+  },
+  "109": {
+    "objectName": [
+      "Pohon Stroberi"
+    ],
+    "sentouryoku": [
+      "1"
+    ],
+    "description": [
+      "Pohon buah yang penuh stroberi, terlihat sangat",
+      "lezat. Sering menarik makhluk tertentu untuk",
+      "datang mencuri makanan.",
+      "",
+      "",
+      ""
     ]
   },
   "115": {
     "objectName": [
-      "\\c[115]Membakar Lendir"
+      "\\c[115] Slime Pembakar"
     ],
     "sentouryoku": [
       "620"
     ],
     "description": [
-      "Slime yang dilalap api yang berkobar—",
-      "hanya dengan mendekat saja akan memancarkan panas yang hebat.",
-      "Serangan normal hampir tidak berguna melawannya,",
-      "dan para petualang hanya bisa bersyukur",
-      "monster seperti ini hanya muncul di dalamnya",
-      "lingkungan ekstrim seperti ladang lava."
+      "Slime yang seluruh tubuhnya terbakar api, hanya",
+      "mendekat saja sudah terasa panas membakar.",
+      "Serangan biasa hampir tak berguna melawannya,",
+      "para petualang hanya bisa bersyukur, Monster",
+      "semacam ini hanya muncul di lingkungan ekstrem",
+      "seperti lahar."
     ]
   },
   "119": {
     "objectName": [
-      "\\c[10]Iblis Kematian"
+      "\\c[10] Iblis Kematian"
     ],
-    "garble": [
-      "BENAR"
-    ],
+    "garble": [],
     "sentouryoku": [
       "???"
     ],
     "description": [
-      "Hanya bayangan dari",
-      "Kehendak Iblis Kematian—",
-      "tidak ada manusia yang mampu bertahan dari harganya.",
-      "Bahkan gema ini membawa kematian",
-      "untuk semua yang dilihatnya,",
-      "termasuk pemanggil."
+      "Ini hanyalah bayangan semu dari kekuatan Iblis",
+      "Kematian. Iblis sejati, takkan bisa dipanggil",
+      "dengan mudah oleh manusia. Atau lebih tepatnya,",
+      "manusia sama sekali tak sanggup menanggung",
+      "harga dari pemanggilan itu. Namun, meski hanya",
+      "gema yang tak berarti ini, Sudah cukup untuk"
     ]
   },
   "97": {
@@ -648,272 +1382,323 @@
       "\\c[10]Aki"
     ],
     "sentouryoku": [
-      "\\c[10]Tidak sopan menanyakan statistik seorang gadis~♥"
+      "\\c[10] Mengorek informasi tentang gadis itu g sopan ~♥"
     ],
     "description": [
-      "Tampak seperti gadis kecil yang tidak berbahaya,",
-      "tapi sebenarnya dia adalah Archdemon yang berjiwa bebas.",
-      "Ramah terhadap manusia, tapi suka menggodanya",
-      "dan menikmati reaksi bingung mereka.",
-      "Dia menjalankan toko karena kemauannya,",
-      "dengan item dan harga yang berubah sewaktu-waktu juga.",
-      "Pada dasarnya, dia hanya ingin mendapatkan salmon kesukaannya",
-      "dari manusia bagaimanapun dia bisa..."
+      "Meski terlihat hanya gadis loli cantik yang tak",
+      "berbahaya, Namun wujud aslinya adalah iblis besar",
+      "yang tak terikat apa pun. Sangat ramah pada",
+      "manusia, namun juga sangat gemar mengamati dan",
+      "mengerjai mereka. Meski sedang mengelola toko",
+      "kecil, ia hanya ingin menukar salmon kesukaannya."
     ],
     "1": [
-      "Ya ampun~ Tamu yang langka~ Hehe~",
-      "Saya punya beberapa barang bagus di sini, luangkan waktu Anda ♥"
+      "Oh, ya ampun~ Ini benar-benar tamu langka, ya~",
+      "Hehe, ada barang bagus di sini, silakan lihat-lihat saja♥"
     ],
     "2": [
-      "Yah~! Kebetulan sekali~ Senang bertemu denganmu lagi~!",
-      "Apakah ini takdir~? Atau mungkin kamu sangat beruntung~?"
+      "Yaho~ Kebetulan sekali, ya~ Bisa bertemu denganmu lagi~!",
+      "Apakah ini takdir~? Atau keberuntungan yang sangat baik~?"
     ],
     "3": [
-      "Hehe, bagaimanapun juga~! Ketika keberuntungan sedang berpihak pada Anda,",
-      "sebaiknya kamu berhati-hati—seseorang mungkin akan merebutnya♥"
+      "Hehe, bagaimanapun juga~!",
+      "Saat keberuntungan berpihak padamu, hati-hati jangan sampai ada yang",
+      "merebutnya darimu, ya♥"
     ],
     "4": [
-      "Tokoku spesial lho~",
-      "Saya menjual barang-barang yang tidak akan Anda temukan di tempat lain~"
+      "Tokoku ini istimewa,",
+      "Menjual barang-barang yang tak bisa kau temukan di toko biasa~"
     ],
     "5": [
-      "Mhm~ Ada apa? Wajahmu merah semua~ \\w[45]Hehe~ \\w[45]",
-      "Apa aku memikatmu atau apa? Kamu terlalu manis~"
+      "Mmmh~ Ada apa? Wajahmu memerah, ya? \\w[45]Heh~\\w[45]",
+      "Apakah kau terpesona oleh kelucuanku? Sungguh menggemaskan, ya~"
     ],
     "6": [
-      "Barang-barang ini adalah…",
-      "Siapa kamu sebenarnya…?"
+      "Barang-barang ini adalah...",
+      "Sebenarnya kau ini siapa..."
     ],
     "7": [
-      "Aha♥ Spiii~cy~ Dewasa~t~ saja~",
-      "Anda menyukai hal semacam ini, ya?"
+      "Aha♥ Me・na・ngang~ Untuk・o・rang・de・wasa~",
+      "Apakah kau mencari barang semacam ini?"
     ],
     "8": [
-      "Tentu saja~ aku mendapatkannya♥",
-      "onii-san...apakah kamu tertarik~?"
+      "Tentu saja~ Ada, kok♥",
+      "Kakak tampan... tertarik, ya?"
     ],
     "9": [
-      "Oh~ ingin tahu lebih banyak tentangku?",
-      "Cukup adil~ Aku belum memperkenalkan diriku, kan~"
+      "Oh~ Ingin mengenalku?",
+      "Benar juga~ Aku memang belum memperkenalkan diri, ya~"
     ],
     "10": [
-      "Kalau begitu, aku~ Archdemon dari",
-      "kedalaman jurang maut! Aki~!"
+      "Begini, aku ini~",
+      "Aku adalah iblis agung dari kedalaman jurang! Aki, lho~"
     ],
     "11": [
-      "Hai sekarang! Jangan beri aku wajah menakutkan itu~",
-      "Saya di sini hanya untuk melakukan sedikit perdagangan hari ini~!"
+      "Astaga! Jangan pasang ekspresi menakutkan begitu, dong~",
+      "Hari ini aku hanya datang untuk berdagang denganmu saja, kok~!"
     ],
     "12": [
-      "Mengendus mengendus…",
+      "Mengendus-endus...",
       "\\w[90]\\^"
     ],
     "13": [
-      "Ya! Bau itu!",
-      "Itu saja! Beri aku ♥ Tolong~!"
+      "Benar! Ini dia rasanya!",
+      "Ini dia! Cepat berikan padaku♥ Ya, ya~!"
     ],
     "14": [
-      "Ayo~",
-      "Anda akan memberikannya kepada saya, bukan ♥"
+      "Boleh, kan~?",
+      "Kau akan memberikannya padaku, kan♥?"
     ],
     "15": [
-      "(Ah, jadi itu salmon yang ada di tasku",
-      "yang memikatnya masuk...)"
+      "（Ah, ternyata dia tertarik pada...",
+      "...aroma salmon dari tasku...）"
     ],
     "16": [
-      "Mhm mhm~! Inilah yang saya inginkan!",
-      "Aku akan pastikan mengucapkan terima kasih dengan benar♥"
+      "Mmm~ Ini dia yang aku inginkan!",
+      "Aku akan berterima kasih padamu dengan baik♥"
     ],
     "17": [
-      "Kumohon~ Meski sedikit saja tidak masalah…",
-      "Bagikan dengan saya? Tolong cantik♥"
+      "Kumohon, walau hanya sedikit saja...",
+      "Berikan padaku, ya? Kumohon♥"
     ],
     "18": [
-      "(Apa yang harus saya lakukan… Sepertinya",
-      "bocah ini sangat ingin salmon…)"
+      "（Apa yang harus kulakukan... Anak ini,",
+      "sepertinya sangat ingin makan salmon...）"
     ],
     "19": [
-      "Jangan berikan apa pun"
+      "Tidak memberikan apa pun"
     ],
     "20": [
-      "Hoh~ \\w[45]",
-      "Apakah kamu mencoba menentang Nona Aki?"
+      "Ho~ \\w[45]",
+      "Kau berani melawan Nona Aki?"
     ],
     "21": [
-      "Ck ck~ Dasar anak nakal~!",
-      "Sepertinya aku harus menghukummu dengan benar♥"
+      "Dasar anak nakal~ Karena kau anak nakal~!",
+      "Maka, aku harus menghukummu dengan baik♥"
     ],
     "22": [
-      "\\>\\c[10]《Ritual Kontrak Iblis: Kutukan Mutlak Manusia yang Berhati Murni =",
-      "\\>Mulai Hari Ini, Hidupmu Adalah Mode Neraka》!!     \\w[90]"
+      "\\>\\c[10]《Ritual Kontrak Iblis: Kutukan Mutlak Manusia Polos=",
+      "\\>Mulai Hari Ini Hidupmu Adalah Mode Neraka》 \\w[90]"
     ],
     "23": [
-      "Dan dengan itu—",
-      "Anda telah dikutuk—"
+      "Dengan begitu—",
+      "Kau dikutuk ya——"
     ],
     "24": [
-      "Banyak sekali salmon untukku♥ Kamu terlalu manis, onii-san~",
-      "Mencoba memenangkan hatiku, ya~?"
+      "Menawarkan begitu banyak salmon ya♥ Kakak ini benar-benar~",
+      "Apa kau ingin menyenangkan hatiku~?"
     ],
     "25": [
-      "Lucu sekali ♥ Aku tidak bisa menolaknya~",
-      "Hehe ~!"
+      "Manis sekali♥ Tak tertahankan rasanya♥",
+      "Hehehe~!"
     ],
     "26": [
-      "Bawalah si manis kecil ini bersamamu~",
-      "Jika kamu ingin menemukanku, kirimkan saja melalui pesan~♥"
+      "Bawa saja si manis kecil ini bersamamu~",
+      "Jika kau ingin mencariku, biarkan dia menyampaikan pesan saja~♥"
     ],
     "27": [
-      "Anda ingin membeli barang ini?",
-      "Tentu~ aku akan menjualnya padamu~!"
+      "Kau ingin membeli barang ini?",
+      "Baiklah~ Akan kujual padamu~!"
     ],
     "28": [
-      "Ah! Tapi tahukah Anda, saya tidak terlalu peduli dengan uang~",
-      "Bagi iblis sepertiku, hal itu sama sekali tidak berharga~"
+      "Ah! Tapi, aku tak tertarik pada uang~",
+      "Bagiku, sebagai iblis agung, benda itu tak ada nilainya sama sekali~"
     ],
     "29": [
-      "Hmm, ototmu cukup bagus,",
-      "Jadi aku yakin kamu bisa mengaturnya~!"
+      "Kulihat ototmu cukup bagus,",
+      "Seharusnya kau bisa melakukannya~!"
     ],
     "30": [
-      "...Hehe, jika kamu menginginkan item ini~!",
-      "Lalu tukarkan dengan salmon~!"
+      "...Hehehe, jika kau menginginkan barang ini~!",
+      "Tukarlah dengan salmon~!"
     ],
     "31": [
-      "Ada air di mana-mana di dekat sini, bukan?",
-      "Bukankah terlalu sulit bagimu untuk menangkap beberapa ikan~?"
+      "Begitu banyak perairan di sekitar sini,",
+      "Menangkap ikan bukan masalah bagimu, kan~?"
     ],
     "32": [
-      "Jika kamu mengira itu adalah akhirnya, kamu salah besar~♥",
-      "Kecuali jika Anda merenungkannya dengan benar, saya tidak akan pernah membiarkan Anda lolos!"
+      "Jika kau pikir ini sudah berakhir, kau salah besar ya♥~",
+      "Jika kau tak merenung dengan baik, aku tak akan pernah memaafkanmu!"
     ],
     "33": [
-      "Juga~ kutukan ini?",
-      "Ini akan bertahan untuk sementara waktu~♥"
+      "Dan lagi~",
+      "Kutukan ini akan terus berlanjut, lho~♥"
     ],
     "34": [
-      "Ahaha♥ Sungguh menyakitkan, ya~?",
-      "Pasti ini sangat menjengkelkan bagimu, onii-san♥"
+      "Ahaha♥ Kalau begini, pasti akan ada banyak masalah, kan~?",
+      "Pasti sangat menyebalkan juga untuk Kakak, kan♥?"
     ],
     "35": [
-      "Aww~ Ingin memohon padaku untuk menghilangkan kutukan itu~?",
-      "Apa yang harus aku lakukan~♥"
+      "Eh~ Kau ingin aku melepaskan kutukan ini~?",
+      "Bagaimana, ya~♥?"
     ],
     "36": [
-      "Dan bagaimana jika aku bilang tidak~? Apa yang akan kamu lakukan~?",
-      "Aww, jangan memasang wajah seperti itu~ Itu tidak akan berhasil padaku~"
+      "Kalau aku bilang tidak, apa yang akan kau lakukan~?",
+      "Aduh~ Jangan pasang ekspresi seperti itu~ Tidak boleh, lho~"
     ],
     "37": [
-      "Sekarang aku hanya ingin lebih sering mengganggumu, onii-san♥",
-      "Tidak ada kutukan yang bisa diangkat untukmu~ Ahaha♥"
+      "Begitu, aku jadi makin ingin mengganggu Kakak, lho♥.",
+      "Jangan harap aku akan melepaskannya, ya~ Ahaha♥"
     ],
     "38": [
-      "Wah, kamu putus asa banget ya? ZAKO yang luar biasa♥",
-      "Tunjukkan padaku kamu meminta maaf dengan lebih tulus~♥"
+      "Terlalu memaksakan diri, ya? Kakak memang payah, ya♥.",
+      "Tunjukkan lebih banyak ketulusan saat meminta maaf, dong~♥"
     ],
     "39": [
-      "(Jika aku ingin mematahkan kutukan itu…",
-      "Kurasa aku benar-benar harus menawarinya ikan…)"
+      "（Jika ingin kutukan ini terangkat...",
+      "Sepertinya aku memang harus mempersembahkan ikan pada bocah tengik",
+      "ini, ya...)"
     ],
     "40": [
-      "Waa~! Terima kasih banyak",
-      "onii-san~♥"
+      "Wah~!",
+      "Kakak~ Terima kasih, ya♥~"
     ],
     "41": [
-      "Begitu banyak salmon untukku♥ sluuurp♥",
-      "Ahh~ Ini surga salmon♥"
+      "Kau memberiku begitu banyak salmon♥~ Chu-rururu♥",
+      "Ah~ Surga salmon♥~"
     ],
     "42": [
-      "Baiklah~! Kutukan itu telah hilang sekarang~!",
-      "Semoga kita bisa segera bermain lagi, onii-san♥"
+      "Baiklah~! Dengan ini, kutukannya terangkat, deh~!",
+      "Nanti juga harus sering-sering menjagaku, ya~ Kakak♥"
     ],
     "43": [
-      "Baiklah~ Lama tidak bertemu, onii-san~",
-      "Kamu muncul di waktu yang tepat~♥"
+      "Astaga~ Sudah lama tidak bertemu, Kakak~",
+      "Kau datang di saat yang tepat sekali~♥"
     ],
     "44": [
-      "Ingin mencoba item baru?",
-      "Ini adalah Mizumanju yang kubuat sendiri~"
+      "Mau coba produk baru ini?",
+      "Ini manisan air buatanku sendiri, lho~"
     ],
     "45": [
-      "Efeknya, Anda bertanya? Hehe ~!",
-      "Itu membuat tubuhmu ekstra sensitif♥"
+      "Efeknya, hehe!",
+      "Akan membuat tubuhmu jadi lebih sensitif, lho♥"
     ],
     "46": [
-      "Dan itu tidak hanya berhasil pada manusia~",
-      "Ini juga sangat efektif terhadap monster!"
+      "Bukan cuma efektif untuk manusia~",
+      "Untuk monster pun, ini produk yang sangat berguna!"
     ],
     "47": [
-      "Jadi, bagaimana menurut Anda? Hanya sepuluh salmon~?",
-      "Ingin membelinya? TIDAK? Cepat dan putuskan ♥"
+      "Bagaimana? Hanya butuh sepuluh salmon saja, lho~?",
+      "Beli? Tidak beli? Cepat putuskan, dong♥"
     ],
     "48": [
-      "Saya akan membelinya!",
-      "Sudahlah…"
+      "Be-beli! Aku beli!",
+      "Lebih baik tidak jadi…"
     ],
     "49": [
-      "Serius, ZAKO onii-san, bahkan otakmu beralih ke ZAKO~?",
-      "Bahkan tidak bisa mengeluarkan beberapa ikan… sangat tidak berguna♥"
+      "Kakak ikan teri ini, sungguh! Apa kepalamu juga sudah jadi ikan",
+      "teri~? Padahal tidak bisa mengeluarkan ikan sebanyak itu, sungguh",
+      "tidak berguna♥"
     ],
     "50": [
-      "Tidak ada uang, tidak ada salmon—onii-san yang lemah dan menyedihkan~",
-      "Pantas saja kamu lajang dan masih perawan~"
+      "Tidak punya uang, tidak punya salmon, kakak yang sangat lemah dan",
+      "tidak berguna~ Karena itulah kau selalu melajang dan masih perjaka~"
     ],
     "51": [
-      "Jika Anda berubah pikiran suatu hari nanti, kembalilah dan belilah~",
-      "Bukannya aku peduli atau apa pun♥"
+      "Kalau suatu hari kau berubah pikiran, datanglah lagi untuk membeli~",
+      "Aku sama sekali tidak berharap, lho♥"
     ],
     "52": [
-      "Waktu untuk panjangnya ~",
-      "Tidak percaya kamu menyampaikan sesuatu yang luar biasa ini♥"
+      "Cih~ Membosankan sekali, meong~",
+      "Masa barang sebagus ini pun tidak kau beli♥"
     ],
     "53": [
-      "Terima kasih atas pembeliannya, nya~",
-      "Sekarang aku bisa makan salmon sebanyak-banyaknya lagi~"
+      "Terima kasih atas pembeliannya, meong~",
+      "Dengan begini, aku bisa makan banyak sekali salmon lagi~"
     ],
     "54": [
-      "Waktu untuk panjangnya ~",
-      "Tidak percaya kamu menyampaikan sesuatu yang luar biasa ini♥"
+      "Cih~ Membosankan sekali, meong~",
+      "Kau bahkan tidak membeli barang sebagus ini♥"
     ],
     "55": [
-      "Ah~ maksudku, mungkin tidak akan terjadi apa-apa♥",
-      "Tapi onii-san, kamu memang terlihat sangat lemah~"
+      "Ah~ Kurasa itu tidak akan terjadi kok♥",
+      "Tapi Kakak terlihat sangat lemah~"
     ],
     "56": [
-      "Jadi kupikir sebaiknya aku memperingatkanmu~",
-      "Ini lho, kamu juga bisa menggunakannya pada dirimu sendiri~"
+      "Jadi, lebih baik aku mengingatkanmu~",
+      "Ini, Kakak juga bisa memakannya sendiri kok~"
     ],
     "57": [
-      "Dan ya, efeknya membuat tubuhmu super sensitif♥",
-      "Jadi sepertinya, jangan mencobanya sendiri, oke~?"
+      "Tentu saja, efeknya adalah membuat tubuhmu jadi sensitif♥",
+      "Jadi, jangan pernah menggunakannya pada dirimu sendiri ya~"
     ],
     "58": [
-      "Atau tunggu, Anda sebenarnya ingin menggunakannya?",
-      "onii-san benar-benar masokis kecil yang putus asa, ya♥"
+      "Atau, kau benar-benar ingin menggunakannya?",
+      "Kakak terlihat seperti pecundang masokis ya♥"
     ],
     "59": [
-      "Bercanda~♥ Kalau begitu,",
-      "datang mengunjungiku lagi lain kali, oke~♥"
+      "Hanya bercanda kok♥",
+      "Kalau begitu~ Aku akan menunggumu datang lagi lain kali ya♥"
     ],
     "60": [
-      "Sayang sekali~ Sudah terjual habis~?",
-      "Ya ampun, onii-san, kamu benar-benar putus asa, ya♥"
+      "Sayang sekali~ Sudah habis terjual lho~?",
+      "Kakak ini, sungguh, apa kau begitu haus ya♥"
     ],
     "61": [
-      "Jika kamu ingin lebih, kamu harus menunggu sampai waktu berikutnya~",
-      "Tapi jika kamu membawakanku salmon, aku mungkin akan membuat pengecualian♥"
+      "Jika kau menginginkannya, kau harus menunggu lain kali~",
+      "Tapi jika kau memberiku salmon, kapan saja boleh kok♥"
     ],
     "62": [
-      "Ya ampun ♥ Kamu ingin lebih? Sangat serakah ~!",
-      "Membeli sebanyak ini... apakah kamu merencanakan sesuatu yang nakal~?"
+      "Oh la la♥ Masih mau ya~? Serakah sekali dirimu!",
+      "Membeli sebanyak ini, apa kau ingin melakukan hal aneh~?"
     ],
     "63": [
-      "Whoaaa—♥ Salmon berkualitas tinggi—!",
-      "kamu seharusnya mengungkapkan ini lebih awal~"
+      "Hoooh——♥ Ada salmon berkualitas tinggi seperti ini——!",
+      "Kakak, kau ini, kalau ada barang bagus begini, kenapa tidak kau",
+      "keluarkan dari tadi~"
     ],
     "64": [
-      "Jika seperti itu~",
-      "Berikan saja padaku satu dan aku akan menjualnya padamu~♥"
+      "Kalau yang ini~",
+      "Berikan aku satu, nanti aku bisa menjualnya padamu, lho~♥"
+    ],
+    "65": [
+      "Hoo~~ Kau mencari acara TV yang bisa ditonton tengah malam, ya~?",
+      "Memilih waktu seperti ini, apa kau ingin menonton sesuatu yang",
+      "mendebarkan~?"
+    ],
+    "66": [
+      "Apa kau ingin menontonnya bersama adikmu~?",
+      "Kakak ini, bukankah ini jadi semakin mencurigakan♥"
+    ],
+    "67": [
+      "Tapi Kakak sangat beruntung, lho~",
+      "Aku kebetulan punya barang bagus seperti ini di sini, lho~"
+    ],
+    "68": [
+      "Jika Kakak menginginkannya,",
+      "Tukarkan saja dengan ikan salmon~"
+    ],
+    "69": [
+      "Tapi bukan salmon biasa seperti yang biasa kau dapatkan, lho~",
+      "Harus yang kualitasnya lebih tinggi♥"
+    ],
+    "70": [
+      "Apa-apaan~ Kakak ini benar-benar payah~",
+      "Tidak bisa mendapatkan salmon kelas atas, ya?"
+    ],
+    "71": [
+      "Dasar payah~",
+      "Sungguh payah, ya~"
+    ],
+    "72": [
+      "Tapi aku bisa memberimu sedikit bantuan, lho♥",
+      "Dengan begitu… Kakak bisa lebih mudah menangkap ikan, bukan~?"
+    ],
+    "73": [
+      "Oohh~~!",
+      "Aroma ini...!"
+    ],
+    "74": [
+      "Kakak, kau cukup hebat juga, ya~",
+      "Berhasil menangkap salmon berkualitas tinggi ini♥"
+    ],
+    "75": [
+      "Baiklah♥ Ini yang sudah dijanjikan~",
+      "Kakak juga nikmati saja, ya~"
+    ],
+    "76": [
+      "Padahal aku sudah membantumu~",
+      "Kakak benar-benar tidak berguna, ya~"
     ]
   },
   "98": {
@@ -924,45 +1709,44 @@
       "???"
     ],
     "description": [
-      "Mesin permen berisi segala macam",
-      "permen berwarna-warni. Semuanya adalah konpeitō buatan tangan",
-      "oleh pemilik toko.",
-      "Tampaknya dibuat dengan beberapa bahan khusus,",
-      "mengeluarkan aroma yang aneh tapi menyenangkan…",
-      "Tapi meski kau bertanya karena penasaran apa yang ada di dalamnya,",
-      "Yang akan Anda dapatkan hanyalah senyuman penuh arti dari gadis itu..."
+      "Mesin permen yang penuh dengan permen aneka",
+      "warna. Di dalamnya semua konpeito buatan tangan",
+      "pemilik toko. Sepertinya menggunakan bahan",
+      "khusus, tercium aroma yang aneh… Namun, meski",
+      "kau bertanya dengan penasaran apa isinya, Kau",
+      "hanya akan mendapat senyum penuh arti darinya…"
     ],
     "1": [
-      "menemukan mesin permen",
-      "diisi dengan permen berwarna cerah—"
+      "Menemukan sebuah mesin permen yang penuh warna-warni",
+      "permen—"
     ],
     "2": [
-      "Mari kita lihat... Satu putaran membutuhkan biaya...",
+      "Coba kulihat... sekali putar butuh..",
       "\\w[60]\\^"
     ],
     "3": [
-      "\\>Mari kita lihat... Satu putaran membutuhkan biaya...",
-      "\\c[6]\\v[86]\\c[0]yen!? \\< Itu mahal!!"
+      "\\>Coba kulihat... sekali putar butuh..",
+      "\\c[6]\\v[86]\\c[0] Emas!? \\< Mahal sekali!!"
     ],
     "4": [
-      "\\str[120] mungkin menyukai makanan ringan seperti ini...",
-      "Apa yang harus saya lakukan? Haruskah saya mencobanya?"
+      "\\str[120] Mungkin dia akan suka camilan ini…",
+      "Bagaimana ini? Haruskah aku mencobanya?"
     ],
     "5": [
-      "Mari kita lihat... Satu putaran berharga... \\w[60]\\c[6]\\v[86]\\c[0]yen",
-      "Apa yang harus saya lakukan? Haruskah saya mencobanya?"
+      "Biar kulihat... Sekali putar butuh \\w[60]\\c[6]\\v[86]\\c[0] koin.",
+      "Bagaimana ini? Haruskah kucoba?"
     ],
     "6": [
-      "Bayar dengan uang",
-      "Berdagang dengan ikan"
+      "Bayar dengan uang.",
+      "Tukar dengan ikan."
     ],
     "7": [
-      "Tapi... aku tidak punya",
-      "uang sebanyak itu untukku..."
+      "Tapi,",
+      "Aku tidak punya uang sebanyak itu..."
     ],
     "8": [
-      "Ya, ya~♥",
-      "Tawarkan saja lebih banyak salmon, lalu..."
+      "Betul, betul~♥",
+      "Begitu saja, persembahkan lebih banyak salmon..."
     ]
   }
 }

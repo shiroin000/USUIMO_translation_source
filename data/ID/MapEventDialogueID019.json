@@ -1,0 +1,409 @@
+{
+  "1": {
+    "0": [
+      "Aku menahan napas, menyelinap diam-diam ke sisi ranjang adikku tanpa",
+      "membuat suara sedikit pun. …Memang aku, teknik menyelinap ini",
+      "sungguh sempurna."
+    ],
+    "1": [
+      "Aku melangkah hati-hati mendekati ranjang adikku,",
+      "Takut suara lantai yang samar akan membangunkan adikku."
+    ],
+    "2": [
+      "Apa yang harus kulakukan…?"
+    ],
+    "10": [
+      "Pertama, mari lihat keadaannya.",
+      "\\w[60]\\^"
+    ],
+    "11": [
+      "Sentuh kepala adikku…",
+      "\\w[60]\\^"
+    ],
+    "12": [
+      "Deg-degan… Aku jadi sedikit gugup…",
+      "\\w[60]\\^"
+    ],
+    "13": [
+      "Sebaiknya jaga jarak sedikit…",
+      "\\w[60]\\^"
+    ],
+    "14": [
+      "Sedikit, lebih dekat lagi…",
+      "\\w[60]\\^"
+    ],
+    "15": [
+      "Berhenti sampai di sini saja…?",
+      "Waktu sudah berlalu cukup banyak…"
+    ],
+    "16": [
+      "Tidur.",
+      "Sudahlah."
+    ],
+    "17": [
+      "Hm, aku juga harus segera kembali tidur…"
+    ],
+    "18": [
+      "Tinggal sebentar lagi…"
+    ]
+  },
+  "6": {
+    "0": [
+      "Pipi adikku merona merah muda samar, dari bibirnya sesekali keluar",
+      "napas lemah dan hangat, Sepertinya dia sedang tenggelam dalam mimpi",
+      "indah."
+    ],
+    "1": [
+      "Wajah adikku kecil, pipinya bulat,",
+      "Seperti tupai, sangat imut!"
+    ],
+    "2": [
+      "Pipi adikku bulat menggemaskan,",
+      "Saat dicubit, seperti pipi tupai, sangat lucu."
+    ]
+  },
+  "9": {
+    "0": [
+      "Pertama, mari kita turunkan sedikit piyama ini..."
+    ],
+    "1": [
+      "Tali bahu harus ditarik keluar sedikit, baru piyama ini bisa dilepas",
+      "seluruhnya. Langkah ini yang paling rumit, harus bergerak",
+      "perlahan..."
+    ],
+    "2": [
+      "Akhirnya, langkah terakhir! Mari kita lepas piyama ini sekaligus!"
+    ]
+  },
+  "10": {
+    "0": [
+      "Pertama, mari kita turunkan sedikit celana pendek ini..."
+    ],
+    "1": [
+      "Pertahankan ritme ini, terus tarik ke bawah—"
+    ],
+    "2": [
+      "Akhirnya, langkah terakhir! Mari kita lepas celana pendek ini",
+      "sekaligus!"
+    ]
+  },
+  "11": {
+    "0": [
+      "Tidak bisa, terhalang celana pendek. Aku harus menurunkannya sedikit",
+      "dulu."
+    ],
+    "1": [
+      "Akan lebih mudah jika celana dalam juga dilepas sekalian, kan?"
+    ],
+    "2": [
+      "Meskipun adikku terlihat menawan saat memakai celana dalam,",
+      "Tapi aku sangat penasaran seperti apa di baliknya sekarang,",
+      "Sepertinya, lebih baik dilepas saja!"
+    ],
+    "3": [
+      "Sedikit lagi ke bawah, dan aku bisa melihat liang adikku—"
+    ],
+    "4": [
+      "Akhirnya, langkah terakhir! Mari kita lepas celana dalam ini",
+      "sekaligus!"
+    ]
+  },
+  "12": {
+    "0": [
+      "……",
+      "……"
+    ],
+    "1": [
+      "Meskipun kondisi fisik adikku tidak terlalu baik, tapi gaya tidurnya",
+      "sangat bebas."
+    ],
+    "2": [
+      "「Bagaimana bisa tidur dengan posisi seperti ini, ya...」"
+    ],
+    "3": [
+      "Jadi, apa yang harus kulakukan sekarang...?"
+    ],
+    "4": [
+      "Angkat pantatnya",
+      "\\c[15]Mengatur posisi tidur"
+    ],
+    "5": [
+      "Hmm, posisi ini, mungkinkah...?"
+    ],
+    "6": [
+      "「…………」"
+    ],
+    "7": [
+      "Membuat adik mengambil posisi yang terlihat konyol."
+    ],
+    "8": [
+      "Tapi meski begitu, adik tetap tidur pulas tanpa tanda-tanda akan",
+      "bangun... ...Rasanya aku bisa melakukan sesuatu lagi?"
+    ],
+    "9": [
+      "Tidak, tidak,",
+      "Bagaimana bisa aku memperlakukan adik seperti mainan...!"
+    ],
+    "10": [
+      "「Tidur seperti ini, masih terlihat tidak nyaman, ya...」"
+    ],
+    "11": [
+      "\\str[7]",
+      "<<!$gameActors.actor(2).equips()[1]>>\\str[6]",
+      "\\c[15]Mengatur posisi tidur"
+    ],
+    "12": [
+      "Bagian bawah tubuh adik sudah tanpa busana,",
+      "Lubang kecil yang montok itu terpampang begitu saja di depan mata."
+    ],
+    "13": [
+      "Meski sudah kuduga,",
+      "Tapi melihat bagian adik itu benar-benar polos,",
+      "tetap saja membuatku mulai merasakan dorongan aneh."
+    ],
+    "14": [
+      "Aku tak bisa menahan diri untuk mengulurkan jari, memasuki bagian",
+      "cekung terdalam...\\w[30] Meskipun masih kuncup yang muda, tapi tetap saja",
+      "dengan mudah menghisap jari."
+    ],
+    "15": [
+      "Aku mulai perlahan mencoba membuka kuncup yang masih tertutup",
+      "rapat...\\w[60] Benar! Tempat suci adik yang belum pernah disentuh itu,",
+      "sekarang akan...!"
+    ],
+    "16": [
+      "Bukan salah kakak, tapi pantat adik yang montok itu terlalu",
+      "menggoda...\\w[45] Sambil merapalkan kata-kata itu dalam hati, aku",
+      "mengulurkan tangan ke pantat adik."
+    ],
+    "17": [
+      "Meskipun masih terhalang celana pendek,",
+      "Namun, sentuhan kencang dan elastis di pantat adik tetap terasa",
+      "begitu menenangkan."
+    ],
+    "18": [
+      "Berbeda dengan celana pendek, celana dalam bertali yang adik kenakan",
+      "jauh lebih kecil, Saat telapak tanganku sepenuhnya menutupi pantat",
+      "adik, Sebagian telapak tanganku sudah bisa langsung menyentuh kulit",
+      "pantat adik."
+    ],
+    "19": [
+      "Sentuhan kulitnya yang begitu lembut membuatku tak bisa berhenti."
+    ],
+    "20": [
+      "\\nl< >「Mmmh...」"
+    ],
+    "21": [
+      "Adik mengeluarkan gumaman seolah merasa tidak nyaman,",
+      "Aku terpaksa menahan napas dan menghentikan gerakanku."
+    ],
+    "22": [
+      "...Untungnya, adik tidak terbangun karenanya.",
+      "Memikirkan hal ini, sepertinya masih terlalu terburu-buru. Lebih",
+      "baik hentikan dulu."
+    ],
+    "23": [
+      "Ah \\w[30], sebelum itu, aku harus merapikan pakaian adik dulu—"
+    ],
+    "24": [
+      "Hah, \\w[30] sepertinya begini sudah tidak masalah...",
+      "Selamat malam."
+    ],
+    "25": [
+      "Terakhir, setelah mengelus kepala adik, aku langsung kembali ke",
+      "kamar dan tertidur."
+    ]
+  },
+  "13": {
+    "0": [
+      "Berbeda dengan jarakku saat bersama adik biasanya, jika dilihat dari",
+      "dekat, Bahkan melalui piyama, aku bisa melihat lekuk dada yang",
+      "jelas, Tonjolan kecil di tengah dada sangat menonjol."
+    ],
+    "1": [
+      "Berbeda dengan jarakku saat bersama adik biasanya, jika dilihat dari",
+      "dekat, Bahkan melalui piyama, aku bisa melihat lekuk dada yang",
+      "jelas, Ukuran dada adik sungguh menakjubkan."
+    ],
+    "2": [
+      "Areola adik sudah sedikit terlihat.",
+      "Dada adik jauh lebih besar dari yang terlihat saat masih tertutup",
+      "pakaian."
+    ],
+    "3": [
+      "Dada adik sudah hampir sepenuhnya terlihat.",
+      "Warna puting dan areola, merah muda yang begitu indah.",
+      "Bentuknya pun sungguh sempurna."
+    ],
+    "4": [
+      "Dada adik terpampang di depan mata, tanpa sedikit pun tersembunyi.",
+      "Tak sepadan dengan tubuhnya yang ramping, bagai buah berat yang",
+      "tumbuh di dahan rapuh. Bahkan tanpa penyangga apa pun, tetap montok",
+      "dan penuh elastisitas."
+    ],
+    "5": [
+      "Bahkan saat menyentuh dada adik, meski terhalang piyama,",
+      "Bisa jelas merasakan sentuhan lembut dan tonjolan di tengah dadanya.",
+      "Sepertinya adik juga sangat menikmati keadaan ini."
+    ],
+    "6": [
+      "Bahkan saat menyentuh dada adik, meski terhalang piyama,",
+      "Bisa jelas merasakan sentuhan lembut dan kehangatan tubuhnya."
+    ],
+    "7": [
+      "Belum banyak yang dilepas, tapi aku sudah mulai menyentuh dada adik.",
+      "Apa aku terlalu terburu-buru?"
+    ],
+    "8": [
+      "Setelah piyama ditarik sedikit,",
+      "Bisa langsung menyentuh sebagian kulit dan areola dada adik.",
+      "Sentuhannya benar-benar berbeda dari saat terhalang piyama,",
+      "membuatku berkhayal."
+    ],
+    "9": [
+      "Seiring piyama ditarik lebih jauh,",
+      "Sudah bisa menyentuh area dada adik yang lebih luas.",
+      "Meremas-remas dada adik dalam genggaman, seperti dua kelinci putih yang lembut.",
+      "Detak jantung yang merambat melalui lemak lembut di dada ke sentuhan di tanganku membuatku tak bisa berhenti."
+    ],
+    "10": [
+      "Dada adik sudah sepenuhnya dalam kendali kedua tanganku,",
+      "Rasa pencapaian saat meremas dada adik yang telanjang bulat tak tertandingi dibanding saat masih terhalang piyama.",
+      "Tak bisa berhenti sama sekali, jiwa dan raga terasa sepenuhnya tersembuhkan."
+    ]
+  },
+  "14": {
+    "0": [
+      "Dengan hati-hati, aku membalikkan tubuh adik.",
+      "Meski gerakanku agak besar, adik sama sekali tak menunjukkan tanda-tanda akan bangun."
+    ]
+  },
+  "15": {
+    "0": [
+      "Gawat, sudah jam segini— \\w[60]",
+      "Besok harus bangun pagi, sebaiknya segera tidur saja..."
+    ],
+    "1": [
+      "Adik sepertinya akan segera bangun— \\w[30]",
+      "Tak bisa kulanjutkan lagi...",
+      "Hentikan sampai di sini saja..."
+    ]
+  },
+  "16": {
+    "0": [
+      "Di balik celana pendeknya yang longgar, lekuk bokong adik yang bulat masih terlihat jelas."
+    ],
+    "1": [
+      "Hari ini ia memakai ${$dataArmors[$gameActors.actor(2)._equips[1]._itemId].infoTextTop} ya."
+    ],
+    "2": [
+      "Sudah bisa kulihat sebagian bokong adik, terasa berisi."
+    ],
+    "3": [
+      "Bahkan terhalang celana dalam, lekuk indah bokong adik yang bulat tetap terlihat."
+    ],
+    "4": [
+      "Pantat adik sudah sepenuhnya terlihat jelas di depan mataku,",
+      "Terlihat begitu kenyal, membuatku tak bisa menahan diri untuk menepuknya."
+    ],
+    "5": [
+      "Sensasi menyentuh pantat adik di balik celana pendeknya yang mengembang itu sungguh aneh,",
+      "Seperti boneka berbulu, aku tak bisa menahan diri untuk meremasnya",
+      "beberapa kali."
+    ],
+    "6": [
+      "Pantat adik sudah sepenuhnya terbuka,",
+      "Mencoba memasukkan jari ke celah antara celana dalam dan pantat",
+      "adik, Meski hanya bisa memasukkan jari sedikit saja, rasanya sungguh",
+      "luar biasa."
+    ],
+    "7": [
+      "Pantat adik terpampang jelas di depan mata, tanpa tertutup apa pun,",
+      "Mencoba menempelkan telapak tangan sepenuhnya ke pantat adik, lalu",
+      "menggenggamnya. Sensasi kenyal dan elastisnya sangat nyaman, ingin",
+      "kujadikan bantal untuk tidur."
+    ]
+  },
+  "18": {
+    "0": [
+      "Terhalang celana pendek, harus dilepas sedikit lagi..."
+    ],
+    "1": [
+      "Terhalang celana pendek, hanya bisa sedikit melihat siluetnya..."
+    ],
+    "2": [
+      "Tidak bisa, terhalang celana dalam.",
+      "Harus melepas celana dalam sedikit dulu..."
+    ],
+    "3": [
+      "Terhalang paha, hanya bisa sedikit terlihat,",
+      "Adakah cara untuk menyingkirkan paha ini?"
+    ],
+    "4": [
+      "Meski menyentuhnya melalui celana pendek yang mengembang, kelembutan",
+      "dan kehangatan sentuhannya tetap terasa, Siluet bergelombang di",
+      "balik kain itu membuatku berfantasi."
+    ],
+    "5": [
+      "Tanpa halangan celana pendek, aku sudah bisa menyentuh lubang adik",
+      "sepuasnya melalui celana dalamnya. Meski hanya bisa memasukkan jari",
+      "sedikit saja, tapi aku sudah menyentuh lubang adik secara langsung,",
+      "Rasanya sangat bergairah."
+    ],
+    "6": [
+      "Lubang adik sudah sepenuhnya terbuka, mencoba menyentuhnya dengan",
+      "jari telunjuk. Terbasahi cairan cinta, lubang adik selembut puding,",
+      "Lembut dan sangat halus."
+    ]
+  },
+  "19": {
+    "0": [
+      "Ujung telinga adik memerah, terasa hangat saat disentuh,",
+      "Sentuhan ringan pada ujung telinga membuatnya bergetar refleks."
+    ],
+    "1": [
+      "Telinga adik panjang dan runcing."
+    ]
+  },
+  "20": {
+    "0": [
+      "Aku mengelus kepala adik dengan lembut."
+    ],
+    "1": [
+      "Rambut adik terasa lembut dan halus, dengan aroma bunga,",
+      "Aku merasa tersembuhkan."
+    ]
+  },
+  "23": {
+    "0": [
+      "Perut adik naik turun seiring napasnya,",
+      "Aku menempelkan telapak tanganku di perut adik,",
+      "Terasa jelas suhu tubuh adik sangat tinggi."
+    ],
+    "1": [
+      "Perut adik lembut, karena tubuhnya sangat proporsional,",
+      "Tidak ada lemak sama sekali, aku tak bisa menahan diri untuk",
+      "menusuknya beberapa kali dengan jari."
+    ]
+  },
+  "32": {
+    "0": [
+      "Apa ini... \\w[60] serangga raksasa yang lucu? \\w[60]",
+      "Meskipun aku tahu adik terkadang tidur dengan posisi buruk,",
+      "Namun, posisi aneh di hadapanku ini membuatku sejenak bingung."
+    ],
+    "1": [
+      "Mimpi apa yang membuatnya bisa berpose seperti ini, ya..."
+    ],
+    "2": [
+      "Meskipun adik tidak terlihat kesusahan,",
+      "Aku tetap memutuskan untuk membetulkan posisi tidurnya,",
+      "Bagaimanapun juga, ini terlihat mengkhawatirkan..."
+    ],
+    "3": [
+      "Aku membuat adik mengambil posisi yang terlihat lucu.",
+      "「…Ah, gawat! \\w[30]",
+      "Akhirnya, aku tetap saja berakhir dengan posisi tidur aneh…!」"
+    ]
+  }
+}

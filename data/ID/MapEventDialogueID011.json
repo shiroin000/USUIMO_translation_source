@@ -1,314 +1,323 @@
-﻿{
+{
   "1": {
     "0": [
-      "Pesta Kekaisaran Manchu Han..."
+      "Hidangan Manchu-Han..."
     ],
     "1": [
-      "aku lapar..."
+      "Perutku lapar sekali..."
     ]
   },
   "2": {
     "0": [
-      "\\nl< >\\str[121]! Apakah ada sesuatu yang ingin kamu makan!?"
+      "\\nl< >「\\str[121]! Ada yang ingin kau makan!?」"
     ],
     "1": [
-      "Dia menjadi sangat bersemangat sekali—",
-      "apa yang harus aku minta?"
+      "Apa yang harus kulakukan... Jarang sekali \\str[120] begitu bersemangat,",
+      "Apa yang enak untuk dimakan ya——"
     ],
     "2": [
-      "Makan kamu!",
-      "Hidangan daging!",
-      "Hidangan sayur!",
-      "Semuanya baik-baik saja"
+      "Aku ingin memakanmu.",
+      "Masakan daging!",
+      "Masakan sayur!",
+      "Apa saja boleh."
     ],
     "3": [
-      "\\nl< >Ya ampun~ Aku bukan makanan lho!          \\w[90]",
-      "Jika \\str[121] tidak memikirkan sesuatu yang istimewa,",
-      "Saya akan membuatkan menunya sendiri!"
+      "\\nl< >「Astaga~ Aku bukan makanan, tahu! \\w[90]",
+      "Jika \\str[121] tidak punya keinginan khusus, aku akan membuat menu sendiri",
+      "dan memasaknya!」"
     ],
     "4": [
-      "\\ nl <> ehe ~ \\str[121]!",
-      "Anda akhirnya menyadari betapa lezatnya daging!"
+      "\\nl< >「Ehehe~ \\str[121] kau akhirnya mengerti lezatnya daging, ya!」"
     ],
     "5": [
-      "\\nl< >Tunggu saja,",
-      "Aku akan membuatkanmu steak yang besar!"
+      "\\nl< >「Tunggulah,",
+      "Aku akan membuatkanmu steak super besar!」"
     ],
     "6": [
-      "\\nl< >Tapi… bahan-bahannya tidak cukup…",
-      "Saya mungkin hanya bisa membuat sesuatu yang lain hari ini."
+      "\\nl< >「Tapi bahan makanannya tidak cukup...",
+      "Mungkin hari ini hanya bisa membuat yang lain.」"
     ],
     "7": [
-      "\\nl< >Ini sebenarnya bukan favoritku… \\w[120]",
-      "tapi karena \\str[121] bilang menginginkannya, aku akan melakukan yang terbaik!"
+      "\\nl< >「Meskipun aku tidak terlalu suka... \\w[120]",
+      "Tapi karena \\str[121] bilang ingin makan, aku akan berusaha membuatnya!」"
     ],
     "8": [
-      "\\nl< >Jadi \\str[121], duduklah dengan nyaman di meja",
-      "dan tunggu sampai makanannya siap!        \\w[120]"
+      "\\nl< >「Kalau begitu, \\str[121] duduklah manis di meja dan tunggu makanannya",
+      "siap! \\w[120]」"
     ]
   },
   "5": {
     "0": [
-      "Apa yang harus kita buat untuk dimakan hari ini~"
+      "Apa yang enak untuk dimasak hari ini ya~"
     ]
   },
   "10": {
     "0": [
-      "Jarang sekali sarapan dengan \\str[120],",
-      "Sebaiknya aku melakukan yang terbaik!"
+      "Jarang-jarang sarapan bersama \\str[120], aku harus bersemangat!"
     ],
     "1": [
-      "Saya membuat sarapan sederhana dengan sisa bahan."
+      "Menggunakan sisa bahan, aku membuat sarapan sederhana."
     ],
     "2": [
-      "Ooh—!? Itu bersinar—! Kelihatannya luar biasa!"
+      "「Ohh—!? Bersinar—! Terlihat sangat lezat!」"
     ],
     "3": [
-      "Sukses memasak!    \\w[30]",
-      "Enak sekali hingga seluruh energiku kembali!"
+      "Masakan berhasil besar! \\w[30]",
+      "Karena sangat lezat, stamina pulih sepenuhnya!"
     ],
     "4": [
-      "Saya merasa baik-baik saja hari ini, kelihatannya enak sekali…"
+      "「Kondisiku bagus hari ini, terlihat sangat lezat...」"
     ],
     "5": [
-      "Saya diam-diam menyelesaikan sarapan dan merasa sedikit lebih berenergi."
+      "Selesai sarapan dengan tenang, stamina terasa pulih sedikit."
     ],
     "6": [
-      "Oh tidak!    \\w[30]",
-      "Ini sedikit terbakar…"
+      "「Sial! \\w[30]",
+      "Agak gosong...」"
     ],
     "7": [
-      "Saya makan sarapan yang rasanya aneh,",
-      "dan entah kenapa aku tidak merasa puas sama sekali…"
+      "Aku makan seadanya sarapan dengan rasa aneh,",
+      "Rasanya tidak memuaskan..."
     ],
     "8": [
-      "Aaaah ———— \\w[30]",
-      "Itu benar-benar terbakar!"
+      "「Aahh—! \\w[30]",
+      "Benar-benar gosong!」"
     ],
     "9": [
-      "Sarapan berubah menjadi segumpal arang,",
-      "mencicipinya dan tidak ada rasa sama sekali…"
+      "Sarapan benar-benar gosong jadi arang,",
+      "Mencicipi sedikit, tidak ada rasa sama sekali..."
     ],
     "10": [
-      "Sudah hampir waktunya untuk berangkat…",
-      "Saya meninggalkan pesan untuk \\str[120], jadi seharusnya baik-baik saja."
+      "Sudah hampir waktunya untuk pergi...",
+      "Aku juga meninggalkan catatan untuk \\str[120], jadi tidak masalah."
     ]
   },
   "12": {
     "0": [
-      "…Rasanya seperti aku melihat sesuatu yang familier."
+      "...Sepertinya aku melihat sesuatu yang familiar."
     ],
     "1": [
-      "Ugh… aku ingin daging…"
+      "Eh eh... Aku ingin makan daging..."
     ],
     "2": [
-      "Hal lezat apa yang harus kita tambahkan~"
+      "Apa yang harus kutambahkan agar enak ya~"
     ],
     "3": [
-      "Ayo makan ikan hari ini!"
+      "Hari ini makan ikan, ya!"
     ],
     "4": [
       "\\str[121]!? Apa ini bisa dimakan!?"
     ],
     "5": [
-      "Tidak ada makanan pedas!"
+      "Jangan yang pedas!"
     ],
     "6": [
-      "…Aku benci sayuran."
+      "...Benci sayuran."
     ],
     "7": [
-      "Steak Hamburg~ Steak Hamburg~"
+      "Daging burger~ Daging burger~"
     ],
     "8": [
-      "Apakah ini sesuatu yang bisa kamu makan?"
+      "Apa ini bisa dimakan?"
     ],
     "9": [
-      "Hidangan daging asam manis… kedengarannya enak juga?"
+      "Hidangan daging rasa asam manis... Sepertinya tidak buruk?"
     ]
   },
   "13": {
     "0": [
-      "Gagal… \\w[60]",
-      "\\str[120] dan entah bagaimana saya memaksakan diri untuk melakukannya",
-      "makan makanan aneh yang kubuat…"
+      "Gagal... \\w[60]",
+      "Bersama \\str[120], aku terpaksa memakan makanan aneh yang dibuat..."
     ],
     "1": [
-      "Saya menikmati hidangan daging yang lezat dengan \\str[120]."
+      "Bersama \\str[120], kami menikmati hidangan daging dengan lezat."
     ],
     "2": [
-      "Saya menikmati makan malam dengan \\str[120]."
+      "Bersama \\str[120], kami menikmati makan malam dengan lezat."
     ],
     "3": [
-      "Tapi rasanya sangat pedas sehingga \\str[120] langsung menangis…"
+      "Tapi karena hidangannya terlalu pedas, \\str[120] langsung menangis",
+      "kepedasan..."
     ],
     "4": [
-      "Juga, rasanya sangat pedas sehingga \\str[120] langsung menangis…"
+      "Dan karena hidangannya terlalu pedas, \\str[120] langsung menangis",
+      "kepedasan..."
+    ],
+    "5": [
+      "Hidangan daging lezat \\{ sudah siap!",
+      "\\str[120] terlihat sudah tidak sabar ingin melahapnya—!"
+    ],
+    "6": [
+      "Bahkan sebelum aku sempat bereaksi,",
+      "\\str[120] sudah melahap habis semua daging di piring dengan semangat yang luar",
+      "biasa..."
+    ],
+    "7": [
+      "\\{ berhasil membuat \\ii[\\v[78]]! \\w[30]",
+      "\\str[120] terlihat sangat menantikan rasanya!"
     ]
   },
   "17": {
     "0": [
-      "\\nl< >\\str[121]…",
-      "apakah kamu sudah menghilangkan semua bau itu dari tubuhmu?",
-      "Jangan kembali lagi dengan keadaan kotor lain kali."
+      "\\nl< >「\\str[121]... Kau sudah membersihkan baunya dengan baik, kan?",
+      "「Lain kali, jangan kembali dalam keadaan kotor lagi.」」"
     ]
   },
   "18": {
     "0": [
-      "\\nl< >Di sini, \\str[121]!    \\w[60]",
-      "Aaah ————"
+      "\\nl< >「Ayo, \\str[121]! \\w[60]",
+      "Ah————」"
     ],
     "1": [
-      "………Eh? Sudah melihatnya?",
-      "Adegan ini terasa begitu familiar…!"
+      "…………Eh? Déjà vu?",
+      "Pemandangan ini, sangat familiar...!"
     ],
     "2": [
-      "Aku akan memberi makan diriku sendiri ————",
-      "\\w[60]\\^"
+      "「Aku akan melakukannya sendiri————",
+      "\\w[60]\\^」"
     ],
     "3": [
-      "\\nl< >Ya ampun, \\str[121]!",
-      "kamu adalah pasien yang terluka saat ini, ingat!"
+      "\\nl< >「Astaga,",
+      "Sekarang \\str[121] adalah korban luka yang tak bisa bergerak, lho!」"
     ],
     "4": [
-      "Ah, oke."
+      "「Ah, baiklah.」"
     ],
     "5": [
-      "Kewalahan dengan tekad \\str[120],",
-      "Saya dengan patuh memakan makanan yang tidak diketahui yang dia berikan kepada saya."
+      "Di bawah pengaruh aura \\str[120],",
+      "Aku patuh memakan benda tak dikenal yang disodorkan."
     ],
     "6": [
-      "\\{ Hah!?"
+      "「\\{ Pfft!?」"
     ],
     "7": [
-      "Kejutan familiar itu meledak di mulutku,",
-      "mungkin aku sudah terbiasa, kali ini aku tidak pingsan."
+      "Sensasi kejut yang familiar meledak di mulutku,",
+      "Apa aku sudah terbiasa? Kali ini, aku tak langsung pingsan."
     ],
     "8": [
-      "\\nl< >Bagaimana, \\str[121]? Apakah rasanya enak?"
+      "\\nl< >「Bagaimana, \\str[121]? Rasanya enak?」"
     ],
     "9": [
-      "Rasanya, umm, rasanya seperti ————"
+      "「Rasanya, yah, sedikit————」"
     ],
     "10": [
-      "Gelombang panas tiba-tiba melonjak dari perutku!",
-      "Semua kelelahanku hilang!"
+      "Tiba-tiba gelombang panas menyembur dari perutku!",
+      "Rasa lelah lenyap seketika!"
     ],
     "11": [
-      "…Hah? Sebenarnya rasanya enak?"
+      "「...Eh? Tak disangka, rasanya lumayan juga?」"
     ],
     "12": [
-      "\\nl< >Hore, sepertinya latihanku membuahkan hasil!"
+      "\\nl< >「Bagus! Latihannya sepertinya sangat berhasil!」"
     ],
     "13": [
-      "Pelatihan macam apa yang dia lakukan?",
-      "Aku penasaran, tapi tidak sanggup bertanya…"
+      "Latihan macam apa yang sebenarnya kau lakukan?",
+      "Meski penasaran, aku tak berani bertanya..."
     ]
   },
   "21": {
     "0": [
-      "Saya tidak punya resep untuk diikuti saat ini…",
-      "haruskah aku membuat sesuatu sendiri?"
+      "Tak ada resep untuk referensi... Haruskah aku membuatnya sendiri?"
     ],
     "1": [
-      "Biarkan \\str[120] masak",
-      "Lakukan sendiri"
+      "\\str[120] yang membuat",
+      "Membuatnya sendiri"
     ],
     "2": [
-      "\\nl< >Maaf,\\str[121]... \\w[60]",
-      "Saya masih dalam pelatihan, biarkan saya yang menanganinya lain kali!"
+      "\\nl< >「Maafkan aku, \\str[121]... \\w[60]",
+      "Aku masih dalam latihan, lain kali serahkan padaku!」"
     ],
     "3": [
-      "…Sepertinya \\str[120] sedang mencoba yang terbaik",
-      "untuk belajar cara memasak.",
-      "Oh baiklah, kurasa aku harus membuat makan malam."
+      "...\\str[120] terlihat berusaha keras belajar memasak,",
+      "Mau bagaimana lagi, makan malam harus aku yang membuat."
     ],
     "4": [
-      "\\nl< >\\{\\str[121]!",
-      "apakah kamu ingin memakan makanan yang aku buat!?"
+      "\\nl< >\\{「\\str[121]、",
+      "Kau ingin makan masakanku!?」"
     ],
     "5": [
-      "\\nl< >Ya ampun, aku benar-benar tidak bisa mengatakan tidak padamu~"
+      "\\nl< >「Astaga, kau ini memang tak bisa diapa-apakan, ya~」"
     ],
     "6": [
-      "\\nl< >Serahkan padaku!",
-      "Saya yakin saya bisa membuat sesuatu yang benar-benar enak!"
+      "\\nl< >「Serahkan padaku! Aku yakin bisa membuat yang lezat, kok!」"
+    ],
+    "7": [
+      "\\str[121] memang tak bisa diapa-apakan, ya~"
+    ],
+    "8": [
+      "Makan malam hari ini, serahkan padaku~!"
     ]
   },
   "22": {
     "0": [
-      "\\ nl <> \\ {nnnn......! \\w[250] sepenuh hati......!  \\w[210]",
-      "Hmm hmm……!    \\w[210]\\^"
+      "\\nl< >\\{「Ugh...ugh...! \\w[250]Heishoo...! \\w[210]",
+      "Hmph...hmph...!」 \\w[210]\\^"
     ],
     "1": [
-      "\\nl< >Haa…\\w[120] haa…\\w[180] \\str[121]…… \\w[60]",
-      "kamu sangat berat……!"
+      "\\nl< >「Haa... \\w[120]haa... \\w[180]\\str[121]... \\w[60]",
+      "Ternyata seberat ini...!」"
     ],
     "2": [
-      "Dengan penuh tekad,",
-      "\\str[120] menyeret tubuhku yang benar-benar lemas ke meja makan…"
+      "Dengan semangat, \\str[120] menyeretku yang sudah tak bisa bergerak ke meja",
+      "makan..."
     ],
     "3": [
-      "\\nl< >Sekarang tunggu sebentar di sini, \\str[121].",
-      "Saya akan segera kembali."
+      "\\nl< >「Sekarang \\str[121] tunggu di sini sebentar, aku akan segera kembali.」"
     ],
     "4": [
-      "Makanan yang dibuat oleh \\str[120] sendiri… bagaimana mengatakannya,",
-      "Aku agak menantikannya……",
-      "Tapi kalau dipikir-pikir, apakah dia pernah memasak sebelumnya…?"
+      "Masakan buatan tangan \\str[120]? Entah bagaimana, aku tetap sangat",
+      "menantikannya... Tapi omong-omong, \\str[120] pernah memasak sebelumnya...?"
     ],
     "5": [
-      "\\nl< >Di sini, \\str[121]!    \\w[60]",
-      "Aaah ————"
+      "\\nl< >「Ayo, \\str[121]! \\w[60]",
+      "Ah————」"
     ],
     "6": [
-      "Menatap objek tak dikenal di depanku ini,",
-      "seluruh tubuhku mulai gemetar tak terkendali."
+      "Menatap benda tak dikenal di hadapanku yang sulit disebut makanan,",
+      "Seluruh tubuhku gemetar tak terkendali."
     ],
     "7": [
-      "Um, sayang \\str[120]……\\w[60]",
-      "\\str[121] masih mempunyai kekuatan yang cukup untuk memberi makan dirinya sendiri, lho?   \\w[150]",
-      "Jika Anda melepas perban ini…… \\w[20]\\^"
+      "「Itu, adikku... \\w[60]",
+      "\\str[121] masih punya kekuatan untuk makan sendiri, kok? \\w[150]",
+      "Asal perban ini dilepas...」 \\w[20]\\^"
     ],
     "8": [
-      "\\nl< >Tidak mungkin!",
-      "Anda terluka saat ini, \\str[121],",
-      "kamu perlu istirahat yang cukup!"
+      "\\nl< >「Tidak! \\str[121] sekarang adalah pasien luka,",
+      "Bagaimana bisa tidak beristirahat dengan baik!」"
     ],
     "9": [
-      "\\nl< >Atau mungkin…",
-      "percobaan pertamaku memasak sungguh tidak enak......?   \\w[120]",
-      "Kalau begitu, izinkan aku mencicipinya dulu…"
+      "\\nl< >「Atau jangan-jangan masakan pertamaku ini memang tidak",
+      "berhasil...? \\w[120] Kalau begitu, aku akan mencicipinya dulu...」"
     ],
     "10": [
-      "\\{ Biarkan aku mencobanya! Silakan!"
+      "「\\{ Biarkan aku mencicipinya! Aku mohon!」"
     ],
     "11": [
-      "Sebelum \\str[120] dapat bereaksi,",
-      "Saya segera mencondongkan tubuh ke depan dan",
-      "menggigit sendok yang dia pegang."
+      "Bahkan sebelum \\str[120] sempat bereaksi,",
+      "Aku dengan sukarela menjulurkan kepala dan menggigit sendok yang",
+      "disodorkan."
     ],
     "12": [
-      "Mm… chomp chomp chomp— \\w[60]",
-      "itu semacam———— \\w[30]\\^"
+      "「Mmm... kunyah kunyah kunyah—\\w[60]... belum juga————\\w[30]\\^」"
     ],
     "13": [
-      "\\{ Hah!?"
+      "「\\{ Pffft!?」"
     ],
     "14": [
-      "\\nl< >\\str[121]!? A-ada apa!?"
+      "\\nl< >「\\str[121]!? Ke-kenapa!?」"
     ],
     "15": [
-      "Rasanya seperti meminum soda berkarbonasi tinggi,",
-      "tekstur anehnya langsung meledak di mulutku,",
-      "bahkan sebelum aku sempat bereaksi, aku pingsan…"
+      "Rasanya seperti meminum minuman berkarbonasi konsentrasi tinggi,",
+      "Sensasi rasa yang luar biasa langsung meledak di mulutku, Belum",
+      "sempat aku berkata apa-apa, aku langsung kehilangan kesadaran..."
     ],
     "16": [
-      "\\ nl <> \\ {Chaaan-ku!",
+      "\\nl< >\\{ 「\\str[121]——！」",
       "\\w[60]\\^"
     ],
     "17": [
-      "Ahh… makanan yang dibuat oleh tangan \\str[120] sendiri…",
-      "sayang sekali aku tidak bisa menyelesaikannya…"
+      "Ahhh... Masakan buatan tangan \\str[120]... Sangat disayangkan tidak sempat",
+      "kuhabiskan..."
     ]
   }
 }

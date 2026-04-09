@@ -1,33 +1,33 @@
-﻿{
+{
   "1": {
     "name": [
-      "Voucher Hadiah Teh"
+      "Kupon Kudapan Teh"
     ],
     "subtitle": "",
     "description": [
-      "Voucher yang dikeluarkan oleh NLCH, digunakan untuk menukarkan camilan teh yang lezat",
-      "Tapi… dimana sih toko NLCHnya?"
+      "Mineral khusus dari kedalaman jurang, penuh kekuatan sihir membara.",
+      "Materinya sangat keras, sulit dihancurkan dengan alat biasa. Hanya metode",
+      "khusus yang bisa menambang dan mengolahnya."
     ],
     "ability": [
-      "Dapat dimasukkan ke mesin gacha tanpa kerusakan untuk memicu tarikan",
-      "Selalu memberikan tarikan 11 dengan setidaknya satu bola emas"
+      "Saat diberikan ke mesin gacha, tidak akan merusak mesin gacha dan akan\nmendapatkan 1 kali 11 undian. Dalam putaran 11 undian ini, pasti akan\nmuncul satu gacha emas."
     ]
   },
   "2": {
     "name": [
-      "Buku Pegangan Petualang"
+      "Catatan Petualang"
     ],
+    "beIndependent": true,
     "subtitle": [
-      "Ditulis oleh RORO, dimulai pada 2024/10/1"
+      "「Halaman depan tertulis RORO mulai menulis pada 2024/10/1」"
     ],
     "description": [
-      "Ini dimulai sebagai jurnal biasa oleh seorang petualang bernama RORO",
-      "Seiring waktu, semakin banyak orang yang menganggapnya menyenangkan bergabung dan menambahkan catatan",
-      "dan dengan demikian buku panduan menarik ini—mencakup segala hal mulai dari",
-      "‘Cara Memasuki Ruang Bawah Tanah’ hingga ‘Makan Apa untuk Makan Malam’—lahir"
+      "Awalnya catatan eksplorasi RORO. Banyak orang menambah tulisan, jadi",
+      "panduan aneh lahir. Isinya dari 'Masuk Labirin' hingga 'Makan Malam Hari",
+      "Ini'."
     ],
     "ability": [
-      "Memungkinkan Anda menelusuri panduan dalam game"
+      "Panduan strategi yang dapat dibaca untuk konten game."
     ]
   },
   "3": {
@@ -36,98 +36,107 @@
     ],
     "subtitle": "",
     "description": [
-      "Berbagai sisa, tidak berguna",
-      "Kenapa aku malah mengambil ini?"
+      "Berbagai macam limbah, tidak ada nilainya. Kenapa aku harus memungut",
+      "benda seperti ini?"
     ],
     "ability": ""
   },
   "4": {
     "name": [
-      "10 yen"
+      "10 Emas"
     ],
     "subtitle": "",
     "description": [
-      ""
+      "Hanya sebuah koin senilai 10 Emas. Tapi tidak bisa membeli apa-apa..."
     ],
     "ability": ""
   },
   "5": {
     "name": [
-      "tanggal 50"
+      "50 Emas"
     ],
     "subtitle": "",
     "description": [
-      ""
+      "Hanya sebuah koin senilai 50 Emas. Sepertinya masih tidak bisa membeli",
+      "apa-apa... Tapi jika hilang, tetap akan terasa sakit."
     ],
     "ability": ""
   },
   "6": {
     "name": [
-      "100 yen"
+      "100 Emas"
     ],
     "subtitle": "",
     "description": [
-      ""
+      "Hanya sekeping koin 100 Emas. Jika beruntung, bisa dipakai membeli susu",
+      "stroberi kesukaan \\str[120]."
     ],
     "ability": ""
   },
   "7": {
     "name": [
-      "500 yen"
+      "500 Emas"
     ],
     "subtitle": "",
     "description": [
-      ""
+      "Hanya sekeping koin 500 Emas. Jika dipakai untuk gacha, mungkin bisa",
+      "mendapatkan 'tarikan dewa' yang legendaris...!"
     ],
     "ability": ""
   },
   "8": {
     "name": [
-      "1000 yen"
+      "1000 Emas"
     ],
     "subtitle": "",
     "description": [
-      ""
+      "Hanya selembar uang kertas 1000 Emas. Entah mengapa, bahkan monster pun",
+      "mulai mengumpulkan uang yang hanya dipakai manusia..."
     ],
     "ability": ""
   },
   "9": {
     "name": [
-      "5000 yen"
+      "5000 Emas"
     ],
     "subtitle": "",
     "description": [
-      ""
+      "Hanya selembar uang kertas 5000 Emas. Siapa pun yang melihatnya pasti",
+      "akan tergerak. Inikah yang disebut kekuatan uang...?"
     ],
     "ability": ""
   },
   "10": {
     "name": [
-      "10.000 ya"
+      "10000 Emas"
     ],
     "subtitle": "",
     "description": [
-      ""
+      "Hanya selembar uang kertas 10000 Emas. Nilainya bahkan membuat mesin",
+      "gacha tak kuasa menahan senyum—"
     ],
     "ability": ""
   },
   "11": {
     "name": [
-      "50.000 yen"
+      "50000 Emas"
     ],
     "subtitle": "",
     "description": [
-      ""
+      "Setumpuk tebal uang kertas pecahan 5000 Emas. Karena pelayan kelinci",
+      "gencar mendorong perdagangan, monster pun mulai merampas dompet demi",
+      "merasakan 'belanja'"
     ],
     "ability": ""
   },
   "12": {
     "name": [
-      "100.000 ya"
+      "100000 Emas"
     ],
     "subtitle": "",
     "description": [
-      ""
+      "Setumpuk tebal uang kertas pecahan 10.000. Aroma uang yang terpancar,",
+      "bahkan iblis serakah pun akan tersenyum menggoda—"
     ],
     "ability": ""
   },
@@ -135,38 +144,46 @@
     "name": [
       "Peta Kelinci"
     ],
+    "beIndependent": true,
     "subtitle": "",
     "description": [
-      "Peta bekas kelinci pembantu, masih tertutup remah wortel",
-      "Mereka menggali Lubang Kelinci dan berkeliling—hampir seperti kru pengiriman",
-      "Sejak pemimpin jahat dan berpikiran tajam itu muncul sepuluh tahun lalu",
-      "kelinci mengambil alih Abyss dan mulai berdagang dengan monster"
+      "Peta rahasia para pelayan kelinci, masih ada remah wortel menempel.",
+      "Mereka bebas berkeliaran lewat 'lubang kelinci', lincah seperti kurir.",
+      "Sejak pemimpin agung muncul, kelinci kuasai jurang & dagang monster."
     ],
     "ability": [
-      "Memungkinkan Anda melihat peta Abyss dan semua objek interaktif"
+      ""
     ]
   },
   "14": {
     "name": [
-      "Kamera Ajaib"
+      "Proyektor Magis"
     ],
+    "beIndependent": true,
     "subtitle": "",
     "description": [
-      "Dikatakan sebagai artefak Timur, dibuat dengan indah namun hilang",
-      "in the Abyss... Ini membekukan adegan menjadi gambar, tapi memang begitu",
-      "mudah terpengaruh oleh sihir, terkadang menangkap hal-hal aneh"
+      "Alat magis indah dari Timur, entah bagaimana sampai ke jurang. Cukup",
+      "gunakan, kau bisa mengabadikan pemandangan jadi gambar. Sering terganggu",
+      "energi magis, kadang memotret hal-hal aneh."
     ],
     "ability": [
-      "Tekan F7 untuk mengambil foto"
+      "Tekan tombol pintas F7 untuk mengambil foto."
     ]
   },
   "15": {
     "name": [
       "JoyStation V"
     ],
-    "subtitle": "",
+    "beIndependent": true,
+    "subtitle": [
+      "「Terbatas pada kematangan teknologi materialisasi jiwa, bahkan setelah",
+      "berkembang hingga generasi kelima, Pemain masih tidak bisa langsung",
+      "menyelamkan kesadaran ke dalam permainan, untuk lebih memperdalam pengalaman.」"
+    ],
     "description": [
-      ""
+      "Perangkat hiburan aneh hasil karya alkemis dari dokumen kuno. Populer di",
+      "kalangan petualang pencari sensasi dan hal baru. Karena rumit dibuat,",
+      "jumlah perangkat ini sangat terbatas."
     ],
     "ability": [
       ""
@@ -176,9 +193,12 @@
     "name": [
       "DLC Jiwa Bayangan"
     ],
+    "beIndependent": true,
     "subtitle": "",
     "description": [
-      ""
+      "Paket ekspansi 《Jiwa Bayangan》, karya penuh keyakinan ksatria. Banyak",
+      "monster & level kuat hingga membuatmu meragukan hidup. Anehnya, para",
+      "pemain justru berbondong-bondong mengejarnya."
     ],
     "ability": [
       ""
@@ -186,13 +206,13 @@
   },
   "17": {
     "name": [
-      "Kakak Ahoge"
+      "Jambul \\str[120]"
     ],
     "subtitle": "",
     "description": [
-      "Sebuah ahoge ditarik dari kepala adikku,",
-      "tapi sepertinya dia tidak menyadarinya...Ahoge ini masih keras kepala",
-      "berdiri dan memiliki pegas yang sangat tangguh"
+      "Jambul yang diam-diam kucabut dari kepala \\str[120], dan dia sendiri",
+      "sepertinya tak menyadarinya... Meski terpisah dari tubuh aslinya, ia",
+      "tetap tegak berdiri dengan elastisitasnya yang luar biasa."
     ],
     "ability": ""
   },
@@ -200,9 +220,12 @@
     "name": [
       "Bebek Karet"
     ],
+    "beIndependent": true,
     "subtitle": "",
     "description": [
-      ""
+      "Mainan bebek karet yang entah mengapa tergeletak sendirian di aliran",
+      "sungai. Mungkin karena simpati yang tiba-tiba muncul di hati, aku tetap",
+      "memungutnya. Tapi adikku mungkin akan sangat menyukainya..."
     ],
     "ability": [
       ""
@@ -210,11 +233,14 @@
   },
   "19": {
     "name": [
-      "Kipas Listrik"
+      "Kipas Angin"
     ],
+    "beIndependent": true,
     "subtitle": "",
     "description": [
-      ""
+      "Kipas angin kecil dengan model usang dan hembusan angin yang tak terlalu",
+      "kuat. Namun dibandingkan itu, konsumsi sihir pendingin jauh lebih",
+      "mahal..."
     ],
     "ability": [
       ""
@@ -222,14 +248,15 @@
   },
   "20": {
     "name": [
-      "Fragmen Filsuf"
+      "Pecahan Batu Surgawi"
     ],
     "subtitle": [
-      "Ini adalah kekuatan yang kuat",
-      "karena ia akan menaklukkan segala yang halus, dan segala yang padat."
+      "「Ini adalah keteguhan hati yang sepenuhnya teguh, menembus",
+      "segala yang kokoh, melampaui segala yang rumit.」"
     ],
     "description": [
-      "Bahkan hanya sebuah fragmen yang mengandung kekuatan luar biasa—"
+      "Meski hanya sepotong pecahan, ia mengandung kekuatan yang luar biasa",
+      "besar—"
     ],
     "ability": ""
   },
@@ -238,74 +265,74 @@
       "Susu Lezat"
     ],
     "subtitle": [
-      "Disponsori oleh: NLCH"
+      "「Sponsor Iklan: Pesta Teh Arus Balik」"
     ],
     "description": [
-      "Minuman dari mesin penjual otomatis yang aneh",
-      "Jangan pedulikan rasanya, kenapa ada vending machine?"
+      "Minuman yang kudapatkan dari mesin penjual otomatis yang aneh. Rasanya",
+      "tak usah dibahas. Tapi kenapa ada mesin penjual otomatis di jurang ini?"
     ],
     "ability": [
-      "HP+120、mendapatkan Lezat!! status"
+      "Memulihkan 120 poin stamina, dan mendapatkan status Benar-benar Lezat!!"
     ]
   },
   "24": {
     "name": [
-      "Susu Wortel"
+      "Susu Rasa Wortel"
     ],
     "subtitle": [
-      "Disponsori oleh: NLCH"
+      "「Sponsor Iklan: Pesta Teh Arus Balik」"
     ],
     "description": [
-      "Minuman dari mesin penjual otomatis yang aneh",
-      "Jangan pedulikan rasanya, kenapa ada vending machine?"
+      "Minuman yang kudapatkan dari mesin penjual otomatis yang aneh. Rasanya",
+      "tak usah dibahas. Tapi kenapa ada mesin penjual otomatis di jurang ini?"
     ],
     "ability": [
-      "HP+75、secara acak menghapus 1 status penyakit"
+      "Memulihkan 75 poin stamina, dan secara acak menghilangkan \nsatu status abnormal."
     ]
   },
   "25": {
     "name": [
-      "Susu Stroberi"
+      "Susu Rasa Stroberi"
     ],
     "subtitle": [
-      "Disponsori oleh: NLCH"
+      "「Sponsor Iklan: Pesta Teh Arus Balik」"
     ],
     "description": [
-      "Minuman dari mesin penjual otomatis yang aneh",
-      "Jangan pedulikan rasanya, kenapa ada vending machine?"
+      "Minuman yang kudapatkan dari mesin penjual otomatis yang aneh. Rasanya",
+      "tak usah dibahas. Tapi kenapa ada mesin penjual otomatis di jurang ini?"
     ],
     "ability": [
-      "HP+75、Serangan+50% untuk sementara waktu"
+      "Memulihkan 75 poin stamina, dan meningkatkan 50% kekuatan \nserangan untuk waktu tertentu."
     ]
   },
   "26": {
     "name": [
-      "Susu Melon"
+      "Susu Rasa Melon"
     ],
     "subtitle": [
-      "Disponsori oleh: NLCH"
+      "「Sponsor Iklan: Pesta Teh Arus Balik」"
     ],
     "description": [
-      "Minuman dari mesin penjual otomatis yang aneh",
-      "Jangan pedulikan rasanya, kenapa ada vending machine?"
+      "Minuman yang kudapatkan dari mesin penjual otomatis yang aneh. Rasanya",
+      "tak usah dibahas. Tapi kenapa ada mesin penjual otomatis di jurang ini?"
     ],
     "ability": [
-      "HP+75、Serangan Ajaib+50% untuk sementara"
+      "Memulihkan 75 poin stamina, dan meningkatkan 50% kekuatan \nsihir untuk waktu tertentu."
     ]
   },
   "27": {
     "name": [
-      "Susu Pisang"
+      "Susu Rasa Pisang"
     ],
     "subtitle": [
-      "Disponsori oleh: NLCH"
+      "「Sponsor Iklan: Pesta Teh Arus Balik」"
     ],
     "description": [
-      "Minuman dari mesin penjual otomatis yang aneh",
-      "Jangan pedulikan rasanya, kenapa ada vending machine?"
+      "Minuman dari mesin penjual otomatis yang aneh. Rasanya tak usah dibahas,",
+      "tapi kenapa ada mesin ini di jurang ini, ya..."
     ],
     "ability": [
-      "HP+75、Percepat sebentar"
+      "Memulihkan 75 poin stamina, dan meningkatkan kecepatan \nbergerak untuk waktu tertentu."
     ]
   },
   "30": {
@@ -313,14 +340,14 @@
       "Konpeito Merah Muda"
     ],
     "subtitle": [
-      "Fufufu... Lebih baik tidak tahu bahannya~♥"
+      "「Fufufu... Lebih baik kau tak tahu apa bahannya, ya kan♥」"
     ],
     "description": [
-      "Konpeitō yang dibuat dengan hati-hati buatan tangan oleh Archdemon",
-      "Mengeluarkan aroma seperti buah persik yang membuat pusing hanya dengan menciumnya…"
+      "Konpeito buatan tangan Iblis Agung, tampilannya indah. Mengeluarkan aroma",
+      "persik, hanya dengan menciumnya saja sudah membuatmu melayang..."
     ],
     "ability": [
-      "Membuat seluruh tubuh terasa panas setelah makan!"
+      "Setelah dimakan, membuat tubuh terasa panas membara."
     ]
   },
   "31": {
@@ -328,14 +355,14 @@
       "Konpeito Biru"
     ],
     "subtitle": [
-      "Fufufu... Lebih baik tidak tahu bahannya~♥"
+      "「Fufufu... Lebih baik kau tak tahu apa bahannya, ya kan♥」"
     ],
     "description": [
-      "Konpeitō yang dibuat dengan hati-hati buatan tangan oleh Archdemon",
-      "Mengeluarkan aroma seperti blueberry yang membawa ketenangan hanya dengan menciumnya…"
+      "Konpeito buatan tangan Iblis Agung, tampilannya indah. Mengeluarkan aroma",
+      "blueberry, hanya dengan menciumnya saja sudah membuatmu tenang..."
     ],
     "ability": [
-      "Membawa rasa tenang setelah makan..."
+      "Setelah dimakan, membuat hati terasa damai."
     ]
   },
   "32": {
@@ -343,136 +370,164 @@
       "Konpeito Hijau"
     ],
     "subtitle": [
-      "Fufufu... Lebih baik tidak tahu bahannya~♥"
+      "「Fufufu... Lebih baik kau tak tahu apa bahannya, ya kan♥」"
     ],
     "description": [
-      "Konpeitō yang dibuat dengan hati-hati buatan tangan oleh Archdemon",
-      "Mengeluarkan aroma seperti melon yang membuat Anda bersemangat hanya dengan menciumnya…"
+      "Konpeito buatan tangan Iblis Agung, tampilannya indah. Mengeluarkan aroma",
+      "melon, hanya dengan menciumnya saja sudah membuatmu bersemangat..."
     ],
     "ability": [
-      "Efek tidak diterapkan"
+      "Efek belum diterapkan."
     ]
   },
   "33": {
     "name": [
-      "Mizumanju yang kenyal"
+      "Mizu Manju Lembut Super Sensitif"
     ],
     "subtitle": [
-      "Fufufu... Lebih baik tidak tahu bahannya~♥"
+      "「Fufufu... Lebih baik kau tak tahu apa bahannya, ya kan♥」"
     ],
     "description": [
-      "Dibuat dengan tangan oleh Archdemon, Mizumanju yang goyang dan menyegarkan",
-      "Rasanya seperti kejutan saat menyentuh lidah Anda!"
+      "Mizu Manju buatan tangan Iblis Agung, kenyal dan menyegarkan. Saat masuk",
+      "ke mulut, seluruh tubuh terasa seperti tersengat listrik!"
     ],
     "ability": [
-      "Efek tidak diterapkan"
+      "Efek belum diterapkan."
     ]
   },
   "35": {
     "name": [
-      "Cola NLCH (kiri)"
+      "Cola Aliran Balik Botol Besar"
     ],
     "subtitle": [
-      "Disponsori oleh: NLCH"
+      "「Sponsor Iklan: Pesta Teh Arus Balik」"
     ],
     "description": [
-      "Minuman dari mesin penjual otomatis yang aneh",
-      "Jangan pedulikan rasanya, kenapa ada vending machine?"
+      "Minuman dari mesin penjual otomatis yang aneh. Rasanya tak usah dibahas,",
+      "tapi kenapa ada mesin itu di jurang ini, ya…"
     ],
     "ability": [
-      "Guncangan yang hebat dapat memicu ledakan dahsyat"
+      "Jika diguncang kuat, dapat memicu ledakan dahsyat."
     ]
   },
   "42": {
     "name": [
-      "Kenaia"
+      "Rune Kenaz"
     ],
     "subtitle": [
-      "Kekuatan Ledakan"
+      "「Kekuatan Peledak」"
     ],
     "description": [
-      "Sebuah batu yang diukir dengan tanda ajaib, dirancang sedemikian rupa bahkan untuk pemula",
-      "tidak ada pengetahuan tentang sihir yang dapat dengan mudah mengaktifkan efeknya"
+      "Batu terukir rune sihir, dirancang agar pemula pun bisa menggunakannya.",
+      "Bahkan yang tak mengerti sihir dapat dengan mudah mengaktifkan efeknya."
     ],
     "ability": [
-      "Melempar dan mengubah target yang disentuhnya menjadi bom",
-      "Meledak dalam 5 detik, dengan target yang lebih besar menyebabkan ledakan yang lebih luas"
+      "Setelah dilempar, target yang disentuh akan berubah menjadi bom.\nBom akan meledak setelah 3 detik, dan semakin besar ukuran target,\nsemakin luas area ledakannya."
     ]
   },
   "43": {
     "name": [
-      "Ansuz"
+      "Rune Ansuz"
     ],
     "subtitle": [
-      "Kekuatan Wahyu"
+      "「Kekuatan Wahyu」"
     ],
     "description": [
-      "Sebuah batu yang diukir dengan tanda ajaib, dirancang sedemikian rupa bahkan untuk pemula",
-      "tidak ada pengetahuan tentang sihir yang dapat dengan mudah mengaktifkan efeknya"
+      "Batu terukir rune sihir, dirancang agar pemula pun bisa menggunakannya.",
+      "Bahkan yang tak mengerti sihir dapat dengan mudah mengaktifkan efeknya."
     ],
     "ability": [
-      "Meninggalkan tanda bertanda teks di lokasi saat digunakan",
-      "Setelah diperbarui, tanda tersebut akan terlihat oleh pemain lain"
+      "Setelah digunakan, dapat meninggalkan tanda bertuliskan di tempatnya.\nSetelah diperbarui, tanda ini dapat terlihat oleh pemain lain."
     ]
   },
   "44": {
     "name": [
-      "Raido"
+      "Rune Raido"
     ],
     "subtitle": [
-      "Kekuatan Berkuda"
+      "「Kekuatan Tunggangan」"
     ],
     "description": [
-      "Sebuah batu yang diukir dengan tanda ajaib, dirancang sedemikian rupa bahkan untuk pemula",
-      "tidak ada pengetahuan tentang sihir yang dapat dengan mudah mengaktifkan efeknya"
+      "Batu yang terukir rune sihir, dirancang agar bahkan pemula yang tak",
+      "mengerti sihir sekalipun bisa dengan mudah mengaktifkan efeknya."
     ],
     "ability": [
-      "Melempar penanda yang memungkinkan pertukaran posisi"
+      "Setelah dilempar, akan menciptakan tanda yang bisa ditukar\nposisinya dengan sekali klik."
     ]
   },
   "45": {
     "name": [
-      "Ehwaz"
+      "Rune Ehwaz"
     ],
     "subtitle": [
-      "Kekuatan Perubahan"
+      "「Kekuatan Perubahan」"
     ],
     "description": [
-      "Sebuah batu yang diukir dengan tanda ajaib, dirancang sedemikian rupa bahkan untuk pemula",
-      "tidak ada pengetahuan tentang sihir yang dapat dengan mudah mengaktifkan efeknya"
+      "Batu berukir rune sihir, Dirancang agar bahkan pemula yang tak mengerti",
+      "sihir sekalipun, bisa dengan mudah mengaktifkan efeknya."
     ],
     "ability": [
-      "Melempar dan bertukar posisi dengan target yang disentuhnya"
+      "Setelah dilempar, akan bertukar posisi dengan target yang disentuhnya."
     ]
   },
   "46": {
     "name": [
-      "Orang Bodoh"
+      "Si Bodoh"
     ],
     "subtitle": [
-      "Keingintahuan yang tak ada habisnya dari seorang petualang bodoh"
+      "「Rasa ingin tahu tak berujung sang petualang bodoh」"
     ],
     "description": [
-      "Kartu ajaib yang dipenuhi mantra. Dirancang demikian",
-      "bahkan pemula pun dapat dengan mudah mengaktifkan efeknya"
+      "Kartu sihir yang telah diberi mantra. Dirancang agar bahkan pemula yang",
+      "tak mengerti sihir pun bisa dengan mudah mengaktifkan efeknya."
     ],
     "ability": [
-      "digunakan secara paksa memindahkan Anda ke peta acak"
+      "Saat digunakan, akan memindahkanmu secara paksa ke peta acak."
+    ]
+  },
+  "47": {
+    "name": [
+      "Sang Penyihir"
+    ],
+    "subtitle": [
+      "「Mahakarya Sang Alkemis」"
+    ],
+    "description": [
+      "Kartu sihir yang telah diberi mantra. Dirancang agar bahkan pemula yang",
+      "tak mengerti sihir pun bisa dengan mudah mengaktifkan efeknya."
+    ],
+    "ability": [
+      "Saat digunakan, akan memanggil sejumlah pelayan elemen secara acak."
     ]
   },
   "48": {
     "name": [
-      "Pendeta Tinggi"
+      "Sang Imam Wanita"
     ],
     "subtitle": [
-      "Semoga kamu menerima kebaikannya..."
+      "「Semoga kau mendapatkan restu darinya...」"
     ],
     "description": [
-      "Kartu ajaib yang dipenuhi mantra. Dirancang demikian",
-      "bahkan pemula pun dapat dengan mudah mengaktifkan efeknya"
+      "Kartu sihir yang telah diberi mantra. Dirancang agar bentuknya mudah",
+      "diaktifkan, bahkan oleh pemula yang tak mengerti sihir."
     ],
     "ability": [
-      "Saat digunakan, panggil gerbang menuju Gereja Jatuh"
+      "Saat digunakan, panggil pintu menuju Gereja Terkutuk."
+    ]
+  },
+  "49": {
+    "name": [
+      "Permaisuri"
+    ],
+    "subtitle": [
+      "「Sekali tatap, kota runtuh. Dua kali tatap, negara hancur.」"
+    ],
+    "description": [
+      "Kartu sihir yang telah diberi mantra. Dirancang agar, Bentuk yang mudah",
+      "diaktifkan, bahkan oleh pemula yang tak mengerti sihir."
+    ],
+    "ability": [
+      "Saat digunakan, berikan pemain status Pesona Penakluk Bangsa \nselama 7 detik."
     ]
   },
   "50": {
@@ -480,44 +535,59 @@
       "Kaisar"
     ],
     "subtitle": [
-      "Keagungan naga, tidak dapat diganggu gugat"
+      "「Keagungan naga, tak tersentuh.」"
     ],
     "description": [
-      "Kartu ajaib yang dipenuhi mantra. Dirancang demikian",
-      "bahkan pemula pun dapat dengan mudah mengaktifkan efeknya"
+      "Kartu sihir yang telah diberi mantra. Dirancang agar, Bentuk yang mudah",
+      "diaktifkan, bahkan oleh pemula yang tak mengerti sihir."
     ],
     "ability": [
-      "Menggunakan Dragon's Roar untuk melumpuhkan semua musuh di layar"
+      "Saat digunakan, gunakan Raungan Naga pada semua target di layar,\nmembuat mereka pusing."
+    ]
+  },
+  "51": {
+    "name": [
+      "Paus"
+    ],
+    "subtitle": [
+      "「Inilah saatnya kebangkitan!」"
+    ],
+    "description": [
+      "Kartu sihir yang telah diberi mantra. Dirancang agar, Bentuk yang mudah",
+      "diaktifkan, bahkan oleh pemula yang tak mengerti sihir."
+    ],
+    "ability": [
+      "Saat digunakan, berikan pemain status Mata Batin dan Mode Bijak."
     ]
   },
   "52": {
     "name": [
-      "Para Pecinta"
+      "Kekasih"
     ],
     "subtitle": [
-      "Aroma Sang Penyihir yang Berlama-lama"
+      "「Aroma sisa sang penyihir.」"
     ],
     "description": [
-      "Kartu ajaib yang dipenuhi mantra. Dirancang demikian",
-      "bahkan pemula pun dapat dengan mudah mengaktifkan efeknya"
+      "Kartu sihir yang telah diberi mantra. Dirancang agar bentuknya mudah",
+      "digunakan, bahkan oleh pemula tanpa sihir untuk mengaktifkan efeknya."
     ],
     "ability": [
-      "Saat digunakan, panggil monster dan buat mereka mengamuk sebentar"
+      "Saat digunakan, efisiensi dan kekuatan monster yang \nmuncul akan meningkat untuk sementara waktu."
     ]
   },
   "53": {
     "name": [
-      "kereta"
+      "Kereta Perang"
     ],
     "subtitle": [
-      "Siap melayani Anda! Neraka Ekspres!"
+      "「Siap sedia! Ekspres Neraka!」"
     ],
     "description": [
-      "Kartu ajaib yang dipenuhi mantra. Dirancang demikian",
-      "bahkan pemula pun dapat dengan mudah mengaktifkan efeknya"
+      "Kartu sihir yang telah diberi mantra. Dirancang agar bahkan pemula tanpa",
+      "sihir pun bisa dengan mudah mengaktifkan efeknya."
     ],
     "ability": [
-      "Saat digunakan, truk NLCH menabrak pemain"
+      "Saat digunakan, sebuah mobil pengantar teh akan muncul dan menabrak\npemain."
     ]
   },
   "54": {
@@ -525,29 +595,44 @@
       "Kekuatan"
     ],
     "subtitle": [
-      "Lepaskan kekuatan Prajurit Dewa Raksasa"
+      "「Bebaskan kekuatan raksasa dewa!」"
     ],
     "description": [
-      "Kartu ajaib yang dipenuhi mantra. Dirancang demikian",
-      "bahkan pemula pun dapat dengan mudah mengaktifkan efeknya"
+      "Kartu sihir yang telah diberi mantra. Dirancang agar bahkan pemula tanpa",
+      "sihir pun bisa dengan mudah mengaktifkan efeknya."
     ],
     "ability": [
-      "Senjata jarak dekat untuk sementara memperbesar & Menyerang"
+      "Saat digunakan, senjata jarak dekat akan membesar \nsementara dan meningkatkan kerusakan."
+    ]
+  },
+  "55": {
+    "name": [
+      "Pertapa"
+    ],
+    "subtitle": [
+      "「Singkap rahasia dunia ini!」"
+    ],
+    "description": [
+      "Kartu sihir yang telah diberi mantra. Dirancang agar bahkan pemula tanpa",
+      "sihir pun bisa dengan mudah mengaktifkan efeknya."
+    ],
+    "ability": [
+      "Saat digunakan, unit atau lokasi khusus akan ditandai untuk sementara\nwaktu."
     ]
   },
   "56": {
     "name": [
-      "Roda Keberuntungan"
+      "Roda Takdir"
     ],
     "subtitle": [
-      "Roulette Perjudian Jiwa"
+      "「Roda takdir yang mempertaruhkan jiwa!」"
     ],
     "description": [
-      "Kartu ajaib yang dipenuhi mantra. Dirancang demikian",
-      "bahkan pemula pun dapat dengan mudah mengaktifkan efeknya"
+      "Kartu sihir yang telah diberi mantra. Dirancang agar bahkan pemula tanpa",
+      "sihir pun dapat dengan mudah mengaktifkan efeknya."
     ],
     "ability": [
-      "Saat digunakan, Memberikan buff atau debuff acak"
+      "Saat digunakan, dapatkan efek buff atau debuff acak."
     ]
   },
   "57": {
@@ -555,14 +640,29 @@
       "Keadilan"
     ],
     "subtitle": [
-      "Abu menjadi abu, debu menjadi debu"
+      "「Debu kembali ke debu, tanah kembali ke tanah」"
     ],
     "description": [
-      "Kartu ajaib yang dipenuhi mantra. Dirancang demikian",
-      "bahkan pemula pun dapat dengan mudah mengaktifkan efeknya"
+      "Kartu sihir yang telah diberi mantra. Didesain agar bahkan pemula tanpa",
+      "sihir pun dapat dengan mudah mengaktifkan efeknya."
     ],
     "ability": [
-      "Saat digunakan, hapus semua status dari pemutar"
+      "Saat digunakan, hapus semua status pada pemain."
+    ]
+  },
+  "58": {
+    "name": [
+      "Si Tergantung"
+    ],
+    "subtitle": [
+      "「Angkasa telah jatuh...」"
+    ],
+    "description": [
+      "Kartu sihir yang telah diberi mantra. Didesain agar bahkan pemula tanpa",
+      "sihir pun dapat dengan mudah mengaktifkan efeknya."
+    ],
+    "ability": [
+      "Saat digunakan, memicu gravitasi terbalik, membuatmu jatuh ke\nangkasa."
     ]
   },
   "59": {
@@ -570,14 +670,14 @@
       "Kematian"
     ],
     "subtitle": [
-      "Tujuan dari semua kehidupan adalah kematian"
+      "「Kematian adalah akhir dari semua kehidupan」"
     ],
     "description": [
-      "Kartu ajaib yang dipenuhi mantra. Dirancang demikian",
-      "bahkan pemula pun dapat dengan mudah mengaktifkan efeknya"
+      "Kartu sihir yang telah diberi mantra. Didesain agar bahkan pemula tanpa",
+      "sihir pun dapat dengan mudah mengaktifkan efeknya."
     ],
     "ability": [
-      "Saat digunakan, kekuatan Iblis Kematian terwujud di sini"
+      "Saat digunakan, wujudkan kekuatan iblis kematian ke dunia ini."
     ]
   },
   "60": {
@@ -585,14 +685,44 @@
       "Kesederhanaan"
     ],
     "subtitle": [
-      "Kotak Jurang Pandora"
+      "「Kotak Pandora dari jurang maut」"
     ],
     "description": [
-      "Kartu ajaib yang dipenuhi mantra. Dirancang demikian",
-      "bahkan pemula pun dapat dengan mudah mengaktifkan efeknya"
+      "Kartu sihir yang telah diberi mantra. Didesain agar bahkan pemula tanpa",
+      "sihir bisa mengaktifkan efeknya dengan mudah."
     ],
     "ability": [
-      "Saat digunakan, panggil mesin gacha"
+      "Saat digunakan, memanggil mesin gashapon aneh di dekat posisi\npemain."
+    ]
+  },
+  "61": {
+    "name": [
+      "Iblis"
+    ],
+    "subtitle": [
+      "「Api Kutukan yang Tak Pernah Padam」"
+    ],
+    "description": [
+      "Kartu sihir yang telah diberi mantra. Dirancang agar bahkan pemula tanpa",
+      "sihir bisa mengaktifkan efeknya dengan mudah."
+    ],
+    "ability": [
+      "Saat digunakan, membakar api neraka di lokasi yang telah ditentukan."
+    ]
+  },
+  "62": {
+    "name": [
+      "Menara"
+    ],
+    "subtitle": [
+      "「Undangan Pesta Gila Jurang Maut」"
+    ],
+    "description": [
+      "Kartu sihir yang telah diberi mantra. Dirancang agar bahkan pemula tanpa",
+      "sihir bisa mengaktifkan efeknya dengan mudah."
+    ],
+    "ability": [
+      "Saat digunakan, memanggil Pilar Penyegel."
     ]
   },
   "63": {
@@ -600,14 +730,29 @@
       "Bintang"
     ],
     "subtitle": [
-      "Bintang adalah mercusuar penuntun pulang"
+      "「Penanda Jalan Pulang Sang Bintang」"
     ],
     "description": [
-      "Kartu ajaib yang dipenuhi mantra. Dirancang demikian",
-      "bahkan pemula pun dapat dengan mudah mengaktifkan efeknya"
+      "Kartu sihir yang telah diberi mantra. Dirancang agar bahkan pemula tanpa",
+      "sihir bisa mengaktifkan efeknya dengan mudah."
     ],
     "ability": [
-      "Memanggil Pintu Bintang di dekat pemain untuk kembali memulai"
+      "Saat digunakan, memanggil Gerbang Bintang di dekat posisi pemain\nyang dapat kembali ke titik awal."
+    ]
+  },
+  "64": {
+    "name": [
+      "Bulan"
+    ],
+    "subtitle": [
+      "「Kutukan Perubahan yang Membusuk」"
+    ],
+    "description": [
+      "Kartu sihir yang telah diberi mantra. Dirancang agar bentuknya mudah",
+      "diaktifkan, bahkan oleh pemula yang tak mengerti sihir."
+    ],
+    "ability": [
+      "Saat digunakan, pemain akan mendapatkan status 'Kekuatan Penuaan'."
     ]
   },
   "65": {
@@ -615,14 +760,29 @@
       "Matahari"
     ],
     "subtitle": [
-      "Kelahiran kembali dari abu"
+      "「Terlahir Kembali dari Api」"
     ],
     "description": [
-      "Kartu ajaib yang dipenuhi mantra. Dirancang demikian",
-      "bahkan pemula pun dapat dengan mudah mengaktifkan efeknya"
+      "Kartu sihir yang telah diberi mantra. Didesain agar bentuknya mudah",
+      "diaktifkan, bahkan oleh pemula yang tak mengerti sihir."
     ],
     "ability": [
-      "Memberikan Berkah dari Firebird saat digunakan"
+      "Saat digunakan, dapatkan berkah dari burung api."
+    ]
+  },
+  "66": {
+    "name": [
+      "Penghakiman"
+    ],
+    "subtitle": [
+      "「Hitunglah semua dosamu, kau!」"
+    ],
+    "description": [
+      "Kartu sihir yang telah diberi mantra. Didesain agar bentuknya mudah",
+      "diaktifkan, bahkan oleh pemula yang tak mengerti sihir."
+    ],
+    "ability": [
+      "Saat digunakan, tembakkan panah sihir yang berubah menjadi \nmakhluk lain ke arah yang ditentukan."
     ]
   },
   "67": {
@@ -630,56 +790,52 @@
       "Dunia"
     ],
     "subtitle": [
-      "Mengundang Anda ke dunia taman miniatur misterius..."
+      "「Mengundangmu menuju dunia taman miniatur yang misterius itu…」"
     ],
     "description": [
-      "Kartu ajaib yang dipenuhi mantra. Dirancang demikian",
-      "bahkan pemula pun dapat dengan mudah mengaktifkan efeknya"
+      "Kartu sihir yang telah diberi mantra. Didesain agar bentuknya mudah",
+      "diaktifkan, bahkan oleh pemula yang tak mengerti sihir."
     ],
     "ability": [
-      "Menyetel ulang hitungan mundur untuk peristiwa terkait pelepasan saat digunakan"
+      "Setelah digunakan, atur ulang hitungan mundur untuk event \nterkait item jatuh."
     ]
   },
   "70": {
     "name": [
-      "Jack Bom"
+      "Bom Jack"
     ],
     "subtitle": [
-      "Lihat ke sini...!"
+      "「Lihatlah ke sini, aku bilang…!」"
     ],
     "description": [
-      "Sebuah bom alkimia yang mengandung elemen api yang hiruk pikuk",
-      "Karena sifatnya yang sangat tidak stabil, ia akan langsung meledak",
-      "hanya dengan memegangnya",
-      "Itu akan meledak seketika di lingkungan yang panas!"
+      "Bom alkimia penuh elemen api fanatik, sangat tidak stabil. Hanya dipegang",
+      "saja akan langsung meledak. Di lingkungan panas, akan langsung meledak!"
     ],
     "ability": ""
   },
   "71": {
     "name": [
-      "Bom Frost Jack"
+      "Bom Jack Es"
     ],
     "subtitle": [
-      "Lihat ke sini...!"
+      "「Lihatlah ke sini…！」"
     ],
     "description": [
-      "Sebuah bom alkimia yang mengandung elemen es yang sangat dingin",
-      "Karena sifatnya yang sangat tidak stabil, ia akan langsung meledak",
-      "hanya dengan memegangnya"
+      "Bom alkimia penuh elemen es dingin membeku, sangat tidak stabil. Hanya",
+      "dipegang saja akan langsung meledak."
     ],
     "ability": ""
   },
   "72": {
     "name": [
-      "Bom Racun Jack"
+      "Bom Jack Racun"
     ],
     "subtitle": [
-      "Lihat ke sini...!"
+      "「Lihatlah ke sini…！」"
     ],
     "description": [
-      "Sebuah bom alkimia yang mengandung racun mematikan",
-      "Karena sifatnya yang sangat tidak stabil, ia akan langsung meledak",
-      "hanya dengan memegangnya"
+      "Bom alkimia dipenuhi racun mematikan, sangat tidak stabil. Hanya dipegang",
+      "saja akan langsung meledak."
     ],
     "ability": ""
   },
@@ -689,83 +845,111 @@
     ],
     "subtitle": "",
     "description": [
-      "Artefak magis khusus yang bertuliskan mantra penyegel",
-      "Ketika hancur, ia mengaktifkan efeknya, menyebabkan segalanya",
-      "dalam rentang tertentu—termasuk waktu itu sendiri—untuk terhenti"
+      "Alat sihir khusus dengan sihir waktu tersegel di dalamnya. Pecahkan untuk",
+      "melepaskan efek yang menghentikan segalanya. Segala sesuatu di jangkauan",
+      "tertentu terhenti beberapa detik."
     ],
     "ability": ""
   },
   "76": {
     "name": [
-      "Ginkela"
+      "Perak Kolla"
     ],
     "subtitle": "",
     "description": [
-      "Makanan aneh yang asal usulnya tidak diketahui, dikatakan rasanya sangat enak",
-      "Aromanya tidak hanya memikat binatang tetapi bahkan monster!",
-      "Tangani dengan hati-hati—aromanya cepat memudar jika tidak disimpan dengan baik"
+      "Pakan aneh dengan bahan dan asal-usul tak jelas, rasanya luar biasa.",
+      "Hewan biasa hingga monster pun terpikat aroma yang dipancarkan. Harus",
+      "hati-hati, aromanya mudah menguap dan bisa lenyap seketika."
     ],
     "ability": [
-      "Saat dilempar, itu menciptakan awan aroma yang menarik monster"
+      "Setelah dilempar, akan membentuk gumpalan aroma kecil yang menarik\nperhatian monster."
     ]
   },
   "77": {
     "name": [
       "Puding Sushi"
     ],
+    "beIndependent": true,
     "subtitle": "",
     "description": [
-      "Familiar dari Archdemon tertentu. Membiarkannya lepas",
-      "akan membawamu ke keberadaan Archdemon. Tetapi",
-      "apakah itu Neko, sushi, atau puding? Kelihatannya masih enak"
+      "Pelayan iblis besar tertentu. Lepaskan, temukan jejak sang iblis. Tapi,",
+      "apakah ini kucing, sushi, atau puding? Sulit ditebak. Bagaimanapun,",
+      "tampilannya sangat lezat dan menggoda selera."
+    ],
+    "ability": ""
+  },
+  "80": {
+    "name": [
+      "Gulungan Segel Sihir"
+    ],
+    "beIndependent": true,
+    "subtitle": "",
+    "description": [
+      "Alat rahasia yang hanya beredar di kalangan ninja terpilih. Aktifkan",
+      "segel kutukan pada gulungan untuk membuka sub-ruang. Dapat menyerap,",
+      "menyegel, dan melepaskan item sesuai kebutuhan."
+    ],
+    "ability": [
+      "Segel/Panggil semua item yang kau kenakan. \\str[110]"
+    ]
+  },
+  "86": {
+    "name": [
+      "Irisan Daging Steak"
+    ],
+    "subtitle": "",
+    "description": [
+      "Irisan daging hasil berburu binatang buas, kaya protein. Cukup dipanggang",
+      "sebentar saja, aromanya langsung menggoda. Sajian sederhana namun sangat",
+      "harum dan menggugah selera."
     ],
     "ability": ""
   },
   "88": {
     "name": [
-      "Daging Kaki Burung"
+      "Daging Paha Ayam"
     ],
     "subtitle": "",
     "description": [
-      "Daging paha dipanen dari berbagai jenis burung",
-      "Dagingnya empuk dan montok,",
-      "membuatnya sempurna untuk hidangan daging"
+      "Daging paha hasil berburu berbagai jenis burung. Empuk dan lezat, sangat",
+      "cocok untuk hidangan daging. Bahan favorit para koki di dunia",
+      "petualangan."
     ],
     "ability": ""
   },
   "89": {
     "name": [
-      "Daging Binatang Besar"
+      "Daging Buas Besar"
     ],
     "subtitle": "",
     "description": [
-      "Daging segar diukir dari monster. Hidangan daging yang enak bisa",
-      "dibuat darinya. Monster memakan manusia, dan manusia memakan monster",
-      "Ini adalah tatanan alam"
+      "Daging hasil berburu monster, bisa dibuat hidangan lezat. Monster memakan",
+      "manusia, manusia memakan monster. Itu adalah siklus yang wajar di dunia",
+      "ini."
     ],
     "ability": ""
   },
   "90": {
     "name": [
-      "Daging Binatang Kecil"
+      "Daging Buas Kecil"
     ],
     "subtitle": "",
     "description": [
-      "Daging segar diukir dari monster. Hidangan daging yang enak bisa",
-      "dibuat darinya. Monster memakan manusia, dan manusia memakan monster",
-      "Ini adalah tatanan alam"
+      "Daging hasil berburu monster, bisa dibuat hidangan lezat. Monster memakan",
+      "manusia, manusia memakan monster. Itu adalah siklus yang wajar di dunia",
+      "ini."
     ],
     "ability": ""
   },
   "97": {
     "name": [
-      "Air Lendir Aneh"
+      "Lendir Monster Air"
     ],
     "subtitle": "",
     "description": [
-      "Lendir yang dikeluarkan oleh WaterWeird, biasa digunakan secara umum",
-      "bahan dalam alkimia",
-      "Kadang-kadang juga digunakan sebagai pelumas"
+      "Lendir dari monster air, bahan alkimia yang sering dipakai. Kadang",
+      "digunakan sebagai pelumas oleh para penjelajah. Sangat berguna dalam",
+      "berbagai eksperimen dan resep."
     ],
     "ability": ""
   },
@@ -775,20 +959,19 @@
     ],
     "subtitle": "",
     "description": [
-      "Jamur dari Walking Mushroom, sekarang tidak bisa bergerak",
-      "Jika diiris, bentuknya seperti jamur biasa"
+      "Jamur yang dipetik dari monster Jamur Berjalan, kini tak lagi bergerak.",
+      "Setelah dipotong, tak ada bedanya dengan jamur biasa."
     ],
     "ability": ""
   },
   "100": {
     "name": [
-      "Lendir Lendir"
+      "Lendir Slime"
     ],
     "subtitle": "",
     "description": [
-      "Lendir yang dikeluarkan oleh slime, biasa digunakan secara umum",
-      "bahan dalam alkimia",
-      "Kadang-kadang juga digunakan sebagai pelumas"
+      "Lendir yang dikeluarkan Slime, bahan alkimia yang sering digunakan.",
+      "Terkadang juga digunakan sebagai pelumas."
     ],
     "ability": ""
   },
@@ -798,8 +981,8 @@
     ],
     "subtitle": "",
     "description": [
-      "Buah yang baru dipetik, penuh rasa menyegarkan",
-      "Memakannya secara langsung sedikit memulihkan kesehatan"
+      "Buah segar yang baru dipetik, penuh kesegaran. Dimakan langsung, sedikit",
+      "memulihkan stamina."
     ],
     "ability": ""
   },
@@ -809,19 +992,20 @@
     ],
     "subtitle": "",
     "description": [
-      "Blok kari pedas yang terbuat dari rempah-rempah eksotis",
-      "Cocok dipadukan dengan nasi dan bisa ditambahkan ke berbagai bahan"
+      "Blok kari pedas, dibuat dari rempah asing yang terkonsentrasi. Sangat",
+      "cocok dengan nasi, dan bisa ditambahkan berbagai bahan makanan."
     ],
     "ability": ""
   },
   "103": {
     "name": [
-      "Nasi putih"
+      "Nasi Putih"
     ],
     "subtitle": "",
     "description": [
-      "Nasi putih sederhana namun menenangkan",
-      "Bisa dimakan polos atau dipadukan dengan berbagai bahan"
+      "Meski sederhana, nasi putih ini memberi rasa aman. Bisa dimakan langsung,",
+      "atau dipadukan dengan bahan lain. Hidangan dasar yang cocok untuk",
+      "berbagai resep."
     ],
     "ability": ""
   },
@@ -831,8 +1015,9 @@
     ],
     "subtitle": "",
     "description": [
-      "Sayuran biasa, tapi aneh menemukannya di jurang",
-      "Perlu persiapan yang matang sebelum makan"
+      "Sayuran biasa, tapi aneh bisa ditemukan di jurang terdalam. Jika ingin",
+      "dimakan, harus diolah dengan benar. Jangan makan mentah, olah agar aman",
+      "dikonsumsi."
     ],
     "ability": ""
   },
@@ -842,8 +1027,9 @@
     ],
     "subtitle": "",
     "description": [
-      "Sayuran biasa, tapi aneh menemukannya di jurang",
-      "Perlu persiapan yang matang sebelum makan"
+      "Sayuran umum, tapi aneh juga bisa dipanen di jurang. Jika ingin",
+      "memakannya, harus dimasak dengan baik. Olahan tepat membuatnya lezat dan",
+      "aman disantap."
     ],
     "ability": ""
   },
@@ -853,8 +1039,9 @@
     ],
     "subtitle": "",
     "description": [
-      "Sayuran biasa, tapi aneh menemukannya di jurang",
-      "Perlu persiapan yang matang sebelum makan"
+      "Sayuran umum, tapi aneh juga bisa dipanen di jurang. Jika ingin",
+      "memakannya, harus dimasak dengan baik. Pastikan diolah agar aman dan",
+      "nikmat disantap."
     ],
     "ability": ""
   },
@@ -864,8 +1051,9 @@
     ],
     "subtitle": "",
     "description": [
-      "Sayuran biasa, tapi aneh menemukannya di jurang",
-      "Perlu persiapan yang matang sebelum makan"
+      "Sayuran umum, tapi anehnya bisa juga dipanen di jurang. Jika ingin",
+      "memakannya, harus dimasak dengan baik. Jangan makan mentah agar tetap",
+      "aman dan lezat."
     ],
     "ability": ""
   },
@@ -875,8 +1063,9 @@
     ],
     "subtitle": "",
     "description": [
-      "Buah yang baru dipetik, penuh rasa menyegarkan",
-      "Memakannya secara langsung sedikit memulihkan kesehatan"
+      "Buah segar yang baru dipetik, terasa sangat menyegarkan. Dimakan langsung",
+      "pun bisa sedikit memulihkan stamina. Simpan untuk bekal perjalananmu",
+      "berikutnya."
     ],
     "ability": ""
   },
@@ -886,8 +1075,9 @@
     ],
     "subtitle": "",
     "description": [
-      "Buah yang baru dipetik, penuh rasa menyegarkan",
-      "Memakannya secara langsung sedikit memulihkan kesehatan"
+      "Buah segar yang baru dipetik, terasa sangat menyegarkan. Dimakan langsung",
+      "pun bisa sedikit memulihkan stamina. Simpan untuk bekal perjalananmu",
+      "berikutnya."
     ],
     "ability": ""
   },
@@ -897,8 +1087,9 @@
     ],
     "subtitle": "",
     "description": [
-      "Buah yang baru dipetik, penuh rasa menyegarkan",
-      "Memakannya secara langsung sedikit memulihkan kesehatan"
+      "Buah segar yang baru dipetik, terasa sangat menyegarkan. Dimakan langsung",
+      "pun bisa sedikit memulihkan stamina. Simpan untuk bekal perjalananmu",
+      "berikutnya."
     ],
     "ability": ""
   },
@@ -908,8 +1099,8 @@
     ],
     "subtitle": "",
     "description": [
-      "Buah yang baru dipetik, penuh rasa menyegarkan",
-      "Memakannya secara langsung sedikit memulihkan kesehatan"
+      "Buah segar yang baru dipetik, terasa sangat menyegarkan. Dimakan langsung",
+      "pun bisa sedikit memulihkan stamina."
     ],
     "ability": ""
   },
@@ -919,19 +1110,19 @@
     ],
     "subtitle": "",
     "description": [
-      "Buah yang baru dipetik, penuh rasa menyegarkan",
-      "Memakannya secara langsung sedikit memulihkan kesehatan"
+      "Buah yang baru dipetik, penuh kesegaran. Dimakan langsung pun bisa",
+      "sedikit memulihkan stamina."
     ],
     "ability": ""
   },
   "113": {
     "name": [
-      "Spageti"
+      "Pasta"
     ],
     "subtitle": "",
     "description": [
-      "Mie kenyal dan elastis yang cocok dengan hidangan apa pun",
-      "Lezat hanya dengan sedikit saus"
+      "Mi yang kenyal dan elastis, cocok untuk masakan apa pun. Cukup disiram",
+      "saus, sudah sangat lezat."
     ],
     "ability": ""
   },
@@ -941,18 +1132,19 @@
     ],
     "subtitle": "",
     "description": [
-      "Terbuat dari tomat, dengan rasa yang tajam dan manis",
-      "Sebaiknya jangan memikirkan mengapa monster menjatuhkan ini"
+      "Saus yang terbuat dari tomat, asam manis rasanya. Tapi, lebih baik tak",
+      "usah kupikirkan mengapa monster menjatuhkan ini..."
     ],
     "ability": ""
   },
   "115": {
     "name": [
-      "Tepung terigu"
+      "Tepung Gandum"
     ],
     "subtitle": "",
     "description": [
-      "Tepung terigu yang terbuat dari gandum giling, berguna untuk berbagai masakan"
+      "Tepung dari gandum yang digiling halus. Bisa dipakai untuk berbagai",
+      "masakan, mulai dari roti hingga kue lezat."
     ],
     "ability": ""
   },
@@ -962,63 +1154,63 @@
     ],
     "subtitle": "",
     "description": [
-      "Jamur biasa yang sering terlihat di luar",
-      "Namun, menemukannya di dalam jurang sangatlah tidak biasa"
+      "Jamur biasa yang sering terlihat di luar. Namun, menemukannya di jurang",
+      "sungguh tak biasa dan mengejutkan."
     ],
     "ability": ""
   },
   "117": {
     "name": [
-      "Shiitake"
+      "Jamur Shiitake"
     ],
     "subtitle": "",
     "description": [
-      "Jamur biasa yang sering terlihat di luar",
-      "Namun, menemukannya di dalam jurang sangatlah tidak biasa"
+      "Jamur biasa yang sering terlihat di luar. Namun, menemukannya di jurang",
+      "sungguh tak biasa dan mengejutkan."
     ],
     "ability": ""
   },
   "118": {
     "name": [
-      "Jamur Beech"
+      "Jamur Shimeji"
     ],
     "subtitle": "",
     "description": [
-      "Jamur biasa yang sering terlihat di luar",
-      "Namun, menemukannya di dalam jurang sangatlah tidak biasa"
+      "Jamur Shimeji yang lezat dan unik. Namun, sangat tidak biasa menemukannya",
+      "di jurang seperti ini."
     ],
     "ability": ""
   },
   "119": {
     "name": [
-      "Jamur Ungu"
+      "Jamur Lilac"
     ],
     "subtitle": "",
     "description": [
-      "Jamur biasa yang sering terlihat di luar",
-      "Namun, menemukannya di dalam jurang sangatlah tidak biasa"
+      "Jamur biasa yang sering terlihat di luar. Namun, sangat tidak biasa",
+      "menemukannya di jurang..."
     ],
     "ability": ""
   },
   "120": {
     "name": [
-      "Jamur Cahaya Bulan"
+      "Jamur Malam Bulan"
     ],
     "subtitle": "",
     "description": [
-      "Jamur biasa yang sering terlihat di luar",
-      "Namun, menemukannya di dalam jurang sangatlah tidak biasa"
+      "Jamur biasa yang sering terlihat di luar. Namun, sangat tidak biasa",
+      "menemukannya di jurang..."
     ],
     "ability": ""
   },
   "121": {
     "name": [
-      "Jamur Bambu"
+      "Jamur Jaring Panjang"
     ],
     "subtitle": "",
     "description": [
-      "Jamur biasa yang sering terlihat di luar",
-      "Namun, menemukannya di dalam jurang sangatlah tidak biasa"
+      "Jamur langka berkualitas tinggi yang jarang terlihat di luar. Namun,",
+      "sangat tidak biasa menemukannya di jurang..."
     ],
     "ability": ""
   },
@@ -1027,238 +1219,351 @@
       "Stroberi ASABA"
     ],
     "subtitle": [
-      "Mmm… stroberi… stroberiku…"
+      "「Ugh... Stroberi... Stroberiku...」"
     ],
     "description": [
-      "Stroberi ASABA yang paling berharga dan berkualitas tinggi yang tidak dapat ditanggungnya",
-      "untuk makan. Tapi bahkan setelah mati-matian menjaganya sampai akhir",
-      "itu tetap berakhir hanya sebagai piala—"
+      "Stroberi berkualitas tinggi yang sangat ASABA hargai, terlalu sayang",
+      "untuk dimakan. Namun, meski telah mati-matian dilindungi hingga akhir,",
+      "tetap jadi rampasan perang—"
     ],
     "ability": ""
   },
   "127": {
     "name": [
-      "Tentakel gurita"
+      "Tentakel Gurita"
     ],
     "subtitle": "",
     "description": [
-      "Tentakel gurita patah yang dipancing dari laut, baunya harum saat dipanggang",
-      "Bisa juga dimasak dengan bahan lain"
+      "Tentakel gurita putus yang ditemukan di laut, akan sangat harum jika",
+      "dipanggang. Bisa juga dimasak bersama bahan lain."
+    ],
+    "ability": ""
+  },
+  "128": {
+    "name": [
+      "Tentakel Penguasa"
+    ],
+    "subtitle": [
+      "「Kakak, ini apa? Menjijikkan sekali...」"
+    ],
+    "description": [
+      "Ini adalah tentakel Penguasa yang terputus. Masih bergerak, seolah hidup.",
+      "Jauh lebih kuat daripada yang biasa."
     ],
     "ability": ""
   },
   "130": {
     "name": [
-      "ikan air tawar"
+      "Ikan Kakap Merah"
     ],
     "subtitle": "",
     "description": [
-      "Baru ditangkap dari laut, cocok untuk sashimi",
-      "Bisa juga dimasak dengan bahan lain"
+      "Ikan segar yang ditangkap dari laut, bisa dibuat sashimi. Bisa juga",
+      "dimasak bersama bahan lain."
     ],
     "ability": ""
   },
   "131": {
     "name": [
-      "ikan tuna"
+      "Ikan Tuna"
     ],
     "subtitle": "",
     "description": [
-      "Baru ditangkap dari laut, cocok untuk sashimi",
-      "Bisa juga dimasak dengan bahan lain"
+      "Ikan segar yang ditangkap dari laut, bisa dibuat sashimi. Bisa juga",
+      "dimasak bersama bahan lain."
     ],
     "ability": ""
   },
   "132": {
     "name": [
-      "Ikan Paruh Bergaris"
+      "Ikan Bream Bergaris"
     ],
     "subtitle": "",
     "description": [
-      "Baru ditangkap dari laut, cocok untuk sashimi",
-      "Bisa juga dimasak dengan bahan lain"
+      "Ikan segar yang ditangkap dari laut. Bisa dibuat sashimi segar. Juga enak",
+      "dimasak bersama bahan lain."
     ],
     "ability": ""
   },
   "133": {
     "name": [
-      "Kerapu"
+      "Ikan Kerapu"
     ],
     "subtitle": "",
     "description": [
-      "Baru ditangkap dari laut, cocok untuk sashimi",
-      "Bisa juga dimasak dengan bahan lain"
+      "Ikan segar yang ditangkap dari laut. Bisa dibuat sashimi segar. Juga enak",
+      "dimasak bersama bahan lain."
     ],
     "ability": ""
   },
   "134": {
     "name": [
-      "Saury Pasifik"
+      "Ikan Saury Pasifik"
     ],
     "subtitle": "",
     "description": [
-      "Baru ditangkap dari laut, cocok untuk sashimi",
-      "Bisa juga dimasak dengan bahan lain"
+      "Ikan segar yang ditangkap dari laut. Bisa dibuat sashimi segar. Juga enak",
+      "dimasak bersama bahan lain."
     ],
     "ability": ""
   },
   "135": {
     "name": [
-      "Udang manis"
+      "Udang Manis"
     ],
     "subtitle": "",
     "description": [
-      "Udang yang baru ditangkap dari laut, cocok untuk sashimi",
-      "Bisa juga dimasak dengan bahan lain"
+      "Udang segar yang ditangkap dari laut. Bisa dibuat sashimi segar. Juga",
+      "enak dimasak bersama bahan lain."
     ],
     "ability": ""
   },
   "136": {
     "name": [
-      "Lobster berduri"
+      "Lobster Besar"
     ],
     "subtitle": "",
     "description": [
-      "Lobster yang baru ditangkap dari laut, hati-hati jangan sampai terjepit",
-      "Bisa juga dimasak dengan bahan lain"
+      "Lobster segar yang ditangkap dari laut, hati-hati jangan sampai terjepit.",
+      "Bisa juga dimasak bersama bahan lain."
     ],
     "ability": ""
   },
   "137": {
     "name": [
-      "Kepiting berbulu"
+      "Kepiting Berbulu"
     ],
     "subtitle": "",
     "description": [
-      "Kepiting yang baru ditangkap dari laut, hati-hati jangan sampai terjepit",
-      "Bisa juga dimasak dengan bahan lain"
+      "Kepiting segar yang ditangkap dari laut, hati-hati jangan sampai",
+      "terjepit. Bisa juga dimasak bersama bahan lain."
+    ],
+    "ability": ""
+  },
+  "138": {
+    "name": [
+      "Kepiting Kelapa"
+    ],
+    "subtitle": "",
+    "description": [
+      "Kepiting segar yang ditangkap di darat, hati-hati jangan sampai terjepit.",
+      "Bisa juga dimasak bersama bahan lain."
+    ],
+    "ability": ""
+  },
+  "139": {
+    "name": [
+      "X△X"
+    ],
+    "subtitle": "",
+    "description": [
+      "Ikan Sakabamba kehilangan vitalitas akibat ledakan. Ia tak pernah",
+      "menyangka impiannya untuk 「melihat daratan」 terwujud dengan cara seperti",
+      "ini..."
     ],
     "ability": ""
   },
   "142": {
     "name": [
-      "Ikan salmon"
+      "Salmon"
     ],
     "subtitle": "",
     "description": [
-      "Baru ditangkap dari laut, cocok untuk sashimi",
-      "Bisa juga dimasak dengan bahan lain"
+      "Udang segar yang ditangkap dari laut, bisa dibuat sashimi. Bisa juga",
+      "dimasak bersama bahan lain."
     ],
     "ability": ""
   },
   "143": {
     "name": [
-      "Raja Salmon"
+      "Salmon Raja"
     ],
     "subtitle": "",
     "description": [
-      "Baru ditangkap dari laut, cocok untuk sashimi",
-      "Bisa juga dimasak dengan bahan lain"
-    ],
-    "ability": ""
-  },
-  "151": {
-    "name": [
-      "Daging Binatang"
-    ],
-    "subtitle": "",
-    "description": [
-      "Daging diambil dari monster. Dapat digunakan untuk membuat masakan yang lezat",
-      "Monster memakan manusia, dan manusia memakan monster—itu wajar saja"
+      "Udang segar yang ditangkap dari laut, bisa dibuat sashimi. Bisa juga",
+      "dimasak bersama bahan lain."
     ],
     "ability": ""
   },
   "153": {
     "name": [
-      "Telur Besar"
+      "Telur yang sangat besar."
     ],
     "subtitle": "",
     "description": [
-      "Telur besar dari jurang maut. Dari makhluk apa itu?",
-      "Saya tidak berpikir terlalu banyak—telur tetaplah telur"
+      "Telur raksasa yang dibawa dari jurang. Telur makhluk apa sebenarnya ini?",
+      "Tak perlu terlalu memikirkannya, toh ini hanya telur."
     ],
     "ability": ""
   },
   "173": {
     "name": [
-      "Peri pisang"
+      "Peri Pisang"
     ],
     "subtitle": "",
     "description": [
-      "Apa-apaan ini?"
+      "……Benda apa ini sebenarnya?"
     ],
     "ability": ""
   },
   "175": {
     "name": [
-      "peri apel"
+      "Peri Apel"
     ],
     "subtitle": "",
     "description": [
-      "Apa-apaan ini?"
+      "……Benda apa ini sebenarnya?"
     ],
     "ability": ""
   },
-  "190": {
+  "185": {
     "name": [
-      "Yuri Doujinshi"
+      "Penebusan Pribadi"
     ],
+    "beIndependent": true,
     "subtitle": [
-      "Onee-chan... Aku merasa seperti... Aku tidak bisa hidup tanpamu lagi..."
+      "「Kejahatan mudah dilakukan...」"
     ],
     "description": [
-      "Doujinshi dengan seni yang indah.",
-      "Tapi itu menggambarkan cinta terlarang antara dua gadis cantik...",
-      "Ceritanya sangat beruap, bahkan halaman-halamannya mengeluarkan aroma merah muda yang samar."
+      "Alat jahat buatan iblis besar setelah mengamati peradaban manusia. Semua",
+      "kejahatan pemiliknya disimpan dan diubah menjadi poin. Poin ini bisa",
+      "dipersembahkan ke iblis untuk imbalan yang sesuai—"
     ],
     "ability": [
-      "Meningkatkan keinginan setelah membaca!"
+      "Mencatat kejahatan dan mengubahnya menjadi poin, dapat memulai\ntransaksi iblis."
+    ]
+  },
+  "187": {
+    "name": [
+      "Kaset Video Lama"
+    ],
+    "beIndependent": true,
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      "Media khusus yang merekam gambar masa lalu, butuh perangkat khusus.",
+      "Diduga produk alkimia peradaban kuno, tapi belum ada bukti nyata. Karena",
+      "langka, banyak kolektor sangat menginginkannya."
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "188": {
+    "name": [
+      "Kaset Video Horor"
+    ],
+    "beIndependent": true,
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      "Media khusus yang merekam gambar masa lalu, butuh perangkat khusus.",
+      "Diduga produk alkimia peradaban kuno, tapi belum ada bukti nyata.",
+      "Sepertinya terkutuk, isi yang diputar selalu membuat merinding."
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "189": {
+    "name": [
+      "Kaset Video Dewasa"
+    ],
+    "beIndependent": true,
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      "Media khusus yang merekam gambar masa lalu, butuh perangkat khusus.",
+      "Diduga produk alkimia peradaban kuno, tapi belum ada bukti nyata.",
+      "Kontennya dewasa, penuh adegan memicu gairah dan darah bergejolak."
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "190": {
+    "name": [
+      "Doujinshi Yuri"
+    ],
+    "beIndependent": true,
+    "subtitle": [
+      "「Kakak... Sepertinya aku... tak akan pernah bisa meninggalkanmu lagi...」"
+    ],
+    "description": [
+      "Doujinshi dengan ilustrasi memukau dan kisah cinta terlarang. Mengisahkan",
+      "dua gadis cantik dengan plot membara dan penuh emosi. Kertasnya bahkan",
+      "memancarkan aroma merah muda yang samar."
+    ],
+    "ability": [
+      "Setelah membaca, gairah seksual meningkat!"
     ]
   },
   "191": {
     "name": [
-      "Moe Doujinshi"
+      "Doujinshi Moe-moe"
     ],
+    "beIndependent": true,
     "subtitle": [
-      "Capek capek kyun~♡"
+      "「Moe-moe-da~♡」"
     ],
     "description": [
-      "Doujinshi berisi gelembung merah muda dan efek berbentuk hati.",
-      "Karakter tersipu dan bingung karena hal-hal terkecil...",
-      "Mereka bilang kamu mungkin akan menghela nafas jadi moe~ setelah membacanya."
+      "Doujinshi penuh gelembung merah muda dan efek hati di setiap halaman.",
+      "Tokohnya selalu tersipu, jantung berdebar, manisnya bikin gigi copot.",
+      "Konon, selesai membaca, kau akan menggumamkan 'Moe-nya~' tanpa sadar."
     ],
     "ability": [
-      "Meningkatkan keinginan setelah membaca!"
+      "Setelah membaca, gairah seksual meningkat!"
     ]
   },
   "192": {
     "name": [
       "Doujinshi Gadis Kucing"
     ],
+    "beIndependent": true,
     "subtitle": [
-      "Guru... nya~ Bolehkah aku mendapat tepukan di kepala?"
+      "「Tuan... Meong~ Bolehkah dielus kepalaku?」"
     ],
     "description": [
-      "Doujinshi yang sedikit berbau catnip.",
-      "Menampilkan gadis kucing mendengkur, berguling, dan mengibaskan ekornya.",
-      "Mungkin membuatmu mempertimbangkan untuk mencari istri nyan yang bisa bicara..."
+      "Doujinshi dengan aroma catnip, kisah gadis bertelinga kucing. Ia merengek",
+      "manja, berguling, dan ekornya bergoyang lembut. Setelah membaca, kau",
+      "mungkin ingin punya istri yang bisa bilang 'Meong~'."
     ],
     "ability": [
-      "Meningkatkan keinginan setelah membaca!"
+      "Setelah membaca, gairah seksual meningkat!"
     ]
   },
   "197": {
     "name": [
-      "Ramuan Merah"
+      "Cairan Sumsum Merah"
     ],
+    "beIndependent": true,
     "subtitle": [
-      "Ini adalah kekuatan yang kuat",
-      "karena ia akan menaklukkan segala yang halus, dan segala yang padat."
+      "「Ini adalah keteguhan hati yang mutlak, menembus segala yang kokoh, \nmelampaui segala yang rumit.」"
     ],
     "description": [
-      "Fragmen Filsuf yang memerah mengalir seperti darah",
-      "Penggunaan yang tepat masih belum diketahui, tetapi untuk saat ini,",
-      "coba saja meminumnya seperti minuman…"
+      "Batu langit yang memerah, mengalir bagai darah. Belum tahu cara pakainya",
+      "yang benar. Coba saja minum seperti minuman..."
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "198": {
+    "name": [
+      "T-shirt \\str[120]"
+    ],
+    "beIndependent": true,
+    "subtitle": [
+      "「Tuan Ksatria...! Ada tanda tangan asli juga...!」"
+    ],
+    "description": [
+      "T-shirt bonus dari Ksatria, kini digunakan \\str[120] sebagai piyama.",
+      "Modelnya yang sedikit longgar membuatnya terlihat begitu menggoda dan tak",
+      "berdaya. Karena takut merusak saat dicuci, adik hanya sesekali memakainya",
+      "saat suasana hatinya baik."
     ],
     "ability": [
       ""
@@ -1266,536 +1571,1403 @@
   },
   "199": {
     "name": [
-      "Kupon hadiah kakak"
+      "Kupon Bebas \\str[120]"
     ],
     "subtitle": [
-      "Penuh dengan coretan-coretan...."
+      "「Ada banyak coretan dan perubahan di kupon bebas itu...」"
     ],
     "description": [
-      "Ini adalah hadiah spesial dari kakak untuk onii-chan yang bekerja keras",
-      "Anda dapat mengajukan permintaan apa pun kepadanya, bahkan permintaan yang tidak masuk akal",
-      "Tapi meski tanpa itu, dia masih ingin membantu memikul beban onii-chan"
+      "Kupon bebas yang digambar sendiri oleh \\str[120], sebagai pujian atas",
+      "kerja keras \\str[121] selama ini. Dengan kupon ini, kau bisa",
+      "bermanja-manja pada \\str[120] sesukamu, permintaan sebandel apa pun akan",
+      "dikabulkan. Tapi bahkan tanpa ini pun, \\str[120] selalu ingin berbuat",
+      "lebih banyak untuk \\str[121]—"
     ],
     "ability": ""
   },
   "200": {
     "name": [
-      "Polaroid NLCH#1"
+      "Polaroid Pesta Teh #1"
     ],
     "subtitle": [
-      "Apa yang kamu lakukan, menatap ke sini seperti itu…!"
+      "「Apa-apaan, terus menatap ke sini...!」"
     ],
     "description": [
-      "Foto yang mengabadikan kehidupan sehari-hari para gadis",
-      "pesta teh, tapi… siapa yang mengambil foto-foto ini?"
+      "Foto yang merekam keseharian para gadis di pesta teh, tapi... Siapa",
+      "sebenarnya yang mengambil foto-foto ini?"
     ],
     "ability": ""
   },
   "201": {
     "name": [
-      "Polaroid NLCH#2"
+      "Polaroid Pesta Teh #2"
     ],
     "subtitle": [
-      "beginilah cara kelinci menunjukkan kasih sayang~"
+      "「Ini adalah cara kelinci menunjukkan kasih sayangnya~」"
     ],
     "description": [
-      "Foto yang mengabadikan kehidupan sehari-hari para gadis",
-      "pesta teh, tapi… siapa yang mengambil foto-foto ini?"
+      "Foto yang merekam keseharian para gadis di pesta teh, tapi... Siapa",
+      "sebenarnya yang mengambil foto-foto ini? T122"
     ],
     "ability": ""
   },
   "202": {
     "name": [
-      "Polaroid NLCH#3"
+      "Polaroid Pesta Teh #3"
     ],
     "subtitle": [
-      "…Sudah cukup bersih, kan?"
+      "「...Sudah bersih, kan?」"
     ],
     "description": [
-      "Foto yang mengabadikan kehidupan sehari-hari para gadis",
-      "pesta teh, tapi… siapa yang mengambil foto-foto ini?"
+      "Foto-foto yang merekam kehidupan sehari-hari para gadis di pesta teh,",
+      "tapi... Siapa sebenarnya yang mengambil foto-foto ini? T123"
     ],
     "ability": ""
   },
   "203": {
     "name": [
-      "Polaroid NLCH#4"
+      "Polaroid Pesta Teh #4"
     ],
     "subtitle": [
-      "T-Tidak, ini buruk... obatnya terlalu kuat!"
+      "「Ti-tidak... efek obatnya terlalu kuat...!」"
     ],
     "description": [
-      "Foto yang mengabadikan kehidupan sehari-hari para gadis",
-      "pesta teh, tapi… siapa yang mengambil foto-foto ini?"
+      "Foto-foto yang merekam kehidupan sehari-hari para gadis di pesta teh,",
+      "tapi... Siapa sebenarnya yang mengambil foto-foto ini? T124"
     ],
     "ability": ""
   },
   "204": {
     "name": [
-      "Polaroid NLCH#5"
+      "Polaroid Pesta Teh #5"
     ],
     "subtitle": [
-      "Ya Tuhan, maafkan aku karena tergoda oleh uang..."
+      "「Ah, Tuhan, ampunilah aku yang tergoda oleh uang...」"
     ],
     "description": [
-      "Foto yang mengabadikan kehidupan sehari-hari para gadis",
-      "pesta teh, tapi… siapa yang mengambil foto-foto ini?"
+      "Foto-foto yang merekam kehidupan sehari-hari para gadis di pesta teh,",
+      "tapi... Siapa sebenarnya yang mengambil foto-foto ini?"
     ],
     "ability": ""
   },
   "205": {
     "name": [
-      "Polaroid NLCH#6"
+      "Polaroid Pesta Teh #6"
     ],
     "subtitle": [
-      "Guk... Bukankah itu sudah cukup...?"
+      "「Guk... sudah cukup, kan, guk...?」"
     ],
     "description": [
-      "Foto yang mengabadikan kehidupan sehari-hari para gadis",
-      "pesta teh, tapi… siapa yang mengambil foto-foto ini?"
+      "Foto-foto yang merekam kehidupan sehari-hari para gadis di pesta teh,",
+      "tapi... Siapa sebenarnya yang mengambil foto-foto ini?"
     ],
     "ability": ""
   },
   "206": {
     "name": [
-      "Polaroid NLCH#7"
+      "Polaroid Pesta Teh #7"
     ],
     "subtitle": [
-      "Hehe~♥ Kamu tidak melihat apa-apa kan?"
+      "「Ehehe~♥ Kau tak melihat apa-apa, kan?」"
     ],
     "description": [
-      "Foto yang mengabadikan kehidupan sehari-hari para gadis",
-      "pesta teh, tapi… siapa yang mengambil foto-foto ini?"
+      "Foto-foto yang merekam kehidupan sehari-hari para gadis di pesta teh,",
+      "tapi... Siapa sebenarnya yang mengambil foto-foto ini?"
     ],
     "ability": ""
   },
   "207": {
     "name": [
-      "Polaroid NLCH#8"
+      "Polaroid Pesta Teh #8"
     ],
     "subtitle": [
-      "Ayolah, pose ini seharusnya baik-baik saja, kan?"
+      "「Astaga, pose ini pasti sudah bagus, kan?」"
     ],
     "description": [
-      "Foto yang mengabadikan kehidupan sehari-hari para gadis",
-      "pesta teh, tapi… siapa yang mengambil foto-foto ini?"
+      "Foto-foto yang merekam keseharian para gadis di pesta teh, tapi... Siapa",
+      "sebenarnya yang mengambil foto-foto ini?"
     ],
     "ability": ""
   },
   "208": {
     "name": [
-      "Polaroid NLCH#9"
+      "Polaroid Pesta Teh #9"
     ],
     "subtitle": [
-      "Ada apa dengan ekspresi geli di wajahmu...?"
+      "「Apa-apaan? Wajahmu seperti sedang menertawakan sesuatu...」"
     ],
     "description": [
-      "Foto yang mengabadikan kehidupan sehari-hari para gadis",
-      "pesta teh, tapi… siapa yang mengambil foto-foto ini?"
+      "Foto-foto yang merekam keseharian para gadis di pesta teh, tapi... Siapa",
+      "sebenarnya yang mengambil foto-foto ini?"
     ],
     "ability": ""
   },
   "209": {
     "name": [
-      "Polaroid NLCH#10"
+      "Polaroid Pesta Teh #10"
     ],
     "subtitle": [
-      "Aku tidak bisa...terus bernyanyi lagi...!"
+      "「Aku sudah... tak punya tenaga lagi untuk bernyanyi...!」"
     ],
     "description": [
-      "Foto yang mengabadikan kehidupan sehari-hari para gadis",
-      "pesta teh, tapi… siapa yang mengambil foto-foto ini?"
+      "Foto-foto yang merekam keseharian para gadis di pesta teh, tapi... Siapa",
+      "sebenarnya yang mengambil foto-foto ini?"
     ],
     "ability": ""
   },
   "210": {
     "name": [
-      "Polaroid NLCH#11"
+      "Polaroid Pesta Teh #11"
     ],
     "subtitle": [
-      "Jadi, ini keinginan Tahun Barumu?"
+      "「Jadi, ini keinginan Tahun Barumu?」"
     ],
     "description": [
-      "Foto yang mengabadikan kehidupan sehari-hari para gadis",
-      "pesta teh, tapi… siapa yang mengambil foto-foto ini?"
+      "Foto-foto yang merekam keseharian para gadis di pesta teh, tapi... Siapa",
+      "sebenarnya yang mengambil foto-foto ini?"
     ],
     "ability": ""
   },
   "211": {
     "name": [
-      "Polaroid NLCH#12"
+      "Polaroid Pesta Teh #12"
     ],
     "subtitle": [
-      "Ah, bahkan tehnya pun mulai terasa lebih manis!"
+      "「Ah, teh hitamnya juga mulai terasa manis, ya!」"
     ],
     "description": [
-      "Foto yang mengabadikan kehidupan sehari-hari para gadis",
-      "pesta teh, tapi… siapa yang mengambil foto-foto ini?"
+      "Foto-foto yang merekam keseharian para gadis di pesta teh, tapi... Siapa",
+      "sebenarnya yang mengambil foto-foto ini?"
     ],
     "ability": ""
   },
   "212": {
     "name": [
-      "Polaroid NLCH#13"
+      "Polaroid Pesta Teh #13"
     ],
     "subtitle": [
-      "Ya, ini pekerjaan paruh waktu, jadi aku tidak bisa menahannya..."
+      "「Bagaimanapun juga ini pekerjaan paruh waktu, aku tak bisa berbuat apa-apa padamu…」"
     ],
     "description": [
-      "Foto yang mengabadikan kehidupan sehari-hari para gadis",
-      "pesta teh, tapi… siapa yang mengambil foto-foto ini?"
+      "Foto-foto yang merekam kehidupan sehari-hari para gadis di pesta teh,",
+      "tapi… Siapa sebenarnya yang mengambil foto-foto ini?"
     ],
     "ability": ""
   },
   "213": {
     "name": [
-      "Polaroid NLCH#14"
+      "Polaroid Pesta Teh #14"
     ],
     "subtitle": [
-      "Ya ampun, kamu masuk tanpa mengetuk~"
+      "「Oh, kau masuk tanpa mengetuk pintu ya~」"
     ],
     "description": [
-      "Foto yang mengabadikan kehidupan sehari-hari para gadis",
-      "pesta teh, tapi… siapa yang mengambil foto-foto ini?"
+      "Foto-foto yang merekam kehidupan sehari-hari para gadis di pesta teh.",
+      "Namun, ada sesuatu yang janggal di balik semua gambar ini. Siapa",
+      "sebenarnya yang mengambil foto-foto ini?"
     ],
     "ability": ""
   },
   "214": {
     "name": [
-      "Polaroid NLCH#15"
+      "Polaroid Pesta Teh #15"
     ],
     "subtitle": [
-      "Begitukah...? Gaya pengakuan yang belum pernah saya dengar..."
+      "「Begitukah… Cara pengakuan dosa yang belum pernah kudengar…」"
     ],
     "description": [
-      "Foto yang mengabadikan kehidupan sehari-hari para gadis",
-      "pesta teh, tapi… siapa yang mengambil foto-foto ini?"
+      "Foto-foto yang merekam kehidupan sehari-hari para gadis di pesta teh.",
+      "Namun, ada sesuatu yang janggal di balik semua gambar ini. Siapa",
+      "sebenarnya yang mengambil foto-foto ini?"
     ],
     "ability": ""
   },
   "215": {
     "name": [
-      "Polaroid NLCH#16"
+      "Polaroid Pesta Teh #16"
     ],
     "subtitle": [
-      "Haa... Haa... Tubuhku tak tahan lagi...!"
+      "「Hah… hah… Tubuhku sudah…!」"
     ],
     "description": [
-      "Foto yang mengabadikan kehidupan sehari-hari para gadis",
-      "pesta teh, tapi… siapa yang mengambil foto-foto ini?"
+      "Foto-foto yang merekam kehidupan sehari-hari para gadis di pesta teh.",
+      "Namun, ada sesuatu yang janggal di balik semua gambar ini. Siapa",
+      "sebenarnya yang mengambil foto-foto ini?"
     ],
     "ability": ""
   },
   "216": {
     "name": [
-      "Polaroid NLCH#17"
+      "Polaroid Pesta Teh #17"
     ],
     "subtitle": [
-      "Ya Tuhan... maafkan aku..."
+      "「Ah, Tuhan… mohon ampuni aku…」"
     ],
     "description": [
-      "Foto yang mengabadikan kehidupan sehari-hari para gadis",
-      "pesta teh, tapi… siapa yang mengambil foto-foto ini?"
+      "Foto-foto yang merekam kehidupan sehari-hari para gadis di pesta teh.",
+      "Namun, ada sesuatu yang janggal di balik semua gambar ini. Siapa",
+      "sebenarnya yang mengambil foto-foto ini?"
     ],
     "ability": ""
   },
   "217": {
     "name": [
-      "Polaroid NLCH#18"
+      "Polaroid Pesta Teh #18"
     ],
     "subtitle": [
-      "Guk... Bukankah itu sudah cukup...?"
+      "「Guk… sudah cukup, kan, guk…」"
     ],
     "description": [
-      "Foto yang mengabadikan kehidupan sehari-hari para gadis",
-      "pesta teh, tapi… siapa yang mengambil foto-foto ini?"
+      "Foto-foto yang merekam kehidupan sehari-hari para gadis di pesta teh,",
+      "tapi... Siapa sebenarnya yang mengambil foto-foto ini?"
     ],
     "ability": ""
   },
   "218": {
     "name": [
-      "Polaroid NLCH#19"
+      "Polaroid Pesta Teh #19"
     ],
     "subtitle": [
-      "...Meong?"
+      "「……Meong?」"
     ],
     "description": [
-      "Foto yang mengabadikan kehidupan sehari-hari para gadis",
-      "pesta teh, tapi… siapa yang mengambil foto-foto ini?"
+      "Foto-foto yang merekam kehidupan sehari-hari para gadis di pesta teh,",
+      "tapi... Siapa sebenarnya yang mengambil foto-foto ini?"
     ],
     "ability": ""
   },
   "219": {
     "name": [
-      "Polaroid NLCH#20"
+      "Polaroid Pesta Teh #20"
     ],
     "subtitle": [
-      "...Hah? Masih belum dibersihkan?"
+      "「…Hah? Belum bersih juga, ya?」"
     ],
     "description": [
-      "Foto yang mengabadikan kehidupan sehari-hari para gadis",
-      "pesta teh, tapi… siapa yang mengambil foto-foto ini?"
+      "Foto-foto yang merekam kehidupan sehari-hari para gadis di pesta teh,",
+      "tapi... Siapa sebenarnya yang mengambil foto-foto ini?"
     ],
     "ability": ""
   },
   "220": {
     "name": [
-      "Polaroid NLCH#21"
+      "Polaroid Pesta Teh #21"
     ],
     "subtitle": [
-      "Haa.. Ini lagu ke 11.. Cukup gak?"
+      "「Hah… ini lagu ke-11… sudah cukup, kan?」"
     ],
     "description": [
-      "Foto yang mengabadikan kehidupan sehari-hari para gadis",
-      "pesta teh, tapi… siapa yang mengambil foto-foto ini?"
+      "Foto-foto yang merekam kehidupan sehari-hari para gadis di pesta teh,",
+      "tapi... Siapa sebenarnya yang mengambil foto-foto ini?"
     ],
     "ability": ""
   },
   "221": {
     "name": [
-      "Polaroid NLCH#22"
+      "Polaroid Pesta Teh #22"
     ],
     "subtitle": [
-      "Mengapa tatapannya terasa lebih panas...?"
+      "「Kenapa rasanya tatapan ini semakin membara…」"
     ],
     "description": [
-      "Foto yang mengabadikan kehidupan sehari-hari para gadis",
-      "pesta teh, tapi… siapa yang mengambil foto-foto ini?"
+      "Foto-foto yang merekam kehidupan sehari-hari para gadis di pesta teh,",
+      "tapi… Siapa sebenarnya yang mengambil foto-foto ini?"
     ],
     "ability": ""
   },
   "222": {
     "name": [
-      "Polaroid NLCH#23"
+      "Polaroid Pesta Teh #23"
     ],
     "subtitle": [
-      "Keinginan Tahun Barumu langsung terkabul, senang?"
+      "「Harapan Tahun Baru terkabul di hari pertama, senang, kan!?」"
     ],
     "description": [
-      "Foto yang mengabadikan kehidupan sehari-hari para gadis",
-      "pesta teh, tapi… siapa yang mengambil foto-foto ini?"
+      "Foto-foto yang merekam keseharian para gadis di pesta teh, tapi… Siapa",
+      "sebenarnya yang mengambil foto-foto ini?"
     ],
     "ability": ""
   },
   "223": {
     "name": [
-      "Polaroid NLCH#24"
+      "Polaroid Pesta Teh #24"
     ],
     "subtitle": [
-      "Apakah kamu merasakan cinta kelinci~♥"
+      "「Sudahkah kau merasakan cinta dari kelinci itu~♥」"
     ],
     "description": [
-      "Foto yang mengabadikan kehidupan sehari-hari para gadis",
-      "pesta teh, tapi… siapa yang mengambil foto-foto ini?"
+      "Foto-foto yang merekam keseharian para gadis di pesta teh, tapi… Siapa",
+      "sebenarnya yang mengambil foto-foto ini?"
     ],
     "ability": ""
   },
   "224": {
     "name": [
-      "Polaroid NLCH#25"
+      "Polaroid Pesta Teh #25"
     ],
     "subtitle": [
-      "Kelinci aneh telah ditinggalkan..."
+      "「Ada kelinci aneh yang ditinggalkan…」"
     ],
     "description": [
-      "Foto yang mengabadikan kehidupan sehari-hari para gadis",
-      "pesta teh, tapi… siapa yang mengambil foto-foto ini?"
+      "Foto-foto yang merekam keseharian para gadis di pesta teh, tapi… Siapa",
+      "sebenarnya yang mengambil foto-foto ini?"
     ],
     "ability": ""
   },
   "225": {
     "name": [
-      "Polaroid NLCH#26"
+      "Polaroid Pesta Teh #26"
     ],
     "subtitle": [
-      "Hampir tertangkap..."
+      "「Hampir saja aku ketahuan…」"
     ],
     "description": [
-      "Foto yang mengabadikan kehidupan sehari-hari para gadis",
-      "pesta teh, tapi… siapa yang mengambil foto-foto ini?"
+      "Foto-foto yang merekam keseharian para gadis di pesta teh, tapi… Siapa",
+      "sebenarnya yang mengambil foto-foto ini?"
     ],
     "ability": ""
   },
   "226": {
     "name": [
-      "Polaroid NLCH#27"
+      "Polaroid Pesta Teh #27"
     ],
     "subtitle": [
-      "Masuk tanpa mengetuk... apa yang kamu lakukan~♥"
+      "「Masuk tanpa mengetuk… apa yang ingin kau lakukan~♥」"
     ],
     "description": [
-      "Foto yang mengabadikan kehidupan sehari-hari para gadis",
-      "pesta teh, tapi… siapa yang mengambil foto-foto ini?"
+      "Foto-foto yang merekam keseharian para gadis di pesta teh, tapi… Siapa",
+      "sebenarnya yang mengambil foto-foto ini?"
     ],
     "ability": ""
   },
   "227": {
     "name": [
-      "Polaroid NLCH#28"
+      "Polaroid Pesta Teh #28"
     ],
     "subtitle": [
-      "Aneh... Sepertinya saya tidak bisa mengencangkannya..."
+      "「Aneh sekali… tidak bisa diikat…」"
     ],
     "description": [
-      "Foto yang mengabadikan kehidupan sehari-hari para gadis",
-      "pesta teh, tapi… siapa yang mengambil foto-foto ini?"
+      "Foto-foto yang merekam keseharian para gadis di pesta teh, tapi… Siapa",
+      "sebenarnya yang mengambil foto-foto ini?"
     ],
     "ability": ""
   },
   "228": {
     "name": [
-      "Polaroid NLCH#29"
+      "Polaroid Pesta Teh #29"
     ],
     "subtitle": [
-      "...Tidak ada yang mengawasi di sini, kan?"
+      "「……Tidak ada yang melihat ke sini, kan?」"
     ],
     "description": [
-      "Foto yang mengabadikan kehidupan sehari-hari para gadis",
-      "pesta teh, tapi… siapa yang mengambil foto-foto ini?"
+      "Foto-foto yang merekam keseharian para gadis di pesta teh, tapi… Siapa",
+      "sebenarnya yang mengambil foto-foto ini?"
     ],
     "ability": ""
   },
   "229": {
     "name": [
-      "Polaroid NLCH#30"
+      "Polaroid Pesta Teh #30"
     ],
     "subtitle": [
-      "Hehe~♥ Tidak terjadi apa-apa, oke?"
+      "「Ehehe~♥ Tidak ada yang terjadi, kok?」"
     ],
     "description": [
-      "Foto yang mengabadikan kehidupan sehari-hari para gadis",
-      "pesta teh, tapi… siapa yang mengambil foto-foto ini?"
+      "Foto-foto yang merekam keseharian para gadis di pesta teh, tapi… Siapa",
+      "sebenarnya yang mengambil foto-foto ini?"
     ],
     "ability": ""
   },
   "230": {
     "name": [
-      "Polaroid NLCH#31"
+      "Polaroid Pesta Teh #31"
     ],
     "subtitle": [
-      "Mmm... Tehnya terasa lebih manis sekarang...!"
+      "「Hmm… Teh hitamnya jadi makin manis…！」"
     ],
     "description": [
-      "Foto yang mengabadikan kehidupan sehari-hari para gadis",
-      "pesta teh, tapi… siapa yang mengambil foto-foto ini?"
+      "Foto-foto yang merekam keseharian para gadis di pesta teh, tapi… Siapa",
+      "sebenarnya yang mengambil foto-foto ini?"
     ],
     "ability": ""
   },
   "231": {
     "name": [
-      "Polaroid NLCH#32"
+      "Polaroid Pesta Teh #32"
     ],
     "subtitle": [
-      "Aku tahu itu bagian dari pekerjaan, tapi sekali ini saja, oke?"
+      "「Meski ini bagian dari pekerjaan, aku tak bisa menahannya, tapi hanya kali ini saja, ya?」"
     ],
     "description": [
-      "Foto yang mengabadikan kehidupan sehari-hari para gadis",
-      "pesta teh, tapi… siapa yang mengambil foto-foto ini?"
+      "Foto-foto yang merekam keseharian para gadis di pesta teh, tapi… Siapa",
+      "sebenarnya yang mengambil foto-foto ini?"
     ],
     "ability": ""
   },
   "232": {
     "name": [
-      "Polaroid NLCH#33"
+      "Polaroid Pesta Teh #33"
     ],
     "subtitle": [
-      "T-Tolong jangan menyentuh barang dagangannya sembarangan!"
+      "「Kumohon, jangan sentuh barang-barang ini sembarangan!」"
     ],
     "description": [
-      "Foto yang mengabadikan kehidupan sehari-hari para gadis",
-      "pesta teh, tapi… siapa yang mengambil foto-foto ini?"
+      "Foto-foto yang merekam keseharian para gadis di pesta teh, tapi... Siapa",
+      "sebenarnya yang mengambil foto-foto ini?"
     ],
     "ability": ""
   },
   "233": {
     "name": [
-      "Polaroid NLCH#34"
+      "Polaroid Pesta Teh #34"
     ],
     "subtitle": [
-      "Kunyah, kunyah... Biasa saja, menurutku..."
+      "「Kunyah kunyah kunyah... Lumayanlah...」"
     ],
     "description": [
-      "Foto yang mengabadikan kehidupan sehari-hari para gadis",
-      "pesta teh, tapi… siapa yang mengambil foto-foto ini?"
+      "Foto-foto yang merekam keseharian para gadis di pesta teh, tapi... Siapa",
+      "sebenarnya yang mengambil foto-foto ini? Misteri menyelimuti setiap",
+      "potret yang tertangkap dalam bingkai kenangan ini."
     ],
     "ability": ""
   },
   "234": {
     "name": [
-      "Polaroid NLCH#35"
+      "Polaroid Pesta Teh #35"
     ],
     "subtitle": [
-      "Menguasai? Tolong jangan menggodaku di saat seperti ini..."
+      "「Tuan? Kumohon, jangan menggodaku di saat seperti ini...」"
     ],
     "description": [
-      "Foto yang mengabadikan kehidupan sehari-hari para gadis",
-      "pesta teh, tapi… siapa yang mengambil foto-foto ini?"
+      "Foto-foto yang merekam keseharian para gadis di pesta teh, tapi... Siapa",
+      "sebenarnya yang mengambil foto-foto ini? Misteri menyelimuti setiap",
+      "potret yang tertangkap dalam bingkai kenangan ini."
     ],
     "ability": ""
   },
   "235": {
     "name": [
-      "Album Koleksi Polaroid"
+      "Koleksi Polaroid Pesta Teh"
     ],
+    "beIndependent": true,
     "subtitle": [
-      "Gadis yang lembut dan menggemaskan♥ Aku ingin membawa mereka semua pulang—!"
+      "「Gadis-gadis lembut dan manis ♥ Aku ingin membawa pulang",
+"setiap fotonya—!」"
     ],
     "description": [
-      "Album foto yang dibuat khusus untuk mengumpulkan foto-foto gadis cantik.",
-      "Membukanya mengeluarkan aroma samar teh hitam..."
+      "Album foto yang dibuat khusus untuk mengoleksi potret gadis-gadis manis.",
+      "Saat dibuka, aroma teh hitam yang lembut akan tercium dan membawa",
+      "kenangan indah pesta teh bersama mereka kembali ke ingatanmu."
     ],
     "ability": [
-      "Polaroid yang Dikumpulkan: \\c[6]${QJ.MPMZ.tl.checkPolaroidCount()}\\c[0]/35"
+      "Jumlah Koleksi Polaroid: \\c[6]${QJ.MPMZ.tl.checkPolaroidCount()}\\c[0]/35"
     ]
   },
   "236": {
     "name": [
-      "Album Koleksi Polaroid"
+      "Koleksi Polaroid Pesta Teh"
     ],
+    "beIndependent": true,
     "subtitle": [
-      "Gadis yang lembut dan menggemaskan♥ Aku ingin membawa mereka semua pulang—!"
+      "「Gadis-gadis lembut dan manis ♥ Aku ingin membawa pulang",
+"setiap fotonya—!」"
     ],
     "description": [
-      "Album foto yang dibuat khusus untuk mengumpulkan foto-foto gadis cantik.",
-      "Membukanya mengeluarkan aroma samar teh hitam..."
+      "Album yang dibuat khusus untuk mengoleksi potret gadis-gadis manis. Saat",
+      "dibuka, aroma teh hitam yang lembut akan tercium dan membawa kenangan",
+      "indah pesta teh bersama mereka kembali ke ingatanmu."
     ],
     "ability": [
-      "Koleksi lengkap! Keberuntungan meningkat secara permanen!"
+      "Koleksi lengkap! Keberuntungan meningkat selamanya!"
+    ]
+  },
+  "240": {
+    "name": [
+      "Nasi Kari"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "241": {
+    "name": [
+      "Pai Apel"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "242": {
+    "name": [
+      "Apel Panggang"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "243": {
+    "name": [
+      "Kerang Tumis"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "244": {
+    "name": [
+      "Ikan Bakar"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "245": {
+    "name": [
+      "Jamur Tumis"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "246": {
+    "name": [
+      "Sate Daging"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "247": {
+    "name": [
+      "Onigiri"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "248": {
+    "name": [
+      "Nasi Kari Daging"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "249": {
+    "name": [
+      "Semur Daging"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "250": {
+    "name": [
+      "Sup Irisan Daging"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "251": {
+    "name": [
+      "Daging Panggang Inggris"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "252": {
+    "name": [
+      "Onigiri Daging"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "253": {
+    "name": [
+      "Jeli Slime"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "254": {
+    "name": [
+      "Jeli Kegelapan"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "255": {
+    "name": [
+      "Jeli Api Membara"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "256": {
+    "name": [
+      "Jeli Pelangi?"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "257": {
+    "name": [
+      "Pisang Bakar"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "258": {
+    "name": [
+      "Sup Borsch"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "259": {
+    "name": [
+      "Sate Gurita Bakar"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "260": {
+    "name": [
+      "Salad Sayur"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "261": {
+    "name": [
+      "Kentang Tumbuk"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "262": {
+    "name": [
+      "Sup Irisan Lobak dan Jamur"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "263": {
+    "name": [
+      "Pasta"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "264": {
+    "name": [
+      "Pasta Tomat"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "265": {
+    "name": [
+      "Pasta Seafood"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "266": {
+    "name": [
+      "Nasi Kari Telur"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "267": {
+    "name": [
+      "Omurice"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "268": {
+    "name": [
+      "Omurice Tomat"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "269": {
+    "name": [
+      "Nasi Rebus Seafood"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "270": {
+    "name": [
+      "Minuman Nanas"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "271": {
+    "name": [
+      "Champuru Okinawa"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "272": {
+    "name": [
+      "Bucket Ayam Goreng"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "273": {
+    "name": [
+      "Paha Ayam Goreng"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "274": {
+    "name": [
+      "Onigiri Tempura"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "275": {
+    "name": [
+      "Lobster Panggang"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "276": {
+    "name": [
+      "Kepiting Rebus"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "277": {
+    "name": [
+      "Kepala Tuna"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "278": {
+    "name": [
+      "Takoyaki"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "279": {
+    "name": [
+      "Daging Burger"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "280": {
+    "name": [
+      "Kentang Tumbuk Pedas"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "281": {
+    "name": [
+      "Sup Cabai"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "282": {
+    "name": [
+      "Permen Gummy Monster Air"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "283": {
+    "name": [
+      "Es Serut Monster Air"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "284": {
+    "name": [
+      "Permen Gummy Monster Air Merah"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "285": {
+    "name": [
+      "Panekuk Panggang"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "286": {
+    "name": [
+      "Panekuk Stroberi Goreng"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "287": {
+    "name": [
+      "Sup Tomat"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "288": {
+    "name": [
+      "Stroberi yang Sudah Dicuci"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "289": {
+    "name": [
+      "Onigiri Ayam Asap"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "290": {
+    "name": [
+      "Nasi Kari Ayam"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "291": {
+    "name": [
+      "Tusuk Sate Lobak Panggang"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "292": {
+    "name": [
+      "Sushi Sakabamba Ikan"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "293": {
+    "name": [
+      "Sushi Sakabamba Udang"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "294": {
+    "name": [
+      "Sushi Sakabamba Daging"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "295": {
+    "name": [
+      "Bebek Panggang Lava"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "296": {
+    "name": [
+      "Onigiri Hiu"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "298": {
+    "name": [
+      "Ramen Neraka"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "300": {
+    "name": [
+      "Mi Instan Panas Mengepul"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
     ]
   },
   "311": {
     "name": [
-      "Batu Bercahaya Biru"
+      "Lapis Lazuli Biru"
     ],
     "subtitle": "",
     "description": [
-      "Batu permata biru dengan kilau menawan",
-      "Meskipun kurang memiliki nilai praktis, seseorang mungkin membayar mahal untuk itu…",
-      "atau punya niat lain?"
+      "Permata biru memancarkan cahaya memikat, tanpa nilai guna praktis.",
+      "Mungkin ada yang mau membayar mahal untuknya di suatu sudut. Atau,",
+      "mungkinkah permata ini menyimpan motif tersembunyi?"
     ],
     "ability": ""
   },
   "312": {
     "name": [
-      "Gel Mana Kecil"
+      "Jeli Mana Kecil"
     ],
     "subtitle": "",
     "description": [
-      "Zat seperti jeli yang terbentuk murni dari mana yang terkondensasi",
-      "Ini bisa dimakan, tapi rasanya sangat bervariasi tergantung kemampuan magis seseorang",
-      "Kegunaan utamanya adalah sebagai bahan habis pakai untuk sihir"
+      "Zat seperti jeli terbentuk dari mana murni yang mengeras. Bisa dimakan,",
+      "rasanya bervariasi tergantung keahlian sihir. Paling umum dipakai sebagai",
+      "bahan habis pakai merapal sihir."
     ],
     "ability": ""
   },
   "314": {
     "name": [
-      "Batu Belah Ketupat Merah"
+      "Batu Berlian Api"
     ],
     "subtitle": "",
     "description": [
-      "Batu permata merah dengan kilau menawan",
-      "Meskipun kurang memiliki nilai praktis, seseorang mungkin membayar mahal untuk itu…",
-      "atau punya niat lain?"
+      "Permata merah memancarkan cahaya memikat, tanpa nilai guna praktis.",
+      "Mungkin ada yang mau membayar mahal untuknya di suatu sudut. Atau,",
+      "mungkinkah permata ini menyimpan motif tersembunyi?"
+    ],
+    "ability": ""
+  },
+  "315": {
+    "name": [
+      "Surat Tilang Kucing"
+    ],
+    "subtitle": "",
+    "description": [
+      "Surat tilang diterima setelah dipukuli karena ambil barang tanpa izin.",
+      "Aku memang memulai, tapi uangku juga disita paksa setelahnya. Cara",
+      "penanganan seperti ini sungguh biadab dan tak manusiawi."
+    ],
+    "ability": ""
+  },
+  "320": {
+    "name": [
+      "Batu Neraka"
+    ],
+    "subtitle": [
+      "「Petualang pertama yang berhasil menambang dan membawanya ke dunia luar bernama Kyurame.",
+      "Karena terdengar bodoh, dia menolak menamai mineral itu dengan namanya sendiri—」"
+    ],
+    "description": [
+      "Mineral khusus yang hanya ditemukan di kedalaman jurang. Mengandung",
+      "kekuatan sihir yang membara, namun materinya luar biasa keras. Hanya",
+      "dengan metode khusus, ia bisa berhasil ditambang dan diolah."
     ],
     "ability": ""
   }

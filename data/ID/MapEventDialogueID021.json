@@ -1,117 +1,349 @@
-﻿{
+{
   "1": {
     "0": [
-      "Mmm, sepertinya aku tidak bisa tidur..."
+      "Uhm, agak tidak bisa tidur..."
     ],
     "1": [
-      "Perutku sakit... Apa itu gangguan pencernaan?",
-      "Mungkin makan malam itu terlalu banyak..."
+      "Perutku sakit sekali... Apa ini karena pencernaan yang buruk?",
+      "Ternyata makan malam tadi terlalu berat, ya..."
     ],
     "2": [
-      "Ah, aku tiba-tiba terbangun...!"
+      "Hah, tiba-tiba saja aku terbangun...!"
     ],
     "3": [
-      "Ini masih tengah malam.",
-      "Saya bisa tidur lebih lama...\\w[30].\\w[30].\\w[30].",
-      "Haruskah aku memeriksa adikku?"
+      "Ini masih tengah malam, aku bisa tidur lagi \\w[30].\\w[30].\\w[30].",
+      "Apa aku harus menjenguk \\str[120]?"
     ],
     "4": [
-      "Ke Kamar \\str[120]",
-      "Tidurlah"
+      "Pergi ke kamar \\str[120]",
+      "Lebih baik tidur saja."
     ],
     "5": [
-      "Hanya akan tidur sampai pagi...?"
+      "Apa aku akan tidur sampai pagi begini?"
     ],
     "6": [
-      "Tidur",
-      "Tunggu"
+      "Tidur.",
+      "Tunggu sebentar lagi."
     ],
     "7": [
-      "Ahhhhhhhhhhhh - !!?"
+      "「Uwoooohhhhhh——!!?」"
     ],
     "8": [
-      "A-Apa? Ah, itu hanya mimpi buruk..."
+      "A-apa-apaan, ternyata hanya mimpi buruk saja..."
     ],
     "9": [
-      "Itu membuatku sangat takut...",
-      "Saya rasa saya melihat versi \\str[120] yang sangat menakutkan."
+      "Aku terkejut sekali... Rasanya aku melihat \\str[120] yang sangat mengerikan."
     ],
     "10": [
-      "…Saya harus memeriksa \\str[120].",
-      "Bagaimana jika mimpi itu—"
+      "...Aku harus pergi melihat keadaan \\str[120].",
+      "Bagaimana jika mimpi tadi—"
     ],
     "11": [
-      "Ya, mimpi itu sangat menakutkan...",
-      "Lebih baik istirahat lebih awal..."
+      "Benar, aku baru saja mengalami mimpi yang begitu mengerikan...",
+      "Lebih baik aku segera beristirahat..."
     ]
   },
   "2": {
     "0": [
-      "\\c[10]—Permintaan pembaruan data terdeteksi dari versi \\str[1].  \\w[60]",
-      "Apakah Anda ingin melakukan pembaruan otomatis sekarang?"
+      "\\c[10]——Terdeteksi permintaan pembaruan data dari versi \\str[1]. \\w[60]",
+      "Apakah akan melakukan pembaruan otomatis sekarang?"
     ],
     "1": [
       "Mulai Pembaruan",
-      "Sudahlah"
+      "Lupakan saja."
     ],
     "2": [
-      "...Apakah ini sudah pagi?",
-      "Aku merasa seperti sedang bermimpi",
-      "adik kecilku,",
-      "tapi aku tidak dapat mengingatnya..."
+      "…Sudah pagi? Aku merasa seperti bermimpi tentang \\str[120]…",
+      "Tapi aku tak bisa mengingatnya lagi…"
     ],
     "3": [
-      "...Apakah ini sudah pagi?",
-      "Aku tidak merasa tidurku nyenyak..."
+      "Sudah pagi? Rasanya aku tidak tidur nyenyak…"
     ],
     "4": [
-      "Ah, apakah ini sudah pagi? Saya tidur nyenyak."
+      "Ah, sudah pagi? Tidurku nyenyak sekali."
     ],
     "5": [
-      "Hari ini menyenangkan...\\w[45]ya?",
-      "Terasa sinar matahari terlalu terik?"
+      "Cuaca hari ini bagus… \\w[45]? Rasanya sinar matahari terlalu terik?"
     ],
     "6": [
-      "Ini hari yang menyenangkan hari ini."
+      "Cuaca hari ini bagus."
     ],
     "7": [
-      "Cuacanya tidak terlihat bagus hari ini."
+      "Cuaca sepertinya tidak begitu bagus."
     ],
     "8": [
-      "Apakah sedang hujan?",
-      "Saya harap itu tidak akan mempengaruhi petualangan kita..."
+      "Hujan? Kuharap ini tidak akan mengganggu petualanganku…"
     ],
     "9": [
-      "Sudah beberapa hari tidak memeriksa adikku…",
-      "Sepertinya aku harus mampir hari ini."
+      "Sudah beberapa hari aku tidak menjenguk \\str[120],",
+      "Hari ini, aku harus menjenguknya…"
     ],
     "10": [
-      "Baiklah, aku bangun. Apa rencananya hari ini—"
+      "Sudah bangun. Apa yang harus kulakukan selanjutnya?"
     ],
     "11": [
-      "Ke Kamar \\str[120]",
-      "Keluar Sekarang"
+      "Jenguk \\str[120]",
+      "Segera berangkat"
     ],
     "12": [
-      "Oke, mari kita periksa \\str[120]!"
+      "Baik, ayo kita lihat keadaan \\str[120]!"
     ],
     "13": [
-      "Oke, waktunya membereskan semuanya",
-      "dan pergi berpetualang!"
+      "Baik, ayo bersiap dan segera berangkat untuk berpetualang!"
+    ]
+  },
+  "3": {
+    "0": [
+      "Pikiranku perlahan jernih, aku akhirnya sadar tidak tidur di kamar",
+      "biasa, Dan sesuatu yang hangat dan lembut menempel erat padaku,",
+      "mengeluarkan napas teratur yang lembut."
+    ],
+    "1": [
+      "Itu \\str[120]…",
+      "Ingatan mulai kembali—",
+      "Ya, semalam kita terus bermesraan hingga larut malam..."
+    ],
+    "2": [
+      "Melihat wajah tidurnya yang tanpa pertahanan, bahkan masih",
+      "menyisakan rona merah sisa gairah, Aku tak kuasa mengulurkan tangan,",
+      "ujung jariku lembut menyusup ke helai rambutnya yang sehalus sutra."
+    ],
+    "3": [
+      "\\nl< >「Ugh... Mmm...♥」"
+    ],
+    "4": [
+      "Seolah \\str[120] merasakan sentuhan lembut itu, ia mendesah pelan penuh",
+      "kepuasan, Tubuhnya tanpa sadar bergeser mendekat ke arah telapak",
+      "tanganku."
+    ],
+    "5": [
+      "「Sudah pagi, lho. Apa kau bisa bangun?」"
+    ],
+    "6": [
+      "Aku perlahan mendorong bahunya, mencoba membangunkannya dari tidur."
+    ],
+    "6.5": [
+      "\\nl< >「...............Mmm~~」"
+    ],
+    "7": [
+      "Bulu mata panjangnya bergetar beberapa kali, akhirnya ia perlahan",
+      "membuka mata. Awalnya ia menatap kosong dengan sedikit kebingungan,",
+      "Lalu memiringkan kepala menatapku yang begitu dekat, pupil matanya",
+      "penuh kekacauan khas orang baru bangun tidur."
+    ],
+    "8": [
+      "\\nl< >「Eh... \\str[121]...? \\w[150]",
+      "Kenapa... kau juga di ranjang...?」"
+    ],
+    "9": [
+      "Otaknya seolah belum berhasil menyala, ia memiringkan kepala,",
+      "menatapku dengan tatapan polos untuk waktu yang lama."
+    ],
+    "10": [
+      "Hingga kepingan ingatan semalam yang terputus-putus kembali tersusun",
+      "utuh, Barulah pipinya mulai merona merah dengan kecepatan yang",
+      "terlihat jelas."
+    ],
+    "11": [
+      "\\nl< >「Ugh... Uwu...♥ \\w[120]",
+      "S-selamat pagi... \\str[121]... \\w[120]」",
+      "「Tadi malam... itu... terima kasih...」"
+    ],
+    "12": [
+      "Benar-benar tak tahu harus bagaimana menghadapi situasi memalukan",
+      "ini, dia hanya bisa menunduk, Mengucapkan terima kasih yang agak",
+      "canggung dengan suara pelan."
+    ],
+    "13": [
+      "Suasana menjadi canggung dan tegang.",
+      "Kami tanpa kata, saling membelakangi, diam-diam mengenakan pakaian,",
+      "lalu menjaga semacam pengertian yang tak terlukiskan, Bersama-sama",
+      "masuk ke kamar mandi."
+    ],
+    "14": [
+      "\\nl< >「……Nyan~♥ \\w[120]",
+      "\\str[121]... Jangan... di sana...」"
+    ],
+    "15": [
+      "\\str[120] hanya mengeluarkan gumaman tak jelas, lalu mengeratkan bantal dan",
+      "membenamkan wajahnya lebih dalam."
+    ],
+    "16": [
+      "Meski aku penasaran mimpi indah apa yang sedang \\str[120] alami, tapi karena \\str[120]",
+      "masih tidur begitu pulas, Lebih baik jangan memaksanya bangun",
+      "lagi..."
+    ],
+    "17": [
+      "Aktivitas tadi malam masih terlalu berat bagi \\str[120],",
+      "Biarkan dia tidur lebih lama lagi..."
+    ],
+    "18": [
+      "Aku menahan napas, dengan lembut menyingkirkan lengannya yang masih",
+      "melingkariku, Tanpa menimbulkan suara sedikit pun, aku meninggalkan",
+      "ranjang yang hangat."
+    ],
+    "19": [
+      "Terakhir, aku melirik wajah sampingnya yang sedikit pucat namun",
+      "tenang dalam cahaya pagi, Aku diam-diam keluar dari kamar, dan",
+      "menutup pintu dengan pelan."
+    ],
+    "20": [
+      "Melihat wajah tidurnya yang tanpa pertahanan, meski aku tahu dia",
+      "butuh istirahat, Namun ketenangan khas pagi ini dan aroma tubuhnya",
+      "yang terpancar, terus-menerus memprovokasi akal sehatku."
+    ],
+    "21": [
+      "Awalnya hanya ingin mengelus kepalanya, namun ujung jariku tanpa",
+      "sadar perlahan meluncur menyusuri lehernya yang ramping. Dari bahu",
+      "yang lembut hingga pinggang yang sedikit melengkung, aku merasakan",
+      "setiap inci tekstur kulitnya dengan rakus."
+    ],
+    "22": [
+      "\\nl< >「...Hngh...♥ \\w[180]",
+      "Ugh... Ahh...♥」"
+    ],
+    "23": [
+      "Meski masih terlelap, tubuhnya yang baru saja melepaskan masa",
+      "remajanya sudah bereaksi pada sentuhanku, Merasakan kehangatan dari",
+      "ujung jariku, ia mengeluarkan beberapa erangan manja tanpa sadar."
+    ],
+    "24": [
+      "...Tidak bisa! Apa yang kupikirkan ini!",
+      "Bagaimana bisa aku melakukan hal seperti ini pada \\str[120] di pagi buta...",
+      "Lebih baik segera bangun!"
+    ],
+    "25": [
+      "\\nl< >「Colek... colek...」"
+    ],
+    "26": [
+      "Kesadaranku masih mengambang di batas kekacauan,",
+      "Saat itu, bisikan renyah dan lembut terdengar di telingaku, disertai",
+      "sentuhan terputus-putus di pipiku."
+    ],
+    "27": [
+      "\\nl< >「Colek... colek... \\w[150]",
+      "\\str[121], benar-benar tidak bisa dibangunkan ya...」"
+    ],
+    "28": [
+      "Sepertinya ada seseorang di sampingku yang tak henti-hentinya",
+      "menyentuh dan mengusap wajahku."
+    ],
+    "29": [
+      "「Jepit... sekarang hidungmu dijepit ya... \\w[150]",
+      "\\str[121] bisa bertahan berapa detik ya~?」"
+    ],
+    "29.2": [
+      "Napas seketika menjadi sulit.",
+      "Aku bisa merasakan orang ini menjepit cuping hidungku dengan dua",
+      "jari, Bahkan aku bisa mendengar napasnya yang terengah-engah menahan",
+      "tawa."
+    ],
+    "29.4": [
+      "............Itu \\str[120], kan?",
+      "Ingatan mulai kembali—",
+      "Ya, tadi malam kita akhirnya tidur bersama."
+    ],
+    "30": [
+      "Meski terkejut \\str[120] bangun lebih dulu dariku,",
+      "Namun, menghadapi keusilan lucu ini, aku tak berniat langsung",
+      "membongkarnya."
+    ],
+    "31": [
+      "Diam-diam, aku menarik napas dalam-dalam dengan mulut yang tak",
+      "terikat, Lalu memusatkan seluruh semangat di hidung, menutup bibir,",
+      "dan menyemburkan udara!"
+    ],
+    "32": [
+      "\\{\\nl< >「Uwaaa~~! \\str[121] Meledak~~!?」",
+      "\\w[90]"
+    ],
+    "33": [
+      "Dampak kuat itu, seperti pompa udara kecil, langsung mendorong",
+      "jarinya menjauh. \\str[120], yang tak menduga ini, memekik kaget sekaligus",
+      "gembira."
+    ],
+    "34": [
+      "\\nl< >「...Tapi belum bangun juga ya~ \\w[120]",
+      "Aneh, tadi itu bersin ya?」"
+    ],
+    "35": [
+      "\\nl< >「Colek-colek... colek-colek... \\w[150]",
+      "\\str[121], tak bangun-bangun~」"
+    ],
+    "36": [
+      "Melihatku masih memejamkan mata, tak bereaksi, dia mendekat dengan",
+      "kesal, Jarinya kembali tak tenang, mencoba di tepi bibirku."
+    ],
+    "37": [
+      "「Gaaaww~~~~!!」 \\w[60]\\^"
+    ],
+    "38": [
+      "Saat ujung jarinya kembali mendekati mulutku, dalam sekejap,",
+      "Aku menangkap waktu, tiba-tiba membuka mulut dan memasukkan seluruh",
+      "jarinya."
+    ],
+    "39": [
+      "\\{\\nl< >「Uweeeeee~~!? Digigit— \\w[90]",
+      "Bukan, dijilat~~!」"
+    ],
+    "40": [
+      "\\nl< >「\\str[121]! Kau sebenarnya sudah bangun, kan~!\\w[90]",
+      "Cepat lepaskan tanganku~~!」"
+    ],
+    "41": [
+      "\\str[120] yang diserang balik untuk kedua kalinya, tak bisa menahan diri untuk",
+      "berteriak lagi, Sekarang, dia jelas sudah menyadari bahwa aku telah",
+      "mempermainkannya dari awal sampai akhir."
+    ],
+    "42": [
+      "「Gadis tak sopan! Berani-beraninya kau menerobos wilayah naga",
+      "raksasa, Bersiaplah untuk dimakan oleh naga jahat!」"
+    ],
+    "43": [
+      "Merasa waktunya sudah tepat, aku tiba-tiba membuka mataku,",
+      "Meskipun masih menghisap jarinya, aku sengaja mengeraskan suaraku,",
+      "mengeluarkan geraman rendah seperti monster."
+    ],
+    "44": [
+      "\\nl< >「Hal seperti itu, aku sama sekali tidak takut~!",
+      "Naga jahat \\str[121] tadi masih tidur pulas sekali...!」"
+    ],
+    "45": [
+      "\\str[120] terus menggeliat dan meronta di dalam selimut karena sensasi licin",
+      "dan geli dari jarinya. Dalam tawa renyah dan puasnya, sama sekali",
+      "tidak ada sedikit pun rasa takut."
+    ],
+    "46": [
+      "Penampilan tanpa pertahanan, pasrah untuk diperlakukan sesuka hati",
+      "ini, membuat hasrat yang terpendam semalaman membengkak hingga",
+      "puncaknya saat ini——"
+    ],
+    "47": [
+      "「Uwaoo——! Naga jahat beraksi!」"
+    ],
+    "48": [
+      "\\nl< >「Hahahahaha... Geli sekali!",
+      "\\str[121]... Hentikanlah!",
+      "Jangan di sana... Ha, haha!」"
+    ],
+    "49": [
+      "…Hari ini juga akan menjadi hari yang damai dan tenang, kan.",
+      "Aku terus menjilati sisi leher dan belakang telinga \\str[120] yang memerah",
+      "panas karena malu. Mendengar tawanya yang menawan, aku berdoa tulus",
+      "agar hidup seperti ini bisa terus selamanya..."
     ]
   },
   "4": {
     "0": [
-      "...Hah!?\\w[60]...Tunggu, \\w[60]",
-      "apakah ini sudah pagi...?"
+      "「...Hah!? \\w[60]...Eh, \\w[60]...Sudah pagi...?」"
     ],
     "1": [
-      "Kepalaku terasa pusing...",
-      "Apa aku baru saja tertidur seperti itu tadi malam...?"
+      "Kepalaku terasa pusing... Apa aku tertidur begitu saja tadi",
+      "malam...?"
     ],
     "2": [
-      "Saya tidak ingat apa yang terjadi tadi malam... \\w[90]",
-      "Oh baiklah, aku mungkin terlalu kelelahan."
+      "「Aku tidak ingat apa yang terjadi tadi malam... \\w[90]",
+      "Sudahlah, mungkin aku hanya terlalu lelah.」"
     ]
   }
 }

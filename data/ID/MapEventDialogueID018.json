@@ -1,0 +1,46 @@
+{
+  "2": {
+    "0": [
+      "（...Ada apa ini? Matahari begitu menyengat!?",
+      "Dan rasanya sakit sekali di kulitku!!）"
+    ]
+  },
+  "4": {
+    "0": [
+      "Ini masih terlalu pagi,",
+      "Apa aku harus menyerah menjelajah dan pulang?"
+    ],
+    "1": [
+      "Matahari masih belum terbenam,",
+      "Apa aku harus menyerah menjelajah dan pulang?"
+    ],
+    "2": [
+      "Hari ini cuacanya sangat panas,",
+      "Lebih baik aku pulang lebih awal...?"
+    ],
+    "3": [
+      "Pulang",
+      "Tunggu sebentar lagi"
+    ]
+  },
+  "16": {
+    "0": [
+      "（...Ada apa ini? Matahari begitu menyengat!?",
+      "Dan rasanya sakit sekali di kulitku!!）"
+    ]
+  },
+  "17": {
+    "0": [
+      "Ada selembar kertas lagi di dalamnya... \\w[30]",
+      "Ada tulisan yang begitu buram, hampir tak terbaca—"
+    ],
+    "1": [
+      "\\py[24]「Di dalamnya terkubur masa mudaku...」",
+      "\\w[60]"
+    ],
+    "2": [
+      "（Sangat...",
+      "Perasaan yang berat sekali...）"
+    ]
+  }
+}

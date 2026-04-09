@@ -1,621 +1,770 @@
-﻿{
+{
   "2": {
     "0": [
-      "Sudah waktunya untuk berangkat…"
+      "「Sudah waktunya berangkat...」"
     ],
     "1": [
-      "Baiklah, aku berangkat."
+      "「Baiklah, aku pergi dulu.」"
     ],
     "2": [
-      "Oke, semuanya siap!"
+      "「Baik, persiapan selesai!」"
     ],
     "3": [
-      "\\nl< >Hati-hati di jalan, \\str[121]!"
+      "\\nl< >「Hati-hati di jalan, \\str[121]!」"
     ],
     "4": [
-      "\\nl< >Cuacanya tidak terlalu bagus hari ini,",
-      "jadi hati-hati ya…"
+      "\\nl< >「Cuaca hari ini sepertinya tidak begitu bagus,",
+      "hati-hati ya...」"
     ],
     "5": [
-      "\\nl< >Jika Anda merasa tidak bisa bertahan,",
-      "pastikan untuk segera kembali!"
+      "\\nl< >「Jika merasa tak sanggup, pastikan segera kembali!」"
     ],
     "6": [
-      "Melihat \\str[120] terlihat penuh energi di pagi hari,",
-      "pemandangan langka seperti itu langsung membuatku merasa sangat terharu."
+      "Melihat \\str[120] yang penuh semangat di pagi hari,",
+      "pemandangan asing ini membuatku sejenak tenggelam dalam haru yang",
+      "mendalam."
     ],
     "7": [
-      "Menekan keinginan untuk memeluk erat \\str[120],",
-      "Aku hanya balas tersenyum padanya."
+      "Menahan dorongan untuk memeluk erat \\str[120], aku pun tersenyum membalas \\str[120]."
     ],
     "8": [
-      "\\{Saya akan segera kembali!"
+      "「\\{Oh...! Aku pergi sebentar saja!」"
     ],
     "9": [
-      "Baiklah… Bersikaplah baik dan jagalah rumah, oke?"
+      "「Baiklah... Kumohon jaga rumah baik-baik ya!」"
     ],
     "10": [
-      "Saya melambai ke \\str[120] saat meninggalkan rumah,",
-      "mengingatkan diriku sendiri bahwa aku harus bekerja keras lagi hari ini—demi dia!"
+      "Melambaikan tangan pada \\str[120] sambil meninggalkan rumah,",
+      "hari ini pun aku harus terus berjuang demi \\str[120]!"
     ],
     "11": [
-      "\\nl< >Maaf, \\str[121]… \\w[60]",
-      "Aku membuatmu pergi ke tempat berbahaya lagi—"
+      "\\nl< >「Maafkan aku, \\str[121]... \\w[60]",
+      "Kau harus pergi ke tempat berbahaya lagi—」"
     ],
     "12": [
-      "Ini dia lagi. Jangan khawatir, semuanya akan baik-baik saja."
+      "「Kau bicara begitu lagi, jangan khawatir, aku akan baik-baik saja.」"
     ],
     "13": [
-      "\\nl< >Tapi—"
+      "\\nl< >「Tapi—」"
     ],
     "14": [
-      "Saya sudah menjelajahinya berkali-kali,",
-      "dan selama bertahun-tahun labirin itu tetap stabil sepenuhnya,",
-      "jadi tidak apa-apa."
+      "「Sudah berkali-kali aku menjelajahinya,",
+      "labirin itu juga selalu sangat stabil selama beberapa tahun ini,",
+      "jadi tidak masalah.」"
     ],
     "15": [
-      "Baiklah… Bersikaplah baik dan jagalah rumah, oke?"
+      "「Kalau begitu, aku titip rumah padamu, ya!」"
     ],
     "16": [
-      "\\nl< >Oke… tapi hati-hati…"
+      "\\nl< >「Hmm... hati-hati, ya...」"
     ],
     "17": [
-      "Ya. \\str[120]… dia menderita penyakit aneh."
+      "Benar, \\str[120]... dia mengidap penyakit aneh."
     ],
     "18": [
-      "Dia tidak bisa keluar rumah, juga tidak bisa terkena sinar matahari.",
-      "Dan jika dia tidak meminum obat alkimia yang dibuat khusus secara berkala,",
-      "kondisinya seharusnya menjadi semakin tidak stabil…"
+      "Tak bisa keluar rumah, bahkan tak bisa terkena sinar matahari.",
+      "Dan jika tak rutin meminum ramuan alkimia khusus yang diracik,",
+      "Kondisi tubuhnya konon akan semakin tak stabil..."
     ],
     "19": [
-      "Ramuan obat ini bukanlah sesuatu",
-      "Anda cukup membeli di pasar.",
-      "Satu-satunya tempat tersisa di mana aku bisa mengumpulkan semuanya adalah di sana—"
+      "Bahan-bahan yang dibutuhkan untuk membuat ramuan itu pun tak mudah",
+      "didapat di pasar. Kini, satu-satunya tempat yang punya harapan untuk",
+      "mengumpulkan semua bahan itu, hanya di sana---"
     ],
     "20": [
-      "Jadi sebagai keluarganya, tidak peduli berapa kali pun hal itu terjadi,",
-      "Saya harus menjelajah ke tempat itu untuk menemukan cara",
-      "menyembuhkan \\str[120] untuk selamanya."
+      "Maka dari itu, sebagai kakak, berapa kali pun aku harus menyusup ke",
+      "tempat itu, Untuk mencari cara agar \\str[120] bisa sembuh total."
     ]
   },
   "3": {
     "0": [
-      "saya kembali."
+      "「Aku pulang.」"
     ],
     "1": [
-      "\\nl< >\\str[121]? Anda kembali lebih awal hari ini."
+      "\\nl< >「\\str[121]? Kau pulang cepat hari ini?」"
     ],
     "2": [
-      "Ya, aku merasa sedikit lelah hari ini,",
-      "jadi aku tidak memaksakan diri untuk menjelajah…"
+      "「Ya, hari ini aku merasa sedikit lelah,",
+      "tak memaksakan diri untuk menjelajah lagi...」"
     ],
     "3": [
-      "\\nl< >Ini yang… disebut May Sickness, kan?"
+      "\\nl< >「Ini yang namanya... penyakit Mei, kan?」"
     ],
     "4": [
-      "Mungkin…? Tapi sekarang sudah pertengahan musim panas."
+      "Mei...? Sekarang 'kan musim panas yang terik?"
     ],
     "5": [
-      "\\nl< >Saya sering merasakan hal yang sama…",
-      "Saya pikir ini masih siang, tetapi ketika saya bangun,",
-      "\\str[121] sudah membuat makan malam…"
+      "\\nl< >「Aku juga sering merasakan hal seperti itu...",
+      "Kupikir masih siang, tapi saat terbangun \\str[121] sudah menyiapkan makan",
+      "malam...」"
     ],
     "6": [
-      "...Bukankah itu hanya tidur berlebihan?"
+      "...Itu 'kan hanya karena kau suka tidur malas, bukan?"
     ],
     "7": [
-      "\\nl< >Terkadang menyenangkan untuk bersantai, \\str[121].",
-      "Ayo bermain denganku!"
+      "\\nl< >「Sesekali begini juga tak apa, \\str[121], ayo main bersama!」"
     ],
     "8": [
-      "\\nl< >Istirahat yang cukup juga penting,",
-      "jadi berhati-hatilah lain kali."
+      "\\nl< >「Istirahat yang cukup juga penting, lain kali lebih diperhatikan",
+      "ya.」"
     ],
     "9": [
-      "\\nl< >Saya mengerti,",
-      "kalau begitu biarkan aku memijatmu, \\str[121]!"
+      "\\nl< >「Begitu ya,",
+      "Kalau begitu, biar aku pijat \\str[121] sebentar!」"
     ],
     "10": [
-      "Ya, ada banyak waktu—mari kita bersantai dan istirahat hari ini."
+      "Benar, masih banyak waktu, hari ini santai dan istirahatlah dengan",
+      "baik."
     ],
     "11": [
-      "Anda benar, masih banyak waktu—mari kita bersantai dan istirahat hari ini."
+      "Tapi benar juga, masih banyak waktu, hari ini santai dan",
+      "istirahatlah dengan baik."
     ],
     "12": [
-      "l< >Lalu kenapa kamu tidak mencoba tidur siang juga, \\str[121]…",
-      "rasanya enak sekali, tahu?"
+      "l< >「Kalau begitu, \\str[121] juga ikut coba tidur siang yuk...",
+      "Nyaman sekali lho?」"
     ],
     "13": [
-      "Pada akhirnya, saya tidur siang dengan \\str[120] sampai matahari terbenam."
+      "Akhirnya, aku tidur bersama \\str[120] sampai matahari terbenam."
     ],
     "14": [
-      "Saya menghabiskan sepanjang hari bermain game dengan \\str[120]."
+      "Bermain game seharian bersama \\str[120]."
     ],
     "15": [
-      "Saya menghabiskan hari santai dengan \\str[120]."
+      "Menghabiskan siang hari dengan santai bersama \\str[120]."
     ],
     "16": [
-      "\\str[120] dengan antusias memijat saya untuk waktu yang lama,",
-      "dan karena rasanya sangat menyenangkan, saya tertidur…"
+      "\\str[120] memijatku dengan penuh semangat untuk waktu yang lama,",
+      "Karena sangat nyaman, aku pun tertidur..."
     ],
     "17": [
-      "\\nl< >\\str[121]? Kamu pulang pagi-pagi sekali hari ini."
+      "\\nl< >「\\str[121]? Kau pulang lebih awal hari ini?」"
     ],
     "18": [
-      "\\nl< >Selamat datang kembali, \\str[121]."
+      "\\nl< >「Selamat datang kembali, \\str[121].」"
     ],
     "19": [
-      "Hehehe, hai \\str[120]—",
-      "coba tebak apa yang kubawa pulang hari ini—!"
+      "「Hee hee hee, \\str[120],",
+      "Coba tebak apa yang kubawa pulang hari ini—!」"
     ],
     "20": [
-      "\\nl< >Itu paket yang cukup besar— \\w[90]\\^"
+      "\\nl< >「Paket yang besar sekali— \\w[90]\\^」"
     ],
     "21": [
-      "\\nl< >Mungkinkah… sesuatu yang enak!?"
+      "\\nl< >「Jangan-jangan ini makanan enak...?」"
     ],
     "22": [
-      "Ya… sepertinya \\str[120] benar-benar tidak tertarik",
-      "dalam hal apa pun selain makanan…"
+      "Hmm... \\str[120] memang tidak terlalu tertarik pada hal lain selain makanan",
+      "enak ya..."
     ],
     "23": [
-      "\\nl< >Selamat datang di rumah, \\w[45]\\^"
+      "\\nl< >「Selamat datang kembali, \\w[45]\\^」"
     ],
     "24": [
-      "\\nl< >\\{Aduh, menjijikkan!         \\}\\w[20]",
-      "\\str[121], kamu bau!"
+      "\\nl< >「\\{Bau sekali! \\}\\w[20]",
+      "\\str[121] Bau sekali！」"
     ],
     "25": [
-      "Hah!?"
+      "「Eh, eh, eh!?」"
     ],
     "26": [
-      "\\nl< >\\str[121], kamu bau!   \\w[90]",
-      "Jangan dekati saya… \\w[90]",
-      "Ayo mandi!           \\w[150]\\^"
+      "\\nl< >「\\str[121]Terus-terusan bau! \\w[90]",
+      "Jangan mendekat... \\w[90]",
+      "Cepat mandi sana! \\w[150]\\^」"
     ],
     "27": [
-      "Apaaa—!?"
+      "「Eh, eh, eh, eh, eh, eh—!?」"
     ],
     "28": [
-      "\\str[120] melarikan diri.     \\w[60]",
-      "…Apa bauku seburuk itu?",
-      "Apakah saya menemukan sesuatu yang buruk saat menjelajah?"
+      "\\str[120] Kabur. \\w[60]",
+      "......Apa tubuhku sebau itu?",
+      "Apa aku terkena kotoran saat menjelajah?"
     ],
     "29": [
-      "Pokoknya, aku harus cepat mandi dulu…"
+      "Bagaimanapun juga, lebih baik aku segera mandi di kamar mandi..."
+    ]
+  },
+  "4": {
+    "0": [
+      "\\nl< >「……………………………………",
+      "……………………………………」"
+    ],
+    "1": [
+      "Kupikir seperti biasa, \\str[120] akan berlari menyambutku dengan senyum yang",
+      "menenangkan. Tapi begitu aku kembali, aku melihat dia berdiri dengan",
+      "tangan di pinggang di pintu masuk, Wajah kecilnya yang cantik",
+      "dipenuhi kemarahan yang tak terselubung, seperti seorang hakim yang",
+      "menunggu kembalinya penjahat."
+    ],
+    "2": [
+      "Dilihat dari postur berdirinya yang tak bergerak sedikit pun,",
+      "dia jelas sudah menunggu di sini dalam posisi itu untuk waktu yang",
+      "lama."
+    ],
+    "3": [
+      "Aneh sekali, apa aku melakukan sesuatu yang membuat \\str[120] marah",
+      "akhir-akhir ini...? Aku dengan cepat memutar ulang semua yang",
+      "kulakukan akhir-akhir ini di benakku, tapi aku tidak bisa menemukan",
+      "petunjuk apa pun."
+    ],
+    "4": [
+      "\\nl< >「Selamat datang kembali... \\str[121]。」"
+    ],
+    "5": [
+      "Gawat! Suara \\str[120] juga dingin! \\{",
+      "Ini pasti marah, kan!?"
+    ],
+    "6": [
+      "Berlutut dan mengaku bersalah",
+      "Berpura-pura tidak bersalah",
+      "Mencoba menyelidiki dengan hati-hati"
+    ],
+    "7": [
+      "Seketika, tak terhitung TKP kejahatan melintas di benakku.",
+      "Apa karena beberapa hari lalu aku diam-diam meminum susu",
+      "stroberinya? Atau saat dia tertidur, aku diam-diam mencubit pipinya?",
+      "Atau jangan-jangan dia masih menyimpan dendam karena aku",
+      "mengintipnya mandi!?"
+    ],
+    "8": [
+      "Semakin kupikirkan, semakin kurasa ada masalah besar,",
+      "Aku segera mengambil tindakan yang paling tepat saat ini—"
+    ],
+    "9": [
+      "「Maafkan aku! Aku mengaku!」"
+    ],
+    "10": [
+      "Aku melangkah maju dengan cepat, lalu melakukan dogeza standar di",
+      "hadapan \\str[120]. Dalam situasi seperti ini, meminta maaf dengan tulus",
+      "kepada \\str[120] mungkin lebih mudah mendapatkan maafnya, kan...?"
+    ],
+    "11": [
+      "「Baik itu mencuri susu atau semua lelucon keterlaluan itu,",
+      "Pokoknya, tolong hukum aku seringan mungkin!!」"
+    ],
+    "12": [
+      "\\nl< >「Eh, eh!? Tunggu, tunggu sebentar...",
+      "\\str[121]... Apa yang kau katakan ini?」"
+    ],
+    "13": [
+      "\\str[120] yang tadinya berwajah tegas, mundur setengah langkah karena terkejut",
+      "melihat tingkahku yang berlebihan ini, Bahkan raut marahnya di",
+      "wajahnya pun memudar sebagian besar karena terkejut."
+    ],
+    "14": [
+      "「—Bu-bukan karena hal-hal itu kau marah, kan...?」"
+    ],
+    "15": [
+      "\\nl< >「Tentu saja tidak——!",
+      "Aku memang marah, tapi bukan karena hal-hal ini!」"
+    ],
+    "16": [
+      "\\nl< >「Ini dia...!",
+      "Tadi saat membersihkan kamar, aku menemukan semua ini di bawah",
+      "tempat tidur \\str[121]!!」"
+    ],
+    "16.5": [
+      "\\nl< >「Sebelumnya aku sudah menyadari \\str[121] diam-diam mengumpulkan",
+      "barang-barang ini... Tapi barangnya semakin banyak! \\str[121] harus",
+      "menjelaskan ini!」"
+    ],
+    "17": [
+      "\\str[120] bergeser, memperlihatkan sebuah kardus besar di sampingnya, penuh",
+      "dengan berbagai macam barang, Karena perhatianku teralihkan oleh \\str[120],",
+      "aku sama sekali tidak menyadari keberadaan kardus ini sebelumnya."
+    ],
+    "18": [
+      "「Ah, itu barang-barang yang kudapatkan dari mesin gacha...」"
+    ],
+    "19": [
+      "\\nl< >「Ini dia! Barang-barang seperti ini semakin banyak!",
+      "\\str[121], apa kau akhir-akhir ini boros di luar?」"
+    ],
+    "20": [
+      "Ditanya begitu oleh \\str[120], aku pun merasa bersalah.",
+      "Aku hanya bisa menunduk, tetap dalam posisi berlutut."
+    ],
+    "21": [
+      "\\nl< >「Meskipun ini semua uang yang \\str[121] dapatkan sendiri,",
+      "Tapi \\str[121] juga harus memperhatikan cara membelanjakannya, ya...! Uang",
+      "yang didapatkan dari pertarungan mati-matian ini, harus lebih",
+      "dipikirkan cara penggunaannya yang benar!」"
+    ],
+    "22": [
+      "「Ugh...」"
+    ],
+    "23": [
+      "Mendengar nasihat \\str[120] yang penuh perhatian itu,",
+      "Aku hanya bisa menunduk patuh, sama sekali tak berani membantah",
+      "sepatah kata pun. Di lorong sempit ini, sosok mungilnya kini tampak",
+      "begitu tinggi dan bisa diandalkan."
+    ],
+    "24": [
+      "「Tapi... saat gacha... tanganku tak bisa berhenti...！」"
+    ],
+    "25": [
+      "Itu benar. Setiap kali mesin gacha dinyalakan, sentuhan di ujung",
+      "jariku terasa seperti ada sihir tertentu, Sihir bernama 'pasti dapat",
+      "di putaran berikutnya' ini selalu membuatku benar-benar hilang",
+      "kendali, Saat aku tersadar, dompetku sudah kosong melompong."
+    ],
+    "26": [
+      "\\nl< >「...Hah. Aku sudah menduga \\str[121] akan berkata begitu ya...",
+      "Karena \\str[121] tak bisa mengendalikan tangannya, simpan saja uangmu padaku",
+      "mulai sekarang！」"
+    ],
+    "27": [
+      "\\nl< >「Lagipula aku juga tak bisa memakai uang ini...",
+      "Jika \\str[121] benar-benar ingin membeli sesuatu, kau bisa memintanya lagi",
+      "padaku, ya！」"
+    ],
+    "28": [
+      "Mendengar tawaran itu, aku terdiam sejenak, lalu kehangatan aneh",
+      "tiba-tiba memenuhi hatiku. Dipikir-pikir, \\str[120] yang tak pernah bisa",
+      "keluar rumah karena kondisi tubuhnya, tak pernah menerima uang saku."
+    ],
+    "29": [
+      "Mungkin melakukan ini memang tak ada artinya,",
+      "Tapi itu bukan alasan untuk membuat \\str[120] menjadi istimewa."
+    ],
+    "30": [
+      "「Ah... kalau begitu, itu akan sangat membantu.」"
+    ],
+    "31": [
+      "\\nl< >「Hehehe...",
+      "Karena \\str[121] begitu memercayaiku, aku pasti akan mencatat setiap",
+      "transaksi dengan baik！」"
+    ],
+    "32": [
+      "\\nl< >「Terakhir, ada lagi... Nanti kau harus menjelaskan padaku apa",
+      "yang terjadi dengan susu yang kau curi minum...」"
+    ],
+    "33": [
+      "「…………………………………………」"
+    ],
+    "34": [
+      "\\{\\c[2]",
+      "Aku bisa memberi uang saku pada \\str[120] sekarang!"
     ]
   },
   "5": {
     "0": [
-      "T-tidak lagi… \\w[30]",
-      "Saya hampir mati di luar sana…"
+      "「Ti-tidak bisa lagi... \\w[30]",
+      "Aku hampir mati...」"
     ],
     "1": [
-      "Beruntung saya berhasil melarikan diri pada saat-saat terakhir…",
-      "Sudah kuduga, dengan kekuatanku saat ini, itu masih terlalu sembrono",
-      "untuk menantang tempat itu…"
+      "Syukurlah aku berhasil kabur di saat-saat terakhir...",
+      "Ternyata, dengan kekuatanku sekarang, menantang tempat itu masih",
+      "terlalu berat, ya..."
     ],
     "2": [
-      "Saya harus berlatih lebih banyak, mempersiapkan diri sepenuhnya,",
-      "dan baru kemudian berpikir untuk menaklukkannya…"
+      "Seharusnya aku lebih banyak berlatih, dan bersiap dengan matang,",
+      "Baru setelah itu memikirkan untuk menaklukkannya..."
     ],
     "3": [
-      "\\nl< >Selamat datang di rumah, \\w[60]\\^"
+      "\\nl< >「Selamat datang kembali, \\w[60]\\^」"
     ],
     "4": [
-      "\\nl< >\\str[121]!?"
+      "\\nl< >「\\str[121]!?」"
     ],
     "5": [
-      "\\nl< >\\str[121], kamu baik-baik saja!?    \\w[60]",
-      "Kamu dipenuhi luka…!"
+      "\\nl< >「\\str[121] tidak apa-apa!? \\w[60]",
+      "Kau terlihat penuh luka...!」"
     ],
     "6": [
-      "Ahaha… Aku memaksakan diri sedikit terlalu keras,",
-      "dan akhirnya gagal…"
+      "「Ah, aku sedikit memaksakan diri,",
+      "Dan akhirnya gagal... Ahaha...」"
     ],
     "7": [
-      "\\nl< >\\str[121], sejujurnya…",
-      "kamu benar-benar perlu menjaga dirimu lebih baik!"
+      "\\nl< >「\\str[121] ini juga,",
+      "Seharusnya kau lebih menghargai dirimu sendiri!」"
     ],
     "8": [
-      "\\nl< >Karena kamu terluka, kami harus segera membalutmu!"
+      "\\nl< >「Jika terluka, harus segera dibalut!」"
     ],
     "9": [
-      "\\str[120] dengan terampil merawat lukaku,",
-      "dan saya merasakan kekuatan yang besar kembali."
+      "\\str[120] Setelah membalut lukaku dengan teliti menggunakan tangan terampil,",
+      "Aku merasa staminaku pulih drastis."
     ],
     "10": [
-      "\\str[120] dengan hati-hati membalutku dengan tangan yang canggung,",
-      "dan saya merasa agak pulih."
+      "\\str[120] Setelah membalut lukaku dengan hati-hati menggunakan tangan yang",
+      "kurang terampil, Aku merasa staminaku pulih cukup banyak."
     ],
     "11": [
-      "\\str[120] dengan kikuk membalut kepalaku sampai ujung kaki dengan perban,",
-      "dan saya merasa sedikit lebih baik."
+      "\\str[120] Setelah membalut seluruh tubuhku dengan perban menggunakan tangan",
+      "yang sangat canggung, Aku merasa staminaku masih pulih sedikit."
     ],
     "12": [
-      "\\nl< >Sekarang, \\str[121], istirahat saja!",
-      "Serahkan makan malam padaku!"
+      "\\nl< >「Sekarang \\str[121] istirahatlah yang baik!」",
+      "「Serahkan urusan makan malam padaku!」"
     ],
     "13": [
-      "Ah… ya…"
+      "「Ah... ahh.」"
     ],
     "14": [
-      "Konon, seluruh tubuhku terbungkus seperti mumi,",
-      "dan aku tidak bisa bergerak sama sekali…"
+      "Ngomong-ngomong, seluruh tubuhku kini terbalut seperti mumi,",
+      "dan aku sama sekali tak bisa bergerak..."
     ],
     "15": [
-      "\\nl< >Mhm, \\str[121], kamu anak yang baik."
+      "\\nl< >「Hmm, \\str[121] anak yang baik ya.」"
     ],
     "16": [
-      "Apakah itu hanya imajinasiku,",
-      "atau apakah \\str[120] tampak lebih termotivasi dari biasanya…?"
+      "Apa ini ilusi? \\str[120] terlihat lebih bersemangat dari biasanya..."
     ],
     "17": [
-      "\\nl< >\\str[121], kamu terlalu memaksakan diri lagi!"
+      "\\nl< >「\\str[121] memaksakan diri lagi ya!」"
     ],
     "18": [
-      "\\nl< >Kita harus menghentikan pendarahannya secepatnya!"
+      "\\nl< >「Aku harus cepat menghentikan pendarahan lukanya!」"
     ],
     "19": [
-      "\\nl< >Mulai sekarang,",
-      "biarkan aku menjagamu, \\str[121]!"
+      "\\nl< >「Selanjutnya, biarkan aku yang merawat \\str[121]!」"
     ],
     "20": [
-      "Apakah itu hanya imajinasiku,",
-      "atau apakah \\str[120] terlihat lebih bersemangat dari biasanya…?"
+      "Apa ini ilusi? \\str[120] terlihat lebih bersemangat dari biasanya..."
     ]
   },
   "9": {
     "0": [
-      "Kehangatan dalam pelukanku mengingatkanku akan hal itu",
-      "Saya akhirnya mendapatkan obat yang saya rindukan.",
-      "Namun sifat nyata dari pengalaman ini masih membuatku gelisah."
+      "Sentuhan hangat di pelukanku terus mengingatkanku, obat yang",
+      "kuimpikan sudah kudapatkan. Namun, pengalaman yang terlalu tidak",
+      "nyata ini, masih sulit kuterima."
     ],
     "1": [
-      "Kartu tarot Bintang di pintu masuk terhubung.",
-      "Itu adalah salah satu barang peninggalan ayahku.",
-      "Meskipun dia menghabiskan hidupnya untuk meneliti cara menyembuhkan \\str[120],",
-      "kenapa dia bereaksi begitu mudah sekarang…?"
+      "Kartu Tarot Bintang yang terhubung ke pintu rumah.",
+      "Ini adalah salah satu benda peninggalan ayah. Meskipun ayah selama",
+      "hidupnya terus meneliti cara agar \\str[120] bisa kembali normal, Tapi",
+      "kenapa... bisa bereaksi semudah ini...?"
     ],
     "2": [
-      "Tidak peduli bagaimana aku memikirkannya, aku tidak dapat mencapai kesimpulan.",
-      "Berpikir berlebihan tidak ada artinya.",
-      "Yang penting adalah—saya sekarang memiliki Elixir Rubrum.",
-      "Saya harus mencari kesempatan untuk membiarkan \\str[120] mencobanya."
+      "Bagaimana pun aku berpikir, tak ada kesimpulan yang kudapat, dan",
+      "melamun pun tak ada gunanya. Pada akhirnya, aku sudah mendapatkan",
+      "Sumsum Merah, mari cari kesempatan agar \\str[120] mencobanya."
     ],
     "3": [
-      "Warnanya bahkan seperti jus stroberi,",
-      "mungkin rasanya seperti susu stroberi favoritnya…"
+      "Kebetulan warnanya terlihat seperti jus stroberi,",
+      "Mungkin rasanya juga sama seperti susu stroberi kesukaannya..."
     ],
     "4": [
-      "\\nl< >Selamat datang di rumah, \\str[121]."
+      "\\nl< >「Selamat datang di rumah, \\str[121].」"
     ],
     "5": [
-      "\\nl< >Perutku sudah kosong…"
+      "\\nl< >「Perutku sudah lapar...」"
     ],
     "6": [
-      "Baiklah, baiklah, aku akan segera menyiapkan makan malam."
+      "「Baiklah, baiklah, aku akan segera menyiapkan makan malam.」"
     ],
     "7": [
-      "Saya dengan lembut menepuk kepala \\str[120] dan sedikit menghiburnya.",
-      "Baiklah—apa yang harus saya lakukan selanjutnya?"
+      "Dengan lembut mengelus kepala \\str[120], menenangkannya dengan beberapa patah",
+      "kata. Baiklah—apa yang harus kulakukan selanjutnya?"
     ],
     "8": [
-      "Siapkan makan malam",
+      "Buat makan malam",
       "Pergi ke toilet"
     ],
     "9": [
-      "Ya, ini sudah larut, sebaiknya aku menyiapkan makan malam."
+      "Benar, sudah tidak pagi lagi, aku harus menyiapkan makan malam."
     ],
     "10": [
-      "Apa yang ingin kamu makan malam ini?"
+      "「Malam ini kau ingin makan apa?」"
     ],
     "11": [
-      "\\nl< >\\{Hidangan daging oke!"
+      "\\nl< >\\{「Masakan daging saja sudah cukup!」"
     ],
     "12": [
-      "Hmm… seperti yang diharapkan…",
-      "Sepertinya aku benar-benar perlu mencari kesempatan untuk menjelaskannya",
-      "\\str[120] betapa pentingnya diet seimbang."
+      "Hmm... jawaban yang sudah kuduga...",
+      "Sepertinya aku harus mencari kesempatan untuk menjelaskan pentingnya",
+      "gizi seimbang pada \\str[120] dengan baik."
     ],
     "13": [
-      "Ugh, rasanya aku ingin pergi ke toilet…"
+      "Ugh, aku sedikit ingin ke toilet..."
     ],
     "14": [
-      "Maaf, tunggu sebentar, saya akan menyiapkan makan malam sesudahnya."
+      "「Maaf, tunggu sebentar lagi, aku akan menyiapkan makan malam setelah",
+      "ini.」"
     ],
     "15": [
-      "\\nl< >Mengerti."
+      "\\nl< >「Aku mengerti.」"
     ]
   },
   "13": {
     "0": [
-      "\\nl< >\\str[121], Anda tidak kembali dalam keadaan babak belur hari ini",
-      "seperti yang kami janjikan, kerja bagus!",
-      "Anda berhak mendapatkan pujian karena telah bekerja keras!"
+      "\\nl< >「\\str[121] hari ini tidak membuat dirinya berantakan seperti yang",
+      "dijanjikan, bagus sekali! Aku harus memuji \\str[121] yang sudah berusaha",
+      "keras!」"
     ],
     "1": [
-      "\\nl< >\\str[121], Anda menepati janji kami lagi hari ini.",
-      "Inilah hadiah hari ini!"
+      "\\nl< >「Hari ini \\str[121] juga menepati janjinya, ini adalah penghargaan hari",
+      "ini!」"
     ],
     "2": [
-      "\\nl< >\\str[121], Anda telah bekerja keras akhir-akhir ini.",
-      "Inilah hadiah hari ini—"
+      "\\nl< >「Akhir-akhir ini \\str[121] selalu berusaha keras, ini adalah penghargaan",
+      "hari ini—」"
     ],
     "3": [
-      "\\nl< >Sudah hampir sebulan sekarang. Anda telah melakukannya dengan sangat baik,",
-      "\\str[121]. Ayo, ini hadiah hari ini—"
+      "\\nl< >「Sebentar lagi sudah sebulan, ya,",
+      "\\str[121] 「Sungguh kerja keras, nah, ini penghargaanmu hari ini——」」"
     ],
     "4": [
-      "\\nl< >\\str[121]! Luar biasa, sudah sebulan!",
-      "Anda luar biasa, \\str[121]!"
+      "\\nl< >「\\str[121]! Bagus sekali, sudah sebulan, lho!",
+      "\\str[121] Kau sungguh luar biasa!」"
     ],
     "5": [
-      "\\nl< >Bagaimanapun, ini adalah hadiah terakhir!"
+      "\\nl< >「Pokoknya, ini penghargaan terakhir, ya!」"
     ],
     "6": [
-      "\\nl< >Baiklah! Selesai menggambar!",
-      "Ini adalah bukti bahwa kamu adalah anak yang baik, \\str[121]!",
-      "Anda tidak diperbolehkan mencucinya hari ini!"
+      "\\nl< >「Baiklah! Sudah kugambar!",
+      "Ini adalah bukti bahwa \\str[121] anak baik, lho!",
+      "Jangan kau cuci hari ini, ya!」"
     ],
     "7": [
-      "Saya melihat tangan kanan saya, tempat \\str[120] menggambar",
-      "gambar kecil yang lucu di bagian belakang dengan kuasnya."
+      "Aku melihat tangan kananku, \\str[120] menggambar pola lucu di punggung",
+      "tanganku dengan kuas."
     ],
     "8": [
-      "Sungguh imbalan yang luar biasa… tapi tetap saja…"
+      "Ini benar-benar penghargaan yang luar biasa... tapi..."
     ],
     "9": [
-      "\\l< >Eh?",
-      "‘Apakah akan ada hadiah khusus jika aku terus mengumpulkannya?’",
-      "…\\str[121], apakah Anda ingin lebih banyak pujian?"
+      "\\nl< >「Eh? 『Jika terus mengumpulkan, akan ada hadiah spesial?』",
+      "...\\str[121] Kau masih ingin lebih banyak pujian?」"
     ],
     "10": [
-      "l< >Hmm… baiklah, jika kamu terus melakukan ini selama satu bulan lagi,",
-      "Saya akan memberi Anda hadiah yang lebih istimewa…"
+      "\\nl< >「Hmm... Kalau begitu, \\str[121] teruslah seperti ini selama sebulan,",
+      "Aku akan memberimu hadiah yang lebih spesial...」"
     ],
     "11": [
-      "\\nl< >Tapi… itu terlalu memalukan,",
-      "jadi aku belum bisa memberitahumu apa itu…"
+      "\\nl< >「Karena terlalu malu, aku belum bisa memberitahumu hadiahnya apa",
+      "sekarang...」"
     ],
     "12": [
-      "Saya hanya bercanda, tapi sepertinya \\str[120] benar",
-      "serius memikirkan semacam hadiah khusus.",
-      "Itu benar-benar membuat saya merasa termotivasi!"
+      "Padahal aku hanya mengatakannya sebagai candaan,",
+      "Tapi \\str[120] sepertinya benar-benar serius memikirkan hadiah spesial,",
+      "Aku jadi bersemangat!"
     ],
     "13": [
-      "\\nl< >Hadiah spesialnya masih dirahasiakan.",
-      "Saya tidak bisa memberi tahu Anda sekarang, \\str[121]…!"
+      "\\nl< >「Hadiah spesialnya masih rahasia, lho, aku belum bisa",
+      "memberitahu \\str[121] sekarang...!」"
     ],
     "14": [
-      "\\nl< >Ini dia, \\str[121]!",
-      "Seperti yang dijanjikan, ini adalah hadiah spesial Anda!"
+      "\\nl< >「Nah, \\str[121]! Sesuai janji, ini hadiah spesial untukmu, lho!」"
     ],
     "15": [
-      "\\nl< >Hehe… ini adalah kupon 'Lakukan Apa Saja' yang saya buat."
+      "\\nl< >「Hehe... Ini adalah kupon 'apa saja boleh' buatanku.」"
     ],
     "16": [
-      "\\nl< >\\str[121], kamu selalu memikirkanku, tapi…",
-      "Saya juga ingin Anda bisa melepaskan beban itu dan bersantai…"
+      "\\nl< >「\\str[121] selalu memikirkan diriku, tapi sebagai \\str[120],",
+      "aku juga berharap \\str[121] bisa melepaskan beban itu, dan beristirahat",
+      "dengan tenang...」"
     ],
     "17": [
-      "\\nl< >Jadi, Anda bisa memanfaatkan ini untuk memanjakan diri",
-      "bersamaku sebanyak yang kamu suka!",
-      "Permintaan apa pun boleh saja—fokus saja untuk menenangkan diri!"
+      "\\nl< >「Jadi, \\str[121] bisa bermanja-manja sesukamu dengan ini, lho!",
+      "Permintaan apa pun boleh, \\str[121] cukup pikirkan untuk bersantai saja!」"
     ],
     "18": [
-      "\\nl< >Eh!?     \\w[30]",
-      "‘Bahkan… hal-hal yang tidak senonoh akan baik-baik saja…?’",
-      "Satu, satu…"
+      "\\nl< >「Eh!? \\w[30]",
+      "『Hal-hal \"nakal\" juga boleh...?』",
+      "Itu, itu...」"
     ],
     "19": [
-      "\\nl< >Tidak apa-apa… jika itu yang Anda inginkan,",
-      "Saya tidak akan menolak…"
+      "\\nl< >「Boleh saja... jika \\str[121] memang ingin melakukan hal seperti itu,",
+      "aku tidak akan menolak, kok...」"
     ],
     "20": [
-      "\\nl< >Lagipula, \\str[121],",
-      "lagipula kamu selalu menggodaku…"
+      "\\nl< >「Lagipula, bukankah \\str[121] memang selalu menggodaku selama ini...?」"
     ],
     "21": [
-      "\\>Menerima \\ii[199] dari \\str[120]!                   \\w[60]",
-      "\\>Sekarang Anda dapat membuat permintaan rusak ke \\str[120]!     \\w[60]"
+      "\\> menerima \\ii[199] dari \\str[120]! \\w[60]",
+      "\\> kini bisa mengajukan satu permintaan manja kepada \\str[120]! \\w[60]"
     ]
   },
   "14": {
     "0": [
-      "\\nl< >Oh? \\str[121], apa yang kamu pegang?"
+      "\\nl< >「Oh? \\str[121], apa yang kau pegang itu?」"
     ],
     "1": [
-      "Ah… hari ini aku baru saja menerima pakaian ini dari seorang ksatria,",
-      "dia bilang itu bonus permainan— \\w[30]\\^"
+      "「Ah... aku baru saja menerima pakaian dari Tuan Ksatria hari ini,",
+      "katanya ini bonus game—」 \\w[30]\\^"
     ],
     "2": [
-      "\\nl< >Ksatria dari 'Jiwa Bayangan'!?",
-      "Cepat, biarkan aku melihat—"
+      "\\nl< >「Tuan Ksatria dari 'Shadow Soul'!? Cepat tunjukkan padaku—」"
     ],
     "3": [
-      "\\str[120] melesat ke depanku dengan kecepatan kilat",
-      "dan merampas pakaian itu—",
-      "Huh… sepertinya dia sangat menyukai hadiah ini."
+      "\\str[120] melesat di depanku secepat kilat dan merebut pakaian itu—",
+      "Eh... sepertinya \\str[120] sangat menyukai hadiah ini."
     ],
     "4": [
-      "\\nl< >Ooooh—! Bahkan ada tanda tangan ksatria di sana!"
+      "\\nl< >「Ooooh—! Ada tanda tangan asli Tuan Ksatria di sini!」"
     ],
     "5": [
-      "\\nl< >Saya akan mencobanya sekarang—"
+      "\\nl< >「Aku akan mencobanya sekarang—」"
     ],
     "6": [
-      "\\{Ah, tunggu—!?",
-      "Kami masih di pintu masuk!"
+      "「\\{Ah, tunggu—!? Ini masih di depan pintu!」"
     ],
     "7": [
-      "Aku buru-buru berbalik dan segera menutup pintu depan.",
-      "Kulit \\str[120] tidak tahan terhadap paparan sinar matahari dalam waktu lama.",
-      "Apa dia begitu bersemangat hingga dia melupakan kelemahannya sendiri!?"
+      "Aku segera berbalik, terburu-buru menutup pintu masuk.",
+      "Kulit \\str[120] tak tahan terpapar sinar matahari langsung terlalu lama, Apa",
+      "karena terlalu bersemangat, sampai dia sendiri lupa kelemahannya",
+      "itu!"
     ],
     "8": [
-      "\\nl< >Semua sudah selesai diubah—!"
+      "\\nl< >「Sudah ganti baju—！」"
     ],
     "9": [
-      "Heh… sebenarnya cukup cocok."
+      "「Heh… lumayan pas juga, ya.」"
     ],
     "10": [
-      "Ksatria itu bersikeras untuk selalu mengenakan baju besi yang berat,",
-      "jadi saya berasumsi dia pasti tinggi dan lebar.",
-      "Saya khawatir \\str[120] tidak akan bisa memakainya dengan benar,",
-      "tapi yang mengejutkanku, ukurannya sangat pas untuknya…"
+      "Ksatria itu bersikeras mengenakan zirah lengkap,",
+      "Aku kira dia pasti tinggi dan tegap,",
+      "Sempat khawatir \\str[120] akan memakainya kedodoran,",
+      "Ternyata ukurannya pas sekali… tak disangka."
     ],
     "11": [
-      "\\nl< >Ehehe… Mulai sekarang aku akan menggunakan ini sebagai piyama saja~"
+      "\\nl< >「Ehehe… nanti ini kujadikan piyama saja~」"
     ],
     "12": [
-      "Itu akan membuatnya kusut…",
-      "bukankah itu seharusnya menjadi barang koleksi…"
+      "「Nanti kusut, lho… Bukankah ini suvenir spesial…?」"
     ],
     "13": [
-      "Juga, sudah hampir waktunya makan.",
-      "Cepat dan ganti dulu."
+      "「Dan sebentar lagi makan, cepat ganti dulu.」"
     ],
     "14": [
-      "\\nl< >Oke~"
+      "\\nl< >「Baik~」"
     ]
   },
   "15": {
     "0": [
-      "…Aku kembali."
+      "「…Aku pulang.」"
     ],
     "1": [
-      "aku menyapa dengan lemah,",
-      "dan begitu aku melangkah masuk,",
-      "rasa panas yang membara di sekujur tubuhku seketika memudar.",
-      "Cuaca yang buruk… tak disangka cuaca bisa sepanas ini…"
+      "Aku menyapa dengan lesu,",
+      "Begitu melangkah masuk, kurasakan panas yang membakar seluruh tubuh",
+      "itu seketika sirna. Cuaca sialan ini… bisa sepanas ini rupanya…"
     ],
     "2": [
-      "—Hm? Itu aneh."
+      "「—Hm? Aneh, ya?」"
     ],
     "3": [
-      "Saya menyadari \\str[120] tidak datang untuk menyambut saya seperti biasanya.",
-      "Apakah dia masih tidur?"
+      "Kusadari \\str[120] tidak menyambutku seperti biasa, apa dia masih tidur?"
     ],
     "4": [
-      "\\nl< >\\str[121], selamat datang di rumah…"
+      "\\nl< >「\\str[121], selamat datang kembali...」"
     ],
     "5": [
-      "Hanya mengenakan T-shirt,",
-      "\\str[120] berjalan keluar dengan lesu untuk menyambutku,",
-      "jelas sekali panasnya juga membuatnya lelah…"
+      "\\str[120], yang sudah berganti kaus, berjalan lesu untuk menyambut,",
+      "Terlihat jelas, dia juga sudah tak tahan dengan panas menyengat",
+      "ini..."
     ],
     "6": [
-      "\\nl< >\\{Panas sekali…!",
+      "\\nl< >\\{「Panas sekali...!」",
       "\\w[40]\\^"
     ],
     "7": [
-      "\\nl< >\\str[121], badanmu panas sekali…!"
+      "\\nl< >「Tubuh \\str[121] panas sekali...!」"
     ],
     "8": [
-      "Menatap tubuhku yang masih mengepul karena panas,",
-      "untuk sesaat aku bahkan merasa seperti akan meledak…"
+      "Menunduk, melihat tubuhku yang masih terus mengeluarkan uap panas,",
+      "Bahkan sesaat, aku merasa seolah akan meledak..."
     ],
     "9": [
-      "\\nl< >\\str[121], selamat datang di rumah… \\w[60]",
-      "Pasti panas sekali di luar, ya?"
+      "\\nl< >「\\str[121], selamat datang kembali... \\w[60]",
+      "Di luar pasti sangat panas, kan?」"
     ],
     "10": [
-      "Ya, rasanya seperti berada di dalam oven… \\w[60]",
-      "Ada apa dengan cuaca seperti ini…"
+      "「Ya, rasanya seperti di dalam oven... \\w[60]",
+      "Ada apa sebenarnya dengan cuaca ini...?」"
     ],
     "11": [
-      "Tapi semuanya baik-baik saja sekarang!!    \\w[40]",
-      "Ta-da! Aku punya penggemar untuk kita!"
+      "「Tapi, sekarang sudah tidak apa-apa!! \\w[40]",
+      "Tada! Aku berhasil mendapatkan kipas angin, lho!」"
     ],
     "12": [
-      "\\nl< >Bagus sekali! Cepat, cepat!   \\w[60]",
-      "Siapkan sekarang juga!"
+      "\\nl< >「Bagus sekali! Cepat! Cepat! \\w[60]",
+      "Pasang sekarang juga!」"
     ],
     "13": [
-      "\\nl< >Aku sudah menyiapkan kipas angin dan es lolinya, ayo!"
+      "\\nl< >「Aku sudah siapkan kipas dan es loli, cepat kemari!」"
     ],
     "14": [
-      "Ohhh—!"
+      "「Ohh—!」"
     ],
     "15": [
-      "Pulang ke tempat sejuk dengan es loli untuk dimakan,",
-      "perasaan ini tidak terlalu buruk sama sekali…"
+      "Begitu pulang, ada tempat sejuk dan makanan dingin untuk dimakan,",
+      "Perasaan seperti ini juga cukup menyenangkan..."
     ],
     "16": [
-      "Setelah menunggu beberapa saat, \\str[120] masih belum keluar.",
-      "Aneh… mungkinkah dia masih tidur siang?"
+      "Setelah menunggu sebentar, \\str[120] tidak terlihat keluar.",
+      "Aneh... Apa dia masih tidur siang?"
     ],
     "17": [
-      "Apa yang harus saya lakukan…"
+      "Bagaimana ini...?"
     ],
     "18": [
-      "Menyelinap",
-      "Hubungi \\str[120]"
+      "Menyelinap masuk",
+      "Panggil \\str[120]"
     ],
     "19": [
-      "Baiklah! Aku akan diam-diam menyelinap ke kamarnya,",
-      "sayang sekali jika aku membangunkannya saat dia sedang tidur siang."
+      "Baiklah! Aku akan langsung menyelinap ke kamar untuk melihat",
+      "situasinya, Kasihan sekali kalau aku membangunkannya dari tidur",
+      "siang."
     ],
     "20": [
-      "\\{Aku pulangー!"
+      "「\\{Aku pulang—!」"
     ],
     "21": [
-      "Aku berseru dengan santai,",
-      "dan tak lama kemudian aku bisa mendengarnya",
-      "langkah kaki tergesa-gesa turun ke bawah."
+      "Aku memanggilnya begitu saja,",
+      "Tak lama, terdengar suara langkah kaki terburu-buru menuruni tangga."
     ],
     "22": [
-      "…Wow, secepat itu?"
+      "...Astaga, secepat itu?"
     ],
     "23": [
-      "\\nl< >\\str[121]!?",
-      "Anda kembali sangat awal hari ini—"
+      "\\nl< >「\\str[121]!?",
+      "Kau pulang cepat sekali hari ini—」"
     ],
     "24": [
-      "Mungkin karena dia berlari,",
-      "Pipi \\str[120] memerah dan dia",
-      "pernapasan sangat cepat dan tidak merata."
+      "Mungkin karena dia berlari kecil kemari,",
+      "Pipi \\str[120] memerah, dan napasnya terdengar sangat terengah-engah dan",
+      "tidak wajar."
     ],
     "25": [
-      "………Hah?    \\w[45]",
-      "\\str[120], mungkinkah kamu—"
+      "「...............Hm? \\w[45]",
+      "\\str[120], hei, jangan-jangan kau—」"
     ],
     "26": [
-      "\\nl< >Eek!?"
+      "\\nl< >「Iih!?」"
     ],
     "27": [
-      "Tadi kamu diam-diam makan keripik, kan!?",
-      "Lihat, ada remah-remah di sudut mulutmu!"
+      "「Kau baru saja diam-diam makan keripik, kan!?",
+      "Lihat, ada remah-remah di sudut bibirmu!」"
     ],
     "28": [
-      "\\nl< >Eh… ah… \\w[45] umm… ya, benar, \\w[45]",
-      "ehehe… Saya sedang ngemil sedikit… \\w[45]"
+      "\\nl< >「Eh... Ah... \\w[45] Ugh... Begitu ya, \\w[45]",
+      "Hehehe... Tadi aku sedang makan camilan...」 \\w[45]"
     ],
     "29": [
-      "\\str[120] merasa canggung dengan alasannya,",
-      "dan itu terlihat lebih mencurigakan…"
+      "\\str[120] menjelaskan dengan sangat canggung, terlihat semakin aneh..."
     ],
     "30": [
-      "\\nl< >Baiklah, baiklah, aku juga punya porsi untukmu,",
-      "Ayo makan bersama…!"
+      "\\nl< >「Sudah, sudah, aku juga sudah menyiapkan untuk \\str[121], ayo makan",
+      "bersama...!」"
     ],
     "31": [
-      "Tidak memberiku kesempatan untuk menanyainya lebih jauh,",
-      "\\str[120] menyelinap pergi."
+      "Sepertinya ia tak memberiku kesempatan untuk bertanya lebih lanjut, \\str[120]",
+      "langsung saja pergi."
     ],
     "32": [
-      "Kembali ke pintu masuk, pikiranku terus tertuju",
-      "mengulangi gambaran sosok Imouto yang ceroboh dan terbuka.     \\w[60]",
-      "…Yah, ini musim panas."
+      "Setelah kembali ke pintu masuk, dalam benakku masih terus terbayang",
+      "penampilan \\str[120] yang penuh celah itu. \\w[60] Yah... bagaimanapun juga, ini",
+      "musim panas."
     ],
     "33": [
-      "Ahem ahem… \\w[60]\\{",
-      "Aku pulangー!"
+      "「Uhuk uhuk... \\w[60]\\{",
+      "\\str[121] sudah pulang!」"
     ],
     "34": [
-      "Aku berpura-pura tidak memperhatikan apa pun",
-      "saat aku memanggil \\str[120] di dalam."
+      "Aku berpura-pura tidak menyadari apa pun sambil memanggil \\str[120] ke dalam",
+      "rumah."
     ]
   }
 }

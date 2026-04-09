@@ -1,75 +1,68 @@
-﻿{
+{
   "father": [
     "Pria"
   ],
   "2": {
     "0": [
-      "Udara yang berat dan menyesakkan memenuhi ruangan yang remang-remang itu."
+      "Di ruangan remang itu, suasana mencekam menyesakkan napas."
     ],
     "1": [
-      "Batuk\\w[30]...batuk,batuk...\\w[30]"
+      "「Uhuk\\w[30]... uhuk-uhuk...\\w[30]」"
     ],
     "2": [
-      "Pria itu terbaring lemah di tempat tidur,",
-      "kain tipis yang menutupi tubuhnya gemetar bersamanya",
-      "napas pendek, seolah-olah akan berhenti bergerak",
-      "kapan saja."
+      "Pria itu terbaring lemah di ranjang,",
+      "Kain tipis yang menyelimutinya bergetar seiring napasnya yang samar,",
+      "Seolah kapan saja akan berhenti."
     ],
     "3": [
-      "Bahkan sebagai anak laki-laki yang naif,",
-      "Secara naluriah aku merasakan dari tubuh lemah itu",
-      "dan wajah pucat seperti ini",
-      "ketika kehidupan hampir habis."
+      "Meski aku masih seorang remaja yang belum mengerti apa-apa,",
+      "Tubuh kurus dan wajah pucat di hadapanku itu, Secara naluriah",
+      "membuatku sadar, inilah wujud kehidupan yang akan padam."
     ],
     "4": [
-      "Anda mungkin akan mengalami masa-masa sulit setelah ini..."
+      "「Nanti, kau pasti akan sangat kesulitan, ya...」"
     ],
     "5": [
-      "Suaranya serak dan lemah, setiap kata terdengar",
-      "seperti itu menghabiskan sedikit kehidupan yang tersisa,",
-      "dengan susah payah dipaksa keluar dari tenggorokannya."
+      "Suaranya serak dan lemah, setiap kata seolah menguras sisa hidupnya,",
+      "Terucap susah payah dari tenggorokannya."
     ],
     "6": [
-      "Saya tahu ini bukan sesuatu yang harus dikatakan seorang ayah... \\w[30]",
-      "tapi aku masih berharap kamu bisa berjanji padaku—"
+      "「Meski ini bukan hal yang seharusnya dikatakan seorang ayah... \\w[30]",
+      "Tapi aku tetap berharap kau bisa berjanji padaku—」"
     ],
     "7": [
-      "…………?"
+      "「............?」"
     ],
     "8": [
-      "Aku berdiri di sana dengan linglung,",
-      "tidak dapat memproses pesan terakhir yang tiba-tiba ini,",
-      "pikiranku benar-benar kosong."
+      "Aku berdiri terpaku di sana, menghadapi pesan terakhir yang",
+      "tiba-tiba ini, pikiranku kosong."
     ],
     "9": [
-      "Ah... ini kata-kata yang penting,",
-      "namun saya tidak bisa fokus sama sekali",
-      "Aku hanya bisa menatap kosong ke wajah ayahku",
-      "saat cahaya perlahan meninggalkannya."
+      "Ah, itu adalah kata-kata yang sangat penting, tapi aku tak bisa",
+      "fokus, Hanya bisa menatap kosong wajah ayah yang perlahan meredup."
     ],
     "10": [
-      "…Tolong jaga dia, \\w[30]",
-      "mulai sekarang, perlakukan dia sebagai ○○—"
+      "「...Anak itu, aku serahkan padamu, \\w[30]",
+      "Mulai sekarang, anggaplah dia sebagai ○○-mu—」"
     ],
     "11": [
-      "Suaranya memudar seperti asap ditiup angin,",
-      "terlalu lemah untuk menyelesaikan kata-kata terakhirnya.",
-      "Dia perlahan menoleh ke arah",
-      "sudut ruangan yang gelap."
+      "Suaranya semakin mengecil, fana bagai asap yang tertiup angin,",
+      "Bahkan tak sempat menyelesaikan pesan terakhirnya untuk putranya.",
+      "Pria itu perlahan menoleh, mengarahkan pandangannya ke salah satu",
+      "sudut ruangan."
     ],
     "12": [
-      "Sudut itu diselimuti oleh bayangan tebal,",
-      "seolah-olah itu menyembunyikan sesuatu yang sangat penting."
+      "Sudut itu diselimuti kegelapan pekat,",
+      "Seolah menyembunyikan sesuatu yang amat penting."
     ],
     "13": [
-      "Pria ini, yang merupakan ayah sekaligus majikanku,",
-      "mengambil nafas terakhirnya begitu saja.",
-      "Matanya tetap terbuka,",
-      "namun terang kehidupan telah meninggalkan mereka."
+      "Pria ini, yang tak hanya ayahku, tapi juga guruku,",
+      "Begitulah, napasnya terhenti.",
+      "Matanya masih terbuka, namun telah kehilangan kilau kehidupan."
     ],
     "14": [
-      "Tanpa sadar, mataku pun mengikuti tatapannya,",
-      "melihat ke arah sudut misterius itu—————"
+      "Tanpa kusadari, pandanganku pun mengikuti tatapannya,",
+      "Menatap ke sudut misterius itu—————"
     ]
   }
 }

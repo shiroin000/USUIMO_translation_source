@@ -1,43 +1,45 @@
-﻿{
+{
   "1": {
     "name": [
-      "Pedang kayu keras"
+      "Pedang Kayu Keras"
     ],
     "subtitle": "",
     "description": [
-      "Dikatakan bahwa sang pahlawan juga memulai miliknya",
-      "perjalanan dari desa awal dengan pedang kayu",
-      "Ini telah menjadi tujuan yang harus ditiru oleh banyak petualang"
+      "Pedang kayu berbentuk sempurna, terasa kokoh dan mantap di tangan.",
+      "Konon, sang pahlawan di masa lalu juga memulai perjalanannya dari",
+      "Desa Awal dengan pedang kayu ini. Kisah indah ini menginspirasi",
+      "banyak petualang, mereka meniru, berharap menapaki jalan pahlawan",
+      "yang sama..."
     ],
     "ability": [
-      "Memberikan kerusakan ekstra saat senjata hampir pecah"
+      "Kerusakan tambahan saat senjata akan hancur."
     ]
   },
   "2": {
     "name": [
-      "Tongkat kayu keras"
+      "Tongkat Kayu Keras"
     ],
     "subtitle": "",
     "description": [
-      "Tongkat kayu kokoh berbentuk bagus",
-      "cocok untuk anak-anak, juga layak digunakan sebagai senjata"
+      "Tongkat kayu berbentuk sempurna. Anak-anak pasti akan menyukainya,",
+      "Sebagai senjata, performanya lumayan bagus."
     ],
     "ability": [
-      "Memberikan kerusakan ekstra saat senjata hampir pecah"
+      "Kerusakan tambahan saat senjata akan hancur."
     ]
   },
   "3": {
     "name": [
-      "Kapak Kayu"
+      "Kapak Penebang Kayu"
     ],
     "subtitle": "",
     "description": [
-      "Pendamping yang andal bagi para petualang atau pionir penjelajahan",
-      "hutan. Namun, karena tidak dirancang untuk pertempuran,",
-      "jangan terlalu mengandalkannya dalam pertempuran"
+      "Pendamping yang dapat diandalkan bagi petualang atau perintis di",
+      "hutan. Namun, karena tidak cocok untuk menyerang, jangan terlalu",
+      "mengandalkannya dalam pertempuran."
     ],
     "ability": [
-      "Memberikan peningkatan kerusakan pada pohon"
+      "Kerusakan besar pada pohon."
     ]
   },
   "4": {
@@ -46,12 +48,13 @@
     ],
     "subtitle": "",
     "description": [
-      "Tidak dilengkapi senjata? Lalu lepaskan serangkaian pukulan!",
-      "Ini mungkin merupakan perbaikan yang cepat, tetapi tinju yang penuh semangat akan memberikan pukulan yang serius",
-      "Mengapa menggunakan senjata ketika tinju Anda bisa melakukan pekerjaan itu?"
+      "Tidak punya senjata? Kalau begitu, serang musuh dengan pukulan",
+      "beruntun! Meski hanya solusi sementara, tinju yang dipenuhi semangat",
+      "juang ini, kekuatannya tak bisa diremehkan. Mengapa harus pakai",
+      "senjata jika bisa diselesaikan dengan tinju?"
     ],
     "ability": [
-      "Pukulan skala kerusakan dengan HP maksimal!"
+      "Kerusakan kombo naik sesuai HP maksimum!"
     ]
   },
   "5": {
@@ -60,52 +63,53 @@
     ],
     "subtitle": "",
     "description": [
-      "Senjata yang digunakan ayah di masa mudanya,",
-      "terpelihara dengan baik dan tampaknya diberikan kepada para ksatria istana"
+      "Senjata yang digunakan ayah saat muda, dirawat dengan sangat baik.",
+      "Sepertinya senjata ini diberikan pada ksatria istana sebagai",
+      "penghargaan."
     ],
     "ability": [
-      "Saat HP<\\c[10]30%\\c[0], serangan senjata ini berlipat ganda"
+      "Stamina <\\c[10]30%\\c[0], serangan senjata ini berlipat ganda."
     ]
   },
   "6": {
     "name": [
-      "Staf Lava"
+      "Tongkat Lava"
     ],
     "subtitle": "",
     "description": [
-      "Tongkat yang terbuat dari mineral vulkanik, dengan mudah",
-      "mengkonsentrasikan elemen api Namun, ada sedikit kesalahan",
-      "dapat menyebabkannya meledak, menelan penggunanya"
+      "Tongkat sihir dari mineral gunung berapi. Mudah memadatkan elemen",
+      "api. Namun, sedikit saja lengah, kau sendiri bisa terseret dalam",
+      "ledakan!"
     ],
     "ability": [
-      "Tahan tombol kanan mouse untuk melemparkan \\c[27]Crimson Lotus Meteor\\c[0]"
+      "Tahan klik kanan untuk merapal \\c[27]Hujan Meteor Merah\\c[0]."
     ]
   },
   "7": {
     "name": [
-      "Staf Es"
+      "Tongkat Es"
     ],
     "subtitle": "",
     "description": [
-      "Tongkat yang terbuat dari kristal ajaib, melepaskan jangkauan luas",
-      "embun beku. Sangat sulit dikendalikan. Rasanya tanganku membeku"
+      "Tongkat sihir dari kristal es berenergi sihir. Mampu menyemburkan",
+      "embun beku ke area luas. Namun, sulit dikendalikan, dan tanganmu",
+      "akan sangat dingin!!"
     ],
     "ability": [
-      "Tahan tombol kanan mouse untuk mengucapkan \\c[27]Frozen Spell\\c[0]"
+      "Tahan klik kanan untuk merapal \\c[27]Sihir Pembeku\\c[0]."
     ]
   },
   "8": {
     "name": [
-      "Bulu Aneh"
+      "Bulu Burung Monster"
     ],
     "subtitle": "",
     "description": [
-      "Bulu dari burung aneh. Sangat ringan dan bisa",
-      "dengan mudah menghasilkan kekuatan yang cukup untuk meledakkan seseorang"
+      "Bulu yang diambil dari burung monster raksasa. Meski ringan, ia",
+      "dapat menciptakan gelombang udara yang mampu menerbangkan orang."
     ],
     "ability": [
-      "Kecepatan gerakan meningkat saat menggunakan Whirlwind Slash",
-      "Memasuki kondisi mengambang yang kebal terhadap jatuh setelah kecepatan putaran meningkat"
+      "Tebasan Angin Puyuh: kecepatan naik & perlahan melayang, cegah jatuh."
     ]
   },
   "9": {
@@ -114,53 +118,52 @@
     ],
     "subtitle": "",
     "description": [
-      "Senjata yang ditugaskan kepada para ksatria istana",
-      "Mereka melambangkan jalan perlindungan bagi para ksatria"
+      "Senjata yang diberikan pada ksatria istana. Melambangkan jalan",
+      "perlindungan para ksatria."
     ],
     "ability": [
-      "Saat HP<\\c[10]30%\\c[0], serangan senjata ini berlipat ganda"
+      "Stamina < \\c[10]30%\\c[0]: serangan senjata berlipat ganda."
     ]
   },
   "10": {
     "name": [
-      "Pedang Besar Perak"
+      "Pedang Besar Perak Berkilau"
     ],
     "subtitle": "",
     "description": [
-      "Pedang besar, sepertinya ditempa dari perak,",
-      "memancarkan cahaya yang menyilaukan. Permukaannya bersinar dingin dan keras,",
-      "meskipun materi aslinya masih belum diketahui"
+      "Pedang raksasa seolah ditempa dari perak, memancarkan cahaya",
+      "menyilaukan. Bilahnya memancarkan cahaya dingin, namun tak jelas",
+      "dari logam apa ia ditempa."
     ],
     "ability": [
-      "Saat HP turun di bawah \\c[29]400\\c[0], potensi penuh senjata menjadi terbatas!"
+      "Stamina < \\c[29]400\\c[0]: performa senjata menurun."
     ]
   },
   "11": {
     "name": [
-      "Palu Berat"
+      "Palu Kayu Besar"
     ],
     "subtitle": "",
     "description": [
-      "Palu kayu besar",
-      "Pukulan di kepala pasti bikin pusing!"
+      "Palu kayu besar yang berat. Jika menghantam kepala, pasti langsung",
+      "membuat pusing tujuh keliling!"
     ],
     "ability": [
-      "33% kemungkinan menimbulkan kondisi Pingsan saat menyerang",
-      "Saat HP turun di bawah \\c[29]400\\c[0], potensi penuh senjata menjadi terbatas!"
+      "33% musuh Pusing. Stamina < \\c[29]400\\c[0]: performa turun."
     ]
   },
   "12": {
     "name": [
-      "Pentungan baseball"
+      "Tongkat Bisbol"
     ],
     "subtitle": "",
     "description": [
-      "Klub logam. Dikatakan digunakan untuk olahraga,",
-      "tapi itu juga bagus untuk memukul orang."
+      "Tongkat dari logam. Konon, ini untuk olahraga. Namun, sangat cocok",
+      "juga untuk memukul orang, dengan kemampuan memukul balik benda yang",
+      "terbang mendekat."
     ],
     "ability": [
-      "Peningkatan Daya Tahan!",
-      "Proyektil yang dipantulkan bergerak lebih cepat dan menghasilkan lebih banyak kerusakan"
+      "Sulit rusak! Proyektil dipukul balik jadi lebih cepat & lebih kuat."
     ]
   },
   "13": {
@@ -168,74 +171,77 @@
       "Tulang Ikan Busuk"
     ],
     "subtitle": [
-      "Terlalu bau, buang saja!"
+      "Terlalu bau, cepat buang saja!"
     ],
     "description": [
-      "Sisa tulang ikan besar, dengan daging busuk",
-      "masih menempel pada mereka, mengeluarkan bau busuk yang tak tertahankan"
+      "Tulang ikan besar sisa makan, daging yang menempel sudah lama",
+      "membusuk. Terus-menerus tercium bau busuk yang tak tertahankan."
     ],
     "ability": [
-      "66% kemungkinan menimbulkan status Racun saat menyerang",
-      "Mengeluarkan bau busuk, bahkan monster pun lari!"
+      "Saat menyerang, 66% kemungkinan menyebabkan status Keracunan.",
+      "Kau akan terus memancarkan bau busuk, membuat monster ketakutan!"
     ]
   },
   "14": {
     "name": [
-      "Cakar Kepiting Raksasa"
+      "Capit Kepiting Raksasa"
     ],
     "subtitle": "",
     "description": [
-      "Cakar kepiting besar yang menjepit erat dan tidak mau lepas",
-      "Setelah menempel pada sesuatu, semoga berhasil melepaskannya"
+      "Capit kepiting raksasa, mampu menjepit target dengan kuat, takkan",
+      "pernah dilepaskan. Karena itu, jika benar-benar menjepit sesuatu,",
+      "takkan bisa dilepaskan lagi..."
     ],
     "ability": [
-      "Saat dilempar, ia menempel pada target, menimbulkan kerusakan konstan",
-      "Tidak dapat diambil kecuali targetnya mati"
+      "Saat senjata dilempar, ia akan menjepit target dan terus memberikan kerusakan.",
+      "Senjata takkan bisa diambil kembali kecuali target mati."
     ]
   },
   "15": {
     "name": [
-      "bulan beku"
+      "Bulan Beku"
     ],
     "subtitle": [
-      "Menjilat bilahnya dan membuat lidahku tersangkut… Dingin sekali, sangat menyakitkan!",
-      "\\str[121], jangan jilat barang sembarangan!"
+      "「Ingin meniru penjahat besar menjilat bilah pedang, tapi lidahku \nmalah membeku di sana... Dingin sekali, sakit sekali!」",
+      "「\\str[121]! Jangan sembarangan menjilat benda yang kau temukan, ya!」"
     ],
     "description": [
-      "Pedang ajaib yang terbuat dari es, tepat di dekatnya mengirimkan hawa dingin yang menusuk"
+      "Pedang iblis dengan bilah es, hanya mendekat saja sudah terasa hawa",
+      "dingin yang luar biasa."
     ],
     "ability": [
-      "50% kemungkinan menimbulkan status Freeze saat menyerang"
+      "Serangan punya 50% peluang memberi status Beku."
     ]
   },
   "16": {
     "name": [
-      "Pedang Listrik Bocor"
+      "Barang Rusak yang Bocor Listrik"
     ],
     "subtitle": [
-      "Zap..zap..!"
+      "Bzzzt... Bzzzt...!"
     ],
     "description": [
-      "Pedang terkutuk yang dipenuhi energi liar, tapi masih rusak",
-      "Hati-hati—ini mungkin juga mengejutkan pengguna"
+      "Pedang iblis yang penuh energi liar, tapi sudah rusak. Harus",
+      "hati-hati, pengguna pun bisa ikut tersengat listrik."
     ],
     "ability": [
-      "50% kemungkinan menimbulkan status Lightning saat menyerang"
+      "Serangan punya 50% peluang memberi status Tersambar Petir."
     ]
   },
   "17": {
     "name": [
-      "sinar matahari"
+      "Kala Panas"
     ],
     "subtitle": [
-      "\\str[121], kelihatannya menakutkan, tolong jangan dipegang."
+      "\\str[121]! Itu terlihat mengerikan, jangan pegang!"
     ],
     "description": [
-      "Pedang ajaib yang menyerap energi matahari seiring berjalannya waktu",
-      "Tampaknya sangat efektif melawan monster tertentu"
+      "Pedang iblis yang ditempa dari bijih besi khusus, menyerap energi",
+      "matahari setelah lama terpapar terik. Memancarkan gelombang panas",
+      "yang hangat, tampaknya sangat mematikan bagi monster tertentu."
     ],
     "ability": [
-      "40% kemungkinan menimbulkan status Burn saat menyerang"
+      "Saat menyerang, 40% peluang memberi status Terbakar."
     ]
   },
   "18": {
@@ -244,26 +250,25 @@
     ],
     "subtitle": "",
     "description": [
-      "Kapak besar yang terbuat dari tulang musuh yang dikalahkan. Bukan",
-      "sangat tajam, dan para Orc sering kali lebih memilih untuk melemparkannya daripada",
-      "menggunakannya dalam pertarungan jarak dekat"
+      "Kapak besar yang terbuat dari tulang belulang rampasan. Tidak",
+      "terlalu tajam, para Orc lebih suka langsung melemparkannya."
     ],
     "ability": [
-      "Memberikan kerusakan ekstra saat senjata dilempar"
+      "Kerusakan tambahan saat melempar senjata."
     ]
   },
   "19": {
     "name": [
-      "Nichirin"
+      "Cakram Matahari"
     ],
     "subtitle": "",
     "description": [
-      "Replika yang ditempa meniru iblis api terlarang",
-      "pedang dari mitos. Secara alami, ia tidak bisa memanggil bumi yang menghanguskan",
-      "api neraka seperti aslinya."
+      "Replika yang ditempa meniru pedang iblis api terlarang dari mitos.",
+      "Tentu saja, tidak bisa memanggil api neraka yang membakar bumi",
+      "seperti prototipe aslinya."
     ],
     "ability": [
-      "Dapat memanggil meteor untuk menyerang lokasi acak saat menyerang"
+      "Saat menyerang, bisa memanggil meteor ke lokasi acak."
     ]
   },
   "20": {
@@ -272,12 +277,12 @@
     ],
     "subtitle": "",
     "description": [
-      "Pedang besi tua yang berkarat, sudah lama kehilangan ketajamannya",
-      "Dari sudut pandang lain, korosi itu sendiri sangat mematikan..."
+      "Pedang besi tua yang penuh karat, telah lama kehilangan",
+      "ketajamannya. Namun, karat ini, dari sudut pandang lain, adalah",
+      "keberadaan yang sangat berbahaya..."
     ],
     "ability": [
-      "15% kemungkinan menimbulkan status Racun saat menyerang",
-      "Selalu menimbulkan Racun pada target yang berdarah"
+      "Serangan: 15% peluang Keracunan, pasti jika target Pendarahan."
     ]
   },
   "21": {
@@ -285,14 +290,15 @@
       "Dari Neraka"
     ],
     "subtitle": [
-      "Benda ini haus darah..."
+      "Benda ini mendambakan darah..."
     ],
     "description": [
-      "Salah satu senjata yang digunakan oleh seorang pembunuh berantai terkenal,",
-      "itu berlumuran darah"
+      "Salah satu senjata pembunuh berantai terkenal, berlumuran darah.",
+      "Senjata ini ditakuti banyak orang karena sejarah kelamnya. Digunakan",
+      "oleh para pembunuh legendaris."
     ],
     "ability": [
-      "45% kemungkinan menimbulkan status Pendarahan saat menyerang"
+      "Serangan punya 45% peluang memberi status Pendarahan."
     ]
   },
   "22": {
@@ -301,27 +307,12 @@
     ],
     "subtitle": [],
     "description": [
-      "Palu berat yang pernah digunakan oleh pandai besi untuk menempa logam",
-      "Sekarang dipegang di tangan seseorang dan digunakan untuk berbagai tujuan aneh"
+      "Palu besi yang terlalu berat untuk diayunkan, awalnya adalah alat",
+      "pandai besi untuk menempa logam. Kini dipegang oleh seseorang dan",
+      "digunakan sebagai alat serbaguna dalam berbagai situasi."
     ],
     "ability": [
-      "Memukul senjata yang diletakkan di landasan akan memperbaikinya",
-      "Melepaskan palu ini juga akan menghilangkan landasan yang dipanggil"
-    ]
-  },
-  "25": {
-    "name": [
-      "Lagu Tidewyrm"
-    ],
-    "subtitle": "",
-    "description": [
-      "Tongkat yang dibuat dari kristal ajaib lembab, selalu basah kuyup",
-      "Ia hanya mengungkapkan kekuatan sebenarnya ketika menggunakan air sebagai medianya",
-      "cukup merepotkan!"
-    ],
-    "ability": [
-      "Casting di dekat air meningkatkan sihir",
-      "Tahan tombol kanan mouse untuk mengeluarkan Ripple Thrust"
+      "Serang di landasan untuk perbaikan & tambah daya tahan; \nlepas senjata batalkan landasan."
     ]
   },
   "24": {
@@ -330,12 +321,26 @@
     ],
     "subtitle": "",
     "description": [
-      "Greataxe yang digunakan oleh Orc yang terbiasa dengan kekuatan alam.",
-      "Setiap ayunan merobek bumi dan mengirimkan angin kencang yang melolong dengan pedangnya"
+      "Kapak sihir besar milik Orc tingkat tinggi yang telah memahami",
+      "kekuatan alam. Setiap ayunan terasa berat dan kuat, seolah merobek",
+      "bumi. Angin kencang pun menderu keluar bersama mata kapak."
     ],
     "ability": [
-      "Memiliki peluang mengeluarkan semburan angin saat menyerang",
-      "Saat HP turun di bawah \\c[29]400\\c[0], potensi penuh senjata menjadi terbatas!"
+      "Serangan bisa picu angin kencang; stamina <\\c[29]400\\c[0] senjata tak optimal."
+    ]
+  },
+  "25": {
+    "name": [
+      "Puisi Pasang Surut"
+    ],
+    "subtitle": "",
+    "description": [
+      "Tongkat sihir dari kristal sihir basah, selalu menetes ke mana-mana.",
+      "Kekuatan sejatinya hanya muncul dengan air sebagai medium. Sungguh",
+      "tak nyaman digunakan tanpa adanya air di sekitarnya."
+    ],
+    "ability": [
+      "Mantra dekat air memperkuat sihir. Tahan klik kanan untuk merapal \\c[27]Tusukan Riak\\c[0]."
     ]
   },
   "26": {
@@ -344,146 +349,156 @@
     ],
     "subtitle": "",
     "description": [
-      "Tongkat yang dihiasi batu permata yang berkilau seperti Bima Sakti",
-      "Jalan. Ia memiliki kekuatan untuk menciptakan medan gravitasi yang kuat,",
-      "menarik penyusup ke kedalaman kegelapan"
+      "Tongkat sihir bertatahkan permata sihir yang bersinar bak galaksi.",
+      "Mampu menciptakan medan gravitasi kuat, menarik segalanya ke jurang",
+      "kegelapan."
     ],
     "ability": [
-      "Tahan tombol kanan mouse untuk melemparkan Black Hole"
+      "Tahan klik kanan untuk merapal \\c[27]Lubang Hitam Gravitasi\\c[0]."
     ]
   },
   "27": {
     "name": [
-      "Bilah Spora Beracun"
+      "Jarum Spora Beracun"
     ],
     "subtitle": "",
     "description": [
-      "Pedang tipis dijatuhkan oleh Walking Mushrooms. Bilahnya tumpul",
-      "dilapisi dengan spora beracun, menjamin racun pada setiap serangan",
-      "Meskipun daya tahannya rendah, racunnya membuatnya sangat efektif"
+      "Rapier aneh dari jamur berjalan. Bilahnya tak tajam, namun",
+      "diselimuti spora beracun. Begitu menusuk musuh, racun akan",
+      "mengikisnya tanpa ampun. Sebagai senjata, kekerasannya rendah, namun",
+      "kegunaannya sangat tinggi berkat racunnya."
     ],
     "ability": [
-      "Serangan memiliki peluang 50% untuk menimbulkan status Racun"
+      "Serangan punya 50% peluang menyebabkan Keracunan."
+    ]
+  },
+  "29": {
+    "name": [
+      "Tongkat Pembasmi Hama"
+    ],
+    "subtitle": "",
+    "description": [
+      "Tongkat sihir khusus, dimodifikasi oleh alkemis yang lama menderita",
+      "karena hama. Mampu seketika menghasilkan gas beracun tinggi,",
+      "membunuh makhluk-makhluk kecil itu. Konon, ia juga berfungsi sebagai",
+      "penghilang bau dan disinfektan."
+    ],
+    "ability": [
+      "Tahan klik kiri untuk merapal \\c[27]Sihir Pembasmi Hama\\c[0]."
     ]
   },
   "30": {
     "name": [
-      "Kanisaa"
+      "Kanemitsu"
     ],
     "subtitle": "",
     "description": [
-      "Katana tercinta yang menemani seorang gadis berjuang",
-      "puncak ilmu pedang—tidak pernah lepas dari genggamannya, bahkan saat tidur",
-      "Tajam atau tidak, itu tetap menjadi saksi perjalanannya"
+      "Pedang kesayangan yang menemani gadis yang bertujuan mencapai puncak",
+      "ilmu pedang selama bertahun-tahun, tak pernah terlepas bahkan dalam",
+      "tidurnya. Tak peduli apakah ia masih tajam, ia telah menjadi saksi",
+      "dan sahabat paling setia dalam perjalanan gadis itu mencari",
+      "kebenaran."
     ],
     "ability": [
-      "Sangat meningkatkan efek dari semua keterampilan yang dipelajari"
+      "Efek semua skill yang dikuasai sangat diperkuat."
     ]
   },
   "35": {
     "name": [
-      "Pedang ringan"
+      "Cahaya Kliou"
     ],
     "subtitle": [
-      "Hah? Saya tidak bisa melihat apa pun! Ini bukan gagang pedang!?"
+      "Hah? Aku tak bisa melihat! Mana gagang pedang?!"
     ],
     "description": [
-      "Diberkati oleh cahaya, bilahnya membengkokkan cahaya, menjadi pedang yang tak terlihat",
-      "Hal ini membuatnya setajam silet, dan bila diperlukan, pancarannya akan terpancar"
+      "Pedang iblis yang mendapat berkat cahaya, bilahnya terus menarik",
+      "cahaya di sekitarnya, menyembunyikan wujud aslinya. Dan karena",
+      "itulah, ketajamannya semakin menusuk dan mematikan. Dan saat",
+      "benar-benar dibutuhkan, berkatnya dapat dilepaskan, membiarkan",
+      "cahaya tersembunyi memancar keluar."
     ],
     "ability": [
-      "Serangan sepenuhnya mengabaikan pertahanan target"
+      "Serangan sepenuhnya mengabaikan pertahanan lawan."
     ]
   },
   "36": {
     "name": [
-      "Penerimaan"
+      "Pedang Pemotong Tyrfing"
     ],
     "subtitle": "",
     "description": [
-      "Pedang ajaib buatan manusia dengan bilah yang ditempa dari kristal mana",
-      "Setiap tebasan mengeluarkan gelombang pedang yang nyata. Untuk pendekar pedang yang terampil,",
-      "itu adalah senjata yang sangat meningkatkan kekuatan mereka"
+      "Pedang iblis buatan, bilahnya ditempa dari kristal sihir. Setiap",
+      "tebasan dapat melepaskan gelombang pedang yang terwujud, bagai bilah",
+      "tajam menembus udara. Bagi para pendekar yang mahir ilmu pedang, ini",
+      "adalah senjata yang bagai sayap bagi harimau."
     ],
     "ability": [
-      "Serangan menghasilkan gelombang pedang yang menimbulkan kerusakan"
-    ]
-  },
-  "40": {
-    "name": [
-      "Palu Anti-Penindasan"
-    ],
-    "subtitle": [
-      "TIDAK ADA PENIDOLAAN!!"
-    ],
-    "description": [
-      "Senjata yang diciptakan untuk menghukum petualang jahat.",
-      "Meski hanya mainan palu, dipukul tetap saja menyakitkan."
-    ],
-    "ability": [
-      "Menimbulkan kerusakan mundur saat digunakan untuk perbuatan jahat",
-      "Semakin rendah nilai Sin Anda, semakin tinggi kerusakannya"
+      "Serangan menciptakan gelombang pedang terbang dan menyebabkan kerusakan."
     ]
   },
   "42": {
     "name": [
-      "Sabit Tangan Den"
+      "Sabit Tangan Suram milik Deng."
     ],
     "subtitle": [
-      "Ingat ini, Whirlwind Slash digunakan seperti ini!"
+      "Perhatikan, begini cara menggunakan Tebasan Angin Puyuh!"
     ],
     "description": [
-      "Sabit bergagang pendek yang dibawa oleh orang luar dengan menakutkan",
-      "desain dan keinginan tinggal di dalamnya. Memegangnya terlalu lama",
-      "dapat menyebabkan suara-suara aneh bergema di pikiran Anda"
+      "Sabit bertangkai pendek milik orang asing, dengan bentuk mengerikan",
+      "dan kehendak kuat yang bersemayam di dalamnya. Jika digunakan",
+      "terlalu lama, kau akan merasa mendengar suara aneh bergema di",
+      "kepalamu..."
     ],
     "ability": [
-      "Secara otomatis kembali ke tangan setelah dilempar dan dipukul",
-      "Ketika menangkap senjata yang kembali, bisa melemparkannya lagi"
+      "Jangkauan serangan lebih luas, dan akan otomatis kembali ke tangan saat dilempar.",
+      "Saat menangkap senjata yang kembali, kau bisa langsung melemparnya lagi."
     ]
   },
   "51": {
     "name": [
-      "Es Loli Rasa Campuran"
+      "Es Loli Rasa Campuran."
     ],
     "subtitle": "",
     "description": [
-      "Senjata yang dapat dimakan dibuat dengan hati-hati oleh Kanban Musume dari NLCH",
-      "Es loli tiga rasa yang memadukan coklat, krim, dan stroberi",
-      "Menyegarkan dan lezat! Tapi pastikan untuk menyelesaikannya sebelum meleleh..."
+      "Senjata kuliner raksasa yang dibuat dengan sepenuh hati oleh para",
+      "gadis maskot Pesta Teh. Es loli tiga warna yang memadukan rasa",
+      "cokelat, krim, dan stroberi. Dingin dan lezat! Tapi pastikan kau",
+      "menghabiskannya sebelum meleleh..."
     ],
     "ability": [
-      "Mungkin dimakan saat menyerang...",
+      "Ada kemungkinan termakan saat menyerang...",
       "Meleleh dan menghilang seiring waktu saat dilengkapi..."
     ]
   },
   "52": {
     "name": [
-      "Satuan 2"
+      "Unit Nomor Dua."
     ],
     "subtitle": "",
     "description": [
-      "Perangkat komunikasi yang dibeli dari toko yang mencurigakan",
-      "Teriakkan saja 'Api!' dan Anda akan menerima dukungan penembak jitu dari",
-      "suatu tempat. Tapi, Anda harus membayar tagihan telepon sendiri"
+      "Perangkat komunikasi yang dibeli dari toko mencurigakan. Cukup",
+      "berteriak, 『Bergerak!』 Maka kau akan menerima dukungan penembak jitu",
+      "dari tempat entah di mana. Tapi, kau harus menanggung biaya",
+      "panggilannya..."
     ],
     "ability": [
-      "Klik kiri untuk memanggil dukungan api, 1000 yen per penggunaan",
-      "Klik kanan untuk memanggil snipe jarak jauh, 500 yen per penggunaan"
+      "Klik tombol kiri mouse untuk memanggil tembakan bantuan yang berlangsung \nsesaat, sekali pakai 1000 Emas.",
+      "Klik tombol kanan mouse untuk memanggil penembak jitu jarak jauh, sekali \npakai 500 Emas."
     ]
   },
   "53": {
     "name": [
-      "Pedang Besar Kerucut"
+      "Pedang Besar Cone Es Krim."
     ],
     "subtitle": "",
     "description": [
-      "Senjata yang dapat dimakan dibuat dengan hati-hati oleh Kanban Musume dari NLCH",
-      "Sambil menjaga performa senjatanya, rasanya juga enak!"
+      "Senjata kuliner raksasa yang dibuat dengan sepenuh hati oleh para",
+      "gadis maskot Pesta Teh. Corong es krim yang penuh, ujungnya tajam",
+      "bagai pisau. Sambil menjamin performa senjata, rasanya juga luar",
+      "biasa lezat!"
     ],
     "ability": [
-      "Mungkin dimakan saat menyerang...",
-      "Meleleh dan menghilang seiring waktu saat dilengkapi..."
+      "Saat menyerang, mungkin termakan; saat dilengkapi, akan meleleh perlahan."
     ]
   },
   "54": {
@@ -492,13 +507,14 @@
     ],
     "subtitle": "",
     "description": [
-      "Wortel kelas atas yang diam-diam dibudidayakan oleh Maid Bunny",
-      "Diresapi dengan kekuatan batu, itu tumbuh menjadi kelezatan",
-      "begitu menggoda hingga bisa membuat Maid Bunny menangis penuh nafsu"
+      "Wortel raksasa yang tumbuh liar karena disuntikkan kekuatan hidup",
+      "yang melimpah. Cita rasanya yang lezat adalah godaan mematikan bagi",
+      "Kelinci Pelayan…! Bagi monster lain, ini juga kelezatan luar biasa",
+      "yang tak boleh terlewatkan."
     ],
     "ability": [
-      "Mungkin dimakan saat menyerang...",
-      "Saat dilempar, ia menembus dan mengenai semua unit yang dilewatinya"
+      "Saat menyerang, mungkin saja termakan…",
+      "Mengubah bentuk Tebasan Angin Puyuh, saat dilempar akan menusuk \nsemua unit yang terkena di jalurnya."
     ]
   },
   "55": {
@@ -507,13 +523,13 @@
     ],
     "subtitle": "",
     "description": [
-      "Wortel kelas atas yang diam-diam dibudidayakan oleh Maid Bunny",
-      "Setelah dibekukan, rasanya menjadi sekeras batu dan tidak mungkin untuk digigit",
-      "Rumornya, ini adalah simpanan musim dingin kelinci pembantu"
+      "Wortel raksasa yang tumbuh liar karena disuntikkan kekuatan hidup",
+      "yang melimpah. Setelah dibekukan, ia menjadi keras dan tak bisa",
+      "digigit. Konon, ini adalah persediaan musim dingin Kelinci Pelayan."
     ],
     "ability": [
-      "40% kemungkinan menimbulkan status Freeze saat menyerang",
-      "Saat dilempar, ia menembus dan mengenai semua unit yang dilewatinya"
+      "Saat menyerang, ada 40% kemungkinan memberikan status Beku.",
+      "Mengubah bentuk Tebasan Angin Puyuh, saat dilempar akan menusuk \nsemua unit yang terkena di jalurnya."
     ]
   },
   "56": {
@@ -522,13 +538,13 @@
     ],
     "subtitle": "",
     "description": [
-      "Wortel kelas atas yang diam-diam dibudidayakan oleh Maid Bunny",
-      "Disimpan terlalu lama, kini berjamur dan busuk...",
-      "tidak lagi bisa dimakan—kelinci pembantu menyimpannya untuk mengusir musuh"
+      "Wortel raksasa yang tumbuh liar karena disuntikkan kekuatan hidup",
+      "yang melimpah. Disimpan terlalu lama hingga berjamur dan busuk, tak",
+      "bisa dimakan. Kelinci Pelayan menyimpannya untuk mengusir musuh."
     ],
     "ability": [
-      "40% kemungkinan menimbulkan status Racun saat menyerang",
-      "Saat dilempar, ia menembus dan mengenai semua unit yang dilewatinya"
+      "Saat menyerang, ada 40% kemungkinan memberikan status Racun.",
+      "Mengubah bentuk Tebasan Angin Puyuh, saat dilempar akan menembus \nsemua unit yang terkena di jalurnya."
     ]
   },
   "57": {
@@ -537,11 +553,11 @@
     ],
     "subtitle": "",
     "description": [
-      "Sebuah mobil kelas atas ...",
-      "Hah? Apakah ini benar-benar… wortel!?"
+      "Wortel raksasa yang tumbuh liar karena disuntikkan kekuatan hidup",
+      "yang besar... Eh? Apa ini benar-benar wortel...!?"
     ],
     "ability": [
-      "Saat dilempar, ia menembus dan mengenai semua unit yang dilewatinya"
+      "Tebasan Angin Puyuh dilempar menembus semua unit di jalurnya."
     ]
   },
   "60": {
@@ -549,113 +565,148 @@
       "Pisang?"
     ],
     "subtitle": [
-      "Apakah ini benar-benar pisang...?"
+      "Apa ini benar-benar pisang...?"
     ],
     "description": [
-      "Pisang yang sudah dikupas harus dipegang dengan hati-hati"
+      "Pisang yang sudah dikupas, harus dipegang dengan hati-hati."
     ],
     "ability": [
-      "Pada kecepatan tinggi, pisang mudah terlempar... Eek!?"
+      "Dalam kecepatan tinggi, pisang ini mudah terlempar... Hah!?"
     ]
   },
   "61": {
     "name": [
-      "Vakum Siput Raksasa"
+      "Penyedot Debu Siput Raksasa"
     ],
     "subtitle": "",
     "description": [
-      "Alat penyedot debu yang terbuat dari cangkang siput raksasa",
-      "Aliran udara yang dimodifikasi untuk pengisapan yang kuat"
+      "Penyedot debu yang dimodifikasi dari cangkang siput raksasa.",
+      "Mengubah arah saluran udara, sehingga memiliki daya isap yang kuat."
     ],
     "ability": [
-      "Pegang mouse untuk menarik objek lebih dekat"
+      "Tahan tombol mouse untuk menarik objek ke dekatmu."
     ]
   },
   "62": {
     "name": [
-      "Sisa Pohon Purba"
+      "Reruntuhan Pohon Kuno"
     ],
     "subtitle": "",
     "description": [
-      "Senjata cabang yang aneh, diperoleh dari batang pohon kuno,",
-      "keras namun penuh dengan vitalitas dan masih terus berkembang"
+      "Senjata berbentuk cabang yang aneh, didapatkan secara kebetulan dari",
+      "batang pohon yang sangat tua. Keras namun tetap penuh vitalitas,",
+      "bahkan masih menunjukkan kecenderungan untuk tumbuh."
     ],
     "ability": [
-      "Mengalahkan musuh akan memperbaiki ketahanan senjata secara otomatis",
-      "Daya tahan berlebih memberikan +1 ATK per 1% di atas maks"
+      "Otomatis perbaiki durabilitas senjata saat kalahkan musuh, 1% lebih jadi +1 serangan."
     ]
   },
   "63": {
     "name": [
-      "Pisau Parasit"
+      "Pedang Parasit"
     ],
     "subtitle": "",
     "description": [
-      "Pedang yang dikonsumsi oleh pohon selama berabad-abad, dimana logam dan",
-      "kehidupan menyatu menjadi harmoni misterius. Bilahnya berdenyut seperti",
-      "ia bernapas, memancarkan kehangatan aneh pada penggunanya"
+      "Pedang yang ditelan pohon. Setelah melewati waktu yang sangat",
+      "panjang, kehidupan logam dan pohon menyatu, menampilkan harmoni",
+      "misterius. Bilahnya berdenyut seolah bernapas, menyalurkan",
+      "kehangatan aneh pada pemiliknya."
     ],
     "ability": [
-      "Memulihkan \\c[29]${Math.floor(1.2*$gameParty.leader().paramPlus(2))}\\c[0] HP ke pengguna setelah mengalahkan musuh"
+      "Pulihkan ${Math.floor(1.2*$gameParty.leader().paramPlus(2))} stamina saat kalahkan musuh."
+    ]
+  },
+  "66": {
+    "name": [
+      "Pilar Suci Ritual."
+    ],
+    "subtitle": [
+      "Petualang biasa menyebut benda ini Tanduk Rusa."
+    ],
+    "description": [
+      "Senjata favorit iblis mesum, konon dulunya adalah alat ritual.",
+      "Sebagai ciptaan iblis, material dan sihir internalnya sama sekali",
+      "tak bisa dianalisis cara kerjanya. Bagaimanapun, benda ini juga",
+      "berguna sebagai jam alarm…!"
+    ],
+    "ability": [
+      "Saat jam penuh, terima berkat misterius, semua atribut naik drastis."
     ]
   },
   "70": {
     "name": [
-      "Kemuliaan Kuno"
+      "Kemuliaan Kuno."
     ],
     "subtitle": [
-      "Melepaskan Kekuatan Emas ⬆⬆⬇⬇⬅⮕⬅⮕"
+      "Bebaskan Kekuatan Emas {⬆⬆⬇⬇⬅⮕⬅⮕}"
     ],
     "description": [
-      "Pedang iblis emas yang mempesona, salah satu harta karun",
-      "Administrator Dunia. Pria itu pernah menggunakannya,",
-      "bertarung di Abyss selama tiga hari tiga malam tanpa istirahat"
+      "Pedang iblis berkilauan emas, salah satu koleksi berharga",
+      "Administrator Dunia. Pernah digenggam oleh pria itu, bertarung",
+      "sengit di jurang selama tiga hari tiga malam tanpa memejamkan mata."
     ],
     "ability": [
-      "Melepaskan kekuatannya ketika perintah rahasia dimasukkan"
+      "Masukkan perintah misterius untuk kekuatan tak terkalahkan!"
     ]
   },
   "80": {
     "name": [
-      "Pedang Besar Daun Willow"
+      "Pedang Panjang Daun Willow."
     ],
-    "subtitle": "",
+    "subtitle": [
+      "Memetik daun, menerbangkan bunga, semua bisa melukai"
+    ],
     "description": [
-      "Petik daun, taburkan bunga, lukai musuhmu",
-      "Pedang besar yang sangat tajam berbentuk seperti daun willow"
+      "Pedang besar yang ringan namun tangguh. Bentuknya ramping dan tajam",
+      "seperti daun willow."
     ],
     "ability": [
-      "Memiliki peluang menembakkan senjata rahasia daun willow saat menyerang"
+      "Serangan bisa meluncurkan shuriken daun willow."
     ]
   },
   "81": {
     "name": [
-      "Pisau Terinfestasi"
+      "Pedang Parasit Rusak."
     ],
     "subtitle": [
-      "Ugh, slimenya masih menggeliat... Menjijikkan!!"
+      "Uwaa, lendir ini masih menggeliat... menjijikkan sekali!"
     ],
     "description": [
-      "Pedang besar yang dipenuhi slime yang tangguh dan haus akan nyawa",
-      "Keinginannya akan vitalitas membuat slime menjadi sangat agresif"
+      "Pedang besar yang diparasiti lendir berdaya hidup ulet. Hasrat akan",
+      "vitalitas membuat lendir ini sangat agresif."
     ],
     "ability": [
-      "Menimbulkan kerusakan ekstra pada musuh yang mengalami Pendarahan",
-      "Menguras darah jika target mati saat melakukan Bleeding"
+      "Serangan beri ekstra damage & serap darah jika target berdarah dan mati."
+    ]
+  },
+  "82": {
+    "name": [
+      "Tanduk Patah Heracles"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      "Pedang yang terbuat dari tanduk kokoh kumbang badak raksasa. Meski",
+      "pernah patah dalam pertempuran sengit, kekerasannya tetap teruji.",
+      "Justru karena itu, setelah menjadi senjata, daya tahannya sungguh",
+      "menakjubkan."
+    ],
+    "ability": [
+      "Kerusakan rendah konsumsi daya tahan senjata lebih sedikit, \ndi bawah ${QJ.MPMZ.tl.herculesBrokenHornEffectProcess()} tidak berkurang."
     ]
   },
   "101": {
     "name": [
-      "Busur Kayu Keras"
+      "Busur Kayu"
     ],
     "subtitle": "",
     "description": [
-      "Busur besar yang terbuat dari Kayu Keras",
-      "Ia bisa menembakkan panah, tapi performanya sangat rata-rata"
+      "Busur panjang dari kayu. Bisa ditarik untuk menembakkan panah, tapi",
+      "performanya biasa saja."
     ],
     "ability": [
-      "Tahan klik kanan untuk mengisi daya dan lepaskan \\c[27]Panah Menusuk\\c[0]",
-      "Piercing Arrow kehilangan damage per target yang ditembus"
+      "Tahan klik kanan untuk isi daya & tembak \\c[27] panah tembus \\c[0]."
     ]
   },
   "102": {
@@ -664,83 +715,112 @@
     ],
     "subtitle": "",
     "description": [
-      "Busur komposit yang mengurangi kekuatan tarik",
-      "Lebih sedikit kerusakan, tetapi tembakan cepat lebih mudah"
+      "Busur panjang dari bahan komposit, mengurangi kekuatan tarikan tali.",
+      "Meski mengurangi daya mematikan, ini membuatnya lebih mudah menembak",
+      "beruntun."
     ],
     "ability": [
-      "+Kecepatan Serangan, -20% Kerusakan, -20% Kehilangan Daya Tahan",
-      "Tahan klik kanan untuk mengisi daya dan lepaskan \\c[27]Panah Menusuk\\c[0]"
+      "Kecepatan serangan naik, kerusakan & konsumsi daya tahan turun 20%. \nTahan klik kanan untuk isi daya & tembak \\c[27] panah tembus \\c[0]"
     ]
   },
   "103": {
     "name": [
-      "Awan Matahari Terbenam"
+      "Awan Api"
     ],
     "subtitle": "",
     "description": [
-      "Busur ajaib berisi energi api",
-      "Tidak hanya membakar musuh, tapi juga menembakkan panah eksplosif"
+      "Busur sihir yang dipenuhi elemen api. Mampu membakar target, dan",
+      "juga menembakkan panah yang memicu ledakan."
     ],
     "ability": [
-      "Tahan klik kanan untuk mengisi daya dan lepaskan \\c[27]Panah Peledak\\c[0]",
-      "Explosive Arrow meledak saat terkena"
+      "Tahan klik kanan untuk isi daya & tembak \\c[27]Panah Ledakan\\c[0], \npicu ledakan besar saat kena."
     ]
   },
   "104": {
     "name": [
-      "Pengawasan Salju"
+      "Salju Abadi"
     ],
     "subtitle": "",
     "description": [
-      "Busur ajaib yang tertutup es. Menembakkan panah es",
-      "dan dapat membekukan area luas dengan tembakan bermuatan"
+      "Busur sihir yang diselimuti es. Mampu menembakkan panah yang juga",
+      "terbuat dari es. Saat diisi daya dan ditembakkan, bahkan dapat",
+      "membekukan suatu area."
     ],
     "ability": [
-      "Tahan klik kanan untuk mengisi daya dan lepaskan \\c[27]Icebound Arrow\\c[0]",
-      "Icebound Arrow membekukan target saat terkena"
+      "Tahan klik kanan untuk isi daya & tembak \\c[27]Panah Pembeku\\c[0], membekukan target saat kena."
     ]
   },
   "105": {
     "name": [
-      "Chidori"
+      "Seribu Burung"
     ],
     "subtitle": "",
     "description": [
-      "Busur emas yang mampu memanggil guntur,",
-      "dinamai karena suaranya yang mendengung mengingatkan pada kilat",
-      "Namun hati-hati—ini sangat konduktif"
+      "Busur emas yang mampu memanggil petir surgawi, dinamai demikian",
+      "karena suara dengungannya yang seperti guntur. Namun,",
+      "berhati-hatilah karena terbuat dari logam, sangat mudah tersengat",
+      "listrik..."
     ],
     "ability": [
-      "Tahan klik kanan untuk mengisi daya dan lepaskan \\c[27]Panah Guntur\\c[0]"
+      "Tahan klik kanan untuk isi daya & tembak \\c[27]Panah Petir\\c[0]."
     ]
   },
   "106": {
     "name": [
-      "Busur Terkutuklah Hellhound"
+      "Cerberus Busur Tiga Kepala"
     ],
     "subtitle": "",
     "description": [
-      "Produk dari Abyss, kaleng busur berbentuk aneh ini",
-      "menembakkan beberapa anak panah secara bersamaan. Namun,",
-      "busur ajaib yang menakutkan ini tetap tersegel, dengan kekuatan sebenarnya yang belum dilepaskan"
+      "Produk dari jurang. Busur berbentuk aneh yang mampu menembakkan",
+      "banyak panah sekaligus. Namun, busur sihir yang memancarkan aura",
+      "aneh ini tampaknya masih dalam kondisi kekuatannya tersegel."
     ],
     "ability": [
-      "Tahan klik kanan untuk mengisi daya dan lepaskan \\c[27]Panah Menusuk\\c[0]"
+      "Tahan klik kanan untuk isi daya & tembak \\c[27]Panah Penembus\\c[0]."
     ]
   },
   "107": {
     "name": [
-      "Perburuan Darah"
+      "Pemburu Darah"
     ],
     "subtitle": "",
     "description": [
-      "Busur besar berlumuran darah.",
-      "Setiap undian membuat talinya basah oleh darah penggunanya sendiri,",
-      "sampai anak panah itu kembali dengan persembahan yang lebih manis"
+      "Busur panjang yang berlumuran darah. Setiap kali busur ditarik, tali",
+      "busur akan berlumuran darah sang pemilik. Hingga anak panah membawa",
+      "kembali persembahan yang lebih manis."
     ],
     "ability": [
-      "Tahan klik kanan untuk mengisi daya dan melepaskan \\c[27]Panah Penusuk Darah\\c[0]",
-      "Mengkonsumsi HP untuk memberdayakan tembakan. Membunuh anak panah menguras darah"
+      "Tahan klik kanan untuk isi daya & tembak \\c[27]Panah Penembus Darah\\c[0]. \nStamina berkurang, damage naik, darah pulih setelah membunuh."
+    ]
+  },
+  "250": {
+    "name": [
+      "Palu Neraka"
+    ],
+    "subtitle": "",
+    "description": [
+      "Palu aneh yang diproses dan ditempa dengan cermat dari ingot Batu",
+      "Neraka. Berkat kekerasannya yang menakjubkan, dan kekuatan sihir",
+      "dahsyat yang melingkupinya, Hampir mampu menghancurkan sebagian",
+      "besar benda di dunia hanya dengan satu serangan."
+    ],
+    "ability": [
+      "Kerusakan ke entitas yang bisa dihancurkan meningkat drastis."
+    ]
+  },
+  "251": {
+    "name": [
+      "Sekop Neraka"
+    ],
+    "subtitle": "",
+    "description": [
+      "Sekop aneh yang diproses dan ditempa dengan cermat dari ingot Batu",
+      "Neraka. Berkat kekerasannya yang menakjubkan, dan kekuatan sihir",
+      "dahsyat yang melingkupinya, Bahkan tanah yang kokoh pun akan",
+      "terkoyak paksa di bawahnya."
+    ],
+    "ability": [
+      "Dapat hancurkan tanah & buat jalur ke lapisan bawah."
     ]
   }
 }
