@@ -644,7 +644,7 @@
             "cũng có thể dễ dàng kích hoạt hiệu ứng"
         ],
         "ability": [
-            "Khi sử dụng, triệu hồi Trụ Bị Phong Ấn"
+            "Khi sử dụng, triệu hồi Trụ Phong Ấn"
         ]
     },
     "63": {
@@ -768,8 +768,8 @@
         "beIndependent": true,
         "subtitle": "",
         "description": [
-            "Một sinh vật đồng hành của một ác ma nào đó. Thả nó ra",
-            "Thả nó ra sẽ tiết lộ vị trí của ác ma",
+            "Một sinh vật đồng hành của một ác ma nào đó.",
+            "Thả nó ra thì sẽ tiết lộ vị trí của ác ma",
             "Rốt cuộc nó là mèo, một miếng sushi, hay là bánh pudding?",
             "Bất kể hình dạng thật sự là gì, trông nó vẫn rất ngon!"
         ],

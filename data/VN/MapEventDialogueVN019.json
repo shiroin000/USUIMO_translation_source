@@ -29,7 +29,7 @@
         ],
         "11": [
             "\\str[120] ngủ hăng say thật, ",
-            "chắc là mình chạm nhẹ vài cái cũng sẽ không bị phát hiện đâu nhỉ...?",
+            "nếu mình chạm nhẹ vài cái chắc sẽ không bị phát hiện đâu nhỉ...?",
             "\\w[60]\\^"
         ],
         "12": [
@@ -42,7 +42,7 @@
             "\\w[60]\\^"
         ],
         "14": [
-            "Mà thôi, lại gần thêm chút đi... ",
+            "Mà thôi, lại gần thêm chút vậy... ",
             "Mình muốn nhìn em ấy rõ hơn nữa.",
             "\\w[60]\\^"
         ],
@@ -52,13 +52,13 @@
         ],
         "16": [
             "Quay về ngủ",
-            "Ở lại thêm chút nữa"
+            "\\fs[22]Ở lại thêm chút nữa"
         ],
         "17": [
             "Ừ, mình cũng nên nhanh chóng quay lại ngủ thôi."
         ],
         "18": [
-            "Hay là ở lại thêm một lúc nữa.",
+            "Hay là ở lại thêm một lúc nữa vậy.",
             "Gương mặt lúc ngủ không chút đề phòng này nhìn mãi cũng không chán..."
         ],
         "19": [
@@ -85,7 +85,7 @@
         ],
         "24": [
             "Tôi cẩn thận lật nhẹ người \\str[120] lại.",
-            "Dù tiếng vải cọ vào ga giường vang lên rõ mồn một trong không gian tĩnh lặng ",
+            "Dù tiếng vải cọ vào ga giường vang lên rõ ràng trong không gian tĩnh lặng ",
             "nhưng \\str[120] dường như vẫn chìm sâu trong giấc mơ ",
             "hoàn toàn không có dấu hiệu tỉnh dậy."
         ]
@@ -159,7 +159,7 @@
             "khẽ vuốt ve qua phần chân tóc bết dính, ",
             "đồng thời cảm nhận mùi hương đậm đặc gần như nồng lại ấy.",
             " ",
-            "Dù cơ thể em ấy khẽ run lên theo phản xạ vì hơi nóng, ",
+            "Dù cơ thể em ấy khẽ run lên theo phản xạ vì hơi ấm, ",
             "nhưng đôi mày vốn đang nhíu lại dần dần giãn ra."
         ],
         "7": [
@@ -223,7 +223,7 @@
             "kéo căng mu bàn chân trắng mịn thành một đường cong đầy mê hoặc."
         ],
         "6": [
-            "Ở tư thế nằm nghiêng, ",
+            "Lúc đang ở tư thế nằm nghiêng, ",
             "phần bụng của \\str[120] tạo thành một đường cong phẳng lặng và mềm mại.",
             "Nó nhịp nhàng nâng lên hạ xuống theo từng hơi thở đều đặn, ",
             "toát lên vẻ mong manh, thuần khiết."
@@ -280,6 +280,10 @@
             "Bắt đầu từ mép quần đùi, ",
             "kéo xuống từng chút một..."
         ],
+        "4":[
+            "Được rồi, cứ từ từ kéo xuống chậm rãi thế này,",
+            "nó cũng sẽ dần lộ ra thôi"
+        ],
         "5": [
             "Đã kéo đến đùi rồi.",
             "Hít một hơi thật sâu, ",
@@ -322,8 +326,8 @@
             "Mình có nên tranh thủ làm gì đó không nhỉ...?"
         ],
         "4": [
-            "Nâng mông em ấy lên",
-            "Chỉnh lại tư thế ngủ"
+            "\\fs[22]Nâng mông em ấy lên",
+            "\\fs[22]Chỉnh lại tư thế ngủ"
         ],
         "5": [
             "Hmm... với tư thế này, ",
@@ -353,7 +357,7 @@
             "Chạm vào mông",
             "Cởi quần lót",
             "Cởi quần đùi",
-            "Chỉnh lại tư thế ngủ"
+            "\\fs[22]Chỉnh lại tư thế ngủ"
         ],
         "12": [
             "Khi mảnh vải che phủ cuối cùng được gỡ bỏ, ",
@@ -446,7 +450,7 @@
         "3": [
             "Chiếc áo đã bị kéo xuống quá nửa. ",
             "Bộ ngực của \\str[120] gần như lộ ra hoàn toàn.",
-            "Núm và quầng ngực mang màu sắc hồng tươi non nớt, ",
+            "Núm vú và quầng ngực mang màu sắc hồng tươi non nớt, ",
             "hình dáng tròn trịa hoàn mỹ."
         ],
         "4": [
@@ -477,7 +481,7 @@
             "đều như đang chạm vào một ranh giới cháy bỏng."
         ],
         "9": [
-            "Hai quả núm hồng hào đã cương cứng hoàn toàn.",
+            "Hai quả núm vú hồng hào đã cương cứng hoàn toàn.",
             "Khi tôi dùng đầu ngón tay nắn nhẹ, cảm giác nóng bỏng ấy,",
             "hoàn toàn khác hẳn so với lúc chạm qua lớp vải."
         ],
@@ -495,7 +499,7 @@
             "dưới lực tay mà biến đổi thành đủ hình dạng dâm dục khác nhau."
         ],
         "13": [
-            "Thỉnh thoảng lòng bàn tay tôi lại khẽ chạm phải núm cương cứng nhỏ ấy.",
+            "Thỉnh thoảng lòng bàn tay tôi lại khẽ chạm phải núm vú cương cứng nhỏ ấy.",
             "Nếu cảm nhận kỹ, có thể nhận ra rõ ràng nhiệt độ cơ thể ",
             "của \\str[120] đang dần tăng lên."
         ],
@@ -510,7 +514,7 @@
             "khiến những lần chạm qua lớp áo trước đó trở nên nhạt nhòa hẳn."
         ],
         "16": [
-            "Khi tôi véo và trêu chọc núm nhỏ bé ấy mạnh hơn một chút,",
+            "Khi tôi véo và trêu chọc núm vú nhỏ bé ấy mạnh hơn một chút,",
             "một tiếng thở gấp khe khẽ thoát ra từ môi em ấy, cơ thể nhỏ nhắn khẽ run lên."
         ],
         "17": [
@@ -677,93 +681,93 @@
             "cũng sắp bị thấm ướt hoàn toàn."
         ],
         "44": [
-            "I reached out, ",
-            "expecting to be blocked by the fabric of her panties,",
-            "but the moment my fingertips brushed against them, ",
-            "I was enveloped in wetness.",
-            "Those sticky fluids had already overflowed, ",
-            "soaking through the folds of the fabric and ",
-            "coating the gaps between my fingers."
+            "Tôi vươn tay ra, ",
+            "cứ tưởng rằng sẽ bị lớp vải quần lót của em ấy cản lại,",
+            "nhưng ngay khi đầu ngón tay chạm vào, ",
+            "một cảm giác ẩm ướt đã bao trùm lấy tôi.",
+            "Chất dịch dính nhớp đó dường như đã tràn ra từ trước, ",
+            "thấm qua các lớp vải và len vào cả những kẽ ngón tay tôi.",
+            " "
         ],
         "45": [
-            "I tried to reach over, ",
-            "my fingertips sinking into the layers of bunched-up white fabric.",
-            "The sensation of the thick weave completely masked ",
-            "the tenderness beneath.",
-            "aside from the overwhelming feeling of cotton, ",
-            "I couldn't feel a thing."
+            "Tôi thử đưa tay vào sâu hơn, ",
+            "đầu ngón tay lún vào những lớp vải trắng nhăn nhúm.",
+            "Cảm giác thô dày của sợi vải gần như che lấp hoàn toàn ",
+            "sự mềm mại bên dưới.",
+            "Ngoài cảm giác của lớp vải cotton dày đặc, ",
+            "tôi gần như không thể cảm nhận được gì khác."
         ],
         "46": [
-            "Without the thick barrier of her shorts, ",
-            "only a thin layer of white fabric now stood ",
-            "before \\str[120]'s crotch.",
+            "Không còn lớp vải dày cản trở của chiếc quần đùi, ",
+            "giờ chỉ còn một lớp vải trắng mỏng manh ",
+            "che trước phần dưới của \\str[120].",
             " ",
-            "I rested my hand over it, ",
-            "rubbing the soft mounds through her panties to my heart's content,",
-            "feeling the waves of body heat radiating from beneath the cloth."
+            "Tôi đặt tay lên đó, ",
+            "tùy ý xoa nắn qua lớp quần lót, cảm nhận từng đợt ",
+            "nhiệt cơ thể lan tỏa từ bên dưới lớp vải."
         ],
         "47": [
-            "I then went a step further, ",
-            "wedging my fingers between the folds of the panties",
-            "and cautiously probing into that narrow crease."
+            "Tôi tiếp tục tiến thêm một bước, ",
+            "luồn ngón tay vào giữa những nếp vải của chiếc quần lót ",
+            "và thận trọng thăm dò vào khe hẹp đó."
         ],
         "48": [
-            "Since her juices had long since soaked through ",
-            "the fabric, my fingertips sank deep into the ",
-            "crevice with almost no effort at all.",
+            "Vì chất dịch ẩm đã sớm thấm ướt lớp vải, ",
+            "đầu ngón tay tôi gần như không gặp chút cản trở nào ",
+            "mà lún sâu vào khe ấy.",
             " ",
-            "A series of thick, ",
-            "wet squelching sounds followed every stir of my fingers."
+            "Mỗi lần ngón tay cử động, ",
+            "lại vang lên những âm thanh ướt át, nặng nề."
         ],
         "49": [
-            "Despite only reaching a shallow depth,",
-            "my finger pads were already making tangible contact ",
-            "with that tender, inner flesh.",
+            "Dù mới chỉ chạm đến lớp nông bên ngoài,",
+            "phần đầu ngón tay tôi đã có thể cảm nhận rõ ràng ",
+            "lớp thịt mềm mại, nhạy cảm bên trong.",
             " ",
-            "The slick, clinging suction left me yearning to ",
-            "probe even deeper within..."
+            "Cảm giác trơn trượt, bám dính ấy khiến tôi ",
+            "càng muốn tiến sâu hơn nữa..."
         ],
         "50": [
-            "I thought taking them off just a bit would give me free rein,",
-            "but the annoying fabric all bunched together, ",
-            "completely obstructing the most critical area.",
+            "Tôi vốn nghĩ chỉ cần kéo xuống một chút là có thể tùy ý hành động,",
+            "nhưng lớp vải phiền phức lại dồn lại với nhau, ",
+            "hoàn toàn cản trở phần quan trọng nhất.",
             " ",
-            "All I could feel was the dry texture of the weave. ",
-            "the frustration of missing the mark made my heart itch."
+            "Những gì tôi cảm nhận được chỉ là kết cấu khô của sợi vải. ",
+            "Sự thất vọng vì không đạt được mục tiêu khiến tim tôi nhói lên."
         ],
         "51": [
-            "With the final layer of fabric gone, ",
-            "\\str[120]'s pussy was now displayed completely bare before my eyes,",
-            "that tender pink view demanding every ounce of my attention."
+            "Khi lớp vải cuối cùng biến mất, ",
+            "âm hộ của \\str[120] hoàn toàn phơi bày trước mắt,",
+            "vẻ đẹp hồng hào non mềm ấy chiếm trọn mọi sự chú ý tôi."
         ],
         "52": [
-            "Holding my breath, I tentatively extended my index finger, ",
-            "carefully parting those tightly closed labia",
-            "so that I could explore even deeper in the moments to follow."
+            "Tôi nín thở, dè dặt đưa ngón trỏ ra, ",
+            "cẩn thận tách nhẹ phần âm hộ đang khép chặt để có thể ",
+            "thăm dò sâu hơn trong những khoảnh khắc tiếp theo."
         ],
         "53": [
-            "Soaked repeatedly by her juices, ",
-            "her labia were now as soft as pudding and so slick ",
-            "my fingertips almost slipped.",
+            "Bị ướt đẫm bởi dịch tiết của em ấy, ",
+            "phần âm hộ giờ đây mềm mại như pudding ",
+            "trơn trượt đến mức đầu ngón tay tôi suýt trượt đi.",
             " ",
-            "With a gentle squeeze, ",
-            "I could feel a flood of sticky fluid being forced out ",
-            "between my fingers."
+            "Chỉ cần khẽ bóp nhẹ, ",
+            "tôi có thể cảm nhận được dòng chất lỏng nhớp nháp ",
+            "đang trào ra giữa các ngón tay tôi."
         ],
         "54": [
-            "The sensation against my fingertips was ",
-            "impossibly soft, slick, and delicate.",
+            "Cảm giác truyền đến đầu ngón tay mềm mại, ",
+            "trơn mịn và mong manh đến khó tin.",
             " ",
             " ",
-            "I patiently traced the entire length of that ",
-            "narrow slit from top to bottom,",
-            "feeling every curve and fold."
+            "Tôi kiên nhẫn lần theo toàn bộ khe hẹp đó ",
+            "từ trên xuống dưới,",
+            "cảm nhận từng đường cong và nếp gấp."
         ],
         "55": [
-            "Though her panties weren't entirely off, ",
-            "\\str[120]'s pussy had lost its cover.",
-            "That pink, tightly closed slit lay exposed, ",
-            "radiating waves of tempting heat."
+            "Dù chiếc quần lót vẫn chưa hoàn toàn được cởi ra, ",
+            "nhưng âm hộ của \\str[120] đã không còn được che chắn.",
+            "Khe hồng khép kín ấy phơi bày ra ngoài, ",
+            "tỏa ra từng đợt hơi nóng đầy mê hoặc."
         ]
     }
 }

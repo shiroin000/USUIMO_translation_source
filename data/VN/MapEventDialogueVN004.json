@@ -532,9 +532,9 @@
 			"Quay về"
         ],
 		"2": [
-            "Đã đến lúc thể hiện tuyệt kỹ ",
-			"di chuyển vô ảnh ",
-			"mà mình đã luyện mấy ngày nay—"
+            "Đã đến lúc thể hiện tuyệt kỹ di chuyển vô ảnh ",
+			"mà mình đã luyện mấy ngày nay rồi—",
+			" "
         ],	
 		"3": [
             "Rón rén, rón rén..."
@@ -727,7 +727,7 @@
             "Lại bị phát hiện nhìn trộm rồi nhé!\""
         ],
         "2": [
-            "\\nl< >\"...\\str[121], đồ biến thái.\""
+            "\\nl< >\"...\\str[121] là đồ biến thái.\""
         ],
         "3": [
             "\\nl< >\"\\str[121], anh đang nhìn đi đâu vậy?\""
@@ -1143,7 +1143,7 @@
             "\\nl< >\"...\\str[121]?\""
         ],
         "13": [
-            "\\nl< >\\{\"Anh đúng là đồ ngốc, \\str[121]! \\w[60]",
+            "\\nl< >\\{\"\\str[121] đúng là đồ ngốc! \\w[60]",
 			"Em không thèm nói chuyện với anh nữa đâu!\""
         ],
         "14": [
@@ -1831,7 +1831,7 @@
 		],
         "6": [
             "\\nl< >\"Dạo này anh đi ngủ sớm quá, \\str[121]...     \\w[150]",
-			"Em cảm thấy hơi cô đơn đấy...\""
+			"Em cảm thấy có chút hơi cô đơn...\""
 		],
         "7": [
             "\\nl< >\"Anh đi ngủ sớm vậy... Có sao không đó, \\str[121]?    \\w[120]",
@@ -1919,7 +1919,7 @@
 		],
         "1": [
             "\\str[120] lẩm bẩm với vẻ ngượng ngùng,",
-			"nhưng ánh mắt mơ hồ của cô ấy lại gợi ý điều gì khác..."
+			"nhưng ánh mắt mơ hồ của em ấy lại gợi ý điều gì khác..."
 		],
         "2": [
             "\\nl< >\"Nghe thú vị đó~\""
@@ -2159,25 +2159,25 @@
 		],
         "5": [
             "Theo bản năng tôi bắt đầu thấy lo lắng cho \\str[120],",
-			"nhưng khi nhìn sang, ",
-			"nét mặt em ấy hoàn toàn bình thường, không có gì khác lạ.",
+			"nhưng khi nhìn sang, nét mặt em ấy hoàn toàn bình thường,",
+			"không có gì khác lạ.",
 			"Dù cả hai ăn cùng một món..."
 		],
         "6": [
             "Ừ thì, cũng may là em ấy không bị giống mình...",
 			"Dù sao thì... ",
-			"cái nhà này chỉ có duy nhất một cái toilet—",
+			"cái nhà này chỉ có duy nhất một cái toilet thôi—",
 			"  ",
 			"Nếu em ấy cũng bị, ",
 			"thì tình huống này chắc chắn sẽ trở thành ",
-			"một thảm họa khôn lường..."
+			"một thảm họa khôn lường mất..."
 		],	
         "7": [
             "\"X-xin lỗi, ",
 			"\\str[121] phải đi toilet gấp...\""
 		],
         "8": [
-            "\\nl< >\"...Ể, trĩ của anh lại tái phát nữa à?\""
+            "\\nl< >\"...Eh, bệnh trĩ của anh lại tái phát nữa à?\""
 		],	
         "9": [
             "\\nl< >\"Anh đang bị đau bụng à?",
@@ -2547,7 +2547,7 @@
 		],	
         "31": [
             "Lần sau khi bạn mua đồ uống,",
-			"bạn nhớ chia sẽ cho \\str[120] cùng uống nhé!    \\w[60]"
+			"bạn nhớ chia sẻ cho \\str[120] cùng uống nhé!    \\w[60]"
 		],
         "32": [
             "Tôi lấy ra chiếc lọ nhỏ chứa Elixir Rubrum,",

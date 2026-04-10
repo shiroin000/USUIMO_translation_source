@@ -225,7 +225,7 @@
             "\\nl< >\"Mmuu... nya...\""
         ],	
 		"17": [
-            "Cảm nhận được mùi hương còn vương trên chiếc gối, cô ấy khẽ phát ra",
+            "Cảm nhận được mùi hương còn vương trên chiếc gối, em ấy khẽ phát ra",
 			"một tiếng ngân nga dễ chịu. Được bao bọc trong làn hương ô-liu mát nhẹ ",
 			"nhàn nhạt ấy, em ấy dần chìm vào một giấc ngủ sâu và yên bình."
         ],
@@ -294,21 +294,21 @@
     },
     "6": {
         "0": [
-            "Haa... may mà tôi không phải đội cái quần ",
-			"trước mặt \\str[120]...",
-			"Nhưng———"
+            "Haa... may mà tôi không phải đội cái quần trước mặt \\str[120]...",
+			"Nhưng mà———",
+			" "
 		],
 		"1": [
             "\\{\"Ugh———\"  \\w[60]"
         ],
         "2": [
-            "Tệ hơn tôi nghĩ...",
-            "Đã hơn nửa tiếng rồi sao...?"
+            "Tệ hơn mình nghĩ...",
+            "Đã hơn nửa tiếng rồi đó...?"
         ],
         "3": [
             "Cảm giác như toàn thân bị rút hết sức lực...",
             "Chắc chắn có gì đó không ổn ",
-			"với bữa tối rồi?"
+			"với bữa ăn tối nay rồi?"
         ],
         "4": [
             "\\nl< >\"\\str[121]... anh có ổn không...?",
@@ -316,13 +316,13 @@
         ],
         "5": [
             "\"Ahaha... có lẽ anh bị ngộ độc thực phẩm rồi...",
-			"Đừng lại gần... ở đây nguy hiểm lắm...\""
+			"Đừng có lại gần... ở đây nguy hiểm lắm...\""
         ],	
         "6": [
-            "Tôi nghe giọng lo lắng của \\str[120] từ ",
-			"bên ngoài cửa. Dù rất muốn ",
-			"ra khỏi đây nhanh, ngay cả sức để ",
-			"đứng cũng dần trượt khỏi tôi..."
+            "Tôi nghe giọng lo lắng của \\str[120] từ bên ngoài cửa.",
+			"Dù rất muốn ra khỏi đây nhanh,",
+			"ngay cả sức để đứng cũng dần cạn kiệt...",
+			" "
         ],	
         "7": [
             "\\{\"Uooohhhh—\"  \\w[60]"
@@ -383,8 +383,8 @@
             "Trong khi đó, sâu vào màn đêm khuya xa xôi,",
 			"ngay cả những mạo hiểm giả vẫn chiến đấu ở ",
 			"tận rìa Vực Sâu cũng cảm thấy rùng mình.",
-			"Bản năng khiến họ tạm dừng tay cầm kiếm,",
-			"giao nhau ánh mắt, thoáng chốc tự hỏi liệu đâu đó",
+			"Bản năng khiến họ tạm dừng tay cầm kiếm",
+			"Giao nhau ánh mắt, thoáng chốc tự hỏi liệu đâu đó",
 			"trong bóng tối, một sinh vật Vực Sâu mới ",
 			"chưa ai từng biết vừa được sinh ra."
         ]

@@ -406,7 +406,7 @@
 		],		
         "28": [
             "\\str[120] vẫn miệt mài xoay hông,",
-			"tôi cảm giác mình sắp không kìm chế được nữa…!",
+			"tôi cảm giác mình sắp không kiềm chế được nữa…!",
 			"Cuối cùng tôi nên để em ấy kết thúc thế nào!?"
 		],
         "29": [
@@ -897,8 +897,8 @@
         ],
         "5": [
             "Như thể nồng nhiệt chào đón chủ nhân, ",
-            "dương vật của tôi nhanh chóng cương cứng ",
-            "trở nên cương cứng và thẳng đứng trong lòng bàn tay em ấy."
+            "dương vật của tôi nhanh trở nên cương cứng ",
+            "và thẳng đứng trong lòng bàn tay em ấy."
         ],
         "6": [
             "\\nl< >\"...\\str[121]♥ ",
@@ -1543,7 +1543,7 @@
         "32": [
             "Tôi tăng nhanh nhịp chuyển động của mình. ",
             "Có lẽ đây là một cách khá kỳ lạ để bày tỏ tình yêu dành cho \\str[120]...",
-            "Nhưng nhìn cách em ấy đã không còn cố kìm chế những tiếng rên ngọt ngào nữa, ",
+            "Nhưng nhìn cách em ấy đã không còn cố kiềm chế những tiếng rên ngọt ngào nữa, ",
             "rõ ràng là em ấy cũng đang tận hưởng điều nó."
         ], 
         "33": [
@@ -1611,8 +1611,8 @@
             "Mình thật sự phải cần biết kiềm chế hơn mới được!"
         ], 
         "45": [
-            "\\nl< >\"Nhột quá...                           \\w[60]",
-            "Thật là! Cũng tại anh đột nhiên làm mấy chuyện kỳ quái như vậy đấy!",
+            "\\nl< >\"N-nhột quá...                           \\w[60]",
+            "Thật là! Cũng tại anh đột nhiên làm mấy chuyện kỳ quặc như vậy đấy!",
             "Lẽ ra giờ này tụi mình tắm xong và ra ngoài rồi mới phải!\""
         ], 
         "46": [
@@ -1637,7 +1637,8 @@
         "50": [
             "\\nl< >\"Còn những lời anh vừa nói nữa...! ",
             "Rõ ràng là anh cố tình trêu em mà...!",
-            "Uueee... anh dụ em nói ra bao nhiêu chuyện xấu hổ thế kia...!!\""
+            "Uueee... anh dụ em nói ra bao nhiêu ",
+            "chuyện xấu hổ thế kia...!!\""
         ],   
         "51": [
             "\\nl< >\"\\str[121] là đồ ngốc-ngốc-ngốc-ngốc-ngốc-đồ ngốc~~~!!\""

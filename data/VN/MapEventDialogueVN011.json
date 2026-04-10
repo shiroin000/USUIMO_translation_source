@@ -181,11 +181,11 @@
 			"\\w[60]\\^"
         ],
 		"3": [
-            "\\nl< >\"Trời ạ, \\str[121]!",
+            "\\nl< >\"Thật là, \\str[121]!",
 			"Anh nên nhớ là anh đang bị thương đấy nhé!\""
         ],
 		"4": [
-            "\"À, được rồi.\""
+            "\"Ah, thôi được rồi.\""
         ],
 		"5": [
             "Tôi bị quyết tâm của \\str[120] áp đảo,",
@@ -196,7 +196,7 @@
         ],
 		"7": [
             "Cú sốc quen thuộc bùng nổ trong miệng,",
-			"có lẽ mình đã quen nên lần này không ngất nữa."
+			"có lẽ mình đã quen rồi nên lần này không ngất nữa."
         ],
 		"8": [
             "\\nl< >\"Thế nào, \\str[121]? Ngon chứ?\""
