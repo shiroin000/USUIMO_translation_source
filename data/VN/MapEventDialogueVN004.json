@@ -520,6 +520,70 @@
             "Mình đã đưa tiền tiêu vặt cho \\str[120] hôm nay rồi.",
             "Nếu đưa quá thường xuyên có thể khiến em ấy thấy áp lực.",
             "Tốt hơn là đợi đến ngày mai..."
+        ],
+        "13": [
+            "\\nl< >\"...Hm? ",
+            "Isn't this the Free Pass I gave you, \\str[121]?\""
+        ],  
+        "13.5": [
+            "\\nl< >\"That's for you to use! ",
+            "I'm not accepting any returns~!\""
+        ],  
+        "14": [
+            "\\nl< >\"..............White hairs?\""
+        ],  
+        "15": [
+            "\\nl< >\"————————!?\""
+        ],  
+        "16": [
+            "\\nl< >\"\\str[121]!!",
+            "Why on earth do you have so many of my hairs in your hand!?",
+            "This isn't funny at all!!\""
+        ],  
+        "17": [
+            "\\nl< >\"\\str[121]... ",
+            "I already knew you did weird things sometimes...",
+            "But this is just taking it too far...\""
+        ],  
+        "18": [
+            "\\nl< >\"...Milk? ",
+            "\\str[121]... if you think you can just bribe me with something ",
+            "like this and expect me to forgive you—\""
+        ],  
+        "19": [
+            "\\{\\nl< >\"—Then you'd better give me ",
+            "at least one more bottle!\""
+        ],  
+        "19.5": [
+            "\\nl< >\"Ooh~! Can I really drink all of this by myself?",
+            "I feel such a guilty sense of luxury right now~!\""
+        ], 
+        "20": [
+            "\\nl< >\"W-what is this...?\""
+        ],   
+        "21": [
+            "\\nl< >\"...A book from outside? ",
+            "There are so many illustrations~! ",
+            "Thanks, \\str[121]! I'll look forward to reading it~\""
+        ],  
+        "23": [
+            "\\nl< >\"It's full of nothing but lewd pictures! ",
+            "It's all your fault! After looking at it, ",
+            "I feel like my eyes are going to turn weird!!\""
+        ],  
+        "24": [
+            "\\nl< >\"...Eh? Do I... want to see more...?\""
+        ],  
+        "25": [
+            "\\nl< >\"That's not the point!! ",
+            "It's your fault for giving me these kinds of doujinshi ",
+            "in the first place!\""
+        ],
+        "26": [
+            "\\nl< >\"B-but... Since... ",
+            "you like looking at this stuff, \\str[121]... ",
+            "I suppose I could... use them as a reference... \\}",
+            "To see... what kind of things you like...\""
         ]
     },
     "7": {

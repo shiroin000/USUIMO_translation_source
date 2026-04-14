@@ -181,6 +181,21 @@
                 "\\fs[22]\"Không... thật sự không còn",
                 "một giọt nào sót lại nữa...\""
             ]
+        },
+        "StairwayToAdulthoodI": {
+            "Name": "Stairway To Adulthood♥",
+            "Description": "Make Imouto read lewd doujinshi",
+            "Pop Up Desc": "Stairway To Adulthood♥"
+        },
+        "StairwayToAdulthoodII": {
+            "Name": "Stairway To Adulthood♥♥",
+            "Description": "Get Imouto to use sexy toys",
+            "Pop Up Desc": "\\fs[22]Stairway To Adulthood♥♥"
+        },
+        "StairwayToAdulthoodIII": {
+            "Name": "Stairway To Adulthood♥♥♥",
+            "Description": "Teach Imouto the joys of sex",
+            "Pop Up Desc": "\\fs[20]Stairway To Adulthood♥♥♥"
         }
     }
 }

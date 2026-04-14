@@ -1353,6 +1353,16 @@
         "66": [
             "Chế độ xem ảnh",
             "Chế độ cốt truyện"
+        ],
+        "67": [
+            "\\nl< >\"...Money?",
+            "It’s not like I have any use for it... I don't want it.\""
+        ],   
+        "68": [
+            "\\nl< >\"...You're giving me this much money?",
+            "Honestly, \\str[121], your habit of wasting money is acting up again...",
+            "If I don't say yes, you'll probably just turn around and ",
+            "spend it all on more random junk, won't you?\""
         ]
     },
     "7": {
