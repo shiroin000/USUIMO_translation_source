@@ -1355,14 +1355,14 @@
             "Chế độ cốt truyện"
         ],
         "67": [
-            "\\nl< >\"...Money?",
-            "It’s not like I have any use for it... I don't want it.\""
+            "\\nl< >\"...Tiền à?",
+            "Em cũng đâu có dùng đến... em không cần đâu mà.\""
         ],   
         "68": [
-            "\\nl< >\"...You're giving me this much money?",
-            "Honestly, \\str[121], your habit of wasting money is acting up again...",
-            "If I don't say yes, you'll probably just turn around and ",
-            "spend it all on more random junk, won't you?\""
+            "\\nl< >\"...Anh đưa em nhiều tiền như vậy sao?",
+            "Thật tình, \\str[121], cái tật tiêu tiền hoang phí của anh lại nổi lên rồi...",
+            "Nếu em không nhận, chắc anh cũng quay đi tiêu sạch ",
+            "vào mấy thứ linh tinh nữa đúng không?\""
         ]
     },
     "7": {

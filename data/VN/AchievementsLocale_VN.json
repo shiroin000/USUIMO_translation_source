@@ -141,7 +141,7 @@
         "TheSwordSaintOfTheSticks": {
             "Name": "Thập Lý Pha Kiếm Thần",
             "Description": "Kết quả của việc luyện kiếm chăm chỉ mỗi ngày",
-            "Pop Up Desc": "\\fs[22]Thập Lý Pha Kiếm Thần"
+            "Pop Up Desc": "Thập Lý Pha Kiếm Thần"
         },
         "ItWasToMeasureMyCapacity": {
             "Name": "Để xem bản lĩnh của tôi tới đâu",
@@ -183,19 +183,19 @@
             ]
         },
         "StairwayToAdulthoodI": {
-            "Name": "Stairway To Adulthood♥",
-            "Description": "Make Imouto read lewd doujinshi",
-            "Pop Up Desc": "Stairway To Adulthood♥"
+            "Name": "Nấc Thang Trưởng Thành♥",
+            "Description": "Cho em gái đọc doujinshi khiêu dâm",
+            "Pop Up Desc": "\\fs[23]Nấc Thang Trưởng Thành♥"
         },
         "StairwayToAdulthoodII": {
-            "Name": "Stairway To Adulthood♥♥",
-            "Description": "Get Imouto to use sexy toys",
-            "Pop Up Desc": "\\fs[22]Stairway To Adulthood♥♥"
+            "Name": "Nấc Thang Trưởng Thành♥♥",
+            "Description": "Rủ em gái dùng đồ chơi tình dục",
+            "Pop Up Desc": "\\fs[21]Nấc Thang Trưởng Thành♥♥"
         },
         "StairwayToAdulthoodIII": {
-            "Name": "Stairway To Adulthood♥♥♥",
-            "Description": "Teach Imouto the joys of sex",
-            "Pop Up Desc": "\\fs[20]Stairway To Adulthood♥♥♥"
+            "Name": "Nấc Thang Trưởng Thành♥♥♥",
+            "Description": "Hãy dạy cho em gái những niềm vui của tình dục",
+            "Pop Up Desc": "\\fs[20]Nấc Thang Trưởng Thành♥♥♥"
         }
     }
 }

@@ -523,67 +523,67 @@
         ],
         "13": [
             "\\nl< >\"...Hm? ",
-            "Isn't this the Free Pass I gave you, \\str[121]?\""
+            "Chẳng phải đây là Phiếu Thưởng mà em đã đưa cho anh sao, \\str[121]?\""
         ],  
         "13.5": [
-            "\\nl< >\"That's for you to use! ",
-            "I'm not accepting any returns~!\""
+            "\\nl< >\"Cái này là cho anh dùng đó! ",
+            "Em không nhận lại nó đâu nhé~!\""
         ],  
         "14": [
-            "\\nl< >\"..............White hairs?\""
+            "\\nl< >\"..............Tóc trắng?\""
         ],  
         "15": [
             "\\nl< >\"————————!?\""
         ],  
         "16": [
             "\\nl< >\"\\str[121]!!",
-            "Why on earth do you have so many of my hairs in your hand!?",
-            "This isn't funny at all!!\""
+            "Sao anh lại cầm nhiều tóc của em thế!?",
+            "Cái này không vui chút nào đâu nha!!\""
         ],  
         "17": [
             "\\nl< >\"\\str[121]... ",
-            "I already knew you did weird things sometimes...",
-            "But this is just taking it too far...\""
+            "Em đã biết là thỉnh thoảng anh hay làm mấy chuyện kỳ quặc rồi...",
+            "Nhưng lần này thì đi hơi quá xa rồi đó...\""
         ],  
         "18": [
-            "\\nl< >\"...Milk? ",
-            "\\str[121]... if you think you can just bribe me with something ",
-            "like this and expect me to forgive you—\""
+            "\\nl< >\"...Sữa à? ",
+            "\\str[121]... nếu anh nghĩ chỉ cần dùng thứ này ",
+            "để hối lộ là em sẽ tha thứ cho anh thì—\""
         ],  
         "19": [
-            "\\{\\nl< >\"—Then you'd better give me ",
-            "at least one more bottle!\""
+            "\\{\\nl< >\"—thì ít nhất cũng phải đưa thêm ",
+            "cho em một hộp nữa!\""
         ],  
         "19.5": [
-            "\\nl< >\"Ooh~! Can I really drink all of this by myself?",
-            "I feel such a guilty sense of luxury right now~!\""
+            "\\nl< >\"Ooh~! Em thật sự có thể uống hết chỗ này một mình sao?",
+            "Tự nhiên cảm thấy xa xỉ đến mức hơi có lỗi thế ta~!\""
         ], 
         "20": [
-            "\\nl< >\"W-what is this...?\""
+            "\\nl< >\"C-Cái gì đây...?\""
         ],   
         "21": [
-            "\\nl< >\"...A book from outside? ",
-            "There are so many illustrations~! ",
-            "Thanks, \\str[121]! I'll look forward to reading it~\""
+            "\\nl< >\"...Sách từ bên ngoài à? ",
+            "Có nhiều hình minh họa quá~! ",
+            "Cảm ơn anh, \\str[121]! Em mong chờ để đọc nó quá~\""
         ],  
         "23": [
-            "\\nl< >\"It's full of nothing but lewd pictures! ",
-            "It's all your fault! After looking at it, ",
-            "I feel like my eyes are going to turn weird!!\""
+            "\\nl< >\"Cái này toàn là hình nhạy cảm thôi mà! ",
+            "Tại anh hết đó!",
+            "Xem xong cảm giác mắt em sắp hỏng luôn rồi!!\""
         ],  
         "24": [
-            "\\nl< >\"...Eh? Do I... want to see more...?\""
+            "\\nl< >\"...Eh? Em... có muốn xem thêm không ấy à...?\""
         ],  
         "25": [
-            "\\nl< >\"That's not the point!! ",
-            "It's your fault for giving me these kinds of doujinshi ",
-            "in the first place!\""
+            "\\nl< >\"Không phải vấn đề đó!! ",
+            "Ngay từ đầu là do anh đưa ",
+            "mấy cuốn doujinshi kiểu này cho em mà!\""
         ],
         "26": [
-            "\\nl< >\"B-but... Since... ",
-            "you like looking at this stuff, \\str[121]... ",
-            "I suppose I could... use them as a reference... \\}",
-            "To see... what kind of things you like...\""
+            "\\nl< >\"N-nhưng mà... vì... ",
+            "\\str[121] thích xem mấy thứ này... ",
+            "nên em nghĩ... có thể dùng làm tham khảo... \\}",
+            "để xem... anh thích kiểu như thế nào...\""
         ]
     },
     "7": {
@@ -1077,7 +1077,7 @@
             "\\str[120] đi tắm, còn tôi thì một mình buồn chán,",
             "thế là tôi bắt đầu thả hồn mơ mộng để giết thời gian.   \\w[40]",
             "Nghĩ lại thì, ngày trước tôi hay tắm cùng em ấy—",
-            "hồi đó em ấy cực kì dễ thương~"
+            "hồi đó em ấy cực kỳ dễ thương~"
         ],
         "7": [
             "Đã nhiều năm trôi qua, chắc chắn em ấy đã thay đổi nhiều,",
