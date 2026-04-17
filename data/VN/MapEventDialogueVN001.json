@@ -1729,5 +1729,22 @@
 			"cho tất cả những gì nó thấy,",
 			"bao gồm cả người triệu hồi nó. "
 		]
-    }	
+		
+	},
+	"121": {
+		"objectName": [
+			"\\c[10]Trụ Phong Ấn"
+		],
+		"sentouryoku": [
+			"6666"
+		],
+		"description": [
+			"Đây là một \"thử thách\".",
+			"Một thử thách trỗi dậy từ Vực Sâu.",
+			"Sự trưởng thành của một con quái vật... ",
+			"là để đánh bại sự yếu đuối trong quá khứ của chính nó...",
+			"Đúng chứ? Ngươi cũng như vậy… phải không?",
+			"Hỡi kẻ phiêu lưu, người đang truy tìm chân lý—"
+		]
+	}
 }

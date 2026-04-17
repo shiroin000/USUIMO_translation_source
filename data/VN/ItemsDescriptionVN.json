@@ -420,6 +420,22 @@
             "Lắc mạnh có thể gây ra phun trào"
         ]
     },
+    "41": {
+        "name": [
+            "Phù văn Fehu"
+        ],
+        "subtitle": [
+            "\"Sức Mạnh Của Midas\""
+        ],
+        "description": [
+            "Một hòn đá khắc ký tự ma thuật, được thiết kế để ngay cả những người mới ",
+            "không có kiến thức về ma thuật cũng có thể dễ dàng kích hoạt nó"
+        ],
+        "ability": [
+            "Khi ném ra, tạm thời biến bất kỳ mục tiêu nào mà nó chạm vào thành vàng",
+            "Nếu phá hủy mục tiêu trong trạng thái hóa vàng sẽ tạo ra một lượng lớn tiền"
+        ]
+    },
     "42": {
         "name": [
             "Phù văn Kenaz"
@@ -428,11 +444,11 @@
             "\"Sức mạnh Bùng Nổ\""
         ],
         "description": [
-            "Một hòn đá khắc ký tự ma pháp, được thiết kế để ngay cả những người mới",
-            "không có kiến thức về ma pháp cũng có thể dễ dàng kích hoạt nó."
+            "Một hòn đá khắc ký tự ma thuật, được thiết kế để ngay cả những người mới",
+            "không có kiến thức về ma thuật cũng có thể dễ dàng kích hoạt nó."
         ],
         "ability": [
-            "Ném và biến mục tiêu mà nó chạm vào thành một quả bom",
+            "Khi ném, biến mọi mục tiêu mà nó chạm vào thành một quả bom",
             "Phát nổ sau 5 giây, mục tiêu càng lớn thì vụ nổ càng to"
         ]
     },
@@ -444,8 +460,8 @@
             "\"Sức mạnh Khải Huyền\""		
 		],
         "description": [
-            "Một hòn đá khắc ký tự ma pháp, được thiết kế để ngay cả những người mới",
-            "không có kiến thức về ma pháp cũng có thể dễ dàng kích hoạt nó."
+            "Một hòn đá khắc ký tự ma thuật, được thiết kế để ngay cả những người mới",
+            "không có kiến thức về ma thuật cũng có thể dễ dàng kích hoạt nó."
         ],
         "ability": [
             "Khi sử dụng sẽ để lại kí hiệu có chữ tại vị trí đó",
@@ -460,8 +476,8 @@
             "\"Sức mạnh Kỵ Sĩ\""
         ],
         "description": [
-            "Một hòn đá khắc ký tự ma pháp, được thiết kế để ngay cả những người mới",
-            "không có kiến thức về ma pháp cũng có thể dễ dàng kích hoạt nó."
+            "Một hòn đá khắc ký tự ma thuật, được thiết kế để ngay cả những người mới",
+            "không có kiến thức về ma thuật cũng có thể dễ dàng kích hoạt nó."
         ],
         "ability": [
             "Ném ra một kí hiệu cho phép hoán đổi vị trí"
@@ -475,8 +491,8 @@
             "\"Sức mạnh Chuyển Hóa\""
         ],
         "description": [
-            "Một hòn đá khắc ký tự ma pháp, được thiết kế để ngay cả những người mới",
-            "không có kiến thức về ma pháp cũng có thể dễ dàng kích hoạt nó"
+            "Một hòn đá khắc ký tự ma thuật, được thiết kế để ngay cả những người mới",
+            "không có kiến thức về ma thuật cũng có thể dễ dàng kích hoạt nó"
         ],
         "ability": [
             "Ném và hoán đổi vị trí với mục tiêu mà nó chạm phải"
