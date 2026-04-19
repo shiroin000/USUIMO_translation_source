@@ -136,7 +136,12 @@
       "Name": "不要停下来啊！",
       "Description": "用超高速持续奔跑",
       "Pop Up Desc": "不要停下来啊！"
-    },            
+    },
+    "YouAreBeingSummoned": {
+      "Name": "◉▽◉在召唤你",
+      "Description": "发现了古代生物！",
+      "Pop Up Desc": "◉▽◉在召唤你"
+    },                
     "YouTooCanBecomeLight": {
       "Name": "你也可以变成光！",
       "Description": "aki的诅咒发作了",

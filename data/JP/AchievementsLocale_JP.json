@@ -130,7 +130,12 @@
       "Name": "止まるんじゃねぇぞ！",
       "Description": "超高速で走り続ける",
       "Pop Up Desc": "止まるんじゃねぇぞ！"
-    },     
+    },
+    "YouAreBeingSummoned": {
+      "Name": "よんでますよ、◉▽◉さん",
+      "Description": "古代生物を発見！",
+      "Pop Up Desc": "よんでますよ、◉▽◉さん"
+    },
     "YouTooCanBecomeLight": {
       "Name": "光になれる！",
       "Description": "Akiの呪いが発作した",

@@ -148,7 +148,12 @@
       "Name": "Don't you ever stop!",
       "Description": "Keep running at super high speed",
       "Pop Up Desc": "Don't you ever stop!"
-    },      
+    },   
+    "YouAreBeingSummoned": {
+      "Name": "You're Being Summoned, ◉▽◉!",
+      "Description": "Ancient creature discovered!",
+      "Pop Up Desc": "\\fs[18]You're Being Summoned, ◉▽◉!"
+    },     
     "YouTooCanBecomeLight": {
       "Name": "You too can become light!",
       "Description": "Aki's curse flared up",
