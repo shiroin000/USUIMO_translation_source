@@ -723,6 +723,22 @@
             "cậu có mùi cà rốt, usa..."
         ]	
     },
+	"25": {
+        "objectName": [
+            "\\c[115]Rồng Tiên"
+        ],
+        "sentouryoku": [
+            "20"
+        ],
+        "description": [
+            "Một sinh vật ma thuật cực kỳ hiếm ",
+            "mang hình dáng giống như rồng con mới nở.",
+            "Thực chất, nó là một tinh linh đã có được thể xác",
+            "nhờ hấp thụ lượng mana rò rỉ từ dòng dõi loài rồng.",
+            "Cực kỳ nhút nhát, ",
+            "nó sẽ bỏ chạy ngay khi cảm nhận được nguy hiểm..."
+        ]
+    },
 	"28": {
 		"objectName": [
 			"Sacabambaspis Khổng Lồ"

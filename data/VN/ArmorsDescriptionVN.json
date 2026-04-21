@@ -964,6 +964,21 @@
             "Tăng sát thương phá băng khi phá vỡ trạng thái Đóng Băng của kẻ địch"
         ]
     },
+    "72": {
+        "name": [
+            "Đôi Cánh Pha Lê Huyễn Ảnh"
+        ],
+        "subtitle": "",
+        "description": [
+            "Đôi cánh tinh linh được ngưng tụ từ nguồn mana thuần khiết",
+            "Được biết đến với khả năng tự phát kích hoạt các hiện tượng vật lý,",
+            "chúng được đánh giá rất cao như những vật xúc tác giả kim thượng phẩm"
+        ],
+        "ability": [
+            "Giảm 40% sát thương khi rơi",
+            "Trang bị giúp tăng tốc độ niệm phép và sức mạnh ma thuật"
+        ]
+  },    
     "73": {
         "name": [
             "Nhẫn Hoả Ngục"
@@ -1254,6 +1269,23 @@
         ],
         "ability": []
     },
+    "295": {
+        "name": [
+            "Đôi Cánh Pha Lê Của Nữ Hoàng Tiên"
+        ],
+        "subtitle": [
+           "\"Sâu thẳm bên dưới, kẻ thám hiểm Kyurame đã chứng kiến \"",
+           "\"khoảnh khắc Nữ Hoàng vươn mình lên trong ánh sắc cầu vồng—\""
+        ],
+        "description": [
+            "Đôi cánh pha lê lấp lánh, tỏa ra hào quang rực rỡ. Một vật xúc tác hiếm có ",
+            "mà chỉ \"Nữ Hoàng\", người đứng ở đỉnh cao của tinh thần mới có thể sở hữu "
+        ],
+        "ability": [
+            "Miễn nhiễm sát thương khi rơi",
+            "Giảm 60% tổng sát thương nhận vào"
+        ]
+    },  
     "296": {
         "name": [
             "Búa May Mắn của Ruika"

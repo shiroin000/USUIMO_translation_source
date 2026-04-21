@@ -153,6 +153,11 @@
             "Description": "Tiếp tục chạy với tốc độ cực nhanh ",
             "Pop Up Desc": "Đừng bao giờ dừng lại!"
         },
+        "YouAreBeingSummoned": {
+            "Name": "◉▽◉ Đang Triệu Hồi Bạn!",
+            "Description": "Sinh vật cổ đại đã được phát hiện!",
+            "Pop Up Desc": "\\fs[22]◉▽◉ Đang Triệu Hồi Bạn!"
+        },
         "YouTooCanBecomeLight": {
             "Name": "Bạn cũng có thể trở thành ánh sáng!",
             "Description": "Lời nguyền của Aki bùng phát ",
