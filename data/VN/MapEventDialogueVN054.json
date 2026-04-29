@@ -908,7 +908,7 @@
             "À... hết rồi à!?"
 		],
 		"6": [
-            "Ồ, đang phát bản tin dự báo thời tiết...",
+            "Oh, đang phát bản tin dự báo thời tiết...",
 			"Để xem thử ngày mai thời tiết sẽ như thế nào—"
 		],
         "7": [
@@ -933,7 +933,7 @@
 			"Nhiệt độ như thế có ổn thật không vậy!?"
 		],
         "12": [
-            "Ồ, chương trình nấu ăn đang chiếu...",
+            "Oh, chương trình nấu ăn đang chiếu...",
 			"Không biết mình có học được công thức mới nào không—"
 		],
         "13": [
@@ -941,7 +941,7 @@
 			"Mình cảm giác như chẳng học được gì cả..."
 		],
         "14": [
-            "Ồ, bản tin thời sự đang phát...",
+            "Oh, bản tin thời sự đang phát...",
 			"Không biết dạo này có chuyện lớn gì xảy ra không?"
 		],
         "15": [
@@ -1046,7 +1046,7 @@
 			"bóng đen trong lòng em ấy..."
 		],
 		"37": [
-            "\\fs[18]${$dataItems[189]?.name}",
+            "\\fs[17]${$dataItems[189]?.name}",
 			"\\fs[18]${$dataItems[188]?.name}"
 		]
     },
@@ -1505,7 +1505,7 @@
 		],
         "4": [
             "\\fs[20]Một bộ phim khiêu dâm",
-			"\\fs[13]Một bộ phim dành cho cô bé hư hỏng"
+			"\\fs[16]Phim dành cho cô bé hư hỏng"
 		],
         "5": [
             "\\nl< >\"K-Khiêu dâm...? ",
@@ -1617,10 +1617,10 @@
         "27": [
 			"...Thật vô vọng. Dù nhìn thế nào đi nữa, ",
 			"đây chỉ là một bộ phim người lớn chất lượng thấp, rẻ tiền.",
-			"Diễn xuất quá lố đến mức buồn cười, và rõ ràng ngân sách đã bị ",
-			"lãng phí hoàn toàn vào những cảnh khiêu dâm thiếu cảm hứng ở giai đoạn cuối...  ",
+			"Diễn xuất quá lố đến mức nực cười, và rõ ràng ngân sách đã bị lãng phí ",
+			"hoàn toàn vào những cảnh khiêu dâm thiếu cảm hứng ở giai đoạn cuối...  ",
 			"\\{Nghĩ lại thì, liệu phần còn lại của thanh  ",
-			"tiến trình có thực sự toàn là nội dung kiểu thật à?!"
+			"tiến trình thực sự toàn là nội dung kiểu này thật à?!"
         ],
         "28": [
 			"Mà chủ đề lại còn tệ hại kinh khủng...",
@@ -1675,7 +1675,7 @@
         "38": [
 		    "Hể... con bé này. Không chỉ học được cách nói năng mạnh miệng,",
 			"em ấy còn bắt đầu phản công một cách vô thức nữa—",
-			"Vậy thì, nếu em ấy định làm thế, làm thế này thì sao~?"
+			"Vậy thì, nếu em ấy định muốn như thế, làm thế này thì sao~?"
         ],	
         "39": [
 		    "\"Em nói đúng. Nhìn họ làm chuyện đó mãnh liệt trên TV,",
@@ -1706,7 +1706,8 @@
         "40.4": [
 		    "\"Ngay cả thế mà em vẫn tò mò về những gì ",
 			"sẽ xảy ra tiếp theo trong phim sao...?",
-			"Có vẻ như \\str[120] đang trở thành một cô gái khá dâm đãng...\""
+			"Có vẻ như \\str[120] đang trở thành một cô gái ",
+			"khá dâm đãng đó nha...\""
         ],	
         "40.5": [
 		    "\\nl< >\"D-Dâm đãng...?                \\w[120]",
@@ -1740,11 +1741,11 @@
         ],	
         "41.1": [
 		    "\\nl< >\"Nhưng mà... cô gái trên TV đó             \\w[120]",
-			"trông có vẻ rất thoải mái...    \\w[120]",
+			"trông có vẻ rất sung sướng...    \\w[120]",
 			"Em chỉ hơi... tò mò về cảm giác đó ra sao...\""
         ],	
         "41.2": [
-            "Nhìn thấy vẻ ngây thơ của em ấy,, ",
+            "Nhìn thấy vẻ ngây thơ của em ấy,",
 			"ngọn lửa dục vọng trong tôi cuối cùng cũng bùng cháy.",
             "Bàn tay lang thang của tôi trượt xuống eo em ấy ",
 			"về phía mép quần đùi.",
@@ -1909,7 +1910,7 @@
         ],
 		"64": [
             "\"Em đang làm rất tốt...",
-            "Cơ thể em bắt đầu cảm thấy thoải mái hơn rồi phải không?\""
+            "Cơ thể em bắt đầu cảm thấy sướng hơn rồi phải không?\""
         ],
 		"65": [
             "\\nl< >\"Ugh... mm... giờ không còn đau lắm nữa... ♥",
@@ -1962,8 +1963,9 @@
         ],
         "74": [
             "Cảm nhận được sự đầy đặn từ vòng ba của em ấy, ",
-			"tôi bỗng nảy sinh ý muốn thử cửa sau của em ấy.",
-            "Đối với em ấy, đây có thể là một trải nghiệm hoàn toàn mới... phải không nhỉ?"
+			"tôi bỗng nảy sinh ý muốn thử đi vào cửa sau.",
+            "Đối với em ấy, đây có thể là một trải nghiệm hoàn toàn mới...",
+			"phải không nhỉ? "
         ],
         "75": [
             "\\nl< >\"Eh...!? Um... \\str[121]... không phải ở đó...",
@@ -2063,110 +2065,112 @@
   	},
 	"14": {
 		"0": [
-			"Now that \\str[120] has developed a deep curiosity about the adult world,",
-			"giving her a chance to try this as well would surely ",
-			"be an unprecedented experience for her, wouldn't it?",
-			"...Just thinking about it makes me feel like I can hardly contain myself."
+			"Giờ đây khi \\str[120] đã bắt đầu nảy sinh sự tò mò sâu sắc về thế giới người lớn,",
+			"nếu cho em ấy cơ hội thử cái này thì chắc chắn đó sẽ là",
+			"một trải nghiệm mới mẻ chưa từng có phải không?",
+			"...Chỉ nghĩ đến thôi cũng khiến tôi khó mà kiềm chế được."
 		],   
 		"1": [
-			"Even though \\str[120] has experienced the taste of intercourse, ",
-			"for someone as consistently well-behaved and innocent as her,",
-			"the idea that a place like this could be used for pleasure was ",
-			"clearly far beyond the reach of her little mind's comprehension."
+			"Mặc dù \\str[120] đã trải nghiệm mùi vị của quan hệ tình dục, ",
+			"nhưng với một người luôn ngoan ngoãn và ngây thơ như em ấy,",
+			"với cái ý nghĩ rằng ở một chỗ như vậy cũng có thể mang lại khoái cảm ",
+			"rõ ràng vượt xa khả năng hiểu biết của em ấy."
 		],    
 		"2": [
-			"\"Actually, that's an extremely sensitive spot ",
-			"that can feel really good, too.",
-			"If you don't try it, you'll be missing out on ",
-			"some incredible sensations.\""
+			"\"Thực ra, chỗ đó cũng là một điểm cực kỳ nhạy cảm, ",
+			"cũng có thể mang lại cảm giác rất tuyệt vời.",
+			"Nếu không thử thì em sẽ bỏ lỡ ",
+			"cái cảm giác tuyệt vời đó đấy.\""
 		],
 		"3": [
-			"\\nl< >\"It feels good...? You're lying...",
-			"There's no way that place could feel like that...",
-			"It's... it's just the place where I go to the toilet, ",
-			"how could it possibly... ugh...\""
+			"\\nl< >\"Cảm giác tuyệt vời sao...? Rõ là anh nói dối...",
+			"Không thể nào chỗ đó lại có thể như vậy được...",
+			"Nó... nó chỉ là chỗ để đi vệ sinh thôi mà, ",
+			"làm sao có thể... ugh...\""
 		],
 		"4": [
-			"\"It's true, you know? ",
-			"Weren't you just wondering why the people on TV sounded so happy?",
-			"The human body is full of hidden switches that even ",
-			"you don't know about...\""
+			"\"Đúng vậy đó. ",
+			"Lúc nãy em chẳng phải đang thắc mắc vì sao những người",
+			"trên TV lại trông hạnh phúc đến vậy sao?\"",
+			" ",
+			"\"Cơ thể con gái có rất nhiều 'công tắc' ẩn",
+			"mà ngay cả em cũng không biết đến đấy.\""
 		],
 		"5": [
-			"\\nl< >\"Ugh... if \\str[121] says so...",
-			"Then... I'll give it a small try...",
-			"But you have to be very gentle, okay?",
-			"If it feels too weird, you have to stop immediately...!\""
+			"\\nl< >\"Ugh... nếu \\str[121] đã nói vậy...",
+			"Thì... em sẽ thử một chút thôi...",
+			"Nhưng mà anh phải thật nhẹ nhàng nhé?",
+			"Nếu thấy kỳ lạ quá thì phải dừng ngay lập tức đó...!\""
 		],
 		"6": [
-			"Seeing that \\str[120] had no more resistance,",  
-			"I reached out my finger, gathered a generous amount of ",
-			"clear love juice from her messy pussy,",
-			"and smeared it over the folds of her still tightly closed anus."
+			"Thấy \\str[120] không còn kháng cự nữa, tôi đưa tay ra,",  
+			"lấy một lượng lớn nước ái tình trong suốt từ âm hộ ướt át của em ấy, ",
+			"rồi nhẹ nhàng bôi lên quanh nếp gấp của hậu môn vẫn đang khép chặt.",
+			" "
 		],
 		"7": [
 			"\\nl< >\"Ugh... ah... hah...",
-			"\\str[121], is this... is this really how it's done...?",
-			"Everything feels so strange right now...\""
+			"\\str[121], cái này... thật sự là làm như vậy sao...?",
+			"Cảm giác kỳ lạ quá...\""
 		],
 		"8": [
-			"This never-before-experienced anal massage made \\str[120] squirm uneasily, ",
-			"her butt reflexively tightening under my control.",
+			"Mát xa hậu môn chưa từng có này khiến \\str[120] bồn chồn cựa quậy, ",
+			"mông em ấy co thắt theo phản xạ dưới sự kiểm soát của tôi.",
 			" ", 
 			" ",
-			"Amidst these waves of inexperienced muscle spasms, ",
-			"my fingertip slowly broke through the resistance, ",
-			"probing bit by bit into the depths."
+			"Giữa những cơn co thắt chưa từng trải nghiệm này, ",
+			"đầu ngón tay tôi chậm rãi vượt qua sự kháng cự, ",
+			"từng chút một thăm dò vào bên trong."
 		],
 		"9": [
-			"\"Don't be afraid, I'll be very gentle...",
-			"I'm just going in a tiny bit to help you get used to it.\""
+			"\"Đừng sợ, anh sẽ làm rất nhẹ nhàng mà...",
+			"Anh chỉ đưa vào một chút thôi để em quen dần.\""
 		],
 		"10": [
-			"After managing to stretch her to a depth of two fingers, ",
-			"I felt the timing was right,",
-			"and I moved to press my already engorged, ",
-			"erect cock against her back door."
+			"Sau khi kéo giãn ra được đến độ sâu cỡ hai ngón tay, ",
+			"tôi cảm thấy thời điểm đã thích hợp ",
+			"và bắt đầu đẩy dương vật đã cương cứng của mình, ",
+			"vào cửa sau của em ấy."
 		],
 		"11": [
-			"\\nl< >\"Mmmgh—!! It hurts, it hurts so much...!!",
-			"\\str[121]...!? Stop... it's going to tear... waaaah...!\""
+			"\\nl< >\"Mmmgh—!! Đau, đau quá...!!",
+			"\\str[121]...!? Dừng lại... như vậy sẽ rách mất... waaaah...!\""
 		],
 		"12": [
-			"Being an entirely undeveloped forbidden zone, ",
-			"the tightness was like an impenetrable wall of iron.",
+			"Vì đó là một vùng cấm hoàn toàn chưa từng được chạm tới, ",
+			"sự khép chặt của em ấy giống như một bức tường ",
+			"không thể xuyên thủng.",
 			" ",
-			" ",
-			"Even with the lubrication of her juices, ",
-			"the massive cock could only squeeze in a small fraction ",
-			"before it couldn't be pushed any further."
+			"Ngay cả khi đã có độ trơn nhất định từ chất dịch của em ấy, ",
+			"dương vật to bự này cũng chỉ có thể lọt vào một phần nhỏ ",
+			"chứ không thể đẩy vào sâu hơn nữa."
 		],
 		"13": [
-			"The intense resistance caused me a wave of dull pain,",
-			"and \\str[120] was in tears from the agony, ",
-			"her previously flushed little face instantly turning pale."
+			"Sự kháng cự mạnh mẽ khiến tôi cảm thấy đau âm ỉ,",
+			"còn \\str[120] thì bật khóc vì đau đớn, ",
+			"khuôn mặt vốn đang ửng đỏ cũng nhanh chóng tái nhợt đi."
 		],
 		"14": [
-			"\"I'm sorry...! It's my fault, I won't do it there anymore...",
-			"Good girl, I didn't hurt you too bad, did I?\""
+			"\"Anh xin lỗi...! Là lỗi của anh, anh sẽ không làm vậy nữa...",
+			"Ngoan nào, anh không làm em đau quá chứ?\""
 		],
 		"15": [
-			"I quickly pulled my cock out from the already somewhat swollen narrow slit,",
-			"and \\str[120], finally set free, struggled to jump down off me."
+			"Tôi nhanh chóng rút dương vật ra khỏi cửa sau có hơi sưng lên,",
+			"còn \\str[120] sau khi được buông ra liền vùng vẫy nhảy xuống khỏi người tôi."
 		], 
 		"16": [
-			"\\nl< >\"Waaah... waaaah... \\str[121] is an idiot...!",
-			"That didn't feel good at all...!\""
+			"\\nl< >\"Waaah... waaaah... \\str[121] là đồ ngốc...!",
+			"Chẳng dễ chịu chút nào cả...!\""
 		],
 		"17": [
-			"Still sobbing, \\str[120] clutched her aching butt and ",
-			"stumbled out of the living room, hiding in her own room."
+			"Vừa nức nở, \\str[120] ôm lấy mông đau nhức và loạng choạng ",
+			"chạy ra khỏi phòng khách, trốn vào phòng của mình."
 		],  
 		"18": [
-			"It seems like trying to force this kind of development ",
-			"was a bit too much for the current \\str[120]...",
-			"If I want to try this style of play, ",
-			"I'll need to do much more preparation beforehand..."
+			"Có vẻ như việc cố ép buộc kiểu trải nghiệm này là quá sức ",
+			"với \\str[120] ở thời điểm hiện tại...",
+			"Nếu tôi muốn thử kiểu chơi này, ",
+			"có lẽ cần phải chuẩn bị kỹ càng hơn rất nhiều nữa..."
 		]
 	}
 }
