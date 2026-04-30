@@ -427,7 +427,7 @@
             "\\nl< >\"Nhột quá~\"  \\w[90]\\^"
         ],
 		"14": [
-            "\\nl< >\"Ahaha, \\str[121],\\w[60]thật sự nhột quá~\"   \\w[120]\\^"
+            "\\nl< >\"Ahaha, \\str[121],\\w[60] thật sự nhột quá đi~\"   \\w[120]\\^"
         ],
 		"15": [
             "\\nl< >\"Hmmngh…!\"   \\w[45]\\^"
@@ -449,11 +449,11 @@
         ],	
 		"20": [
             "\\nl< >\"Umm... \\str[121], ",
-			"thật sự nhột lắm khi anh chạm vào chỗ đó,   \\w[180]",
+			"thật sự nhột lắm khi anh chạm vào chỗ đó đấy,   \\w[180]",
 			"có lẽ anh nên dừng lại được rồi đó...\"    \\w[210]\\^"
         ],
 		"21": [
-            "\\nl< >\"Trời ạ, đừng có chọc khắp nơi như vậy!\"  \\w[240]",
+            "\\nl< >\"Trời ạ, đừng có chọc em khắp nơi như vậy!\"  \\w[240]",
 			"\\nl< >\"Em không phải món đồ chơi của anh đâu đấy!\"    \\w[120]\\^"
         ],
 		"22": [
@@ -1831,8 +1831,8 @@
 			"anh đúng là cư xử như trẻ con quá...\"\\w[150]"
         ],	
         "11": [
-            "\\nl< >\"Trời ạ... \\str[121], anh thật phiền phức...",
-			"Được rồi, em sẽ đi cùng...\""
+            "\\nl< >\"Trời ạ... \\str[121] phiền phức thật đó...",
+			"Được rồi, em sẽ đi cùng mà...\""
         ],		
         "12": [
             "Cầu xin mãi cuối cùng cũng thuyết phục được \\str[120]...!"
@@ -1886,11 +1886,11 @@
             "Hmm, mình vẫn còn vài việc muốn làm."
 		],
         "4": [
-            "\\nl< >\"Ừ nhỉ, cũng đến lúc nghỉ ngơi rồi.   \\w[120]",
+            "\\nl< >\"Cũng phải, đến lúc nghỉ ngơi rồi.   \\w[120]",
 			"Ngủ ngon nhé, \\str[121].\""
 		],
         "5": [
-            "\\nl< >\"Hôm nay anh cũng đã vất vả rồi, \\str[121].         \\w[120]",
+            "\\nl< >\"Hôm nay \\str[121] cũng đã vất vả rồi.         \\w[120]",
 			"Ngủ ngon nhé...\""
 		],
         "6": [

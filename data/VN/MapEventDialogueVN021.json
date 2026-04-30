@@ -90,7 +90,8 @@
         ],
         "11": [
             "Đến phòng \\str[120]",
-			"Rời khỏi nhà"
+			"Rời khỏi nhà",
+            "Nghỉ ngơi ở nhà"
         ],
         "12": [
             "Được rồi, đi kiểm tra \\str[120] thôi!"
@@ -98,7 +99,20 @@
         "13": [
             "Được rồi, giờ sắp xếp lại mọi thứ ",
 			"và chuẩn bị cho chuyến phiêu lưu nào!"
-        ]		
+        ],
+        "14": [
+            "Hmm... mà thôi, thời tiết hôm nay trông cũng chẳng ổn lắm.",
+            "Những lúc thế này, ở nhà chơi với \\str[120] ",
+            "chắc chắn thú vị hơn nhiều..."
+        ],
+        "15": [
+            "Haa... hôm nay mình lười thật, ",
+            "chẳng có chút động lực nào cả.",
+            "Thỉnh thoảng lười biếng một chút mà không thấy tội lỗi",
+            "cũng đâu phải chuyện lớn đâu nhỉ?",
+            "So với mấy chuyện linh tinh bên ngoài, ",
+            "ở nhà với \\str[120] vui hơn nhiều."
+        ]	
     },
     "3": {
         "0": [

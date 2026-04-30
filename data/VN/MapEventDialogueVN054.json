@@ -549,7 +549,7 @@
 			"Chắc cũng đến lúc chuẩn bị bữa tối thôi."
 		],
         "1": [
-            "\"Này, đã chiều tối rồi đấy. ",
+            "\"Này, đã chiều tối rồi đấy.",
 			"Tỉnh dậy đi nào, đồ mê ngủ. \""
 		],
         "2": [
@@ -908,7 +908,7 @@
             "À... hết rồi à!?"
 		],
 		"6": [
-            "Ồ, đang phát bản tin dự báo thời tiết...",
+            "Oh, đang phát bản tin dự báo thời tiết...",
 			"Để xem thử ngày mai thời tiết sẽ như thế nào—"
 		],
         "7": [
@@ -933,7 +933,7 @@
 			"Nhiệt độ như thế có ổn thật không vậy!?"
 		],
         "12": [
-            "Ồ, chương trình nấu ăn đang chiếu...",
+            "Oh, chương trình nấu ăn đang chiếu...",
 			"Không biết mình có học được công thức mới nào không—"
 		],
         "13": [
@@ -941,7 +941,7 @@
 			"Mình cảm giác như chẳng học được gì cả..."
 		],
         "14": [
-            "Ồ, bản tin thời sự đang phát...",
+            "Oh, bản tin thời sự đang phát...",
 			"Không biết dạo này có chuyện lớn gì xảy ra không?"
 		],
         "15": [
@@ -1046,7 +1046,7 @@
 			"bóng đen trong lòng em ấy..."
 		],
 		"37": [
-            "\\fs[18]${$dataItems[189]?.name}",
+            "\\fs[17]${$dataItems[189]?.name}",
 			"\\fs[18]${$dataItems[188]?.name}"
 		]
     },
@@ -1505,7 +1505,7 @@
 		],
         "4": [
             "\\fs[20]Một bộ phim khiêu dâm",
-			"\\fs[13]Một bộ phim dành cho cô bé hư hỏng"
+			"\\fs[16]Phim dành cho cô bé hư hỏng"
 		],
         "5": [
             "\\nl< >\"K-Khiêu dâm...? ",
@@ -1617,10 +1617,10 @@
         "27": [
 			"...Thật vô vọng. Dù nhìn thế nào đi nữa, ",
 			"đây chỉ là một bộ phim người lớn chất lượng thấp, rẻ tiền.",
-			"Diễn xuất quá lố đến mức buồn cười, và rõ ràng ngân sách đã bị ",
-			"lãng phí hoàn toàn vào những cảnh khiêu dâm thiếu cảm hứng ở giai đoạn cuối...  ",
+			"Diễn xuất quá lố đến mức nực cười, và rõ ràng ngân sách đã bị lãng phí ",
+			"hoàn toàn vào những cảnh khiêu dâm thiếu cảm hứng ở giai đoạn cuối...  ",
 			"\\{Nghĩ lại thì, liệu phần còn lại của thanh  ",
-			"tiến trình có thực sự toàn là nội dung kiểu thật à?!"
+			"tiến trình thực sự toàn là nội dung kiểu này thật à?!"
         ],
         "28": [
 			"Mà chủ đề lại còn tệ hại kinh khủng...",
@@ -1675,7 +1675,7 @@
         "38": [
 		    "Hể... con bé này. Không chỉ học được cách nói năng mạnh miệng,",
 			"em ấy còn bắt đầu phản công một cách vô thức nữa—",
-			"Vậy thì, nếu em ấy định làm thế, làm thế này thì sao~?"
+			"Vậy thì, nếu em ấy định muốn như thế, làm thế này thì sao~?"
         ],	
         "39": [
 		    "\"Em nói đúng. Nhìn họ làm chuyện đó mãnh liệt trên TV,",
@@ -1706,7 +1706,8 @@
         "40.4": [
 		    "\"Ngay cả thế mà em vẫn tò mò về những gì ",
 			"sẽ xảy ra tiếp theo trong phim sao...?",
-			"Có vẻ như \\str[120] đang trở thành một cô gái khá dâm đãng...\""
+			"Có vẻ như \\str[120] đang trở thành một cô gái ",
+			"khá dâm đãng đó nha...\""
         ],	
         "40.5": [
 		    "\\nl< >\"D-Dâm đãng...?                \\w[120]",
@@ -1740,11 +1741,11 @@
         ],	
         "41.1": [
 		    "\\nl< >\"Nhưng mà... cô gái trên TV đó             \\w[120]",
-			"trông có vẻ rất thoải mái...    \\w[120]",
+			"trông có vẻ rất sung sướng...    \\w[120]",
 			"Em chỉ hơi... tò mò về cảm giác đó ra sao...\""
         ],	
         "41.2": [
-            "Nhìn thấy vẻ ngây thơ của em ấy,, ",
+            "Nhìn thấy vẻ ngây thơ của em ấy,",
 			"ngọn lửa dục vọng trong tôi cuối cùng cũng bùng cháy.",
             "Bàn tay lang thang của tôi trượt xuống eo em ấy ",
 			"về phía mép quần đùi.",
@@ -1909,7 +1910,7 @@
         ],
 		"64": [
             "\"Em đang làm rất tốt...",
-            "Cơ thể em bắt đầu cảm thấy thoải mái hơn rồi phải không?\""
+            "Cơ thể em bắt đầu cảm thấy sướng hơn rồi phải không?\""
         ],
 		"65": [
             "\\nl< >\"Ugh... mm... giờ không còn đau lắm nữa... ♥",
@@ -1962,8 +1963,9 @@
         ],
         "74": [
             "Cảm nhận được sự đầy đặn từ vòng ba của em ấy, ",
-			"tôi bỗng nảy sinh ý muốn thử cửa sau của em ấy.",
-            "Đối với em ấy, đây có thể là một trải nghiệm hoàn toàn mới... phải không nhỉ?"
+			"tôi bỗng nảy sinh ý muốn thử đi vào cửa sau.",
+            "Đối với em ấy, đây có thể là một trải nghiệm hoàn toàn mới...",
+			"phải không nhỉ? "
         ],
         "75": [
             "\\nl< >\"Eh...!? Um... \\str[121]... không phải ở đó...",
@@ -2060,5 +2062,360 @@
 			"\\nl< >\"...Mmh♥",
 			"Lần tới... chúng ta cùng nhau xem lại nhé...♥\""
         ]
-  	}
+  	},
+	"14": {
+		"0": [
+			"Giờ đây khi \\str[120] đã bắt đầu nảy sinh sự tò mò sâu sắc về thế giới người lớn,",
+			"nếu cho em ấy cơ hội thử cái này thì chắc chắn đó sẽ là",
+			"một trải nghiệm mới mẻ chưa từng có phải không?",
+			"...Chỉ nghĩ đến thôi cũng khiến tôi khó mà kiềm chế được."
+		],   
+		"1": [
+			"Mặc dù \\str[120] đã trải nghiệm mùi vị của quan hệ tình dục, ",
+			"nhưng với một người luôn ngoan ngoãn và ngây thơ như em ấy,",
+			"với cái ý nghĩ rằng ở một chỗ như vậy cũng có thể mang lại khoái cảm ",
+			"rõ ràng vượt xa khả năng hiểu biết của em ấy."
+		],    
+		"2": [
+			"\"Thực ra, chỗ đó cũng là một điểm cực kỳ nhạy cảm, ",
+			"cũng có thể mang lại cảm giác rất tuyệt vời.",
+			"Nếu không thử thì em sẽ bỏ lỡ ",
+			"cái cảm giác tuyệt vời đó đấy.\""
+		],
+		"3": [
+			"\\nl< >\"Cảm giác tuyệt vời sao...? Rõ là anh nói dối...",
+			"Không thể nào chỗ đó lại có thể như vậy được...",
+			"Nó... nó chỉ là chỗ để đi vệ sinh thôi mà, ",
+			"làm sao có thể... ugh...\""
+		],
+		"4": [
+			"\"Đúng vậy đó. ",
+			"Lúc nãy em chẳng phải đang thắc mắc vì sao những người",
+			"trên TV lại trông hạnh phúc đến vậy sao?\"",
+			" ",
+			"\"Cơ thể con gái có rất nhiều 'công tắc' ẩn",
+			"mà ngay cả em cũng không biết đến đấy.\""
+		],
+		"5": [
+			"\\nl< >\"Ugh... nếu \\str[121] đã nói vậy...",
+			"Thì... em sẽ thử một chút thôi...",
+			"Nhưng mà anh phải thật nhẹ nhàng nhé?",
+			"Nếu thấy kỳ lạ quá thì phải dừng ngay lập tức đó...!\""
+		],
+		"6": [
+			"Thấy \\str[120] không còn kháng cự nữa, tôi đưa tay ra,",  
+			"lấy một lượng lớn nước ái tình trong suốt từ âm hộ ướt át của em ấy, ",
+			"rồi nhẹ nhàng bôi lên quanh nếp gấp của hậu môn vẫn đang khép chặt.",
+			" "
+		],
+		"7": [
+			"\\nl< >\"Ugh... ah... hah...",
+			"\\str[121], cái này... thật sự là làm như vậy sao...?",
+			"Cảm giác kỳ lạ quá...\""
+		],
+		"8": [
+			"Mát xa hậu môn chưa từng có này",
+			"khiến \\str[120] bồn chồn cựa quậy, ",
+			"mông em ấy co thắt theo phản xạ dưới sự kiểm soát của tôi.",
+			" ", 
+			" ",
+			"Giữa những cơn co thắt chưa từng trải nghiệm này, ",
+			"đầu ngón tay tôi chậm rãi vượt qua sự kháng cự, ",
+			"từng chút một thăm dò vào bên trong."
+		],
+		"9": [
+			"\"Đừng sợ, anh sẽ làm rất nhẹ nhàng mà...",
+			"Anh chỉ đưa vào một chút thôi để em quen dần.\""
+		],
+		"10": [
+			"Sau khi kéo giãn ra được đến độ sâu cỡ hai ngón tay, ",
+			"tôi cảm thấy thời điểm đã thích hợp ",
+			"và bắt đầu đẩy dương vật đã cương cứng của mình, ",
+			"vào cửa sau của em ấy."
+		],
+		"11": [
+			"\\nl< >\"Mmmgh—!! Đau, đau quá...!!",
+			"\\str[121]...!? Dừng lại... như vậy sẽ rách mất... waaaah...!\""
+		],
+		"12": [
+			"Vì đó là một vùng cấm hoàn toàn chưa từng được chạm tới, ",
+			"sự khép chặt của em ấy giống như một bức tường ",
+			"không thể xuyên thủng.",
+			" ",
+			"Ngay cả khi đã có độ trơn nhất định từ chất dịch của em ấy, ",
+			"dương vật to bự này cũng chỉ có thể lọt vào một phần nhỏ ",
+			"chứ không thể đẩy vào sâu hơn nữa."
+		],
+		"13": [
+			"Sự kháng cự mạnh mẽ khiến tôi cảm thấy đau âm ỉ,",
+			"còn \\str[120] thì bật khóc vì đau đớn, ",
+			"khuôn mặt vốn đang ửng đỏ cũng nhanh chóng tái nhợt đi."
+		],
+		"14": [
+			"\"Anh xin lỗi...!",
+			"Là lỗi của anh, anh sẽ không làm vậy nữa...",
+			"Ngoan nào, anh không làm em đau quá chứ?\""
+		],
+		"15": [
+			"Tôi nhanh chóng rút dương vật ",
+			"ra khỏi cửa sau có hơi sưng lên,",
+			"còn \\str[120] sau khi được buông ra ",
+			"liền vùng vẫy nhảy xuống khỏi người tôi."
+		], 
+		"16": [
+			"\\nl< >\"Waaah... waaaah... \\str[121] là đồ ngốc...!",
+			"Chẳng dễ chịu chút nào cả...!\""
+		],
+		"17": [
+			"Vừa nức nở, \\str[120] ôm lấy mông đau nhức và loạng choạng ",
+			"chạy ra khỏi phòng khách, trốn vào phòng của mình."
+		],  
+		"18": [
+			"Có vẻ như việc cố ép buộc kiểu trải nghiệm này là quá sức ",
+			"với \\str[120] ở thời điểm hiện tại...",
+			"Nếu tôi muốn thử kiểu chơi này, ",
+			"có lẽ cần phải chuẩn bị kỹ càng hơn rất nhiều nữa..."
+		],
+		"30": [
+			"Với động tác đã quen thuộc đó, tôi lấy một lượng chất dịch nhớp nháp từ ",
+			"âm hộ của em ấy rồi nhẹ nhàng thoa đều lên nếp gấp hậu môn—",
+			"giờ đây nó không còn khép chặt như trước, ",
+			"thay vào đó hiện lên một màu hồng nhạt, như một lời mời gọi."
+		],
+		"31": [
+			"Không cần phải ép buộc như trước nữa.",
+			"Chỉ với một cái lướt nhẹ của đầu ngón tay dọc theo nếp gấp,",
+			"tôi đã có thể dễ dàng tiến vào trong sự ấm áp đó."
+		],
+		"32": [
+			"Những gì đã chuẩn bị trước đó quả thật không uổng phí.",
+			"Khi dương vật của tôi ấn vào trong em ấy, ",
+			"mông của em ấy bắt đầu co thắt lại như đang mong chờ nó.",
+			" ",
+			"Không chút do dự nào, ",
+			"tôi lợi dụng trọng lực khi em ấy hạ người xuống ",
+			"để đẩy toàn bộ dương vật vào sâu bên trong—"
+		],
+		"33": [
+			"\\nl< >\"Mngh—!! Mmm...♥ ",
+			"Vào rồi...! Nó thật sự... vào hết rồi...!\""
+		],
+		"34": [
+			"\\nl< >\"Mông của em... ",
+			"có thể chứa được thứ to lớn như vậy không...?",
+			"Cảm giác lạ quá... ",
+			"như thể bên trong đang được lấp đầy bởi \\str[121]♥\""
+		],
+		"35": [
+			"Dù giọng của \\str[120] vẫn còn run nhẹ vì cảm giác chưa quen,",
+			"nhưng trên gương mặt đỏ ửng của em ấy không còn cảm thấy đau đớn ban đầu nữa.",
+			"thay vào đó là một trạng thái mơ màng sau khi thích nghi."
+		],
+		"36": [
+			"Sự chặt chẽ dự đội của hậu môn khiến tôi thấy hưng phấn dâng trào. ",
+			"Khi em ấy đã quen dần, tôi nắm chặt đùi em ấy bằng cả hai tay",
+			"và bắt đầu chuyển động lên xuống theo nhịp nhàng đều đặn."
+		],
+		"37": [
+			"\\nl< >\"Ugh... ah...♥ ",
+			"\\str[121]... chậm lại...",
+			"Anh sẽ... làm rách chỗ đó của em mất... uu-wuu♥\""
+		],
+		"38": [
+			"Sau tất cả những lần cơ thể đã thích nghi trước đó.",
+			"khi dương vật của tôi đút vào cơ thể em ấy, ",
+			"Mỗi lần chuyển động, hậu môn của em ấy giãn ra một cách tự nhiên,",
+			"như thể tự nguyện và chủ động nuốt trọn toàn bộ nó."
+		],
+		"39": [
+			"Mỗi lần tôi nâng lên rồi để cơ thể em ấy hạ xuống theo lực hấp dẫn, ",
+			"cái cảm giác bị đẩy sâu vào trong khiến \\str[120] không kiềm được ",
+			"mà phát ra những tiếng rên rỉ nho nhỏ, hơi thở dần trở nên rối loạn.",
+			" "
+		],
+		"40": [
+			"Và dường như \\str[120] cũng đã tìm ra cách phản kháng của riêng mình.",
+			"mỗi khi hạ xuống, em ấy theo phản xạ siết mông lại,",
+			"hút chặt vào dương vật của tôi để giảm bớt lực tác động."
+		],
+		"41": [
+			"Trong sự tương tác kỳ lạ này, tôi cảm thấy như thể dương vật của mình ",
+			"đang bị vô số giác hút nhỏ bé hút một cách điên cuồng.",
+			"Từng nhịp co thắt này như thể muốn hút cạn linh hồn tôi,",
+			"tạo ảo giác rằng tôi đang bị hút vào và hoàn toàn không thể cử động được."
+		],
+		"42": [
+			"\\nl< >\"Mngh... ah...♥ ",
+			"Dù là một nơi đáng xấu hổ như vậy...",
+			"mà \\str[121] lại làm nó trở nên rối tung hết rồi...♥\""
+		],
+		"43": [
+			"\\nl< >\"Rõ ràng mông của em không phải để làm những chuyện thế này....",
+			"Nhưng cảm giác bị lấp đầy như vậy... ",
+			"lại khiến em cảm thấy thật thõa mãn...♥\""
+		],
+		"44": [
+			"\"Thế mới thấy cơ thể em thành thật đến mức nào đó, \\str[120].",
+			"Nhìn xem, chỗ này cứ siết chặt lấy anh không chịu buông.",
+			"Thật ra em muốn anh ở lại mãi bên trong phải không nào?\""
+		],
+		"45": [
+			"Nhìn biểu cảm mơ màng cùng gương mặt đỏ bừng của \\str[120],",
+			"tôi vừa trêu chọc vừa tăng dần nhịp độ."
+		],
+		"46": [
+			"Thành thật mà nói, tôi cũng đã gần tới giới hạn.",
+			"Những nhịp co thắt dồn dập từ hậu môn của em khiến khiến ",
+			"da đầu tôi tê dại. Nếu không tiếp tục chuyển động, ",
+			"mông của em ấy sẽ hút sâu vào và giữ chặt tôi lại!"
+		],
+		"47": [
+			"\\nl< >\"Đ-đều là... tại lỗi của \\str[121] cả...♥",
+			"Biến em thành một cô gái hư hỏng... ",
+			"rồi lại còn nói mấy lời như vậy...♥",
+			"Đây là... cách em trả đũa anh đó♥\""
+		],
+		"48": [
+			"\"O-ohhh...!? c-chờ đã...!\""
+		],
+		"49": [
+			"Đột nhiên \\str[120] chủ động siết chặt mông lại.",
+			"Ngay lập tức có một lực hút mạnh mẽ bùng phát từ hậu môn em ấy.",
+			"Nó không chỉ suýt nữa giữ tôi lại giữa chừng ",
+			"mà sự kích thích đột ngột còn đẩy tôi đến bờ vực khoái cảm tột độ!"
+		],
+		"50": [
+			"\\nl< >\"Ehehe...♥",
+			"\\str[121], vẻ mặt của anh buồn cười quá... ",
+			"Sắp không chịu nổi nữa rồi đúng không nè?♥\""
+		],
+		"51": [
+			"\\{Con nhóc ranh ma này...",
+			"Giờ còn dám trêu lại mình nữa sao...!",
+			"Đúng là cần phải được dạy dỗ lại cho một trận mà...!"
+		],
+		"52": [
+			"Tôi hít một hơi thật sâu,",
+			"cố gắng kìm nén khoái cảm sắp bùng nổ.",
+			"Nắm chặt đùi của em ấy bằng hết tất cả sức lực,",
+			"tôi bắt đầu thúc mạnh vào mông em ấy với tốc độ tối đa.",
+			"Những cú thúc mạnh bạo khiến da thịt mông của em ấy ",
+			"gợn lên một làn sóng thật khiêu gợi."
+		],
+		"53": [
+			"\\nl< >\"Kyaa♥ Ahnn...♥",
+			"\\str[121]!? Anh... ",
+			"anh sắp làm cho ruột gan của em rối tung lên rồi đó...♥",
+			"Sao... sao anh có thể mạnh bạo như vậy chứ...♥\""
+		],
+		"54": [
+			"\"Ngây thơ quá đấy, em gái của anh à!",
+			"Nếu em nghĩ một đòn tấn công ở cấp độ đó là đủ khiến anh chịu thua ",
+			"thì em đánh giá thấp anh quá rồi đấy!\""
+		],
+		"55": [
+			"\\nl< >\"Ugh♥ Hngh-aaah...♥",
+			"E-em xin lỗi... em chịu thua mà...♥",
+			"\\str[121]thật đáng ghét! Dừng lại đi mà... nếu cứ thế này...",
+			"em thật sự sẽ... phát điên mất! Aaaah♥♥\""
+		],
+		"56": [
+			"Nghe những lời cầu xin lẫn tiếng rên hỗn loạn của \\str[120], ",
+			"tôi lao đầu thúc mạnh vào cú nước rút cuối cùng, ",
+			"Âm thanh ướt át của cơ thể chúng tôi va chạm vang vọng ",
+			"dữ dội khắp căn phòng và lấn át luôn cả tiếng TV phía xa."
+		],
+		"57": [
+			"\\nl< >\"Hngh-aaah...♥ Nghh... aaah——",
+			"Em... Em sắp vỡ tung rồi~~!\""
+		],
+		"58": [
+			"Khi \\str[120] co giật dữ dội từ đỉnh điểm cực khoái, ",
+			"thành hậu môn của em ấy co thắt không ngừng, cuối cùng tôi cũng ",
+			"mất hết kiểm soát. Một dòng tinh dịch đặc sệt, nóng bỏng ",
+			"phun trào như một con đê vỡ, tràn sâu vào bên trong em ấy."
+		],
+		"59": [
+			"Một lượng xuất tinh cực mạnh đã hoàn toàn áp đảo cửa sau mỏng manh của em ấy,",
+			"lượng lớn chất lỏng màu trắng sệt, quá nhiều để có thể nuốt trọn cùng một lúc,",
+			"tràn ra từ nơi giao nhau của chúng tôi và bắn tung tóe lên chiếc ghế bên dưới,",
+			"lấp đầy căn phòng bằng một âm thanh ướt át, đáng xấu hổ."
+		],
+		"60": [
+			"Cú húc mạnh cuối cùng đó được tung ra với toàn bộ sức lực của tôi, ",
+			"nó khiến tôi cảm thấy hoàn toàn kiệt sức.",
+			"Không thể giữ chặt \\str[120] được nữa, ",
+			"tôi gục xuống ghế cùng với em ấy."
+		],
+		"61": [
+			"Cơ thể của \\str[120] vẫn tiếp tục run rẩy vì dư âm của sự kích thích,",
+			"những giọt mồ hôi lấp lánh trên làn da dưới ánh đèn.",
+			"Phần thân dưới của chúng tôi vẫn đang còn dính liền với nhau, ",
+			"thỉnh thoảng khẽ co giật như đang tận hưởng sự kích thích còn sót lại."
+		],
+		"62": [
+			"\\nl< >\"Haa... haah...♥",
+			"\\str[121], anh... anh đúng là xấu tính quá đi...\""
+		],
+		"63": [
+			"\\nl< >\"Rõ ràng là... em đã bảo anh chậm lại rồi mà...",
+			"vậy mà anh cứ làm ngày càng nhanh hơn...",
+			"Anh... thật xấu tính quá đi... ugh...♥\""
+		],
+		"64": [
+			"\"Chẳng phải là vì em lúc nãy siết anh chặt quá sao?",
+			"Nhìn này, giờ em vẫn chẳng có ý định buông anh ra...\""
+		],
+		"65": [
+			"Tôi khẽ nhích hông lên một chút, ",
+			"đẩy thêm một cái cuối cùng vào sâu bên trong em ấy.",
+			"Điều này khiến bụng dưới của em ấy co thắt theo phản xạ,",
+			"đồng thời phát ra một tiếng thở gấp dễ thương vì kích thích bất ngờ."
+		],
+		"66": [
+			"\"Với lại, chẳng phải vừa nãy chính em là người ",
+			"không ngừng cảm thấy sung sướng vừa nãy sao?",
+			"Xem ra cơ thể em thực sự rất yêu anh đấy nhỉ? Hehe~\""
+		],
+		"67": [
+			"\\nl< >\"U-ueeegh... E-em không nhớ gì hết!",
+			"Lần tới... nhất định em sẽ không để anh làm bậy như vậy nữa!\""
+		],
+		"68": [
+			"\\str[120] yếu ớt phản kháng,",
+			"nhưng cơ thể em ấy đã mềm nhũn vì kiệt sức,",
+			"đến việc giơ tay đẩy tôi ra cũng trở nên khó khăn."
+		],
+		"69": [
+			"Chiếc tivi trên tường vẫn tiếp tục tự động phát, ",
+			"những hình ảnh trên màn hình thay đổi qua lại giữa các tư thế ",
+			"theo cường điệu khác nhau. Chúng tôi cứ ở như vậy, gắn chặt với nhau,",
+			"lặng lẽ tận hưởng khoảnh khắc yên bình này."
+		],
+		"70": [
+			"Tôi cũng không rõ đã trôi qua bao lâu, khi những hình ảnh trên màn hình ",
+			"cuối cùng cũng đi đến hồi kết giữa những âm thanh dữ dội đó.",
+			"Và phần giới thiệu kết thúc bắt đầu hiện lên,",
+			"nhịp thở của \\str[120] đã trở nên đều đặn và ổn định."
+		],
+		"71": [
+			"\"Hmm... cốt truyện của cái cuộn băng đó thì khá là tào lao,",
+			"nhưng cũng có kha khá tư thế thú vị...",
+			"đáng để học hỏi.\""
+		],
+		"72": [
+			"\\nl< >\"...Đồ ngốc. Hôm nay em... mệt lắm rồi.",
+			"Cứ để em... ngủ một chút... sau đó thì...\""
+		],
+		"73": [
+			"Chiếc đồng hồ đã chỉ sang nửa đêm.",
+			"Kiệt sức vì vận động cường độ cao, ",
+			"\\str[120] cuối cùng cũng không chống lại được cơn",
+			"buồn ngủ nặng trĩu, thiếp đi ngay trong vòng tay tôi."
+		],
+		"74": [
+			"\"Ngủ ngon nhé.",
+			"Vẫn còn rất nhiều ngày mai đang chờ chúng ta—\""
+		]
+	}
 }
