@@ -72,6 +72,10 @@
 		"(Nhấn 'OK' để mở liên kết mời Discord)",
 		"(Đính kèm ảnh chụp màn hình của lỗi)"
 	],
+	"AnnouncementMenu": [
+		"Thông báo",
+		"Nhật ký thay đổi"
+  	],
 	"UpdateComplete1": [
 		"Cập nhật game đã hoàn tất!",
 		"Game sẽ tự động khởi động lại sau khi đóng cửa sổ này.",
