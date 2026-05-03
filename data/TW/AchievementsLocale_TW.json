@@ -105,11 +105,11 @@
       ]
     },
     "ServantAndMaster": {
-      "Name": "從者和禦主",
+      "Name": "從者和御主",
       "Description": "同時使役五隻從者",
       "Pop Up Desc": [
         "\\fs[24]「試問。",
-        "你就是我們的禦主嗎？」"
+        "你就是我們的御主嗎？」"
       ]
     },
     "BossFirstAppearance": {
@@ -123,9 +123,9 @@
       "Pop Up Desc": "——武器的儲備還夠嗎？"
     },
     "TheSwordSaintOfTheSticks": {
-      "Name": "十裡坡劍神",
+      "Name": "十里坡劍神",
       "Description": "堅持每日揮劍的成果",
-      "Pop Up Desc": "十裡坡劍神"
+      "Pop Up Desc": "十里坡劍神"
     },
     "ItWasToMeasureMyCapacity": {
       "Name": "為了檢測我的器量",
@@ -136,6 +136,11 @@
       "Name": "不要停下來啊！",
       "Description": "用超高速持續奔跑",
       "Pop Up Desc": "不要停下來啊！"
+    },
+    "YouAreBeingSummoned": {
+      "Name": "◉▽◉在召喚你",
+      "Description": "發現了古代生物！",
+      "Pop Up Desc": "◉▽◉在召喚你"
     },
     "YouTooCanBecomeLight": {
       "Name": "你也可以變成光！",
@@ -156,12 +161,27 @@
       "Pop Up Desc": "玩妹妹遊戲？"
     },
     "Milkeddry": {
-      "Name": "被榨幹了…",
+      "Name": "被榨乾了…",
       "Description": "已經、一滴都不剩了……",
       "Pop Up Desc": [
         "\\fs[24]「已經、",
         "一滴都不剩了……」"
       ]
+    },
+    "StairwayToAdulthoodI": {
+      "Name": "通往大人的階梯♥",
+      "Description": "讓妹妹看色色的同人本",
+      "Pop Up Desc": "通往大人的階梯♥"
+    },
+    "StairwayToAdulthoodII": {
+      "Name": "通往大人的階梯♥♥",
+      "Description": "讓妹妹使用色色的玩具",
+      "Pop Up Desc": "通往大人的階梯♥♥"
+    },
+    "StairwayToAdulthoodIII": {
+      "Name": "通往大人的階梯♥♥♥",
+      "Description": "讓妹妹體驗性的快樂",
+      "Pop Up Desc": "通往大人的階梯♥♥♥"
     }
   }
 }
