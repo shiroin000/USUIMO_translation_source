@@ -11,6 +11,12 @@
       "\\w[120]"
     ]
   },
+  "cheatCodeTutorial": {
+    "0": [
+      "⬆ Long press the avatar frame to call up the cheat code entry window.",
+      "Unlock the corresponding features by entering the correct cheat code!"
+    ]
+  },  
   "usingItem": {
     "0": [
       "Took out \\ii[\\v[90]]  ",

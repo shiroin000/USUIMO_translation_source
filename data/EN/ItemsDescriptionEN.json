@@ -268,6 +268,62 @@
     ],
     "ability": ""
   },
+  "21": {
+    "name": [
+      "Mysterious Code"
+    ],
+    "beIndependent": true,
+    "subtitle": "",
+    "description": [
+      "\"Long-press the avatar frame to activate the input field—\""
+    ],
+    "ability": "",
+    "howToUse": [
+      "<<Cheat Codes Guide>>",
+      "",
+      "Long-press the character avatar frame (HP bar area) to call up the input box. ",
+      "Type the code and press Enter to activate.",
+      "After using a cheat code, you will receive the title 'ZAKO'. ",
+      "You can toggle the title's easter egg effects in the Settings menu.",
+      "This will not have any negative impact on your stats, story progression, or ending.",
+      "", 
+      "<<Cheat Code List>>",   
+      ""      
+    ],
+    "hard2k1ll": [
+      "< hard2k1ll >",
+      "Obtain the cheat equipment 'Fairy Queen's Crystal Wings'. ",
+      "Grants immunity to fall damage and a massive damage reduction effect."  
+    ],
+    "get40rfree": [
+      "< get40rfree >",
+      "Obtain all consumables, ingredients, and materials. One-time use only."  
+    ],
+    "6a1n60ld": [
+      "< 6a1n60ld >",
+      "Obtain 100,000 Yen and the cheat gear 'Lucky Mallet'. Defeating monsters will grant extra gold drops."  
+    ],
+    "healmeplz": [
+      "< healmeplz >",
+      "Obtain the cheat gear 'Mio's First Aid Kit'. Grants a permanent, powerful auto-regeneration effect while equipped."  
+    ],
+    "unshatter": [
+      "< unshatter >",
+      "Obtain the cheat gear 'Golden Finger'. Attacks will no longer consume weapon durability while equipped."  
+    ],
+    "60dpat": [
+      "< 60dpat >",
+      "Obtain the cheat gear 'Catalyst Amatoria'. Grants a massive boost to Favorability when patting Imouto's head at home."  
+    ],
+    "muestacz": [
+      "< muestacz >",
+      "Obtain the cheat gear 'Absolute Territory'. Grants a massive amount of extra inventory space when equipped."  
+    ],
+    "1f0g0ty0u": [
+      "< 1f0g0ty0u >",
+      "Change Imouto's name."  
+    ]      
+  },
   "23": {
     "name": [
       "Delicious Milk"
@@ -433,7 +489,7 @@
       "When thrown, Temporarily turns any target it touches into gold",
       "Shattering a target in this gold state will generate a vast amount of currency"
     ]
-  },  
+  },
   "42": {
     "name": [
       "Kenaz"
@@ -1969,7 +2025,7 @@
     "ability": [
       ""
     ]
-  },  
+  },
   "241": {
     "name": [
       "Apple Pie"
@@ -2843,6 +2899,21 @@
       "A special ore found only in the deeper layers of the Abyss.",
       "It contains searing mana, yet is exceptionally hard, ",
       "and can only be mined and processed by specific means."
+    ],
+    "ability": ""
+  },
+  "410": {
+    "name": [
+      "The Knight's Suggestion"
+    ],
+    "beIndependent": true,
+    "subtitle": [
+      "\"I see... The game is too difficult, you say?\"",
+      "\"If Your Excellency does not mind, I can provide a special method for you...\""
+    ],
+    "description": [
+      "A mysterious code provided in secret by the Knight.",
+      "It can instantly improve the game experience—but at what cost?"
     ],
     "ability": ""
   }
