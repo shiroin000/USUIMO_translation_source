@@ -1,0 +1,46 @@
+{
+  "2": {
+        "0": [
+            "(...Ada apa ini? Sinar mataharinya begitu kuat!?",
+			"Dan benar-benar sakit saat menyentuh kulitku!!)"
+		]
+    },
+  "4": {
+        "0": [
+            "Masih siang hari.",
+			"Apa aku benar-benar akan pulang ke rumah sekarang?"
+		],
+		"1": [
+            "Masih ada waktu sebelum matahari terbenam…",
+			"Apa aku benar-benar akan pulang ke rumah sekarang?"
+        ],
+        "2": [
+      		"Hari ini panas sekali.",
+      		"Mungkin lebih baik pulang lebih awal...?"
+        ],
+        "3": [
+            "Pulang ke rumah",
+			"Tidak usah"
+        ]
+    },
+  "16": {
+        "0": [
+            " ",
+			" "
+		]
+    },	
+  "17": {
+        "0": [
+            "Ada juga catatan di dalamnya...     \\w[30]",
+			"Tertulis di sana beberapa kata yang sangat berantakan sampai hampir tidak terbaca—"
+		],
+        "1": [
+            "\\py[24]\"Masa mudaku terkubur di dalamnya...\"",
+			"\\w[60]"
+		],
+        "2": [
+            "(Rasanya begitu...",
+			"begitu berat tak tertahankan...)"
+		]	
+    }	
+}

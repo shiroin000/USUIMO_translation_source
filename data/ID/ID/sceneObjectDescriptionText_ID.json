@@ -1,0 +1,118 @@
+{
+  "0": [
+    "✦Sebuah mug yang disukai \\str[120], ",
+    "dengan desain kelinci yang aneh. ",
+    "Tampaknya ini bestseller di NLCH."
+  ],
+  "1": [
+    "✦Lentera kecil peninggalan Ayah,",
+    "tampaknya alat alkimia.",
+    "Sangat awet meski sudah tua dan ",
+    "memancarkan cahaya hangat yang menenangkan."
+  ],
+  "2": [
+    "✦Lampu tidur mungil yang imut dengan cahaya lembut,",
+    "sempurna untuk dinyalakan saat bangun",
+    "untuk ke kamar mandi di malam hari. "
+  ],
+  "3": [
+    "✦Tanaman berdaun bernama “Ficus umbellata”.",
+    "Ia tumbuh subur, dan tampaknya \\str[120] ",
+    "merawatnya dengan sangat teliti setiap hari."
+  ],
+  "4": [
+    "✦Tanaman berdaun bernama “Pothos”.",
+    "Tampaknya tidak terlalu sehat,  ",
+    "jadi \\str[120] menaruhnya di dekat jendela.",
+    "Haruskah kubilang padanya bahwa pothos sebenarnya ",
+    "tidak suka sinar matahari...? "
+  ],
+  "5": [
+    "✦Beberapa buku yang dipilih \\str[120] ",
+    "dari ruang kerja Ayah.",
+    "Kebanyakan buku filsafat dan ",
+    "benar-benar tidak bisa dimengerti.  "
+  ],
+  "6": [
+    "✦Memungut ranting birch kering di ",
+    "jalan pulang —kupikir kelihatannya keren, ",
+    "jadi kutunjukkan ke \\str[120].",
+    "Ia dengan hati-hati menaruhnya di vas."
+  ],
+  "7": [
+    "✦Sketsa burung yang digambar \\str[120], ",
+    "tampaknya berdasarkan burung yang ia lihat ",
+    "sambil memandang ke luar jendela."
+  ],
+  "8": [
+    "✦Kipas kecil tua dengan hembusan yang lemah. ",
+    "Kamu harus mendekat sekali untuk ",
+    "merasakan angin sejuknya.  "
+  ],
+  "9": [
+    "✦Hairdryer canggih dengan ",
+    "hembusan yang luar biasa kuat.",
+    "Kalau diarahkan ke wajah, terasa",
+    "seperti anginnya bisa mengupas kulitmu."
+  ],
+  "10": [
+    "✦Bak mandi dengan pengaturan suhu ",
+    "yang bisa disetel, tapi dengan rentang 99°C sampai -10°C...",
+    "Apa itu benar-benar oke?  "
+  ],
+  "11": [
+    "✦Shampo beraroma buah yang disukai \\str[120].",
+    "Membuat rambutnya super lembut, ",
+    "tapi cepat banget habisnya.",
+    "Sisa Sekarang:\\c[20]${$gameSelfVariables.value([6, 8, 'shampoo'])}%"
+  ],
+  "12": [
+    "✦Sepertinya ini pakaian ",
+    "yang baru saja dilepas \\str[120]...",
+    "Dilipat dengan rapi."
+  ],
+  "13": [
+    "✦Konsol game legendaris yang kini sangat langka.",
+    "Memilikinya akan membuatmu jadi legenda di kalangan gamer.  "
+  ],
+  "14": [
+    "✦Boneka hadiah dari Ayah untuk \\str[120] ",
+    "di hari ulang tahunnya. Ia sangat menyimpannya ",
+    "dan selalu menjaganya di sisinya."
+  ],
+  "15": [
+    "\\fr\\fs[20]\\c[10]Lingkaran Sihir yang Hilang",
+    "\\fs[22]\\i[16]???\\fr",
+    "✦Ruang Dunia Lain yang diciptakan oleh ",
+    "kartu sihir warisan dari Ayah.",
+    "Sepenuhnya tak terpengaruh waktu, ",
+    "item yang disimpan di sini tidak akan pernah hilang.",
+    "Lingkaran ini juga terhubung dengan pintu masuk rumah,",
+    "memungkinkan kepulangan yang stabil dan aman.",
+    "Apakah ini sengaja dirancang oleh Ayah, ",
+    "yang meramal anaknya pasti akan turun ",
+    "ke dalam abyss, kini tak lagi diketahui..."
+  ],
+  "16": [
+    "\\fr\\fs[28]\\c[114]Labirin Agung",
+    "\\fr\\{\\i[16]400 \\fr",
+    "✦Konon koridor ini, ",
+    "yang ditinggalkan para dewa, membentang tanpa batas di sini.",
+    "Di bawah kubah yang runtuh dan tanaman kuno yang melilit ",
+    "masih tersisa sinar peradaban yang hilang.",
+    "Petualang yang tak terhitung sudah melangkah masuk,",
+    "tak pernah kembali— Labirin ini tidak menolak siapa pun.",
+    "Ia hanya memutuskan siapa yang boleh keluar."
+  ],
+  "17": [
+    "✦TV 85 inci dengan teknologi terbaru dan kualitas gambar yang sangat bagus.",
+    "Namun, ia tidak menerima banyak saluran ",
+    "siaran. Untuk menonton acara yang lebih menarik,",
+    "harus cari kaset video entah gimana caranya."
+  ],
+  "18": [
+    "✦Celana dalam yang baru saja dilepas \\str[120].",
+    "Masih hangat karena tubuhnya, dan bagian kecil ",
+    "kain di tengahnya tampak basah kuyup."
+  ]
+}

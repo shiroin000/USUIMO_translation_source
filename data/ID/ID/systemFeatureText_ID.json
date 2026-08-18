@@ -1,0 +1,383 @@
+{
+  "gameTitle": [
+    "Hidup Sederhana Bersama Adik Pendiamku"
+  ],
+  "goldHeld": [
+    "Emas"
+  ],
+  "numberDays": [
+    "DAY"
+  ],
+  "tipSave": [
+    "Apakah kamu ingin memindahkan data simpan dari versi lama?",
+    "Game saat ini kompatibel dengan file simpan dari versi 0.22A ke atas."
+  ],
+  "tipSave2": [
+    "Silakan pilih folder “save” dari versi lama (atau direktori utama game), lalu klik “Select Folder”."
+  ],
+  "tipSaveMobile": [
+    "Versi Android belum mendukung akses cepat ke direktori simpan untuk saat ini",
+    "karena masalah izin yang sensitif.",
+    "Silakan pergi sendiri ke jalur '/storage/emulated/0/Documents/sister_save'",
+    "untuk memeriksa file simpan! Kamu bebas memindahkan data simpan dari perangkat lain atau",
+    "versi PC untuk melanjutkan progresmu."
+  ],
+  "quantityHeld": [
+    "\\fs[16]•Jumlah yang Dibawa:\\c[17] ${} \\c[0]\\py[-8]"
+  ],
+  "autoUpdate": [
+    "Pembaruan tersedia: Data game Versi ${} terdeteksi. ",
+    "Apakah kamu ingin mengunduh dan memperbarui sekarang?"
+  ],
+  "fullScreen": [
+    "Layar Penuh"
+  ],
+  "masterVolume": [
+    "Volume Utama"
+  ],
+  "voiceVolume": [
+    "Volume Suara"
+  ],
+  "BgmVolume": [
+    "BGM Volume"
+  ],
+  "BgsVolume": [
+    "BGS Volume"
+  ],
+  "SeVolume": [
+    "SE Volume"
+  ],
+  "MaxPlayerMsgs": [
+    "Maks Pesan Pemain"
+  ],
+  "GameFAQ": [
+    "Panduan Game"
+  ],
+  "ShowWeaponDurability": [
+    "Tampilkan Ketahanan Senjata"
+  ],
+  "DisableAutoUpdate": [
+    "Nonaktifkan Pembaruan Otomatis"
+  ],
+  "LockedFPS": [
+    "Kunci 60 FPS"
+  ],
+  "ZakoMode": [
+    "ZAKO Mode"
+  ],
+  "Language": [
+    "Bahasa Game"
+  ],
+  "loadConfirm": [
+    "Apakah kamu ingin",
+    "memuat?"
+  ],
+  "OverwriteConfirmed": [
+    "Apakah kamu ingin",
+    "menyimpan?"
+  ],
+  "SVConfirmText": [
+    "Ya",
+    "Tidak"
+  ],
+  "EnterCheatCode": [
+    "ZAKO~♥ ZAKO~♥",
+    "Masukkan kode curang di sini..."
+  ],
+  "AnnouncementMenu": [
+    "Pengumuman",
+    "Log Perubahan"
+  ],
+  "mvSaveToMzConvertConfirmText": [
+    "${} file data simpan dari versi lama (versi MV) terdeteksi.",
+    "Apakah kamu ingin mengonversi file simpan ini ke format versi MZ saat ini ",
+    "agar bisa terus dimuat dan digunakan?"
+  ],
+  "mvSaveToMzConvertTipsText": [
+    "Saat kamu menempatkan file simpan versi MV ke dalam folder simpan, ",
+    "proses konversi simpan akan dipicu secara otomatis.",
+    "Setelah konversi berhasil, file simpan akan diubah menjadi ",
+    "format yang dapat dibaca oleh versi MZ saat ini dan akan muncul di layar Load.",
+    " ",
+    "Proses ini tidak akan menghapus file simpan asli versi MV. ",
+    "Namun, jika file simpan versi MZ dengan nomor slot yang sama sudah ada, ",
+    "konversi tidak akan dipicu lagi.",
+    " ",
+    "Fitur ini saat ini masih dalam tahap pengembangan dan pengujian. ",
+    "Jika kamu yakin ada data yang hilang setelah konversi,",
+    "harap simpan file simpan asli versi MV-mu dan laporkan masalahnya ke server Discord kami."
+  ],
+  "mvSaveToMzFailed": "Tidak ditemukan data simpan yang memerlukan konversi.",
+  "mvSaveToMzSuccess": [
+    "Berhasil mengonversi ${} slot data simpan.",
+    "Catatan slot baru telah ditambahkan ke layar Load Game:"
+  ],
+  "UpdateComplete1": [
+    "Pembaruan game selesai!",
+    "Game akan dimulai ulang secara otomatis setelah jendela ini ditutup.",
+    "Kamu bisa memuat auto-save untuk melanjutkan progres!"
+  ],
+  "UpdateComplete2": [
+    "Pembaruan game selesai!",
+    "Game akan dimulai ulang sebentar lagi untuk menerapkan pembaruan!"
+  ],
+  "RemindToUpdate": [
+    "Terjadi kesalahan dan game macet.",
+    "Patch yang lebih baru tersedia—",
+    "Silakan gunakan pembaruan otomatis untuk memperbaiki masalah ini!"
+  ],
+  "bagFull": [
+    "Batas inventaris terlampaui!!"
+  ],
+  "noStatusEffects": [
+    "Tidak ada efek status sama sekali!"
+  ],
+  "unimplementedDoor": [
+    "Pintu ini tidak bisa didorong terbuka dari sisi ini"
+  ],
+  "zipUpdateComplete": [
+    "Patch berhasil dipasang. ",
+    "Memulai ulang game untuk menerapkan pembaruan!"
+  ],
+  "zipUpdateFail": [
+    "Gagal mengekstrak dan memasang patch!",
+    "Silakan coba pembaruan otomatis lagi atau",
+    "ekstrak file patch secara manual untuk memasang!"
+  ],
+  "fileDownloadedSuccessfully": [
+    "${} berhasil diunduh!"
+  ],
+  "fileDownloadFailed": [
+    "${} gagal diunduh! Mencoba lagi sekarang!"
+  ],
+  "installPatch": [
+    "Patch memerlukan ekstraksi—memasang sekarang. Ini dapat menyebabkan game menjadi lambat, harap bersabar!"
+  ],
+  "totalFilesToUpdate": [
+    "Mendeteksi ${} file yang perlu diperbarui—memulai proses pengunduhan!"
+  ],
+  "silentUpdateSuccess": [
+    "Konten patch baru untuk ${} telah berhasil dipasang dan akan berlaku saat dimulai ulang berikutnya."
+  ],
+  "outdatedVersionWarning": [
+    "Versi game saat ini sudah kedaluwarsa. Versi terbaru adalah ${}.",
+    "Pembaruan otomatis besar kini tersedia, tetapi khusus untuk pengguna yang telah menyelesaikan sistem verifikasi kepemilikan resmi. ",
+    "Jika kamu tidak dapat menyelesaikan verifikasi, kamu tetap perlu mengunduh ulang game dari saluran resmi untuk memperbarui."
+  ],
+  "renameCharacter": [
+    "Aku ingat sekarang—",
+    "dia adalah..."
+  ],
+  "heroName": [
+    "Onii-chan"
+  ],
+  "heroineName": [
+    "Imouto"
+  ],
+  "nonHardwareAccelerated": [
+    "Game saat ini berjalan pada grafis terintegrasi!",
+    "Jika PC-mu memiliki GPU khusus, kami sarankan mengatur Game.exe ",
+    "untuk menggunakannya di panel kontrol grafismu demi pengalaman bermain yang lebih lancar."
+  ],
+  "isAmdCPU": [
+    "CPU-mu terdeteksi sebagai prosesor AMD.",
+    "Beberapa chip AMD mungkin mengalami penurunan frame saat memutar video VP9 (WebM) ",
+    "di lingkungan Chromium. Jika kamu mengalami masalah ini, coba paksa game untuk",
+    "menggunakan rendering GPU atau perbarui driver-mu untuk membantu mengatasi masalah ini."
+  ],
+  "failedToLoad": [
+    "Masalah seperti ini mungkin disebabkan oleh:",
+    "① File game rusak atau nama file kacau karena masalah encoding saat ekstraksi/pemasangan.",
+    "② Pengembang lupa menyertakan file—harap tunggu pembaruan patch untuk memperbaikinya."
+  ],
+  "LowResMode": [
+    "Mode Grafis Rendah"
+  ],
+  "lowResModeWarning": [
+    "Fitur ini terutama untuk optimasi performa di perangkat Android dan mungkin hanya sedikit berpengaruh pada versi PC.",
+    "Saat diaktifkan, game merender peta dan gambar pada resolusi lebih rendah lalu membesarkannya, ",
+    "mengurangi beban GPU di perangkat seluler serta menurunkan panas yang dihasilkan dan konsumsi daya.",
+    "Catatan: Ini adalah fitur eksperimental, dan efektivitasnya dapat bervariasi tergantung perangkat.",
+    "Kamu dapat menonaktifkan fitur ini kapan saja untuk segera mengembalikan kejernihan gambar penuh."
+  ],
+  "cloudSaveServiceWarning": [
+    "Ini adalah fitur cloud save lama berbasis Google Drive.",
+    "Sekarang sistem cloud save resmi sudah selesai,",
+    "fitur ini dijadwalkan untuk dihapus dan dihentikan pada pembaruan mendatang.",
+    " ",
+    "Fitur cloud save ini akan terhubung ke Google Drive-mu",
+    "dan menyimpan simpanan gimmu di folder NLCH/save.",
+    "File simpan yang diunggah hanya akan digunakan untuk sinkronisasi di masa depan dan diunduh kembali ",
+    "ke dalam game. File tersebut tidak akan digunakan untuk tujuan lain apa pun.",
+    "Apakah kamu setuju untuk memberikan akses game ke Google Drive-mu?"
+  ],
+  "uploadSaveFile": [
+    "Mengunduh file simpan dari Google Drive akan menimpa data simpan lokalmu saat ini!",
+    "Apakah kamu ingin melanjutkan?"
+  ],
+  "nearbyMonstersCount": [
+    "Monster di dekat terdeteksi"
+  ],
+  "nearbyTreasuresCount": [
+    "Harta karun di dekat terdeteksi"
+  ],
+  "underwaterTreasuresCount": [
+    "Harta karun bawah air terdeteksi"
+  ],
+  "steamWishlist": [
+    "Halaman toko Steam kami akhirnya tayang!",
+    "Tolong tambahkan kami ke wishlist dan dukung kami! (*´∀`)~♥",
+    "⬇Klik di bawah untuk membuka halaman Steam."
+  ],
+  "memberMenu": {
+    "firstTimeNotice": [
+      "Fitur verifikasi kepemilikan ini saat ini masih eksperimental.",
+      "Kamu dapat masuk dengan Patreon di sini, ",
+      "atau menghubungkan akun Itch untuk verifikasi kepemilikan.",
+      "Jika kamu memiliki langganan aktif, ",
+      "atau sudah memiliki game ini di Itch,",
+      "kamu dapat menggunakan fitur seperti auto-patching pembaruan besar.",
+      "",
+      "Perlu diperhatikan:",
+      "Saat ini, verifikasi hanya tersedia untuk pemain ",
+      "yang membeli game di Itch atau Patreon, ",
+      "atau pemain dengan langganan Patreon berbayar."
+    ],
+    "shortHint": " Sekarang dapat mengaktifkan cloud saves & pembaruan besar",
+    "waitingLogin": "Menunggu penyelesaian login...",
+    "notLoggedIn": "Belum Masuk",
+    "RequestingLogin": "Meminta tautan login...",
+    "openingWindow": "Membuka jendela login Patreon...",
+    "chooseLoginMethod": "Pilih platform untuk masuk",
+    "openingWindowItch": "Membuka jendela login itch.io...",
+    "cloudSave": "Gunakan Cloud Save",
+    "logInFirst": "Silakan klik tombol ini untuk masuk terlebih dahulu",
+    "CheckUpdates": "Perbarui ke Versi Terbaru",
+    "Subscribed": "Dikonfirmasi sebagai sponsor atau pemain terverifikasi!",
+    "NotSubscribed": "Tidak ada langganan aktif terdeteksi. Beberapa fitur tidak tersedia.",
+    "lastCheck": "Pengecekan Terakhir: ",
+    "checkLatestVersion": "Memeriksa versi terbaru, mohon tunggu...",
+    "isLatestVersion": "Kamu sudah berada di versi terbaru!",
+    "notSponsor": "Pengguna yang belum terverifikasi harus berlangganan terlebih dahulu!",
+    "ImoutoFavorite": "Favorit Imouto",
+    "nonItchUser": "Game ini tidak ditemukan di perpustakaan Itch-mu!",
+    "additionalPlatformVerifyNotice": [
+      "Kamu juga dapat menghubungkan akun dari platform lain ",
+      "untuk berbagi data playerId yang sama!"
+    ],
+    "majorUpdateFailed": [
+      "Pembaruan versi besar gagal!",
+      "Kode error: ${}",
+      "Silakan coba masuk untuk verifikasi dan mulai pembaruan lagi,",
+      "atau kirim tangkapan layar ini ke server Discord kami untuk bantuan!"
+    ]
+  },
+  "cloudSave": {
+    "title": "Cloud Save",
+    "lastSync": "Terakhir Disinkronkan: ",
+    "neverSynced": "Belum Pernah Disinkronkan",
+    "loading": "Memuat cloud saves...",
+    "hint": "Unduh satu cloud save, atau gunakan tombol atas untuk menyinkronkan semua (menimpa slot lokal yang cocok)",
+    "empty": "Tidak ada simpanan di cloud!",
+    "notLoggedIn": "Silakan masuk terlebih dahulu untuk menggunakan fitur cloud save!",
+    "listFailed": "Gagal mengambil daftar cloud save!",
+    "desktopOnly": "Pemulihan cloud hanya tersedia di desktop untuk saat ini",
+    "downloading": "Mengunduh...",
+    "downloadDone": "Dipulihkan ke simpanan lokal",
+    "downloadFailed": "Gagal mengunduh cloud save!",
+    "uploading": "Mengunggah simpanan lokal...",
+    "uploadDone": "Unggah selesai: %1 berhasil, %2 gagal",
+    "uploadSkipped": "Tidak ada konten yang perlu diunggah",
+    "confirmDownload": "Unduh dan timpa simpanan lokal: ",
+    "syncAll": "Sinkronkan Semua Cloud Saves",
+    "confirmSyncAll": [
+      "Unduh %1 cloud save yang belum disinkronkan?",
+      "Timpa slot lokal yang cocok."
+    ],
+    "confirmSyncAllLocalNewer": "Peringatan: %1 simpanan lokal lebih baru.",
+    "syncAllProgress": "Menyinkronkan cloud saves... %1/%2",
+    "syncAllDone": "Cloud saves disinkronkan: %1 dipulihkan",
+    "syncAllPartial": "Sinkronisasi selesai: %1 dipulihkan, %2 gagal",
+    "reconcileChecking": "Membandingkan simpanan lokal dan cloud...",
+    "confirmReconcileOverlap": [
+      "[Cloud Save Auto-Sync]",
+      "Mengunduh %2 simpanan khusus cloud ke direktori lokal...",
+      " ",
+      "Mendeteksi %1 file simpan yang bertentangan antara lokal dan cloud!",
+      "Pilih [OK] untuk menimpa simpanan lokal dengan versi cloud (data lokal akan hilang).",
+      "Pilih [Cancel] untuk menyimpan simpanan lokal dan mengunggahnya ke server saat sinkronisasi berikutnya."
+    ],
+    "reconcileProgress": "Memulihkan cloud saves... %1/%2",
+    "reconcileDone": "Perbandingan selesai: %1 diunduh, %2 ditimpa, %3 tetap lokal.",
+    "reconcilePartial": "Perbandingan selesai: %1 dipulihkan, %2 gagal.",
+    "reconcileFailed": "Perbandingan cloud save otomatis gagal. Masuk lagi untuk mencoba ulang.",
+    "reconcileNothing": "Tidak ada cloud save ditemukan; simpanan lokal akan disinkronkan secara normal.",
+    "slotAuto": "Auto Save",
+    "slotN": "Slot %1",
+    "statusNoLocal": "Hanya Cloud",
+    "statusCloudNewer": "Versi Cloud Lebih Baru",
+    "statusLocalNewer": "Versi Lokal Lebih Baru",
+    "statusSynced": "Tersinkron"
+  },
+  "minimapName": {
+    "5": "Katakombe Terlupakan:Lapisan Bawah",
+    "9": "Negeri Kantuk…",
+    "10": "Hutan Reruntuhan",
+    "13": "Hutan Reruntuhan",
+    "16": "Hutan Reruntuhan",
+    "18": "Jalur Petualang: Titik Kumpul",
+    "26": "Hutan Reruntuhan",
+    "27": "Hutan Reruntuhan",
+    "28": "Katakombe Terlupakan:Lapisan Atas",
+    "37": "Labirin Reruntuhan Dangkal",
+    "40": "Situs Penggalian",
+    "46": "Situs Penggalian",
+    "47": "Hutan Reruntuhan",
+    "48": "Jalur Petualang:Monumen",
+    "49": "Jalur Petualang:Rumpun Pohon",
+    "50": "??? Makam",
+    "51": "Gerbang Bintang",
+    "52": "Katakombe Terlupakan:Sarang",
+    "53": "Gereja yang Jatuh",
+    "55": "Zona Lava Terik",
+    "56": "Hutan Reruntuhan:Taman Tersembunyi",
+    "58": "Jalur Petualang:Rumpun Pohon",
+    "59": "Situs Penggalian",
+    "60": "Situs Penggalian",
+    "61": "Situs Penggalian",
+    "62": "Jalur Petualang:Rumpun Pohon"
+  },
+  "AdventurersPathway": {
+    "mapName": "Jalur Petualang"
+  },
+  "ShallowRuinsLabyrinth": {
+    "mapName": "Labirin Reruntuhan Dangkal",
+    "mapDescription": "Labirin luas yang dipenuhi misteri yang tak terhitung"
+  },
+  "ForgottenCatacombe": {
+    "mapName": "Katakombe Terlupakan"
+  },
+  "ForestofRuins": {
+    "mapName": "Hutan Reruntuhan"
+  },
+  "AbandonedForest": {
+    "mapName": "Hutan Tersesat"
+  },
+  "ExcavationSite": {
+    "mapName": "Situs Penggalian"
+  },
+  "TheFallenChurch": {
+    "mapName": "Gereja yang Jatuh",
+    "mapDescription": "domba kesayanganku! Mengapa engkau meninggalkanku?"
+  },
+  "DoorofStar": {
+    "mapName": "Gerbang Bintang"
+  },
+  "ScorchingLavaZone": {
+    "mapName": "Zona Lava Terik",
+    "mapDescription": "Tanah lahar yang terus bergejolak, hanya mereka yang teguh hati mampu menjejakkan kaki di sana"
+  },
+  "Nibelungen": {
+    "mapName": "Nibelungen"
+  }
+}

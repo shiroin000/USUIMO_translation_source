@@ -1,0 +1,1441 @@
+{
+  "1": {
+    "name": [
+      "Landasan"
+    ],
+    "subtitle": "",
+    "description": [
+      "Landasan berat dari bengkel pandai besi, entah bagaimana bisa ",
+      "dibawa sebagai perlengkapan. Kekerasan dan bobotnya membuatnya sempurna untuk",
+      "mengasah senjata, meski mungkin berat bagi yang belum berpengalaman..."
+    ],
+    "ability": [
+      "Senpo berubah menjadi mengeluarkan landasan untuk memperbaiki senjata",
+      "Tidak bisa memperbaiki senjata sihir atau senjata kualitas emas"
+    ]
+  },
+  "2": {
+    "name": [
+      "Persenjataan Permata"
+    ],
+    "subtitle": "",
+    "description": [
+      "Mineral yang terpendam di dalam tanah adalah media alkimia yang bagus",
+      "Perangkat magitech berbentuk belati ini menyalurkan kekuatan ",
+      "batu permata berharga, tapi biayanya yang mahal membuat sebagian besar alkemis meninggalkannya…"
+    ],
+    "ability": [
+      "Secara acak mengonsumsi permata saat menyerang untuk mengisi dan meningkatkan damage",
+      "Semakin berharga permata, semakin besar damage sihir yang ditambahkan"
+    ]
+  },
+  "3": {
+    "name": [
+      "Aksesori Rambut Aneh"
+    ],
+    "subtitle": "",
+    "description": [
+      "Aksesori rambut yang dihiasi ornamen yang tidak biasa",
+      "Apa ini kelinci… atau bun…?"
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "4": {
+    "name": [
+      "Sepatu Pemburu"
+    ],
+    "subtitle": "",
+    "description": [
+      "Sepatu bot yang terbuat dari kulit tebal dan sol kayu, ",
+      "dilapisi bulu lembut untuk meredam setiap langkah",
+      "Gerakan hening adalah langkah pertama seorang pemburu"
+    ],
+    "ability": [
+      "Meningkatkan kecepatan gerak saat menarik busur",
+      "Memberikan efek skill \\ss[10] saat dipasang"
+    ]
+  },
+  "5": {
+    "name": [
+      "Sarung Tangan Keselamatan"
+    ],
+    "subtitle": "",
+    "description": [
+      "Sarung tangan pelindung dari bahan isolasi, ",
+      "awalnya dipakai pekerja sebagai alat keselamatan harian. Anehnya, ",
+      "mereka juga memberikan ketahanan kuat terhadap serangan sihir..."
+    ],
+    "ability": [
+      "Sangat mengurangi efek petir saat dipasang"
+    ]
+  },
+  "6": {
+    "name": [
+      "Lahirnya Kesialan"
+    ],
+    "subtitle": "",
+    "description": [
+      "Diparasit oleh Philosopher Stone, makhluk lemah itu dipaksa",
+      "dipenuhi vitalitas tanpa akhir, terus berputar antara hidup dan",
+      "mati sampai kegilaan mengambil alih. Bahkan setelah dilepas, kekuatan ini tetap ada"
+    ],
+    "ability": [
+      "Meningkatkan HP. Meningkatkan efek pemulihan HP sebesar 25%",
+      "Memberikan regenerasi otomatis saat dipasang"
+    ]
+  },
+  "7": {
+    "name": [
+      "Janin Terkutuk"
+    ],
+    "subtitle": "",
+    "description": [
+      "Janin terkutuk yang belum berkembang, yang meski segalanya,",
+      "tetap hidup. Keinginan bertahan hidupnya yang kuat dan",
+      "vitalitasnya yang melimpah bahkan bisa memengaruhi pemakainya"
+    ],
+    "ability": [
+      "Meningkatkan HP. Meningkatkan efek pemulihan HP sebesar 20%"
+    ]
+  },
+  "8": {
+    "name": [
+      "Kumpulan Kristal Mana"
+    ],
+    "subtitle": "",
+    "description": [
+      "Mineral yang dibentuk oleh Labirin Besar, mengandung jejak mana",
+      "Membawanya meningkatkan pemahaman sihir"
+    ],
+    "ability": [
+      "Memasangnya meningkatkan kecepatan merapal dan kekuatan sihir",
+      "Serangan senjata sihir memberikan tambahan 5% damage sihir"
+    ]
+  },
+  "9": {
+    "name": [
+      "Kumpulan Mana Abyssal"
+    ],
+    "subtitle": "",
+    "description": [
+      "Kumpulan langka yang dipenuhi mana pekat,",
+      "memancarkan gelombang sihir yang terasa. Sangat diburu para alkemis"
+    ],
+    "ability": [
+      "Memasangnya meningkatkan kecepatan merapal dan kekuatan sihir",
+      "Serangan senjata sihir memberikan tambahan 10% damage sihir"
+    ]
+  },
+  "10": {
+    "name": [
+      "Lingkar Fokus"
+    ],
+    "subtitle": "",
+    "description": [
+      "Lingkar yang dikenakan sang bijak agung semasa muda sebagai",
+      "petualang. Ia membantu memfokuskan pikiran dan menghalau gangguan luar"
+    ],
+    "ability": [
+      "Kebal terhadap Stun",
+      "Meningkatkan kekuatan sihir dan skala rapalan"
+    ]
+  },
+  "11": {
+    "name": [
+      "Sarung Tangan Penyedot Mana"
+    ],
+    "subtitle": "",
+    "description": [
+      "Sarung tangan yang dikenakan sang bijak agung semasa muda sebagai",
+      "seorang petualang. Mereka mengumpulkan mana secara alami,",
+      "memberikan sifat sihir pada senjata"
+    ],
+    "ability": [
+      "Saat dipasang, senjata yang dipegang berubah menjadi senjata sihir",
+      "Serangan senjata sihir memberikan tambahan 30% damage sihir"
+    ]
+  },
+  "12": {
+    "name": [
+      "Cakar Neko Pinjaman"
+    ],
+    "subtitle": [
+      " \"...Meow~?\""
+    ],
+    "description": [
+      "Cakar Neko yang tersembunyi di dalam Neko Slime, sepertinya diresapi",
+      "dengan roh kucing. Memasangnya meningkatkan kelincahanmu!"
+    ],
+    "ability": [
+      "Meningkatkan kekuatan dan kecepatan serangan",
+      "Mengurangi damage jatuh sebesar 30%"
+    ]
+  },
+  "13": {
+    "name": [
+      "Cakar Tangan Neko Pinjaman"
+    ],
+    "subtitle": [
+      " \"...Meow~?\""
+    ],
+    "description": [
+      "Cakar Tangan Neko yang tersembunyi di dalam Neko Slime, sepertinya diresapi",
+      "dengan roh kucing. Memasangnya meningkatkan kelincahanmu!"
+    ],
+    "ability": [
+      "Meningkatkan kecepatan serangan dan gerak, mengurangi cooldown Senpo",
+      "Mengurangi damage jatuh sebesar 30%"
+    ]
+  },
+  "14": {
+    "name": [
+      "Cincin Rumput Wangi"
+    ],
+    "subtitle": "",
+    "description": [
+      "Cincin yang dianyam dari daun dan rimpang, memancarkan aroma herbal",
+      "Dulunya jimat para pelancong, ia melambangkan vitalitas dan energi"
+    ],
+    "ability": [
+      "HP Maks +\\c[29]${QJ.MPMZ.tl.ex_fragrantGrassRingEffectResolve()}\\c[0]",
+      "Pasang beberapa salinan untuk memperkuat efek dan mendapat bonus tambahan"
+    ]
+  },
+  "15": {
+    "name": [
+      "Setelan Boneka Neko"
+    ],
+    "subtitle": "",
+    "description": [
+      "Kostum boneka kucing yang lembut dan menggemaskan — mengembang dan kebesaran",
+      "Desainnya yang longgar membungkusmu dan bahkan menyembunyikan bonus ekstra~"
+    ],
+    "ability": [
+      "Kapasitas bawaan senjata tambahan +10",
+      "Kapasitas bawaan perlengkapan tambahan +20"
+    ]
+  },
+  "16": {
+    "name": [
+      "Helm Paku Menusuk"
+    ],
+    "subtitle": "",
+    "description": [
+      "Zirah logam berduri yang memancarkan bahaya dari segala sisi,",
+      "memberikan pertahanan kokoh dan otomatis merusak musuh di dekatnya"
+    ],
+    "ability": [
+      "Otomatis merusak musuh di dekatnya"
+    ]
+  },
+  "17": {
+    "name": [
+      "Zirah Paku Menusuk"
+    ],
+    "subtitle": "",
+    "description": [
+      "Zirah logam berduri yang memancarkan bahaya dari segala sisi,",
+      "memberikan pertahanan kokoh dan otomatis merusak musuh di dekatnya"
+    ],
+    "ability": [
+      "Otomatis merusak musuh di dekatnya"
+    ]
+  },
+  "18": {
+    "name": [
+      "Sarung Tangan Paku Menusuk"
+    ],
+    "subtitle": "",
+    "description": [
+      "Zirah logam berduri yang memancarkan bahaya dari segala sisi,",
+      "memberikan pertahanan kokoh dan otomatis merusak musuh di dekatnya"
+    ],
+    "ability": [
+      "Otomatis merusak musuh di dekatnya saat menyerang"
+    ]
+  },
+  "19": {
+    "name": [
+      "Sepatu Bot Paku Menusuk"
+    ],
+    "subtitle": "",
+    "description": [
+      "Zirah logam berduri yang memancarkan bahaya dari segala sisi,",
+      "memberikan pertahanan kokoh dan otomatis merusak musuh di dekatnya"
+    ],
+    "ability": [
+      "Otomatis merusak musuh di dekatnya saat bergerak"
+    ]
+  },
+  "20": {
+    "name": [
+      "Helm Ksatria"
+    ],
+    "subtitle": "",
+    "description": [
+      "Zirah standar para ksatria istana. Desainnya yang rumit dan kokoh",
+      "melambangkan kepatuhan mereka pada kodeks ksatria"
+    ],
+    "ability": [
+      "Meningkatkan pertahanan saat HP di bawah \\c[10]30%\\c[0]"
+    ]
+  },
+  "21": {
+    "name": [
+      "Zirah Ksatria"
+    ],
+    "subtitle": "",
+    "description": [
+      "Zirah standar para ksatria istana. Desainnya yang rumit dan kokoh",
+      "melambangkan kepatuhan mereka pada kodeks ksatria"
+    ],
+    "ability": [
+      "Meningkatkan pertahanan saat HP di bawah \\c[10]30%\\c[0]"
+    ]
+  },
+  "22": {
+    "name": [
+      "Sarung Tangan Ksatria"
+    ],
+    "subtitle": "",
+    "description": [
+      "Zirah standar para ksatria istana. Desainnya yang rumit dan kokoh",
+      "melambangkan kepatuhan mereka pada kodeks ksatria"
+    ],
+    "ability": [
+      "Meningkatkan serangan dan pertahanan saat HP di bawah \\c[10]30%\\c[0]"
+    ]
+  },
+  "23": {
+    "name": [
+      "Pelindung Kaki Ksatria"
+    ],
+    "subtitle": "",
+    "description": [
+      "Zirah standar para ksatria istana. Desainnya yang rumit dan kokoh",
+      "melambangkan kepatuhan mereka pada kodeks ksatria"
+    ],
+    "ability": [
+      "Meningkatkan kecepatan gerak saat HP di bawah \\c[10]30%\\c[0]"
+    ]
+  },
+  "24": {
+    "name": [
+      "Jubah Pemburu"
+    ],
+    "subtitle": "",
+    "description": [
+      "Dijahit dari kulit tebal dan linen yang kuat, dulu ia pakaian ",
+      "sehari-hari para pemburu hutan. Meski pertahanannya terbatas, ia ringan dan ",
+      "fleksibel, membuat pemakainya bisa bergerak cepat melewati hutan"
+    ],
+    "ability": [
+      "Meregenerasi HP perlahan saat berdiri di medan berumput"
+    ]
+  },
+  "25": {
+    "name": [
+      "Ikat Pinggang Pemburu"
+    ],
+    "subtitle": "",
+    "description": [
+      "Terbuat dari kulit yang kuat dan dihiasi gesper yang tahan lama",
+      "dan kantong. Dulu penting bagi para pemburu hutan dalam perjalanan, ",
+      "ia tetap ringan dan tidak merepotkan bahkan di perjalanan panjang"
+    ],
+    "ability": [
+      "HP Maks +20, kecepatan gerak meningkat",
+      "Kapasitas bawaan senjata tambahan +5, untuk perlengkapan +5"
+    ]
+  },
+  "26": {
+    "name": [
+      "Bulu Firebird"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      "Bulu Firebird,",
+      "melambangkan kehidupan abadi, masih membara dengan api yang hangat.",
+      "Bahkan sehelai bulu pun menyimpan kekuatan untuk membangkitkan yang mati."
+    ],
+    "ability": [
+      "Aktif saat HP turun ke nol, memulihkan HP sepenuhnya",
+      "Barang hancur setelah diaktifkan"
+    ]
+  },
+  "27": {
+    "name": [
+      "Tisu Toilet"
+    ],
+    "subtitle": "",
+    "description": [
+      "Tisu toilet yang diambil dari Rumah",
+      "Barang yang berguna bagi petualang yang tiba-tiba butuh",
+      "kamar kecil di dungeon berbahaya"
+    ],
+    "ability": [
+      "Mengurangi damage Bleed yang diterima sebesar \\c[10]30%\\c[0]"
+    ]
+  },
+  "28": {
+    "name": [
+      "Tangan Oni"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      "Lengan besar yang penuh dengan kekuatan kasar klan Oni",
+      "Ia melambangkan kekuatan begitu ganas hingga bisa menghancurkan batu karang",
+      "Bagi manusia, itu adalah kekuatan yang terlalu sulit dikendalikan"
+    ],
+    "ability": [
+      "Kekuatan serangan fisik +100%. Kecepatan serangan menurun",
+      "Senjata lebih mungkin rusak saat menyerang"
+    ]
+  },
+  "29": {
+    "name": [
+      "Saucy Jacky"
+    ],
+    "subtitle": [
+      "\"Yang satu ini menginginkan teriakan...\""
+    ],
+    "description": [
+      "Salah satu senjata mematikan seorang pembunuh terkenal,",
+      "masih bergetar penuh antisipasi"
+    ],
+    "ability": [
+      "Memberikan damage lebih besar ke musuh dengan HP rendah, hingga \\c[10]30%\\c[0]"
+    ]
+  },
+  "30": {
+    "name": [
+      "Belati Pemburu"
+    ],
+    "subtitle": [
+      "\"Maut dari moncong senjata, rezeki dari mata pisau\""
+    ],
+    "description": [
+      "Belati kecil dan tajam yang mudah muat di sepatu bot",
+      "Bagi pemburu, ia selalu mengeluarkan persembahan terakhir dari mangsa"
+    ],
+    "ability": [
+      "Meningkatkan peluang mendapatkan daging"
+    ]
+  },
+  "31": {
+    "name": [
+      "Hantu Malam Berkabut"
+    ],
+    "subtitle": [
+      "\"Yang satu ini rindu untuk menghilang...\""
+    ],
+    "description": [
+      "Salah satu alat mematikan seorang pembunuh terkenal,",
+      "dirancang untuk menyembunyikan keberadaannya"
+    ],
+    "ability": [
+      "Secara berkala memasuki keadaan tak terlihat",
+      "Pembunuhan saat tak terlihat memberikan damage ganda"
+    ]
+  },
+  "32": {
+    "name": [
+      "Pukulan Neko"
+    ],
+    "subtitle": "",
+    "description": [
+      "\"Hyaa—!! Jangan macam-macam sama aku nya!\"",
+      "Sarung tangan kaki kucing berlapis lembut, senjata kebanggaan seorang catgirl tertentu",
+      "Memakainya memberikan kelincahan kucing—dan keinginan makan ikan…"
+    ],
+    "ability": [
+      "Kecepatan serangan meningkat. Hit serangan ekstra +1",
+      "Peluang hit serangan ekstra memicu efek spesial berkurang setengah"
+    ]
+  },
+  "33": {
+    "name": [
+      "Tutup Kepala Apel"
+    ],
+    "subtitle": "",
+    "description": [
+      "Tutup kepala yang terbuat dari apel, jadi kamu nggak bisa",
+      "berharap banyak pada pertahanannya. Tapi apelnya enak banget"
+    ],
+    "ability": [
+      "Ada peluang untuk mengaktifkan penyembuhan saat terluka"
+    ]
+  },
+  "34": {
+    "name": [
+      "Cincin Mata Pisau Tajam"
+    ],
+    "subtitle": "",
+    "description": [
+      "Legenda bilang seorang petualang, yang terlalu takut bertarung tanpa senjata, ",
+      "menanamkan pedang ke sebuah cincin. Ia terlalu kecil untuk dipakai, ",
+      "tapi pasti meningkatkan keberadaan seseorang"
+    ],
+    "ability": [
+      "Kekuatan serangan fisik +15%"
+    ]
+  },
+  "35": {
+    "name": [
+      "Wakizashi"
+    ],
+    "subtitle": "",
+    "description": [
+      "Pedang pendek buatan halus, sering dibawa samurai asing ",
+      "sebagai senjata cadangan. Meski pendek, mata pisau-nya bisa mengoyak daging,",
+      "meninggalkan luka yang tidak mudah berhenti berdarah"
+    ],
+    "ability": [
+      "Jumlah serangan normal dengan senjata jarak dekat +1",
+      "Serangan ekstra memiliki peluang memberikan Bleed"
+    ]
+  },
+  "36": {
+    "name": [
+      "Maneki Neko"
+    ],
+    "subtitle": "",
+    "description": [
+      "Servant kecil yang serakah dengan ekspresi tidak pernah puas",
+      "Ia dengan antusias mengumpulkan semua barang yang terjatuh, apa pun nilainya"
+    ],
+    "ability": [
+      "Maneki Neko otomatis mengumpulkan semua jenis drop untukmu",
+      "Memasang beberapa hanya akan memperluas jangkauan pengumpulan"
+    ]
+  },
+  "37": {
+    "name": [
+      "Celengan"
+    ],
+    "subtitle": "",
+    "description": [
+      "Servant imut yang menyimpan uang yang terkumpul",
+      "Sesuatu mungkin terjadi saat penuh, tapi untuk sekarang, ia hanya rapuh"
+    ],
+    "ability": [
+      "Mengumpulkan uang dengan gembira. Tabungan saat ini: \\c[6]${$gameSelfVariables.value([1, 110, 'deposit'])}\\c[0]yen!",
+      "Mudah pecah saat diserang, kehilangan semua uang yang tersimpan"
+    ]
+  },
+  "38": {
+    "name": [
+      "Celengan Serakah"
+    ],
+    "subtitle": "",
+    "description": [
+      "Celengan yang penuh dengan kekayaan, mimpi yang jadi kenyataan",
+      "Namun, bahkan dengan perut penuh emas, keserakahannya tak ada batasnya"
+    ],
+    "ability": [
+      "Memancarkan aura Tuntutan Mamon. Tabungan saat ini: \\c[6]${$gameSelfVariables.value([1, 110, 'deposit'])}\\c[0]yen!",
+      "Mengumpulkan uang tanpa henti, mengeluarkan bunga setiap 10 detik"
+    ]
+  },
+  "39": {
+    "name": [
+      "Tempurung Penyu Hijau"
+    ],
+    "subtitle": "",
+    "description": [
+      "Tempurung penyu yang keras dan berat",
+      "Membawanya di darat membuat kakimu mustahil terangkat…!"
+    ],
+    "ability": [
+      "Memperlambat kecepatan gerak, tapi meningkatkan kecepatan berenang"
+    ]
+  },
+  "40": {
+    "name": [
+      "Seragam Maid"
+    ],
+    "subtitle": "",
+    "description": [
+      "Piala yang didapat setelah memberi pelajaran kepada",
+      "gadis bertelinga kelinci yang nakal. Ia masih membawa aroma tanah dan wortel"
+    ],
+    "ability": [
+      "Saat dipasang, menyamar sebagai monster tapi tidak bisa menyerang",
+      "Memasangnya membuatmu jadi sahabat karib dengan Maid Bunny"
+    ]
+  },
+  "41": {
+    "name": [
+      "Telinga Kelinci Moe"
+    ],
+    "subtitle": "",
+    "description": [
+      "Aksesori telinga kelinci yang bisa dilepas",
+      "Siapa pun yang memakainya, akan terlihat sangat menggemaskan!"
+    ],
+    "ability": [
+      "Diberkahi keberuntungan! Barang lebih mungkin jatuh!"
+    ]
+  },
+  "42": {
+    "name": [
+      "Jiwa Iblis Bom"
+    ],
+    "subtitle": [
+      "\"Ledak————an!!\""
+    ],
+    "description": [
+      "Sebuah kehendak yang mengorbankan segalanya demi ledakan",
+      "Sekarang kamu yang membawanya, apa kamu tidak ingin berusaha menuju ledakan yang lebih besar?"
+    ],
+    "ability": [
+      "Peluang kecil untuk memicu ledakan saat menyerang atau terkena serangan",
+      "Mengurangi damage ledakan pada diri sendiri sebesar 50%"
+    ]
+  },
+  "43": {
+    "name": [
+      "Lencana Penjaga Pisau"
+    ],
+    "subtitle": [
+      "\"Dasar petualang, kalian membuatku muak!",
+      "Mengayunkan pisau kalian hanya untuk membunuh, tak pernah peduli pada rasa sakit mereka!\""
+    ],
+    "description": [
+      "Lencana yang hanya dipakai kawan-kawan yang percaya pada pelestarian senjata"
+    ],
+    "ability": [
+      "Kekuatan serangan -20%, serangan maks dibatasi di 200",
+      "Mengurangi semua kehilangan ketahanan senjata sebesar 20%"
+    ]
+  },
+  "44": {
+    "name": [
+      "◉▽◉"
+    ],
+    "subtitle": [
+      "\"Sacabambaspis sudah pernah melihat semua ini sebelumnya.\""
+    ],
+    "description": [
+      "Servant kuno yang legendaris—meski seekor ikan, ia tidak bisa berenang",
+      "Kulitnya keras, dan jurus spesialnya adalah Cyclone Jet Cannon!"
+    ],
+    "ability": [
+      "Bisa mengangkat kura-kura Saccabankame dan melemparkannya sebagai serangan",
+      "Begitu ia jatuh ke air, ia tidak bisa keluar lagi..."
+    ]
+  },
+  "45": {
+    "name": [
+      "Pelukan Beracun"
+    ],
+    "subtitle": [
+      "\"Belati ini diisi racun mematikan, lho— (jilat\""
+    ],
+    "description": [
+      "Pedang pendek sihir beracun—jaga jarakmu"
+    ],
+    "ability": [
+      "Servant yang mengorbit otomatis",
+      "Peluang tinggi memberikan Racun saat kontak"
+    ]
+  },
+  "46": {
+    "name": [
+      "Tinju Kemarahan"
+    ],
+    "subtitle": [
+      "\"Tangan kiri memukul keras, tangan kanan memukul lebih keras.\""
+    ],
+    "description": [
+      "Tinju sihir yang kuat",
+      "Mendidih dengan amarah yang tak diketahui, ia tetap terkepal erat…"
+    ],
+    "ability": [
+      "Servant yang mengorbit otomatis",
+      "Mendorong mundur musuh yang disentuhnya"
+    ]
+  },
+  "47": {
+    "name": [
+      "Tangan Terkutuk Xerise"
+    ],
+    "subtitle": "",
+    "description": [
+      "Tangan terpotong yang dipenuhi kekuatan undead",
+      "Bahkan tanpa tubuh, ia tetap lincah dan agresif"
+    ],
+    "ability": [
+      "Servant yang mengorbit otomatis",
+      "Mengutuk target yang ditunjuk jari tengahnya"
+    ]
+  },
+  "48": {
+    "name": [
+      "Kontrak Pengikat Mantra Rantai"
+    ],
+    "subtitle": [
+      "\"Saat orang yang kamu cintai mati, kamu harus mengambil nyawamu sendiri.",
+      "Saat orang yang kamu cintai mati, tidak ada jalan lain.\""
+    ],
+    "description": [
+      "Untuk menyelamatkan familiarnya, seorang alkemis tertentu membuat kontrak ini…"
+    ],
+    "ability": [
+      "Terhubung dengan servant-mu—damage apa pun yang mereka terima akan menjadi milikmu",
+      "Setiap servant yang terhubung memberimu efek penyembuhan"
+    ]
+  },
+  "49": {
+    "name": [
+      "Tanduk Merah"
+    ],
+    "subtitle": [
+      "\"Jangan pernah berhenti!\""
+    ],
+    "description": [
+      "Tanduk merah yang berisi sihir Jackalope",
+      "Jika sihir bisa dipasok tanpa henti, ia mungkin akan terus berakselerasi ",
+      "hingga menjadi komet yang melesat melintasi langit!"
+    ],
+    "ability": [
+      "Saat terisi penuh, Senpo tidak memiliki cooldown dan bergerak lebih cepat",
+      "Begitu isi dayanya habis, ia akan mengisi ulang sendiri"
+    ]
+  },
+  "50": {
+    "name": [
+      "Keripik Kentang"
+    ],
+    "subtitle": "",
+    "description": [
+      "Baru digoreng dengan aroma",
+      "gurih yang hangat. Hati-hati dengan camar!"
+    ],
+    "ability": [
+      "Menarik camar yang mencuri keripikmu"
+    ]
+  },
+  "51": {
+    "name": [
+      "Sarung Tangan Pemburu"
+    ],
+    "subtitle": "",
+    "description": [
+      "Sarung tangan yang terbuat dari kulit samak, ",
+      "dengan ujung jari yang diperkuat, dirancang untuk penggunaan busur yang lama",
+      "Pemburu tua percaya bahwa sarung tangan yang bagus memberi mata pada anak panah"
+    ],
+    "ability": [
+      "Panah yang ditembakkan mendapat 2 hit Penetrasi tambahan",
+      "Tembakan memiliki peluang kecil untuk menembakkan banyak panah sekaligus"
+    ]
+  },
+  "52": {
+    "name": [
+      "Hadiah Perangkak Bayangan"
+    ],
+    "subtitle": "",
+    "description": [
+      "Dikatakan sebagai simbol dari kedalaman tempat bayangan merayap",
+      "menggenggamnya membuatmu merasa seolah ada sesuatu ",
+      "yang diam-diam menggeliat di belakangmu—"
+    ],
+    "ability": [
+      "Kecepatan gerak meningkat",
+      "Mendapat perhatian dari ▓▓▓▓▓▓▓"
+    ]
+  },
+  "53": {
+    "name": [
+      "Cincin Tulang Orang Tergantung"
+    ],
+    "subtitle": "",
+    "description": [
+      "Cincin yang terbuat dari tulang Orang Tergantung yang telah meninggal",
+      "Meski sebagian besar kekuatannya hilang,",
+      "ia masih memberi pemakainya sedikit kebebasan dari gravitasi"
+    ],
+    "ability": [
+      "Mengurangi damage jatuh sebesar 80%",
+      "Damage AoE dari jatuh meningkat 100%"
+    ]
+  },
+  "54": {
+    "name": [
+      "Cawan Emas yang Belum Lengkap"
+    ],
+    "subtitle": "",
+    "description": [
+      "Peninggalan orang suci yang belum terisi, ia memberkati pemegangnya dengan",
+      "keberuntungan yang luar biasa. Sumber berkah ini masih belum diketahui,",
+      "karena ia diam-diam menunggu hari saat ia menjadi lengkap"
+    ],
+    "ability": [
+      "Sangat meningkatkan keberuntungan. Melipatgandakan uang yang didapat"
+    ]
+  },
+  "55": {
+    "name": [
+      "Sarung Tangan Pembakar"
+    ],
+    "subtitle": [
+      "\"Hah, Kembang api yang kotor.\""
+    ],
+    "description": [
+      "Sarung tangan tebal tahan panas yang berbau mesiu"
+    ],
+    "ability": [
+      "+30% radius ledakan untuk bom yang dipicu sendiri",
+      "Bom memiliki peluang memicu ledakan berantai"
+    ]
+  },
+  "56": {
+    "name": [
+      "Belas Kasih Sang Gadis Suci"
+    ],
+    "subtitle": [
+      "\"Anak baik, anak baik...\""
+    ],
+    "description": [
+      "Salah satu pakaian sang biarawati, halus seperti sutra saat disentuh, tak terlupakan",
+      "Cahaya suci mengalir di seratnya, memberikan kenyamanan"
+    ],
+    "ability": [
+      "Secara paksa memasuki Sage Mode",
+      "Mendapat lebih banyak afinitas saat mengelus kepala \\str[120]"
+    ]
+  },
+  "57": {
+    "name": [
+      "Ichigo Wo Torimodose!!"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      "ASABA, yang diliputi kesedihan karena stroberi yang hilang, ",
+      "melepaskan jurus pamungkannya. Begitu ditargetkan, kamu ditelan",
+      "oleh badai kombo yang tak terhindarkan… Tapi kesedihan masih tersisa—",
+      "terbakar oleh emosi takdir, kamu pun mewarisi teknik terlarang ini! "
+    ],
+    "ability": [
+      "Membuka dan mengizinkan penggunaan Skill \\c[27]Musou Burst Stream"
+    ]
+  },
+  "59": {
+    "name": [
+      "Liontin Rubrum"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      "Peninggalan Berharga Sang Penyihir Terguling. ",
+      "Liontin yang dibuat dari sedikit Fragmen Philosopher ",
+      "yang diresapi kekuatan alkimia yang lemah namun abadi"
+    ],
+    "ability": [
+      "Meningkatkan serangan sihir berdasarkan jumlah Fragmen Philosopher yang dipegang",
+      "Mengurangi penggunaan ketahanan senjata saat merapal sihir sebesar \\c[6]24%\\c[0]"
+    ]
+  },
+  "60": {
+    "name": [
+      "Lingkar Penyihir Terguling"
+    ],
+    "subtitle": "",
+    "description": [
+      "Lingkar terkutuk yang dinodai sihir gelap,",
+      "dihantui dendam yang membandel dan menggerogoti daging"
+    ],
+    "ability": [
+      "Kekuatan serangan sihir +100%",
+      "HP Maks -50%"
+    ]
+  },
+  "61": {
+    "name": [
+      "Jubah Penyihir Terguling"
+    ],
+    "subtitle": "",
+    "description": [
+      "Jubah terkutuk yang dinodai sihir gelap,",
+      "dihantui roh pendendam yang menginginkan pembalasan"
+    ],
+    "ability": [
+      "Bayangan sisa yang dibuat Senpo bertahan lebih lama",
+      "Objek yang disentuhnya membeku di tempat"
+    ]
+  },
+  "62": {
+    "name": [
+      "Sarung Tangan Penyihir Terguling"
+    ],
+    "subtitle": "",
+    "description": [
+      "Sarung tangan terkutuk yang dinodai sihir gelap,",
+      "diresapi roh pendendam yang siap menyerang"
+    ],
+    "ability": [
+      "Proyektil melacak musuh di dekatnya"
+    ]
+  },
+  "63": {
+    "name": [
+      "Sepatu Penyihir Terguling"
+    ],
+    "subtitle": "",
+    "description": [
+      "Sepatu terkutuk yang dinodai sihir gelap,",
+      "diresapi roh pendendam yang memberikan kelincahan seperti hantu"
+    ],
+    "ability": [
+      "Meningkatkan kecepatan gerak, memberikan keadaan void saat menggunakan Senpo"
+    ]
+  },
+  "65": {
+    "name": [
+      "Ikat Kepala Tekad"
+    ],
+    "subtitle": [
+      "\"Kamu pikir aku ini siapa!?\""
+    ],
+    "description": [
+      "Ikat kepala yang membangkitkan semangat saat dipakai",
+      "Tidak ada efek nyata, tapi semangatnya yang pantang menyerah tak tertandingi"
+    ],
+    "ability": [
+      "Mengurangi peluang status abnormal",
+      "Memiliki peluang kecil untuk menahan damage fatal"
+    ]
+  },
+  "67": {
+    "name": [
+      "Pelindung Lengan Seniman Bela Diri"
+    ],
+    "subtitle": "",
+    "description": [
+      "Pelindung lengan berbalut perban yang dipakai seniman bela diri saat latihan",
+      "Mereka melindungi sendi sambil meningkatkan presisi gerakan"
+    ],
+    "ability": [
+      "-12% konsumsi ketahanan senjata",
+      "Kecepatan serangan meningkat & damage kombo tanpa senjata diperkuat"
+    ]
+  },
+  "68": {
+    "name": [
+      "Sepatu Seniman Bela Diri"
+    ],
+    "subtitle": "",
+    "description": [
+      "Sepatu yang biasa dipakai seniman bela diri yang telah",
+      "menguasai ilmu mereka, memancarkan aura yang kuat"
+    ],
+    "ability": [
+      "Kecepatan gerak meningkat. Senpo diperkuat"
+    ]
+  },
+  "69": {
+    "name": [
+      "Penghancur Wajah"
+    ],
+    "subtitle": [
+      "\"Sial... aku cuma mau ngepuk wajah seseorang...!\""
+    ],
+    "description": [
+      "Sarung tinju peninggalan seorang petinju legendaris.",
+      "Kamu masih bisa merasakan kekuatan luar biasa yang tersisa di sana."
+    ],
+    "ability": [
+      "Tidak bisa menggunakan senjata saat dipasang",
+      "Serangan tinju bisa memberikan damage bonus berdasarkan HP target"
+    ]
+  },
+  "70": {
+    "name": [
+      "Jantung Orang-orangan"
+    ],
+    "subtitle": "",
+    "description": [
+      "Tubuh hampa dari orang-orangan sawah",
+      "Tanpa kehangatan, tanpa detak jantung—namun ia bisa hidup menggantikanmu"
+    ],
+    "ability": [
+      "Mencegah semua bentuk pemulihan HP saat dipasang",
+      "Saat 0 HP, kamu tetap aktif sedikit lebih lama sebelum tumbang"
+    ]
+  },
+  "71": {
+    "name": [
+      "Kristal Es Abadi"
+    ],
+    "subtitle": [
+      "\"Hatiku sudah membeku... kurasa aku tak akan pernah merasakan suka atau duka lagi...\""
+    ],
+    "description": [
+      "Kristal sihir yang memancarkan hawa dingin yang menusuk tulang",
+      "Bahkan di tengah panas yang menyengat, nafas dinginnya tetap terasa"
+    ],
+    "ability": [
+      "Kebal terhadap status Terbakar dan Sengatan Panas",
+      "Meningkatkan damage pecah yang diberikan saat memecahkan status Beku musuh"
+    ]
+  },
+  "72": {
+    "name": [
+      "Sayap Kristal Hantu"
+    ],
+    "subtitle": "",
+    "description": [
+      "Sayap roh yang dipadatkan dari mana murni",
+      "Dikenal bisa memicu fenomena fisik secara spontan,",
+      "mereka sangat dihargai sebagai katalis alkimia tingkat tinggi"
+    ],
+    "ability": [
+      "Mengurangi damage jatuh sebesar 40%",
+      "Memasangnya meningkatkan kecepatan merapal dan kekuatan sihir"
+    ]
+  },
+  "73": {
+    "name": [
+      "Cincin Lava"
+    ],
+    "subtitle": "",
+    "description": [
+      "Cincin yang ditempa dari batu yang mengalirkan magma membara",
+      "Memakainya meredakan rasa sakit dari es maupun api"
+    ],
+    "ability": [
+      "Sangat mengurangi peluang membeku",
+      "Mengurangi peluang terbakar"
+    ]
+  },
+  "74": {
+    "name": [
+      "Volumen Salamandrae"
+    ],
+    "subtitle": [
+      "\"Ya, mereka memang suka cabai...\""
+    ],
+    "description": [
+      "Buku sihir yang diikat sisik salamander. Meski mirip",
+      "ensiklopedia, catatannya tentang salamander penghuni gunung berapi ",
+      "memberikan wawasan lebih dalam tentang api saat dipelajari."
+    ],
+    "ability": [
+      "Memperkuat damage dan bentuk sihir elemen api"
+    ]
+  },
+  "75": {
+    "name": [
+      "Bola Mata Iblis"
+    ],
+    "subtitle": "",
+    "description": [
+      "Bola mata yang diambil dari iblis. Ia masih mengawasi.  ",
+      "Iblis yang ahli memanipulasi pikiran sering memiliki kemampuan ",
+      "untuk menembus pandangan. Mungkin ia membantumu melihat detail ",
+      "yang biasanya terlewat..."
+    ],
+    "ability": [
+      "Menampakkan objek dan jalan tersembunyi saat dipasang"
+    ]
+  },
+  "76": {
+    "name": [
+      "Tatapan Sang Ruler"
+    ],
+    "subtitle": [
+      "\"Ia mengawasimu—\""
+    ],
+    "description": [
+      "Cincin terkutuk yang bertatahkan bola mata Sang Ruler",
+      "Kekuatan sisa-nya terus bocor, memberi pemakainya ilusi abadi ",
+      "diamati dengan dingin oleh keberadaan yang tak dikenal"
+    ],
+    "ability": [
+      "Meningkatkan kecepatan serangan dan gerak dalam keadaan basah atau area air",
+      "Meningkatkan peluang kamu terdeteksi oleh monster, tapi juga memiliki peluang menakuti mereka"
+    ]
+  },
+  "77": {
+    "name": [
+      "Doa Seorang Gadis"
+    ],
+    "subtitle": [
+      "\"Ikan… begitu banyak ikan… tumpukan salmon…\""
+    ],
+    "description": [
+      "Doa yang dipanjatkan oleh archdemon yang terobsesi makan salmon",
+      "Mengatakan ia bisa memelintir kenyataan mungkin sedikit berlebihan…",
+      "tapi dia benar-benar menunggu persembahan datang dengan sungguh-sungguh"
+    ],
+    "ability": [
+      "Lebih mungkin mendapatkan \\ii[142] dan \\ii[143]"
+    ]
+  },
+  "78": {
+    "name": [
+      "Jas Perlindungan Berkah"
+    ],
+    "subtitle": "",
+    "description": [
+      "Jas yang konon dipakai Sang Bijak Agung semasa muda sebagai petualang",
+      "Berkah para roh yang diberikan saat itu masih bersemayam di lipatannya"
+    ],
+    "ability": [
+      "Menyerang atau merapal dengan tongkat mengaktifkan berkah roh",
+      "Saat diberkahi, kecepatan serangan, kecepatan gerak, dan pertahanan sihir meningkat"
+    ]
+  },
+  "79": {
+    "name": [
+      "Papan Iblis"
+    ],
+    "subtitle": "",
+    "description": [
+      "Serpihan yang tersisa dari portal iblis yang hancur",
+      "Lagi pula buatan iblis, ia masih menyimpan kekuatan gelap meski hanya fragmen",
+      "...Tapi jujur saja, apakah benda ini akan mendatangkan balas dendam iblis?"
+    ],
+    "ability": [
+      "Melepaskan gelombang kejut untuk melawan musuh di sekitar saat menerima damage",
+      "Melepaskan gelombang penyembuhan yang menyembuhkan musuh di sekitar saat kamu disembuhkan"
+    ]
+  },
+  "80": {
+    "name": [
+      "Dekrit Kerajaan"
+    ],
+    "subtitle": "",
+    "description": [
+      "Cincin yang melambangkan kejayaan tertinggi seorang raja sejati",
+      "Sangat meningkatkan semangat para pengikut!"
+    ],
+    "ability": [
+      "Sedikit meningkatkan semua stat",
+      "Memperbesar semua servant dan meningkatkan atribut spesial mereka"
+    ]
+  },
+  "100": {
+    "name": [
+      "Unit I Nexus"
+    ],
+    "subtitle": "",
+    "description": [
+      "Inti yang jauh lebih canggih dari teknologi modern, permukaannya bercahaya ",
+      "dengan sirkuit energi misterius. Bahkan dengan sebagian besar bagian yang hilang, ",
+      "ia masih menunjukkan kekuatan komputasi dan sensor yang luar biasa"
+    ],
+    "ability": [
+      "Memberikan deteksi area saat dipasang",
+      "Jenis objek yang terdeteksi meningkat seiring naiknya level inti"
+    ]
+  },
+  "125": {
+    "name": [
+      "Atsu Atsu Bouzu"
+    ],
+    "subtitle": "",
+    "description": [
+      "Boneka kain yang dibuat dengan doa tulus seseorang. Ia membawa",
+      "harapan, membawa perubahan kecil pada pola cuaca biasa",
+      "Namun, boneka itu diam-diam menghilang setelahnya"
+    ],
+    "ability": [
+      "Memastikan cuaca panas menyengat keesokan harinya saat dipasang"
+    ]
+  },
+  "126": {
+    "name": [
+      "Teru Teru Bouzu"
+    ],
+    "subtitle": "",
+    "description": [
+      "Boneka kain yang dibuat dengan doa tulus seseorang. Ia membawa",
+      "harapan, membawa perubahan kecil pada pola cuaca biasa",
+      "Namun, boneka itu diam-diam menghilang setelahnya"
+    ],
+    "ability": [
+      "Memastikan cuaca cerah keesokan harinya saat dipasang"
+    ]
+  },
+  "127": {
+    "name": [
+      "Kumo Kumo Bouzu"
+    ],
+    "subtitle": "",
+    "description": [
+      "Boneka kain yang dibuat dengan doa tulus seseorang. Ia membawa",
+      "harapan, membawa perubahan kecil pada pola cuaca biasa",
+      "Namun, boneka itu diam-diam menghilang setelahnya"
+    ],
+    "ability": [
+      "Memastikan cuaca mendung keesokan harinya saat dipasang"
+    ]
+  },
+  "128": {
+    "name": [
+      "Ame Ame Bouzu"
+    ],
+    "subtitle": "",
+    "description": [
+      "Boneka kain yang dibuat dengan doa tulus seseorang. Ia membawa",
+      "harapan, membawa perubahan kecil pada pola cuaca biasa",
+      "Namun, boneka itu diam-diam menghilang setelahnya"
+    ],
+    "ability": [
+      "Memastikan cuaca hujan keesokan harinya saat dipasang"
+    ]
+  },
+  "129": {
+    "name": [
+      "Senyuman seorang gadis"
+    ],
+    "subtitle": [
+      "\"\\str[121], kamu menepati janjimu dengan baik!\""
+    ],
+    "description": [
+      "Senyuman sempurna yang akhirnya ditunjukkan oleh \\str[120] ",
+      "yang selalu mengagumi dan mengkhawatirkan \\str[121]—",
+      "senyuman yang menjadi motivasinya untuk terus melangkah maju"
+    ],
+    "ability": [
+      "Keinginan naik, semua stat meningkat"
+    ]
+  },
+  "130": {
+    "name": [
+      "Celana dalam \\str[120] yang dilepas"
+    ],
+    "subtitle": [
+      "\"Masih membawa aroma \\str[120]...\""
+    ],
+    "description": [
+      "Celana dalam yang diterima dari \\str[120] karena kesalahpahaman",
+      "Meskipun belum pernah ada kesempatan yang tepat untuk mengembalikannya,",
+      "di lubuk hati, secuil rasa bahagia diam-diam bertahan..."
+    ],
+    "ability": [
+      "Otomatis meregenerasi HP saat di bawah 50%"
+    ]
+  },
+  "131": {
+    "name": [
+      "Boneka Kelinci"
+    ],
+    "subtitle": [
+      "\"Waaah—! Jangan rusak dia~~!\""
+    ],
+    "description": [
+      "Boneka kelinci yang selalu \\str[120] gendong ",
+      "di pelukannya, penuh dengan aromanya",
+      "Ngomong-ngomong… kenapa ini ada di tanganku?"
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "147": {
+    "name": [
+      "Plaster Luka"
+    ],
+    "subtitle": "",
+    "description": [
+      ""
+    ],
+    "ability": []
+  },
+  "150": {
+    "name": [
+      "Kaos Bonus"
+    ],
+    "subtitle": "",
+    "description": [
+      "Pakaian khusus buatan sang ksatria,",
+      "konon untuk mempromosikan game ini",
+      "Tapi aku nggak terlalu mau memakainya"
+    ],
+    "ability": []
+  },
+  "152": {
+    "name": [
+      "Piyama \\str[120]"
+    ],
+    "subtitle": "",
+    "description": [
+      "Piyama kamisol yang biasa \\str[120] kenakan, ",
+      "dihiasi pita kesayangannya.",
+      "Ngomong-ngomong… kenapa ini ada di tanganku?"
+    ],
+    "ability": []
+  },
+  "153": {
+    "name": [
+      "Celana Pendek \\str[120]"
+    ],
+    "subtitle": "",
+    "description": [
+      "Celana pendek yang lembut dan halus, biasa \\str[120] kenakan, ",
+      "dihiasi pita kesayangannya.",
+      "Ngomong-ngomong… kenapa ini ada di tanganku?"
+    ],
+    "ability": []
+  },
+  "154": {
+    "name": [
+      "Celana dalam biru putih"
+    ],
+    "subtitle": "",
+    "description": [
+      ""
+    ],
+    "ability": []
+  },
+  "155": {
+    "name": [
+      "Celana dalam pink putih"
+    ],
+    "subtitle": "",
+    "description": [
+      ""
+    ],
+    "ability": []
+  },
+  "156": {
+    "name": [
+      "Celana dalam putih"
+    ],
+    "subtitle": "",
+    "description": [
+      ""
+    ],
+    "ability": []
+  },
+  "157": {
+    "name": [
+      "Plaster Luka"
+    ],
+    "subtitle": "",
+    "description": [
+      ""
+    ],
+    "ability": []
+  },
+  "159": {
+    "name": [
+      "Tanpa celana dalam..."
+    ],
+    "subtitle": "",
+    "description": [
+      ""
+    ],
+    "ability": []
+  },
+  "295": {
+    "name": [
+      "Sayap Kristal Ratu Peri"
+    ],
+    "subtitle": [
+      "\"Jauh di bawah, penjelajah Kyurame menyaksikan kebangkitan berkilau Sang Ratu—\""
+    ],
+    "description": [
+      "Sayap kristal prismatik yang diliputi kilau warna-warni.",
+      "Katalis langka yang hanya boleh dimiliki oleh \"Sang Ratu,\" yang berdiri di puncak para roh"
+    ],
+    "ability": [
+      "Kebal terhadap damage jatuh",
+      "Damage akhir yang diterima berkurang 60%"
+    ]
+  },
+  "296": {
+    "name": [
+      "Palu Keberuntungan Ruika"
+    ],
+    "subtitle": [
+      "\"Head Maid Ruika selalu menggunakannya untuk memukul kelinci-kelinci yang membangkang.\""
+    ],
+    "description": [
+      "Harta tersembunyi para Maid Bunny, konon itulah alasan mereka menguasai ",
+      "pasar begitu cepat. Dengan ayunan ringan, ia mengabulkan permintaan pemakainya—",
+      "Para petualang sering melihatnya memperbaiki mesin yang dirusak pembuat onar"
+    ],
+    "ability": [
+      "Meningkatkan peluang uang dan barang jatuh"
+    ]
+  },
+  "297": {
+    "name": [
+      "Kotak P3K Mio"
+    ],
+    "subtitle": [
+      "\"Ya ampun! Aku jatuh ke lubang lagi!?\""
+    ],
+    "description": [
+      "Awalnya alat yang dipakai admin untuk menguji sistem penyembuhan",
+      "tapi dia lupa menghapusnya. Meski begitu, ia tidak berguna ",
+      "melawan mekanisme kematian instan"
+    ],
+    "ability": [
+      "Memulihkan 100% HP per detik saat dipasang"
+    ]
+  },
+  "298": {
+    "name": [
+      "Jari Emas Shiroin"
+    ],
+    "subtitle": [
+      "\"Kamu tahu benda ini bakal merusak game, kan?\"",
+      "\"Aku tahu.\"",
+      "\"Dan kamu masih mau memasangnya?\"",
+      "\"Tentu saja.\""
+    ],
+    "description": [
+      "Peninggalan yang mengubah sentuhan menjadi emas — impian pamungkas para Penjaga Pisau"
+    ],
+    "ability": [
+      "Senjata tidak lagi rusak karena serangan"
+    ]
+  },
+  "299": {
+    "name": [
+      "Teritori Absolut"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      "Ruang sakral di antara rok mini dan kaos kaki selutut seorang gadis",
+      "Tidak hanya memberikan ketahanan sihir tinggi, tapi juga kemampuan yang menggelikan ",
+      "untuk mengeluarkan segala macam barang dari balik rok sesuka hati"
+    ],
+    "ability": [
+      "Kapasitas bawaan senjata tambahan +99",
+      "Kapasitas bawaan perlengkapan tambahan +99"
+    ]
+  },
+  "300": {
+    "name": [
+      "Catalyst Amatoria"
+    ],
+    "subtitle": [
+      "\"Berikan cintamu—! Kalau tidak, ayo mati bareng~~~!\""
+    ],
+    "description": [
+      "Artefak terlarang yang ditempa oleh archdemon yandere tertentu",
+      "Ia secara paksa membuat siapa pun yang disentuhnya jatuh cinta pada pemakainya",
+      "mengabaikan keinginan mereka"
+    ],
+    "ability": [
+      "Sangat meningkatkan stat yang didapat saat mengelus \\str[120]"
+    ]
+  }
+}

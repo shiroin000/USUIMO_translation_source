@@ -1,0 +1,770 @@
+{
+  "Note": [
+      "(This note is for the translator only and does not need to be translated.)", 
+      "If you notice strange gaps appearing in each line of text, those are placeholders.",
+      "The game is already set up so that each dialogue box can display a maximum of four lines of text, ",
+      "and any text exceeding four lines will automatically continue in the next dialogue box. ",
+      "To avoid awkward line breaks in the actual display, I will manually trim long passages whenever necessary so that, ",
+      "as much as possible, a complete sentence appears within a single dialogue box.",
+      "The intentional insertion of spaces is meant to split the text into content for different dialogue boxes.",
+      "So when translating into other languages, you may follow this rule and add blank placeholders yourself to split the text."
+  ],   
+  "1": {
+    "0": [
+      "Aku menahan napas, bergerak ke kepala ranjang \\str[120] ",
+      "setenang hantu di malam hari.",
+      "...Heh, bahkan aku sendiri kagum dengan keterampilan siluman seperti ini."
+    ],
+    "1": [
+      "Aku dengan hati-hati menggeser kakiku ke sisi ranjang,",
+      "takut kalau bunyi lantai yang berderit pelan akan membangunkan \\str[120]."
+    ],
+    "2": [
+      "Apa yang harus kulakukan...?"
+    ],
+    "10": [
+      "Pertama, aku harus mengamati kondisi \\str[120] dengan saksama.",
+      "\\w[60]\\^"
+    ],
+    "11": [
+      "\\str[120] tidurnya sangat nyenyak, ",
+      "dia mungkin tidak akan menyadari kalau aku memberinya beberapa sentuhan ringan, kan...?",
+      "\\w[60]\\^"
+    ],
+    "12": [
+      "Gulp... aku mulai gugup...",
+      "\\w[60]\\^"
+    ],
+    "13": [
+      "Lebih aman menjaga jarak sedikit untuk saat ini,",
+      "akan jadi bencana kalau aku ketahuan...",
+      "\\w[60]\\^"
+    ],
+    "14": [
+      "Sebenarnya, aku akan mendekat sedikit... ",
+      "aku ingin melihatnya lebih jelas.",
+      "\\w[60]\\^"
+    ],
+    "15": [
+      "Haruskah aku mengakhiri malam ini di sini...?",
+      "Sudah semakin larut."
+    ],
+    "16": [
+      "Kembali Tidur",
+      "Tinggal sebentar"
+    ],
+    "17": [
+      "Ya, aku juga harus segera kembali tidur."
+    ],
+    "18": [
+      "Aku akan tinggal sedikit lebih lama.",
+      "Aku tidak pernah bosan melihat wajah tidur yang polos dan tak berdaya ini..."
+    ],
+    "19": [
+      "Sial, sebelum itu, ",
+      "aku harus merapikan pakaian \\str[120] yang sudah kuberantakan.",
+      "Aku tidak boleh meninggalkan jejak apa pun—"
+    ],
+    "20": [
+      "Fiuh, tampaknya persis seperti sebelumnya..."
+    ],
+    "21": [
+      "Aku tak tahan untuk menepuk kepala \\str[120] sekali lagi sebagai yang terakhir",
+      "sebelum dengan puas menyelinap kembali ke kamarku dan langsung tertidur pulas."
+    ],
+    "22": [
+      "Oh tidak, sudah selarut ini—        \\w[30]",
+      "aku harus bangun pagi besok, ",
+      "aku harus kembali tidur sekarang..."
+    ],
+    "23": [
+      "Tanda bahaya, kelopak mata \\str[120] mulai berkedut,",
+      "dia hampir terbangun—! Aku tidak bisa melanjutkan!",
+      "mari akhiri semuanya di sini untuk malam ini..."
+    ],
+    "24": [
+      "Aku dengan hati-hati membalikkan tubuh \\str[120].",
+      "Meski suara kain yang bergesekan dengan seprai terdengar menusuk",
+      "di keheningan kamar yang mencekam, \\str[120] tampaknya sepenuhnya ",
+      "tenggelam dalam mimpi yang dalam tanpa tanda-tanda akan terbangun."
+    ]
+  },
+  "2": {
+    "0": [
+      "Apa ini... semacam spesies reptil baru yang lucu?",
+      "Aku tahu \\str[120] kadang punya kebiasaan tidur yang buruk,",
+      "tapi posisi aneh di depanku ini membuatku ",
+      "mengalami kebingungan sesaat."
+    ],
+    "1": [
+      "Mimpi seperti apa yang membuatnya berakhir dengan posisi begini..."
+    ],
+    "2": [
+      "Meskipun \\str[120] sedang tidur nyenyak ",
+      "dan tidak terlihat kesulitan,",
+      "aku memutuskan untuk membenahi posisi tidurnya,",
+      "terlalu mengkhawatirkan untuk dibiarkan seperti itu..."
+    ],
+    "3": [
+      "\"....................\""
+    ],
+    "4": [
+      "Berkat usahaku, ",
+      "aku berhasil mengubah \\str[120] ke posisi yang berbeda."
+    ],
+    "5": [
+      "\"...Ah, sial!",
+      "Hasilnya tetap menjadi posisi tidur yang aneh...!\""
+    ]
+  },
+  "6": {
+    "0": [
+      "Wajah \\str[120] memerah dengan warna merah tua yang tak biasa, ",
+      "panas yang tampaknya menyebar dari pipinya hingga ke telinganya.",
+      "Napasnya yang basah dan cepat terdengar jelas di ruangan yang sunyi,",
+      "seolah setiap napas menceritakan emosi yang tak terucapkan."
+    ],
+    "1": [
+      "Pipi \\str[120] yang tembam dan bulat sedikit menekuk menempel di bantal.",
+      "Wajah tidur yang tak berdaya ini memancarkan kemurnian polos seperti anak kecil,",
+      "hanya dengan menatapnya saja membawa kedamaian batin yang menyembuhkan jiwa."
+    ],
+    "2": [
+      "Saat ujung jariku menyentuh pipi \\str[120], ",
+      "panas membara yang tak biasa merambat melalui jari-jariku.",
+      "Tetesan keringat halus yang merembes keluar karena panas itu membuat ",
+      "kulitnya terasa halus, licin, dan lembap."
+    ],
+    "3": [
+      "Aku mencoba mencubit pipi \\str[120] yang gembul dengan lembut.",
+      "Teksturnya yang lembut, kenyal seperti mochi, benar-benar membuat ketagihan;",
+      "elastisitas tebal di bawah ujung jariku terasa persis seperti ",
+      "pipi tupai."
+    ],
+    "4": [
+      "Aku akan mencoba menepuk-nepuk kepala \\str[120], ",
+      "mungkin itu bisa membantunya tidur lebih nyenyak."
+    ],
+    "5": [
+      "Aku mengulurkan tangan, ujung jariku perlahan tenggelam ke dalam ",
+      "rambut \\str[120] yang halus seperti sutra, mengelus kepala mungilnya.",
+      "\\str[120] mengeluarkan gumaman samar yang penuh kepuasan, ",
+      "seakan bisa merasakan sentuhanku bahkan saat tidur."
+    ],
+    "6": [
+      "Aku menekan telapak tanganku ke dahi \\str[120] yang sedikit berkeringat,",
+      "meremas berulang kali di sela-sela pangkal rambutnya yang lengket, ",
+      "menghirup aroma kental yang hampir membuat mabuk.",
+      " ",
+      "Meski tubuhnya gemetar secara refleks karena panas, ",
+      "alisnya yang tadinya mengerut perlahan-lahan mengendur."
+    ],
+    "7": [
+      "Menyibakkan helaian perak di pipinya, ",
+      "telinga \\str[120] yang panjang dan runcing pun terlihat.",
+      "Di bawah cahaya redup, telinga itu memiliki kualitas yang hampir transparan,",
+      "naik turun pelan mengikuti napasnya, tampak suci dan tenang."
+    ],
+    "8": [
+      "Bahkan di ruangan yang gelap, sudah jelas terlihat sekilas bahwa ",
+      "ujung telinga \\str[120] merah sampai hampir meneteskan darah.",
+      "Panas yang menjulang itu adalah tuduhan diam-diam atas ",
+      "kegelisahan yang tak terkatakan di dalam dirinya..."
+    ],
+    "9": [
+      "Aku mengulurkan tangan, ujung jariku dengan ringan menelusuri tepi telinga ",
+      "\\str[120] yang dingin dan halus.",
+      "Saat aku mengelusnya dengan lembut, dia mengeluarkan ",
+      "dengkuran manis seperti anak kucing yang nyaman."
+    ],
+    "10": [
+      "Saat aku mencubit ujung telinga yang membara itu, ",
+      "panas yang mengejutkan menyebar melalui jari-jariku.",
+      "Dengan remasan ringan saja, tubuh \\str[120] mulai bergetar lembut."
+    ]
+  },
+  "7": {
+    "0": [
+      "Tangan mungil \\str[120] diam-diam beristirahat di samping, ",
+      "jari-jarinya ramping dan seputih gading."
+    ],
+    "1": [
+      "Aku dengan lembut menggenggam tangan \\str[120] yang dingin dan lembut,",
+      "ujung jariku menelusuri garis buku-buku jarinya yang rapuh, ",
+      "sesekali menggodai telapak tangannya dengan sentuhan nakal."
+    ],
+    "2": [
+      "\\str[120] meringkuk kakinya, ",
+      "jari-jari kakinya yang putih melengkung secara alami dalam tidurnya yang nyenyak.",
+      "Lengkungan halus dari punggung kakinya memancarkan kilau seperti satin ",
+      "di bawah cahaya."
+    ],
+    "3": [
+      "Ujung sepuluh jari kaki kecil \\str[120] secara refleks mencengkeram ",
+      "seprai karena suatu panas aneh, dan keringat halus ",
+      "di telapak kakinya memantulkan kilau licin di bawah cahaya."
+    ],
+    "4": [
+      "Aku mengulurkan tangan, ",
+      "ujung jariku dengan ringan menyentuh telapak kaki \\str[120].",
+      "Bahkan dengan usapan setingkat ini saja, dia meringkukkan kakinya ",
+      "lebih erat lagi seolah sedang merasa geli."
+    ],
+    "5": [
+      "Memegang telapak kaki yang merona merah muda karena demam tinggi itu, ",
+      "panas yang mengejutkan langsung menyebar ke ujung jariku.",
+      " ",
+      " ",
+      "Saat aku meremasnya dengan main-main, ",
+      "sepuluh jari kakinya yang kecil mengerut erat karena terlalu sensitif,",
+      "meregangkan punggung kakinya yang putih menjadi lengkungan yang menggoda."
+    ],
+    "6": [
+      "Dalam posisi miringnya, ",
+      "perut \\str[120] membentuk lekukan yang sangat datar dan lembut.",
+      "Ia naik turun dengan teratur mengikuti napasnya yang stabil, ",
+      "memancarkan keindahan yang polos dan rentan."
+    ],
+    "7": [
+      "Aku dengan lembut meletakkan tanganku di perutnya yang datar dan lembut.",
+      "Biasanya, \\str[120] akan mengeluh apakah aku menganggapnya bertambah gemuk,",
+      "dan memikirkan itu membuatku semakin ingin mengelusnya."
+    ],
+    "8": [
+      "Di bawah cahaya redup, ",
+      "kulit di seluruh tubuh \\str[120] memiliki rona gading yang tembus pandang.",
+      "Udara dipenuhi aroma kewanitaan yang samar, ",
+      "seolah setiap inci kulitnya memancarkan aura yang menggoda."
+    ],
+    "9": [
+      "Kulit \\str[120] yang semula putih kini merona dengan ",
+      "warna merah persik yang menggoda, terutama di sendi-sendi dan lehernya, ",
+      "di mana rona itu tampak sangat dalam dan lembap.",
+      " ",
+      "Akibat suhu tubuhnya yang meningkat, aroma kewanitaan yang kental ",
+      "dan memabukkan menggantung di udara,",
+      "membuatnya mustahil untuk tidak ingin merasakannya dari jarak yang lebih dekat lagi."
+    ],
+    "10": [
+      "Ujung jariku meluncur di atas kulit \\str[120], ",
+      "sentuhan yang dingin dan sehalus sutra itu, dipadukan dengan ",
+      "elastisitas luar biasa milik seorang gadis, membuatku sulit untuk melepaskan diri."
+    ],
+    "11": [
+      "Saat aku menyentuh kulit \\str[120], ",
+      "ujung jariku diselimuti panas yang mengejutkan.",
+      "Setiap inci kulit yang ditekan jari-jariku meninggalkan bekas merah sementara,",
+      "bahkan saat tidur, tubuhnya bergetar mengikuti gerakanku."
+    ]
+  },
+  "9": {
+    "0": [
+      "Pertama, ",
+      "aku akan mencoba menarik kaus dalam yang mengganggu ini sedikit ke bawah..."
+    ],
+    "1": [
+      "Aku harus dengan hati-hati menggeser tali pengikat ke samping agar ",
+      "seluruh kain itu bisa meluncur dari bahunya.",
+      "Ini adalah langkah paling krusial... ",
+      "gerakannya harus pelan, lebih pelan lagi..."
+    ],
+    "2": [
+      "Penghalang terakhir sudah hilang.",
+      "Sementara \\str[120] masih tertidur, ",
+      "ayo lepas semuanya sekaligus!"
+    ],
+    "3": [
+      "Mulai dari tepi celana pendeknya, ",
+      "menariknya turun sedikit saja..."
+    ],
+    "4": [
+      "Nah, begitu... persis seperti itu. ",
+      "Terus tarik pelan-pelan, dan sebentar lagi, semuanya akan terbuka—"
+    ],
+    "5": [
+      "Aku sudah mencapai pangkal pahanya.",
+      "Dengan satu ledakan tenaga, ",
+      "ayo lepas celana pendek yang mengganggu ini sepenuhnya!"
+    ],
+    "6": [
+      "Tidak bisa, celana pendek di luarnya menghalangi semuanya, ",
+      "aku harus melepas lapisan luarnya dulu."
+    ],
+    "7": [
+      "Karena aku sudah menelanjanginya sampai sejauh ini, ",
+      "sekalian saja aku melepas celana dalamnya juga!"
+    ],
+    "8": [
+      "Meski sensasi terbungkus yang 'intip-intip' ini sangat memikat,",
+      "aku lebih tertarik pada apa yang sebenarnya ada di balik kain itu sekarang...",
+      "Seperti dugaan, ayo lepas saja!"
+    ],
+    "9": [
+      "Berikan tenaga sedikit lagi dan tarik lebih ke bawah...",
+      "aku akan bisa melihat tempat paling pribadi milik \\str[120] ",
+      "dalam sekejap..."
+    ],
+    "10": [
+      "Sekarang waktunya—",
+      "ayo buka garis pertahanan terakhir ini sepenuhnya!"
+    ]
+  },
+  "12": {
+    "1": [
+      "\\str[120] memang tidak punya kondisi tubuh yang terbaik, ",
+      "tapi gaya tidurnya luar biasa berani."
+    ],
+    "2": [
+      "\"Berapa banyak gelisah bolak-balik yang dibutuhkan sampai berakhir ",
+      "di posisi aneh seperti ini...?\""
+    ],
+    "3": [
+      "Karena aku menemukan pemandangan yang begitu baru, ",
+      "haruskah aku memanfaatkan kesempatan ini untuk melakukan sesuatu...?"
+    ],
+    "4": [
+      "Topang pantatnya",
+      "Perbaiki posisi tidur"
+    ],
+    "5": [
+      "Hmm... dengan posisi ini, ",
+      "mungkin aku benar-benar bisa melakukannya..."
+    ],
+    "6": [
+      "\"....................\""
+    ],
+    "7": [
+      "Di bawah manipulasi tanganku, ",
+      "\\str[120] diatur dalam posisi yang lucu sekaligus menggoda."
+    ],
+    "8": [
+      "Meski begitu, dia masih tidur nyenyak tanpa tanda-tanda akan terbangun...",
+      "aku merasa bisa melakukan lebih banyak lagi?"
+    ],
+    "9": [
+      "Tidak, tidak, sadarlah!",
+      "Bagaimana bisa aku memperlakukan \\str[120] seperti mainan...!?"
+    ],
+    "10": [
+      "\"...Kalau dia tidur seperti ini, ",
+      "tubuhnya akan terlalu pegal untuk bergerak besok.\""
+    ],
+    "11": [
+      "Sentuh vagina",
+      "Sentuh pantat",
+      "Lepas celana dalam",
+      "Lepas celana pendek",
+      "Perbaiki posisi tidur"
+    ],
+    "12": [
+      "Saat penutup terakhir dilepas, ",
+      "tubuh bagian bawah \\str[120] terbuka sepenuhnya.",
+      "Vagina montok dengan warna yang indah itu kini terpapar tanpa pertahanan ",
+      "di bawah cahaya dan bayangan."
+    ],
+    "13": [
+      "Aku sudah siap menghadapi ini,",
+      "tapi melihat \\str[120] sepenuhnya telanjang di bawah sana",
+      "membuat dorongan aneh melonjak di dalam hatiku."
+    ],
+    "14": [
+      "Aku tak bisa menahan diri untuk mengarahkan jariku ke ",
+      "bagian terdalam dari lekukan itu...",
+      "Meski masih seperti bunga yang baru mekar dan lembut, ",
+      "ia seakan memiliki kekuatan magis, menempel erat di ujung jariku."
+    ],
+    "15": [
+      "Aku menahan napas, dengan ragu membuka kelopak yang tertutup itu... \\w[60]",
+      "Benar, tanah suci milik \\str[120] yang belum pernah ",
+      "dijamah siapa pun ini akan kurebut olehku...!"
+    ],
+    "16": [
+      "Kamu tidak bisa menyalahkanku... ",
+      "hanya saja pantat \\str[120] yang bulat itu terlalu menggoda...",
+      "Aku menggumamkan alasan yang menipu diri sendiri ini di kepalaku ",
+      "sambil mengulurkan tanganku."
+    ],
+    "17": [
+      "Bahkan melalui selapis kain tipis, ",
+      "aku bisa dengan jelas merasakan kontur pantat \\str[120].",
+      " ",
+      " ",
+      "Menekan sedikit ke bawah, ",
+      "jari-jariku tenggelam ke dalam gundukan daging yang hangat dan lembut,",
+      "dengan setiap remasan lembut, ",
+      "tubuh di balik kain itu memantul penuh."
+    ],
+    "18": [
+      "Dibandingkan celana pendek di luarnya, ",
+      "celana dalam ikat samping ini hanya menutupi sedikit saja.",
+      "Saat telapak tanganku menutupi seluruh pantat \\str[120], ujung jariku dengan mudah ",
+      "melewati tepi kain itu, menempel langsung di kulitnya."
+    ],
+    "19": [
+      "Aku secara naluriah menyelipkan jari-jariku di antara celana dalam \\str[120] ",
+      "dan pantatnya, mengusapnya berulang kali.",
+      "Aku menikmati melihat tali ikatannya menjadi longgar dan tidak stabil ",
+      "di bawah jari-jariku yang menggeledah."
+    ],
+    "20": [
+      "\\nl< >\"Ugh... mmmgh...\""
+    ],
+    "21": [
+      "\\str[120] tampaknya merasakan keanehan di tubuh bagian bawahnya ",
+      "dan mengeluarkan gumaman yang menolak.",
+      " ",
+      " ",
+      "Erangan lembut yang tampak enggan itu seperti ",
+      "seember air es yang disiramkan langsung ke hatiku.",
+      "Aku dengan canggung menarik kembali tanganku, tak berani mengeluarkan suara."
+    ],
+    "22": [
+      "Untungnya, ",
+      "tidur yang nyenyak menarik \\str[120] kembali ke mimpinya sekali lagi.",
+      "Aku menghela napas pelan, dengan angin dingin bertiup, ",
+      "otakku yang panas akhirnya mendingin.",
+      "Aku jelas bergerak terlalu cepat tadi. ",
+      "Ayo... berhenti di sini dulu."
+    ]
+  },
+  "8": {
+    "0": [
+      "Mendekat, setiap napas dipenuhi aroma jeruk yang samar dari \\str[120].",
+      "Melalui kaus dalam yang tipis, lekuk yang berdiri tegap itu terlihat jelas,",
+      "dengan dua titik kecil di tengahnya menonjol tajam di bawah bayangan lampu."
+    ],
+    "1": [
+      "Mendekat, setiap napas dipenuhi aroma jeruk yang samar dari \\str[120].",
+      "Melalui kaus dalam yang tipis, lekuk yang berdiri tegap itu terlihat jelas,",
+      "naik turun di pandanganku mengikuti napasnya."
+    ],
+    "2": [
+      "Saat kaus dalamnya ditarik sedikit ke bawah, ",
+      "tepi areola samar mulai terlihat.",
+      "Tanpa batasan pakaian, rasa kepenuhan yang nyata ini ",
+      "berkali-kali lebih spektakuler daripada saat dilihat melalui kain."
+    ],
+    "3": [
+      "Kaus dalamnya sudah ditarik turun lebih dari setengahnya. ",
+      "Dada \\str[120] hampir sepenuhnya terbuka.",
+      "Puting dan areolanya berwarna merah muda yang cerah dan belum matang, ",
+      "bentuknya bulat dan sempurna."
+    ],
+    "4": [
+      "Dada \\str[120] terpampang di depanku tanpa ada yang disembunyikan.",
+      "Tak seperti tubuhnya yang ramping, ",
+      "mereka seperti buah-buahan berat yang menggantung di dahan tipis;",
+      "hanya melihatnya saja membuatku ingin menggigitnya kuat-kuat."
+    ],
+    "5": [
+      "Aku mengulurkan tangan dan menggenggam salah satunya melalui kaus dalam, ",
+      "telapak tanganku langsung dipenuhi kelembutan yang luar biasa.",
+      " ",
+      " ",
+      "Ujung jariku menelusuri lekuk yang tegap itu melalui kain. ",
+      "\\str[120] tampaknya menikmati usapan dalam ini,",
+      "karena napasnya menjadi semakin manis saat dia bergumam dalam tidurnya."
+    ],
+    "6": [
+      "Aku mengulurkan tangan dan menggenggam salah satunya melalui kaus dalam, ",
+      "telapak tanganku langsung dipenuhi kelembutan yang luar biasa.",
+      "Sensasi ini—tenggelam seperti marshmallow namun penuh dengan kehidupan—",
+      "benar-benar mustahil untuk dilepaskan."
+    ],
+    "8": [
+      "Kini kaus dalamnya sudah ditarik turun setengahnya, ",
+      "aku akhirnya bisa menyentuhnya secara langsung.",
+      "Panas yang mengejutkan di sekitar areola membuat setiap geseran ",
+      "ujung jariku terasa seperti berjalan di tepi yang membara."
+    ],
+    "9": [
+      "Puting di ujungnya sudah sepenuhnya berdiri tegak.",
+      "Saat aku memutar-mutarnya dengan ujung jariku, terasa sangat panas,",
+      "sensasi yang sepenuhnya berbeda dari menyentuhnya melalui pakaian."
+    ],
+    "10": [
+      "Ujung jariku tenggelam dalam ke gundukan daging yang montok dan lembut itu, ",
+      "sensasi pamungkas ini membuatku menggigil karena gairah."
+    ],
+    "11": [
+      "Semakin banyak kaus dalam yang ditarik turun,",
+      "area yang bisa kusentuh menjadi semakin besar."
+    ],
+    "12": [
+      "Aku menggenggam seluruh dada \\str[120] dan meremasnya dengan liar,",
+      "seperti bola adonan mentah yang lembut, ",
+      "berubah menjadi berbagai bentuk mesum di bawah kekuatanku."
+    ],
+    "13": [
+      "Telapak tanganku sesekali tergores oleh titik kecil yang keras itu,",
+      "kalau aku rasakan dengan saksama, aku bisa jelas mengetahui bahwa ",
+      "suhu tubuh \\str[120] sedang meningkat."
+    ],
+    "14": [
+      "Detak jantung \\str[120] melewati lapisan lemak lembut ini",
+      "dan tersalurkan dengan jelas ke telapak tanganku."
+    ],
+    "15": [
+      "Gundukan lembut yang hangat dan montok milik \\str[120] ini akhirnya ",
+      "sepenuhnya jatuh ke tanganku. ",
+      "Daging yang nyata dan panas tubuh ini membuat usaha sebelumnya ",
+      "melalui kaus dalam tampak cukup hambar."
+    ],
+    "16": [
+      "Saat aku mencubit dan menggoda putingnya dengan kekuatan sedikit lebih besar,",
+      "aku bisa mendengar desahan samar lolos dari bibirnya, dan tubuh mungilnya bergetar."
+    ],
+    "17": [
+      "Setiap remasan menghasilkan balasan yang segar dan sepenuhnya berbeda;",
+      "telapak tanganku seolah menempel erat padanya seperti oleh semacam sihir bernama nafsu."
+    ],
+    "19": [
+      "Akibat posisinya yang miring dan meringkuk, ",
+      "kaki \\str[120] saling menyilang rapat,",
+      "meremas pangkal pahanya menjadi lengkung yang montok dan lembut, ",
+      "kulitnya begitu putih sampai tampak bercahaya."
+    ],
+    "20": [
+      "Kulit di bagian dalam paha \\str[120] kini merona ",
+      "merah muda yang menggoda, dengan tetesan keringat halus mengalir turun di selangkangannya.",
+      "Saat napasnya semakin tidak tenang, ",
+      "kakinya yang menyilang sesekali bergesekan satu sama lain."
+    ],
+    "21": [
+      "Aku mengulurkan tangan dan menggeser tanganku di sepanjang garis panjang itu, ",
+      "ujung jariku tenggelam ke dalam daging lembut di pangkal pahanya.",
+      " ",
+      " ",
+      "Bahkan dengan usapan lembut setingkat ini saja, ",
+      "\\str[120] secara naluriah menendangkan kakinya sedikit dalam tidurnya.",
+      "Aku merasa balasan yang seperti binatang ini cukup menarik."
+    ],
+    "22": [
+      "Tepat saat aku dengan ragu menyelipkan ujung jariku ke dalam ",
+      "celah yang tertutup rapat di antara pahanya, ",
+      "\\str[120] secara refleks merapatkan kakinya.",
+      " ",
+      "Ujung jariku langsung diselimuti dan ",
+      "ditekan oleh dua gundukan daging yang hangat dan lembut,",
+      "terutama dengan keringat halus dari suhu tubuhnya yang meningkat, ",
+      "gesekan kulit-dengan-kulit ini menjadi sangat licin."
+    ],
+    "23": [
+      "Bahkan melalui celana pendek yang tebal itu, ",
+      "kontur bulat pantat \\str[120] terlihat jelas, ",
+      "meregangkan kain hingga kencang."
+    ],
+    "24": [
+      "\"Hehe... dia sedang mengenakan \\sa[\\v[90]] sekarang.",
+      "Sepertinya itu akan menjadi warna keberuntungan besok~\""
+    ],
+    "25": [
+      "Saat celana pendeknya ditarik turun sedikit, tepi celah pantat ",
+      "yang putih dan dalam itu mulai terlihat.",
+      "Hanya dengan melihat daging yang terdesak keluar dari tekanan itu, ",
+      "aku bisa membayangkan betapa nikmatnya tekstur itu."
+    ],
+    "26": [
+      "Tepi celana dalam yang mungil itu tenggelam dalam ke lekuk celah pantatnya,",
+      "sepenuhnya menonjolkan kualitas berat dari pantat \\str[120].",
+      "Busur yang montok dan tertekan ini, dipadukan dengan kerutan samar, ",
+      "membuatmu ingin mengulurkan tangan dan menyentuhnya."
+    ],
+    "27": [
+      "Pantat \\str[120] terpampang di depanku tanpa ada yang disembunyikan, ",
+      "memancarkan kilau licin di bawah cahaya.",
+      "Aku benar-benar ingin menamparnya keras-keras hanya untuk melihatnya bergoyang."
+    ],
+    "28": [
+      "Meremas pantat \\str[120] melalui kain yang tebal ",
+      "terasa seperti bermain dengan boneka binatang yang besar,",
+      "pantulan lembut seperti mochi itu membuatku ingin meremasnya beberapa kali lagi."
+    ],
+    "29": [
+      "............Tunggu, ini aneh.",
+      "Aku tidak menyadari sejak kapan, ",
+      "tapi telapak tanganku mulai merasakan kelembapan yang lengket.",
+      "Kenapa kain yang tadinya kering mulai menjadi lengket?"
+    ],
+    "30": [
+      "Saat celana pendeknya ditarik turun sedikit lagi, ",
+      "telapak tanganku akhirnya melewati hambatan kain",
+      "dan menempel dengan nyata di pantat \\str[120].",
+      "Kepuasan yang intens membuatku meremasnya keras beberapa kali."
+    ],
+    "31": [
+      "Tanpa celana pendek yang menyembunyikannya, ",
+      "pantat bulat \\str[120] sepenuhnya terpampang di depanku.",
+      " ",
+      " ",
+      "Terlebih lagi, celana dalam yang tipis itu masih memotong dalam ke celah pantatnya,",
+      "sepenuhnya menegaskan kontur pantatnya, ",
+      "bahkan membuat kerutan yang menggoda itu terlihat jelas."
+    ],
+    "32": [
+      "Dengan sedikit semangat nakal, aku menjulurkan jariku",
+      "dan perlahan menenggelamkannya menuju lekukan terdalam—",
+      "Saat kain itu didorong ke dalam celah sempit oleh ujung jariku, kontur yang sudah ",
+      "menonjol itu menjadi semakin dalam dan jelas karena tekanan."
+    ],
+    "33": [
+      "Yang membuatku semakin bergairah adalah kain yang ",
+      "didorong ke dalam itu langsung basah oleh gelombang kelembapan.",
+      "Dengan satu gerakan jariku saja, aku bisa merasakan ",
+      "kelembapan lengket itu menyebar di sekitar ujung jariku."
+    ],
+    "34": [
+      "Pantat \\str[120] kini terpampang di depanku sepenuhnya telanjang.",
+      "Aku mencoba menekan seluruh telapak tanganku dengan kuat ke pantatnya,",
+      "lalu dengan nakal menggenggam dan meremasnya sepuas hatiku."
+    ],
+    "35": [
+      "Setelah hanya beberapa putaran remasan, ",
+      "telapak tanganku tiba-tiba ternoda kilau bening yang lengket.",
+      " ",
+      " ",
+      "Itu adalah cairan cinta yang lembap merembes keluar dari bagian terdalam celah pantatnya, ",
+      "dioleskan berulang kali oleh gerakanku,",
+      "membuat setiap remasan berikutnya terasa sangat licin."
+    ],
+    "36": [
+      "Elastisitas daging yang lembut ini penuh dengan khasiat penyembuhan.",
+      "Aku hampir ingin menggunakannya sebagai bantal dan tidur seperti ini saja."
+    ],
+    "37": [
+      "Celana pendek yang mengganggu itu masih menghalangi titik paling krusial, ",
+      "perasaan 'satu langkah lagi' ini benar-benar menggoda.",
+      "Sepertinya aku tidak akan bisa melihat pemandangan yang sebenarnya kecuali ",
+      "aku menariknya turun sedikit lagi."
+    ],
+    "38": [
+      "Meski celana pendeknya sudah setengah turun, ",
+      "celana dalam di dalamnya masih menjaga jalur terakhir.",
+      "Pemandangan 'setengah tersembunyi' ini adalah yang paling menyiksa, ",
+      "aku hanya bisa melihat sedikit tepi putih polos di celah sempit itu."
+    ],
+    "39": [
+      "...Kalau kuperhatikan dengan saksama, aku bisa melihat sedikit noda air ",
+      "berwarna pekat yang menyebar di tengah celah sempit itu.",
+      "Penampilannya yang basah dan tembus pandang... bahkan tanpa menyentuhnya, ",
+      "aku bisa merasakan panas yang mengejutkan."
+    ],
+    "40": [
+      "Tanpa celana pendek yang menyembunyikannya, kontur celah vaginanya, ",
+      "yang ditegaskan dengan ketat oleh kain putih polos itu, terlihat jelas.",
+      "Meski hal yang sebenarnya masih tersembunyi, ",
+      "pemandangan setengah tertutup yang menggoda ini bahkan lebih menggairahkan."
+    ],
+    "41": [
+      "Meski celana dalamnya sudah ditarik turun sedikit,",
+      "lapisan-lapisan kain putih itu semuanya menggumpal di pangkal pahanya,",
+      "sepenuhnya menghalangi pemandangan yang paling krusial.",
+      " ",
+      "Perasaan berada begitu dekat, ",
+      "namun tetap tidak bisa mencapai taman rahasianya, benar-benar menyiksa."
+    ],
+    "42": [
+      "Aku meletakkan telapak tanganku di tubuh bagian bawah \\str[120] dan ",
+      "mengelusnya bolak-balik dengan perlahan.",
+      "Melalui lapisan kain yang tebal itu, ",
+      "yang bisa kurasakan hanyalah gundukan kehangatan dan kelembutan yang mengejutkan.",
+      "Hambatan dari gesekan kain itu hanya semakin memicu ",
+      "keinginanku untuk merobeknya sepenuhnya."
+    ],
+    "43": [
+      "...Telapak tanganku segera dipenuhi kelembapan yang lengket.",
+      "Sepertinya tubuh \\str[120] sudah menjadi berantakan karena panas itu,",
+      "bahkan kain setebal ini pun akan segera ",
+      "basah kuyup oleh cairan cinta."
+    ],
+    "44": [
+      "Aku mengulurkan tangan, ",
+      "berharap akan dihalangi oleh kain celana dalamnya,",
+      "tapi saat ujung jariku menyentuhnya, ",
+      "aku langsung diselimuti kelembapan.",
+      "Cairan lengket itu sudah meluap, ",
+      "merembes melewati lipatan kain dan ",
+      "melapisi sela-sela jari-jariku."
+    ],
+    "45": [
+      "Aku mencoba mengulurkan tangan, ",
+      "ujung jariku tenggelam ke dalam lapisan kain putih yang menggumpal.",
+      "Sensasi anyaman tebal itu sepenuhnya menutupi ",
+      "kelembutan di bawahnya,",
+      "selain perasaan katun yang luar biasa, ",
+      "aku tidak bisa merasakan apa pun."
+    ],
+    "46": [
+      "Tanpa penghalang tebal dari celana pendeknya, ",
+      "kini hanya tersisa selapis kain putih tipis ",
+      "di depan selangkangan \\str[120].",
+      " ",
+      "Aku meletakkan tanganku di atasnya, ",
+      "mengelus gundukan lembut melalui celana dalamnya sepuas hatiku,",
+      "merasakan gelombang panas tubuh yang terpancar dari balik kain itu."
+    ],
+    "47": [
+      "Aku kemudian melangkah lebih jauh, ",
+      "menyelipkan jari-jariku di antara lipatan celana dalamnya",
+      "dan dengan hati-hati menyelidiki ke dalam lipatan sempit itu."
+    ],
+    "48": [
+      "Karena cairannya sudah lama merembes menembus ",
+      "kain itu, ujung jariku tenggelam dalam ke dalam ",
+      "celah itu hampir tanpa usaha sama sekali.",
+      " ",
+      "Serangkaian suara ",
+      "basah dan berdecit mengikuti setiap gerakan jari-jariku."
+    ],
+    "49": [
+      "Meski baru mencapai kedalaman yang dangkal,",
+      "ujung jariku sudah membuat kontak yang nyata ",
+      "dengan daging dalam yang lembut itu.",
+      " ",
+      "Isapan yang licin dan melekat itu membuatku mendambakan ",
+      "untuk menyelidiki lebih dalam lagi..."
+    ],
+    "50": [
+      "Aku pikir melepasnya sedikit saja akan memberiku kebebasan penuh,",
+      "tapi kain yang mengganggu itu semuanya menggumpal, ",
+      "sepenuhnya menghalangi area yang paling krusial.",
+      " ",
+      "Yang bisa kurasakan hanyalah tekstur anyaman yang kering, ",
+      "frustrasi karena meleset dari sasaran membuat hatiku gatal."
+    ],
+    "51": [
+      "Dengan hilangnya lapisan kain terakhir, ",
+      "vagina \\str[120] kini terpampang sepenuhnya telanjang di depan mataku,",
+      "pemandangan merah muda yang lembut itu menuntut seluruh perhatianku."
+    ],
+    "52": [
+      "Menahan napas, aku dengan ragu menjulurkan jari telunjukku, ",
+      "dengan hati-hati membuka bibir vagina yang tertutup rapat itu",
+      "agar aku bisa menjelajah lebih dalam lagi pada momen-momen berikutnya."
+    ],
+    "53": [
+      "Basah berulang kali oleh cairannya, ",
+      "bibir vaginanya kini selembut puding dan begitu licin ",
+      "sampai ujung jariku hampir tergelincir.",
+      " ",
+      "Dengan remasan lembut, ",
+      "aku bisa merasakan banjir cairan lengket yang dipaksa keluar ",
+      "di antara jari-jariku."
+    ],
+    "54": [
+      "Sensasi di ujung jariku terasa ",
+      "mustahil lembut, licin, dan halus.",
+      " ",
+      " ",
+      "Dengan sabar aku menelusuri seluruh panjang dari ",
+      "celah sempit itu dari atas ke bawah,",
+      "merasakan setiap lekukan dan lipatannya."
+    ],
+    "55": [
+      "Meski celana dalamnya belum sepenuhnya lepas, ",
+      "vagina \\str[120] sudah kehilangan penutupnya.",
+      "Celah berwarna merah muda yang tertutup rapat itu terpapar, ",
+      "memancarkan gelombang panas yang menggoda."
+    ]  
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "skillToggle": [
+    "Aktif",
+    "Nonaktif"
+  ],
+  "1": {
+    "name": [
+      "Tas Penyimpanan Sihir"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      "Alat ajaib portabel yang memungkinkanmu membawa ",
+      "barang jauh lebih banyak dari biasanya. Namun, ",
+      "bahkan alat ajaib pun punya batas penyimpanannya.."
+    ],
+    "ability": [
+      "Kapasitas senjata: ${QJ.MPMZ.tl.ex_playerCheckInventory('weapon')}",
+      "Kapasitas perlengkapan: ${QJ.MPMZ.tl.ex_playerCheckInventory('gear')}"
+    ]
+  },
+  "2": {
+    "name": [
+      "Senpo"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      "Langkah cepat di tanah menempuh jarak pendek,",
+      "memungkinkanmu menghindari beberapa serangan. Ini hanya teknik dash dasar ",
+      "tapi pemiliknya bersikeras memberinya nama yang keren"
+    ],
+    "ability": [
+      "Tahan Space Bar untuk mengaktifkan"
+    ]
+  },
+  "3": {
+    "name": [
+      "Senpo Tachi"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      "Teknik cabut pedang yang dipelajari dari Pendekar Pedang muda.",
+      "Dengan menggabungkannya dengan SenPo, kamu melepaskan ",
+      "tebasan yang diperkuat kecepatan — cukup untuk melontarkan musuh jika waktunya tepat."
+    ],
+    "ability": [
+      "Klik Kiri saat Senpo: Tebas, damage mengikuti kecepatan",
+      "Tahan Klik Kanan saat Senpo: Charge, efek mengikuti momentum"
+    ],
+    "mobileAbility": [
+      "Ketuk tombol skill untuk menebas, damage mengikuti kecepatan gerak",
+      "Tahan tombol skill untuk charge, efek mengikuti momentum"
+    ]
+  },
+  "4": {
+    "name": [
+      "Tebasan Angin Puyuh"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      "Berputar sambil mengayunkan senjata untuk melancarkan serangan terus-menerus. ",
+      "Kecepatan serangan meningkat seiring waktu. Bagi yang kurang ",
+      "mahir teknik pedang, jurus ini mudah dipelajari dan efektif."
+    ],
+    "ability": [
+      "Tahan Klik Kanan untuk mengaktifkan skill",
+      "Batalkan saat berputar untuk melempar senjatamu"
+    ],
+    "mobileAbility": [
+      "Tahan tombol skill untuk mengaktifkan skill",
+      "Batalkan sambil berputar untuk melempar senjatamu"
+    ]
+  },
+  "6": {
+    "name": [
+      "Mesum yang Beruntung"
+    ],
+    "subtitle": [
+      "true"
+    ],
+    "description": [
+      "Konstitusi mesum legendaris yang aktif dengan sendirinya, ",
+      "bahkan tanpa disadari pemiliknya.",
+      "Seolah diberkati dan dituntun dewi yang tak terlihat, kekuatan yang tak tertahankan ",
+      "mendorongmu ke dalam skenario fanservice yang bikin merona dan jantung berdebar…!"
+    ],
+    "ability": [
+      "Selalu menciptakan kesempatan sempurna untuk memicu event mesum!"
+    ]
+  },
+  "7": {
+    "name": [
+      "Indra Bahaya"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      "Sering disebut 'Mata Pikiran', tapi sebenarnya ini indra ",
+      "yang diasah oleh berbagai pertemuan nyaris mati.",
+      "Dengan kata lain, lebih mirip refleks trauma daripada skill sungguhan..."
+    ],
+    "ability": [
+      "Arahkan kursor ke target untuk melihat info detail"
+    ],
+    "mobileAbility": [
+      "Ketuk target untuk melihat info detail"
+    ]
+  },
+  "9": {
+    "name": [
+      "Raja Udara"
+    ],
+    "description": [
+      "Gua, tebing, langit terbuka... ia pernah jatuh dari hampir semua tempat.",
+      "Bahkan setelah dihajar hingga di ambang kematian berulang kali, ",
+      "ia entah bagaimana selalu bisa bertahan dengan napas terakhirnya.",
+      "Suatu hari, pria ini akan melepaskan gravitasi itu sendiri dan benar-benar menaklukkan langit...!"
+    ],
+    "ability": [
+      "Saat menerima damage jatuh fatal, dipaksa bertahan dengan 1 HP",
+      "Hanya bisa terpicu maksimal sekali per hari"
+    ]
+  },
+  "10": {
+    "name": [
+      "Menyembunyikan Napas"
+    ],
+    "subtitle": [
+      "true"
+    ],
+    "description": [
+      "Teknik ninja. Aku hanya mempelajarinya dengan tergesa-gesa, tapi…",
+      "entah bagaimana, aku menguasainya dengan cukup cepat."
+    ],
+    "ability": [
+      "Tekan Shift saat aktif untuk masuk mode menyelinap",
+      "Mengurangi jarak deteksi monster sebesar \\c[17]${1+$gameParty.leader().skillMasteryLevel(10)}\\c[108] petak",
+      "Mengurangi laju kewaspadaan \\str[120] selama mengintip sebesar \\c[17]${15+15*$gameParty.leader().skillMasteryLevel(10)}%\\c[0]"
+    ]
+  },
+  "11": {
+    "name": [
+      "Tikaman Belakang"
+    ],
+    "subtitle": [
+      "true"
+    ],
+    "description": [
+      "Teknik ninja. Bisa diaktifkan saat dalam mode menyelinap",
+      "Serang musuh yang tak dijaga dari belakang untuk damage besar!"
+    ],
+    "ability": [
+      "Kemahiran Skill: \\c[6]${$gameActors.actor(1).skillMasteryUses(11)}\\c[0]",
+      "Bonus Damage Pembunuhan: \\c[17]${Math.round(200 + (2333 - 200) * Math.pow($gameActors.actor(1).skillMasteryLevel(11) / 9, 1.8))}%\\c[0]"
+    ]
+  },
+  "12": {
+    "name": [
+      "Aliran Letusan Musou"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      "Jurus pamungkas rahasia warisan dari ASABA, yang memeluk kesedihan",
+      "Dalam sekejap yang terlalu cepat untuk dilihat mata, seratus tebasan mendarat—",
+      "meninggalkan musuh dengan kegelapan terakhir!"
+    ],
+    "ability": [
+      "Perintah skill:  \\{⬆⬇⬅⮕⬆⬇\\}",
+      "Setiap penggunaan skill menguras sebagian HP"
+    ]
+  },
+  "15": {
+    "name": [
+      "Crossdressing"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      "Kamu memakai pakaian yang bukan untukmu… dan ada sesuatu di dalam dirimu ",
+      "yang bergolak. Tanpa bonus pertarungan—bahkan bisa sedikit mengganggu pikiranmu.",
+      "Rekan-rekanmu melirik dengan aneh, dan musuh mungkin terdiam… mungkin.",
+      "Bagaimanapun, di dunia ini—kelucuan adalah keadilan!"
+    ],
+    "ability": [
+      "Meningkatkan Dosa berdasarkan jumlah item crossdressing yang dipakai!"
+    ]
+  },
+  "16": {
+    "name": [
+      "Bladekeepers"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      "\"Tidak peduli bagaimana kamu mengayunkan senjatamu!\" \"Kami akan bangkit untuk menantangmu!\"",
+      "\"Untuk menghentikan pedang agar tidak cepat aus!\" \"Untuk melindungi martabat senjata!\"",
+      "\"Karena kami percaya pedang adalah tuan, dan manusia hanyalah pelayan!\"",
+      "\"Para penganut yang paling konyol namun tak tergoyahkan!\"",
+      "\"Kami adalah—Para Pelestari Senjata—sang Bladekeepers!\""
+    ],
+    "ability": [
+      "Memakai lencana itu membuatmu jadi salah satu dari mereka sekarang"
+    ]
+  },
+  "18": {
+    "name": [
+      "Senjata Patah"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      "Semua senjata punya batas ketahanan, ",
+      "dan karena pemiliknya kurang jago serangan presisi,",
+      "ada risiko senjatanya patah. Tapi saat senjata benar-benar patah —",
+      "ia akan mendaratkan serangan kritis yang dahsyat!"
+    ],
+    "ability": [
+      "Bonus damage pukulan terakhir: \\c[6]${200+(100*$gameActors.actor(1).skillMasteryLevel(48))}%\\c[0]"
+    ]
+  },
+  "26": {
+    "name": [
+      "Latihan Ilmu Pedang"
+    ],
+    "subtitle": [
+      "true"
+    ],
+    "description": [
+      "Meminta saran dari seorang gadis ahli pedang tentang cara menjadi lebih kuat",
+      "Yang ia katakan cuma 'Ayunkan pedangmu 1.000 kali setiap hari!'",
+      "—Apa itu benar-benar berhasil!? Yah, kita coba saja..."
+    ],
+    "ability": [
+      "Ayunan Latihan Selesai: \\{\\c[6]${QJ.MPMZ.tl.playerSwordsmanshipTraining(1)}\\c[0]",
+      "Damage serangan dasar senjata jarak dekat meningkat sebesar \\c[6]${QJ.MPMZ.tl.playerSwordsmanshipTraining(2)}%"
+    ]
+  }
+}
