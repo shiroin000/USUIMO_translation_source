@@ -1,4 +1,16 @@
 {
+  "MapExploration": {
+    "TemporaryTemplate": [
+      "浴室",
+      "客廳",
+      "妹妹的房間",
+      "廁所"
+    ],
+    "saveButton": [
+      "讀檔",
+      "存檔"
+    ]
+  },
   "autoUpdateReminder": {
     "0": [
       "更新流程將在第二天起床時自動觸發，",
@@ -10,6 +22,27 @@
       "可能是網絡連接失敗！",
       "\\w[120]"
     ]
+  },
+  "rpgMapButtonDescription": {
+    "starDoor": "回家",
+    "option": "設置",
+    "skill": "技能",
+    "inventory": "揹包",
+    "status": "屬性"
+  },
+  "equipmentDescriptionKeyword": {
+    "sentouryoku": "戰鬥力",
+    "HP": "體力值",
+    "durability": "耐久度",
+    "ATK": "攻擊力",
+    "DEF": "防禦力",
+    "MAT": "魔法強度",
+    "MDF": "魔法抗性",
+    "LUK": "幸運",
+    "ASP": "攻擊速度",
+    "CSP": "吟唱速度",
+    "HRG": "自動回覆",
+    "SPD": "移動速度"
   },
   "magicCamera": {
     "record": "錄製視頻",
@@ -50,6 +83,11 @@
       "⬆長按頭像框即可呼出作弊碼的輸入窗口",
       "正確輸入作弊碼後即可解鎖對應功能！"
     ]
+  },
+  "UnitINexus": {
+    "bossRespawnCountdown": "%1將在%2天后再次復活！",
+    "bossChallengeAvailable": "%1已重新復活！",
+    "noBossDetected": "未檢測到擁有\\ii[20]的頭目！"
   },
   "cannotUseItem": "當前無法使用道具！",
   "bulkSelectButton": "點擊此按鈕可以切換至批量選擇物品",
@@ -447,6 +485,9 @@
     ],
     "2": [
       "還在選擇食材！!"
+    ],
+    "3": [
+      "至少還要選擇一種食材！"
     ]
   },
   "inventoryExpansion": {

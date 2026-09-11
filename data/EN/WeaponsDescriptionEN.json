@@ -89,7 +89,7 @@
     ],
     "ability": [
       "Can fire fireballs that ignite enemies",
-      "Hold right mouse button to cast \\c[27]Crimson Lotus Meteor\\c[0]"
+      "Hold right mouse button to cast \\is[98]"
     ]
   },
   "7": {
@@ -454,8 +454,10 @@
       "But wait, what if there's no water around at all...?!"
     ],
     "ability": [
-      "Hold right mouse button to cast Torrential Burial",
-      "Requires a nearby water source to cast"
+      "Can fire water balls. if water is nearby, fires more of them",
+      "Water balls slow enemies when they hit targets on land",
+      "Water balls create puddles when they burst on land",      
+      "Hold right mouse button to cast \\is[97]"
     ]
   },
   "35": {
@@ -732,7 +734,8 @@
       "Ancient Glory"
     ],
     "subtitle": [
-      "\"Unleash the Golden Power ⬆⬆⬇⬇⬅⮕⬅⮕\""
+      "——Unleash the Golden Power! ",
+      "\\{⬆⬆⬇⬇⬅⮕⬅⮕"
     ],
     "coolDown": "Skill is on cooldown! ${} minutes remaining!",
     "description": [
@@ -741,7 +744,8 @@
       "battling in the Abyss for three days and nights without rest"
     ],
     "ability": [
-      "Unleashes its power when a secret command is entered"
+      "Unleashes its power when a secret command is entered",
+      "While under the Invincibility Aura, grants damage immunity and increases all stats"
     ]
   },
   "80": {

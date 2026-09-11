@@ -37,7 +37,7 @@
     "ATK": "Attack",
     "DEF": "Defense",
     "MAT": "Magic Power",
-    "MDF": "Magic Resistance",
+    "MDF": "Magic Resist",
     "LUK": "Luck",
     "ASP": "Attack Speed",
     "CSP": "Cast Speed",

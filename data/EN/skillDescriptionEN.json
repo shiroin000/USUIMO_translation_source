@@ -374,5 +374,35 @@
       "Deals greatly increased damage if the target location is water",
       "When used in water, it may also blast out items hidden beneath the surface"
     ]
+  },
+  "97": {
+    "name": [
+      "Torrential Burial"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      "Continuously draws in and compresses nearby water elements (charging stops if no water is available)",
+      "When charging ends, unleashes a powerful water shockwave in the target direction"
+    ]
+  },
+  "98": {
+    "name": [
+      "Crimson Lotus Meteor"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      "Channels summoning magic, marking a target location when charging ends",
+      "After a few seconds, calls down a meteor to strike the marked location"
+    ]
   }
 }
