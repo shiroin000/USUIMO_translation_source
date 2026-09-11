@@ -23,6 +23,27 @@
             "\\w[120]"
         ]
     },
+    "rpgMapButtonDescription": {
+        "starDoor": "Về Nhà",
+        "option": "Cài Đặt",
+        "skill": "Kỹ Năng",
+        "inventory": "Vật Phẩm",
+        "status": "Thông Số"
+    },
+    "equipmentDescriptionKeyword": {
+        "sentouryoku": "Lực Chiến",
+        "HP": "HP Tối Đa",
+        "durability": "Độ Bền",
+        "ATK": "Sát Thương Vật Lý",
+        "DEF": "Phòng Thủ",
+        "MAT": "Sát Thương Ma Thuật",
+        "MDF": "Kháng Ma Thuật",
+        "LUK": "May Mắn",
+        "ASP": "Tốc Độ Tấn Công",
+        "CSP": "Tốc Độ Thi Triển",
+        "HRG": "Tự Động Hồi Phục",
+        "SPD": "Tốc Độ Di Chuyển"
+    },
     "magicCamera": {
         "record": "Quay Video",
         "stop": "Dừng Quay",
@@ -66,11 +87,11 @@
     "UnitINexus": {
         "bossRespawnCountdown": [
             "%1",
-            "—Sẽ hồi sinh sau %2 ngày!"
+            "◈ Sẽ hồi sinh sau %2 ngày nữa!"
         ],
         "bossChallengeAvailable": [
             "%1",
-            "—Đã xuất hiện!"
+            "◈ Đã xuất hiện!"
         ],
         "noBossDetected": [
             "Không phát hiện boss nào sở hữu \\ii[20]!"

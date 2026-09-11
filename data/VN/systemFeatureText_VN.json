@@ -85,8 +85,8 @@
 	"ShowWeaponDurability": [
 		"Hiển thị độ bền vũ khí"
 	],
-	"DisableAutoUpdate": [
-		"Tắt cập nhật tự động"
+	"fullUIMode": [
+		"Nút luôn được làm nổi bật"
 	],
 	"LockedFPS": [
 		"Khoá ở 60 FPS"
