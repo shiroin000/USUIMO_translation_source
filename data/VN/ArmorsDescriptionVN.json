@@ -482,12 +482,11 @@
         ],
         "subtitle": "",
         "description": [
-            "Tương truyền có một nhà thám hiểm, quá sợ hãi việc phải đánh tay không,",
-            "đã gắn một thanh kiếm vào chiếc nhẫn. Dù quá nhỏ để dùng thực sự,",
-            "nhưng nó lại làm khí thế của chủ nhân tăng lên đáng kể."
+            "Tương truyền có một nhà thám hiểm vì quá sợ hãi việc phải đánh tay không, nên đã gắn một thanh kiếm vào chiếc nhẫn này",
+            "Dù nó có quá nhỏ để có thể thực sự hữu dụng, nhưng nó lại làm khí thế của chủ nhân tăng lên đáng kể"
         ],
         "ability": [
-            "Sức tấn công vật lý +15%"
+            "Sát thương vật lý +15%, tăng giới hạn sát thương vật lý +150"
         ]
     },
     "35": {
@@ -825,13 +824,12 @@
             ""
         ],
         "description": [
-            "ASABA, chìm trong đau buồn vì quả dâu đã mất, giải phóng tuyệt kỹ ",
-            "tối thượng của mình. Một khi đã nhắm đến, kẻ địch sẽ bị dính một loạt",
-            "combo không thể tránh né... Nhưng nỗi buồn vẫn còn—bị đốt cháy bởi",
-            "cảm xúc của định mệnh, bạn cũng kế thừa cấm thuật này! "
+            "ASABA, chìm trong đau buồn vì quả dâu đã mất và giải phóng tuyệt kỹ tối thượng của mình",
+            "Một khi đã nhắm đến, kẻ địch sẽ bị dính một loạt combo không thể tránh né...",
+            "Nhưng nỗi buồn vẫn còn... bị đốt cháy bởi cảm xúc của định mệnh, bạn cũng có thể kế thừa cấm thuật này! "
         ],
         "ability": [
-            "Mở khóa và cho phép sử dụng kỹ năng \\c[27]Bạo Lưu Vô Song"
+            "Mở khóa và cho phép sử dụng kỹ năng \\is[12]"
         ]
     },
     "59": {
