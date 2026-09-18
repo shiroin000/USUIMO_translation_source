@@ -50,6 +50,9 @@
   "LockedFPS": [
     "Фиксированные 60 FPS"
   ],
+  "FPSDisplay": [
+    "Отображать FPS"
+  ],
   "ZakoMode": [
     "Режим «ZAKO»"
   ],
