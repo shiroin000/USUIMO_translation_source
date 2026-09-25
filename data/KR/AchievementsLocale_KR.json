@@ -34,12 +34,68 @@
         "게임이라 해도 놀이가 아니다"
       ]
     },
+    "MyImoutoIsJustThatCute": {
+      "Name": "내 여동생이 이렇게 귀여울 리가!",
+      "Description": "서로에 대한 호감도는 최고가 되었다!",
+      "Pop Up Desc": [
+        "내 여동생이 이렇게 귀여울 리가!"
+      ]
+    },
+    "ImoutoBodyPillow": {
+      "Name": "여동생을 위한 방석",
+      "Description": "게임 중에 여동생을 무릎 위에 앉힐 수 있게 되었다!",
+      "Pop Up Desc": "여동생만 있으면 되잖아?"
+    },
+    "GachaIsBadCivilization": {
+      "Name": "가챠는 나쁜 문명!",
+      "Description": "가챠의 늪에 빠져버렸다...",
+      "Pop Up Desc": "가챠는 나쁜 문명이다!"
+    },
+    "CanYouSendMe50K": {
+      "Name": "5만엔만 보내주실래요?",
+      "Description": "여동생에게 한 번에 5만엔 이상의 용돈을 주었다!",
+      "Pop Up Desc": "5만엔만 보내주실래요?"
+    },
+    "ShinkonSantaku": {
+      "Name": "신혼 삼지선다!",
+      "Description": "여동생에게 신혼 삼지선다를 시켜 봤다!",
+      "Pop Up Desc": "신혼 삼지선다!"
+    },
+    "ToBeContinued": {
+      "Name": "To Be Continued",
+      "Description": "기적의 순간을 포착!",
+      "Pop Up Desc": "To Be Continued"
+    },
+    "PeopleDieIfTheyAreKilled": {
+      "Name": "사람은 살해당하면 죽는...가?",
+      "Description": "아비스에서 체력이 0이 된다...",
+      "Pop Up Desc": [
+        "사람은 살해당하면 죽는...가?"
+      ]
+    },
+    "HoardingHabit": {
+      "Name": "수집가",
+      "Description": "별의 문에 대량의 아이템을 넣었다",
+      "Pop Up Desc": [
+        "모으지 않으면 죽는 병에 걸렸다"
+      ]
+    },
+    "TransportedToIsekai": {
+      "Name": "이세계 전생?",
+      "Description": "트럭에 무정하게 치였다...",
+      "Pop Up Desc": "이세계 전생 마법!?"
+    },
+    "YouAreAlreadyDead": {
+      "Name": "레퀴엠",
+      "Description": "사신에게 죽음을 선고받았다",
+      "Pop Up Desc": "너는 이미 죽어 있다"
+    },
     "AirKing": {
       "Name": "에어 킹",
       "Description": "이젠 몇 번이나 떨어졌는지 모르겠다…",
       "Pop Up Desc": [
-        "\\fs[22]\"하늘과 친구가 ",
-        "되고 싶지 않은가!\""
+        "\\fs[22]「하늘과 친구가 ",
+        "되고 싶지 않은가!」"
       ]
     },
     "WhereIsImouto": {
@@ -60,12 +116,38 @@
         "저 사조성이!!」"
       ]
     },
+    "ServantAndMaster": {
+      "Name": "서번트와 마스터",
+      "Description": "동시에 5체의 서번트를 사역한다",
+      "Pop Up Desc": [
+        "\\fs[24]「묻겠다.",
+        "그대가 우리들의 마스터인가?」"
+      ]
+    },
+    "BossFirstAppearance": {
+      "Name": "왕의 탄생을 축하하라!",
+      "Description": "처음으로 보스와 전투한다",
+      "Pop Up Desc": "왕의 탄생을 축하하라!"
+    },
     "UnlimitedBladeWaste": {
       "Name": "무한의 검총",
       "Description": "100자루 이상의 무기를 파괴했다",
       "Pop Up Desc": [
         "무기의 저장량은 충분한가?"
       ]
+    },
+    "IJustWitnessedAPricelessPieceOfFootage": {
+      "Name": "굉장한 '보물 영상'을 보고 말았다",
+      "Description": "애플 요정의 탄생을 목격했다.",
+      "Pop Up Desc": [
+        "\\fs[28]굉장한 '보물 영상'을",
+        "보고 말았다"
+      ]
+    },
+    "WhoNeedsAFishingRod": {
+      "Name": "폭☆8 낚시법",
+      "Description": "물속에 폭탄을 던져서 드롭 아이템을 총 10회 획득한다",
+      "Pop Up Desc": "폭☆8 낚시법"
     },
     "TheSwordSaintOfTheSticks": {
       "Name": "시골의 검성",
@@ -75,103 +157,55 @@
     "ItWasToMeasureMyCapacity": {
       "Name": "자신의 '그릇'을 확인하기 위해서다",
       "Description": "인술을 습득했습니다",
-      "Pop Up Desc": "\"「자신의 『그릇』을 확인하기 위해서다.」\""
+      "Pop Up Desc": "「자신의 『그릇』을 확인하기 위해서다.」"
     },
     "DonotYouEverStop": {
       "Name": "너네가 멈추지않는한 그 앞에는 내가있어!",
       "Description": "초고속으로 계속해서 달리기",
       "Pop Up Desc": "멈추지 말라고..."
+    },
+    "YouAreBeingSummoned": {
+      "Name": "부르고 있어요, ◉▽◉ 씨",
+      "Description": "고대 생물을 발견!",
+      "Pop Up Desc": "부르고 있어요, ◉▽◉ 씨"
+    },
+    "YouTooCanBecomeLight": {
+      "Name": "빛이 될 수 있어!",
+      "Description": "아키의 저주가 다시금 불타올랐다.",
+      "Pop Up Desc": "\\fs[36]빛이 될 수 있어!"
+    },
+    "ObtainWornPanties": {
+      "Name": "입지 않은 팬티는 아무런 가치도 없어!",
+      "Description": "여동생에게 팬티를 받았다~!",
+      "Pop Up Desc": "입지 않은 팬티는 아무런 가치도 없어!"
+    },
+    "ErogameWithImouto": {
+      "Name": "구제불능 시스콘",
+      "Description": "여동생의 방에서, 여동생의 컴퓨터를 사용해, 여동생에게 파렴치한 짓을 한다",
+      "Pop Up Desc": "여동생과 게임을 할까?"
+    },
+    "Milkeddry": {
+      "Name": "남김없이 빨렸다...",
+      "Description": "이제... 한 방울도 남지 않았어...",
+      "Pop Up Desc": [
+        "\\fs[24]「이제……",
+        "한 방울도 남지 않았어……」"
+      ]
+    },
+    "StairwayToAdulthoodI": {
+      "Name": "어른의 계단♥",
+      "Description": "여동생에게 야한 동인지를 보여준다",
+      "Pop Up Desc": "어른의 계단♥"
+    },
+    "StairwayToAdulthoodII": {
+      "Name": "어른의 계단♥♥",
+      "Description": "여동생에게 야한 장난감을 쓰게 한다",
+      "Pop Up Desc": "어른의 계단♥♥"
+    },
+    "StairwayToAdulthoodIII": {
+      "Name": "어른의 계단♥♥♥",
+      "Description": "여동생에게 성의 쾌락을 가르친다",
+      "Pop Up Desc": "어른의 계단♥♥♥"
     }
-  },
-  "YouAreBeingSummoned": {
-    "Name": "부르고 있어요, ◉▽◉ 씨",
-    "Description": "고대 생물을 발견!",
-    "Pop Up Desc": "부르고 있어요, ◉▽◉ 씨"
-  },
-  "YouTooCanBecomeLight": {
-    "Name": "빛이 될 수 있어!",
-    "Description": "아키의 저주가 다시금 불타올랐다.",
-    "Pop Up Desc": [
-      "\\fs[36]빛이 될 수 있어!"
-    ]
-  },
-  "Milkeddry": {
-    "Name": "남김없이 빨렸다...",
-    "Description": "이제... 한 방울도 남지 않았어...",
-    "Pop Up Desc": [
-      "\\fs[24]「이제……",
-      "한 방울도 남지 않았어……」"
-    ]
-  },
-  "MyImoutoIsJustThatCute": {
-    "Name": "내 여동생이 이렇게 귀여울 리가!",
-    "Description": "서로에 대한 호감도는 최고가 되었다!",
-    "Pop Up Desc": [
-      "내 여동생이 이렇게 귀여울 리가!"
-    ]
-  },
-  "ImoutoBodyPillow": {
-    "Name": "여동생을 위한 방석",
-    "Description": "게임 중에 여동생을 무릎 위에 앉힐 수 있게 되었다!",
-    "Pop Up Desc": "여동생만 있으면 되잖아?"
-  },
-  "CanYouSendMe50K": {
-    "Name": "5만엔만 보내주실래요?",
-    "Description": "여동생에게 한 번에 5만엔 이상의 용돈을 주었다!",
-    "Pop Up Desc": "5만엔만 보내주실래요?"
-  },
-  "PeopleDieIfTheyAreKilled": {
-    "Name": "사람은 살해당하면 죽는...가?",
-    "Description": "아비스에서 체력이 0이 된다...",
-    "Pop Up Desc": [
-      "사람은 살해당하면 죽는...가?"
-    ]
-  },
-  "HoardingHabit": {
-    "Name": "수집가",
-    "Description": "별의 문에 대량의 아이템을 넣었다",
-    "Pop Up Desc": [
-      "모으지 않으면 죽는 병에 걸렸다"
-    ]
-  },
-  "GachaIsBadCivilization": {
-    "Name": "가챠는 나쁜 문명!",
-    "Description": "가챠의 늪에 빠져버렸다...",
-    "Pop Up Desc": [
-      "가챠는 나쁜 문명이다!"
-    ]
-  },
-  "TransportedToIsekai": {
-    "Name": "이세계 전생?",
-    "Description": "트럭에 무정하게 치였다...",
-    "Pop Up Desc": "이세계 전생 마법!?"
-  },
-  "YouAreAlreadyDead": {
-    "Name": "레퀴엠",
-    "Description": "사신에게 죽음을 선고받았다",
-    "Pop Up Desc": "너는 이미 죽어 있다"
-  },
-  "ServantAndMaster": {
-    "Name": "서번트와 마스터",
-    "Description": "동시에 5체의 서번트를 사역한다",
-    "Pop Up Desc": [
-      "\\fs[24]「묻겠다.",
-      "그대가 우리들의 마스터인가?"
-    ]
-  },
-  "BossFirstAppearance": {
-    "Name": "왕의 탄생을 축하하라!",
-    "Description": "처음으로 보스와 전투한다",
-    "Pop Up Desc": "왕의 탄생을 축하하라!"
-  },
-  "ObtainWornPanties": {
-    "Name": "입지 않은 팬티는 아무런 가치도 없어!",
-    "Description": "여동생에게 팬티를 받았다~!",
-    "Pop Up Desc": "입지 않은 팬티는 아무런 가치도 없어!"
-  },
-  "ErogameWithImouto": {
-    "Name": "구제불능 시스콘",
-    "Description": "여동생의 방에서, 여동생의 컴퓨터를 사용해, 여동생에게 파렴치한 짓을 한다",
-    "Pop Up Desc": "여동생과 게임을 할까?"
   }
 }
