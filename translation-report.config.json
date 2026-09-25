@@ -5,7 +5,7 @@
     "KR": {
       "label": "Korean",
       "nativeLabel": "한국어",
-      "baseCommit": "cf6672cff5838df7f81558133d1762cda17ff3b2",
+      "baseCommit": "8a0c07e9c70da5ce8e50d91a6738a1f4b38a9a5c",
       "baseNote": "Last repository revision that updated Korean translation files"
     },
     "ES": {
@@ -41,7 +41,7 @@
     "RU": {
       "label": "Russian",
       "nativeLabel": "Русский",
-      "baseCommit": "85704bcc9156ec20d06e996d0193e0de1d921dbd",
+      "baseCommit": "8a0c07e9c70da5ce8e50d91a6738a1f4b38a9a5c",
       "baseNote": "Last repository revision that updated Russian translation files"
     },
     "TH": {
@@ -53,13 +53,13 @@
     "UA": {
       "label": "Ukrainian",
       "nativeLabel": "Українська",
-      "baseCommit": "8e0795ec6e5905a47fefca0bb9692d1a11560101",
+      "baseCommit": "8a0c07e9c70da5ce8e50d91a6738a1f4b38a9a5c",
       "baseNote": "Last repository revision that updated Ukrainian translation files"
     },
     "VN": {
       "label": "Vietnamese",
       "nativeLabel": "Tiếng Việt",
-      "baseCommit": "85704bcc9156ec20d06e996d0193e0de1d921dbd",
+      "baseCommit": "8a0c07e9c70da5ce8e50d91a6738a1f4b38a9a5c",
       "baseNote": "Last repository revision that updated Vietnamese translation files"
     }
   }
