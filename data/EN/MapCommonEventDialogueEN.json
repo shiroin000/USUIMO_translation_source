@@ -59,6 +59,7 @@
     "itemCollection": "ITEM",
     "weaponCollection": "WEAPON",
     "gearCollection": "GEAR",
+    "traceCollection": "TRACE",
     "lockedObject": "?????",
     "lockedNotice": [
       "Data Missing—",
@@ -69,7 +70,18 @@
     "firstAcquiredTime": [
       "First Acquired:",
       "Day %1, %2h %3m"
-    ]
+    ],
+    "allEvents": "All Events",
+    "mainEvents": "Main Events",
+    "sideEvents": "Side Events",
+    "eroEvents": "Ero Events",
+    "readMore": "Read More",
+    "achievementEvents": "Achievements",
+    "unlockTime": "Day %1 · %2",
+    "unlockCondition": "Requirements: ",
+    "howToObtain": "Obtained From: ",
+    "traceControls": "Drag to browse the timeline · Scroll / Pinch to zoom the timeline",
+    "readMoreControls": "Scroll / Swipe up or down to read"
   },
   "magicCamera": {
     "record": "Record Video",
@@ -125,10 +137,17 @@
       "Took out \\ii[\\v[90]]  ",
       "what should I do…?"
     ],
-    "1": [
+    "doubleConfirm": [
       "Use It",
-      "Never Mind",
       "Discard"
+    ],
+    "cannotQuickUse": "This item cannot be added to the quick item wheel",
+    "operationInstructions": [
+      "Drag items that support quick use into the quick item wheel",
+      "to switch between and use them on the map"
+    ],
+    "operationInstructionsForPC": [
+      "(Press F/G to switch, and R to use the item)"
     ]
   },
   "forceGoHome": [

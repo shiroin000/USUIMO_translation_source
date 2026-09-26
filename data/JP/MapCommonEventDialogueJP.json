@@ -59,6 +59,7 @@
     "itemCollection": "アイテム",
     "weaponCollection": "武器",
     "gearCollection": "装備",
+    "traceCollection": "軌跡",
     "lockedObject": "？？？？？",
     "lockedNotice": [
       "データ欠損——",
@@ -69,7 +70,18 @@
     "firstAcquiredTime": [
       "初回入手日時：",
       "%1日目 %2時 %3分"
-    ]
+    ],
+    "allEvents": "全イベント",
+    "mainEvents": "重要イベント",
+    "sideEvents": "サブイベント",
+    "achievementEvents": "実績イベント",
+    "eroEvents": "エッチイベント",
+    "readMore": "詳細を見る",
+    "unlockTime": "%1日目 · %2",
+    "unlockCondition": "達成条件：",
+    "howToObtain": "入手方法：",
+    "traceControls": "ドラッグでタイムラインを移動 · ホイール / ピンチ操作でタイムラインを拡大・縮小",
+    "readMoreControls": "ホイール / 上下スワイプで閲覧"
   },
   "magicCamera": {
     "record": "動画撮影",
@@ -125,10 +137,18 @@
       "\\ii[\\v[90]]を取り出した。 ",
       "どうする……？"
     ],
-    "1": [
+    "doubleConfirm": [
       "使う",
-      "やめる",
       "捨てる"
+    ],
+    "cannotQuickUse": "このアイテムはクイック使用不可",
+    "operationInstructions": [
+      "クイック使用に対応したアイテムを",
+      "クイックアイテムホイールにドラッグすると、",
+      "マップ上で切り替えて使用できます"
+    ],
+    "operationInstructionsForPC": [
+      "（F/Gキーで切り替え、Rキーでアイテムを使用）"
     ]
   },
   "forceGoHome": [

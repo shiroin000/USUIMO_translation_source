@@ -59,6 +59,7 @@
     "itemCollection": "道具",
     "weaponCollection": "武器",
     "gearCollection": "装备",
+    "traceCollection": "轨迹",
     "lockedObject": "？？？？？",
     "lockedNotice": [
       "数据缺失——",
@@ -69,7 +70,19 @@
     "firstAcquiredTime": [
       "第一次获得的时间:",
       "第%1天 %2时 %3分"
-    ]
+    ],
+    "allEvents": "全部事件",
+    "mainEvents": "重要事件",
+    "sideEvents": "支线事件",
+    "achievementEvents": "达成成就",
+    "eroEvents": "色色事件",
+    "readMore": "查看详情",
+    "unlockCondition": "达成条件：",
+    "howToObtain": "获取途径：",
+    "unlockTime": "第%1天 · %2",
+    "traceControls": "拖拽浏览时间线 · 滚轮 / 双指捏合缩放时间线视图",
+    "readMoreControls": "滚轮 / 上下滑动进行阅读"
+
   },  
   "magicCamera": {
     "record": "录制视频",
@@ -125,10 +138,17 @@
       "拿出了\\ii[\\v[90]]、 ",
       "要做什么……？"
     ],
-    "1": [
+    "doubleConfirm": [
       "使用",
-      "算了",
       "丢弃"
+    ],
+    "cannotQuickUse": "这个道具不支持放入快捷道具栏",
+    "operationInstructions": [
+      "将支持快捷使用的道具拖入快捷道具轮盘",
+      "即可在地图中切换使用"
+    ],
+    "operationInstructionsForPC": [
+      "(点击F、G键进行切换，R键使用道具)"
     ]
   },
   "gameAnnouncement": {

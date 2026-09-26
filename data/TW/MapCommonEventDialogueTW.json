@@ -59,6 +59,7 @@
     "itemCollection": "道具",
     "weaponCollection": "武器",
     "gearCollection": "裝備",
+    "traceCollection": "軌跡",
     "lockedObject": "？？？？？",
     "lockedNotice": [
       "數據缺失——",
@@ -69,7 +70,16 @@
     "firstAcquiredTime": [
       "第一次獲得的時間:",
       "第%1天 %2時 %3分"
-    ]
+    ],
+    "allEvents": "全部事件",
+    "mainEvents": "重要事件",
+    "sideEvents": "支線事件",
+    "achievementEvents": "達成成就",
+    "eroEvents": "色色事件",
+    "readMore": "查看詳情",
+    "unlockTime": "第%1天 · %2",
+    "traceControls": "拖拽瀏覽時間線 · 滾輪 / 雙指捏合縮放時間線視圖",
+    "readMoreControls": "滾輪 / 上下滑動進行閱讀"
   },
   "magicCamera": {
     "record": "錄製視頻",
@@ -91,7 +101,8 @@
       "事件回想",
       "還是算了"
     ],
-    "placeholder": "目前可回想的事件",
+    "lockedVariation": "還沒有解鎖這個差分！",
+    "placeholder": "目前已解鎖的畫廊內容（更新中）",
     "takeBathWithImouto": "和\\str[120]一起洗澡",
     "Polaroid": "茶會拍立得系列"
   },

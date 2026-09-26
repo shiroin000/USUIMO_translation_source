@@ -362,6 +362,10 @@
     "subtitle": [
       "\"Sea, You & Me\""
     ],
+    "unlockCondition": [
+      "Already obtained \\ii[22]",
+      "Choose to go home early during hot weather"
+    ],
     "beIndependent": true,
     "description": [
       "A summer collaboration merchandise set from the game Shadow Souls",
@@ -3178,6 +3182,12 @@
     "recallEventName": [
       "\\str[120]'s Special Wash Service II"
     ],
+    "unlockCondition": [
+      "Requires at least \\px[10]\\dimg[15]\\dimg[15]",
+      "Successfully invite \\str[120] to take a bath together",
+      "Ask \\str[120] to wash the back, and then the dick",
+      "Requires successfully triggering the arm washing branch first"
+    ],
     "subtitle": [
       "To deepen their bond, \\str[121] asked \\str[120] to wash his back,",
       "but pushing his luck, \\str[121] soon asked to wash the penis on the front as well.",
@@ -3193,6 +3203,11 @@
     "recallEventName": [
       "\\str[120]'s Special Wash Service I"
     ],
+    "unlockCondition": [
+      "Requires at least \\px[10]\\dimg[15]\\dimg[15]",
+      "Successfully invite \\str[120] to take a bath together",
+      "Ask \\str[120] to wash the back, and then an arm"
+    ],
     "subtitle": [
       "To deepen their bond, \\str[121] asked \\str[120] to wash his back,",
       "but pushing his luck, \\str[121] soon asked to wash the arms in front as well.",
@@ -3207,6 +3222,11 @@
     ],
     "recallEventName": [
       "Correcting \\str[120] Who Secretly Turned Lewd"
+    ],
+    "unlockCondition": [
+      "Already obtained \\ii[193]",
+      "Choose to go home early on a day that is not hot",
+      "Depending on \\str[120]'s libido level, there is a chance to catch her secretly dildoing herself in the living room"
     ],
     "subtitle": [
       "Returning home early, \\str[121] accidentally caught \\str[120] secretly watching ",
@@ -3257,6 +3277,10 @@
     "recallEventName": [
       "Become Hentai for \\str[120]!"
     ],
+    "unlockCondition": [
+      "When \\str[120] is undressing in the wash area to take a bath, choose to barge in",
+      "When confronted by \\str[120], choose \"Wanna Lewd\""
+    ],
     "subtitle": [
       "'My dear \\str[120], you wouldn't want \\str[121] to keep suffering like this, right?'",
       "Even though he was caught red-handed peeping at \\str[120], ",
@@ -3271,6 +3295,10 @@
     ],
     "recallEventName": [
       "\\str[120]'s panty service"
+    ],
+    "unlockCondition": [
+      "Already obtained \\ia[130]",
+      "Get caught by \\str[120] while jerking off with her panties in the Wash Area"
     ],
     "subtitle": [
       "'Doing something like this with my panties while thinking about me...",
@@ -3312,6 +3340,10 @@
     "recallEventName": [
       "Dry \\str[120]'s Hair"
     ],
+    "unlockCondition": [
+      "Requires at least \\px[10]\\dimg[15]\\dimg[15]",
+      "Successfully invite \\str[120] to take a bath together"
+    ],
     "subtitle": [
       "\"Your hair's gotten so long.",
       "I remember it wasn't this long when you were little...\""
@@ -3324,6 +3356,9 @@
     ],
     "recallEventName": [
       "I'll stay by your side tonight..."
+    ],
+    "unlockCondition": [
+      "Have sex with \\str[120] in the living room at night"
     ],
     "subtitle": [
       "\"\\str[121]... don't leave me...",
@@ -3338,6 +3373,10 @@
     "recallEventName": [
       "G-Good Morning..."
     ],
+    "unlockCondition": [
+      "Have sex with \\str[120] late at night until her stamina is fully exhausted,",
+      "or sleep together after having sex in the master bedroom"
+    ],
     "subtitle": [
       "\"Eh... \\str[121]...?",
       "Why... are you in bed too...?\""
@@ -3350,6 +3389,11 @@
     ],
     "recallEventName": [
       "Bathe With \\str[120]"
+    ],
+    "unlockCondition": [
+      "Requires at least \\px[10]\\dimg[15]\\dimg[15]",
+      "Successfully invite \\str[120] to take a bath together",
+      "While soaking in the bathtub, successfully persuade \\str[120] to sit together"
     ],
     "subtitle": [
       "\"That look in your eyes...",
@@ -3366,6 +3410,10 @@
     "recallEventName": [
       "A tragedy caused by food poisoning..."
     ],
+    "unlockCondition": [
+      "Cook a dish using poisonous ingredients",
+      "or get food poisoning by chance after making a failed dish"
+    ],
     "subtitle": [
       "\"Uwaaaahhh——!",
       "I can't hold it anymore...!\""
@@ -3378,6 +3426,10 @@
     ],
     "recallEventName": [
       "Brush Teeth with \\str[120]"
+    ],
+    "unlockCondition": [
+      "Triggered after successfully waking up \\str[120] in the morning",
+      "Different events may occur depending on the number of times triggered and \\str[120]'s condition upon waking"
     ],
     "subtitle": [
       "\"yeh go sidewayth... yeh'th get cweanah...\"",
@@ -3393,6 +3445,10 @@
     "recallEventName": [
       "If you don't wake up, \\str[121]'s gonna get serious~!"
     ],
+    "unlockCondition": [
+      "Successfully wake up \\str[120] in the morning once",
+      "Requires completing at least one treatment"
+    ],
     "subtitle": [
       "\"Roll, roll, roll, roll, roll, roll~!\"",
       " ",
@@ -3406,6 +3462,10 @@
     ],
     "recallEventName": [
       "Uwaaahhh—mmmmmffff———!!"
+    ],
+    "unlockCondition": [
+      "Choose to go home early during hot weather",
+      "Choose to secretly shake the chilled \\ii[35] before giving it to \\str[120]"
     ],
     "subtitle": [
       "This seems to be a special cola with extra carbonation,",
