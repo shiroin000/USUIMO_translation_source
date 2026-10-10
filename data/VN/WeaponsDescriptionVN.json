@@ -487,10 +487,10 @@
             "Sau khi bị đánh cho khuất phục, nó đã trở nên ngoan ngoãn hơn rất nhiều, nhưng nếu không cho nó ăn, nó sẽ hờn dỗi và từ chối làm việc..."
         ],
         "ability": [
-            "❖ Mỗi lần tấn công sẽ tiêu hao 1\\ii[20] để đánh thức Mistilteinn",
-            "❖ Trạng thái thức tỉnh kéo dài 10 phút",
-            "❖ Khi ở trạng thái thức tỉnh, sát thương được gia tăng và đòn đánh sẽ xuyên phòng thủ",
-            "❖ Các đòn tấn công trong trạng thái thức tỉnh có xác suất phóng ra kiếm khí"
+            "❖ Tiêu hao một \\ii[20] để đánh thức Mistilteinn, kích hoạt trong 10 phút",
+            "❖ Khi đang kích hoạt, Mistilteinn nhận trạng thái Toàn Lực",
+            "❖ Khi đang kích hoạt, các đòn tấn công của Mistilteinn có tỷ lệ giải phóng kiếm khí",
+            "❖ Khi trạng thái kích hoạt kết thúc, Mistilteinn sẽ tự động tung một nhát chém xoay trước khi chìm vào giấc ngủ lần nữa"
         ]
     },
     "38": {

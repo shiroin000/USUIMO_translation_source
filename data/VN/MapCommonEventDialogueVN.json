@@ -16,6 +16,18 @@
             "Lưu"
         ]
     },
+    "changelogScene": {
+        "Announcements": "Thông Báo",
+        "Changelog": "Nhật Ký Thay Đổi",
+        "ReleaseDate": "Ngày Phát Hành",
+        "LastModified": "Cập Nhật Lần Cuối",
+        "UpgradableFrom": "Có Thể Cập Nhật Từ",
+        "NotRecorded": "Chưa Ghi Nhận",
+        "MajorUpdate": "Bản Cập Nhật Lớn",
+        "PatchUpdate": "Bản Vá",
+        "ReadControls": "Kéo / Lăn Con Lăn Chuột Để Đọc · Di Chuột Qua Hoặc Giữ Các Mũi Tên Để Cuộn",
+        "NotProvided": "Không Có Thông Tin"
+    },
     "autoUpdateReminder": {
         "0": [
             "Quá trình cập nhật sẽ tự động bắt đầu khi bạn thức dậy vào ngày hôm sau.",

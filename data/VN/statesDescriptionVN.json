@@ -15,7 +15,7 @@
 				"description": [
 					"Mức độ hưng phấn:\\c[2]\\v[25]%\\c[0]"
 				]
-			},		
+			},
 			"1": {
 				"subtitle": [
 					"\"Cơ thể khao khát cảm giác mạnh...\""
@@ -132,14 +132,14 @@
 		"description": [
 			"Bị chứng nhận là ZAKO vì gian lận!"
 		]
-	},    
+	},
 	"28": {
 		"name": [],
 		"subtitle": [
 			"\\str[120] đang chơi game"
 		],
 		"description": [
-			""	
+			""
 		],
 		"variants": {
 			"0": {
@@ -147,22 +147,22 @@
 					"Em gái đang tập trung chơi game, ",
 					"Tốt nhất đừng làm phiền em ấy quá nhiều..."
 				]
-			},		
+			},
 			"1": {
 				"description": [
 					"Em ấy vẫn đang chơi...",
 					"Có nên trêu em một chút không nhỉ?"
 				]
 			}
-		}	
-	},   
+		}
+	},
 	"29": {
 		"name": [],
 		"subtitle": [
 			"\\str[120] đang tắm"
 		],
 		"description": [
-			""	
+			""
 		],
 		"variants": {
 			"0": {
@@ -170,14 +170,14 @@
 					"\\str[120] đang tắm, tôi có thể",
 					"lờ mờ thấy bóng dáng em ấy"
 				]
-			},		
+			},
 			"1": {
 				"description": [
 					"\\str[120] đang lau tóc ",
 					"bằng khăn tắm"
 				]
 			}
-		}	
+		}
 	},
 	"30": {
 		"name": [],
@@ -193,7 +193,7 @@
 					"\\str[120] trông rất vui,",
 					"Có gì thú vị xảy ra không?"
 				]
-			},		
+			},
 			"1": {
 				"description": [
 					"\\str[120] càng ngày càng dễ thương",
@@ -225,7 +225,7 @@
 				]
 			}
 		}
-	},    
+	},
 	"31": {
 		"name": [],
 		"subtitle": [
@@ -240,7 +240,7 @@
 					"Ngủ như chết...",
 					"không thể đánh thức..."
 				]
-			},		
+			},
 			"1": {
 				"description": [
 					"Ngủ rất sâu...",
@@ -274,19 +274,18 @@
 			"6": {
 				"description": [
 					"Không chút phòng bị, đắm chìm ",
-        			"trong khoái cảm của đêm qua"
+					"trong khoái cảm của đêm qua"
 				]
-
 			}
 		}
-	},   
+	},
 	"32": {
 		"name": [],
 		"subtitle": [
 			"\\str[120] đói bụng"
 		],
 		"description": [
-			""	
+			""
 		],
 		"variants": {
 			"0": {
@@ -294,7 +293,7 @@
 					"\\str[120] đang lặng lẽ chờ ",
 					"đến giờ ăn tối"
 				]
-			},		
+			},
 			"1": {
 				"description": [
 					"\\str[120] có vẻ hơi lo lắng",
@@ -307,15 +306,15 @@
 					"muốn giúp một tay"
 				]
 			}
-		}	
-	},   
+		}
+	},
 	"33": {
 		"name": [],
 		"subtitle": [
 			"\\str[120] đang thư giản"
 		],
 		"description": [
-			""	
+			""
 		],
 		"variants": {
 			"0": {
@@ -324,15 +323,15 @@
 					"trông cực kỳ ngây thơ..."
 				]
 			}
-		}	
-	},   
+		}
+	},
 	"34": {
 		"name": [],
 		"subtitle": [
 			"\\str[120] đang đánh răng"
 		],
 		"description": [
-			""	
+			""
 		],
 		"variants": {
 			"0": {
@@ -341,7 +340,7 @@
 					"vẫn còn ngái ngủ..."
 				]
 			}
-		}	
+		}
 	},
 	"35": {
 		"name": [],
@@ -362,7 +361,7 @@
 		"name": [],
 		"subtitle": [
 			"\\str[120] đang khóc"
-		],	
+		],
 		"description": [
 			""
 		],
@@ -372,7 +371,7 @@
 					"\\c[10]Em ấy ăn quá nhiều đồ cay..."
 				]
 			}
-		}	
+		}
 	},
 	"41": {
 		"name": [],
@@ -383,51 +382,51 @@
 		]
 	},
 	"42": {
-    	"name": [],
-    	"subtitle": [
-	  		"\\str[120] đang xem TV"
+		"name": [],
+		"subtitle": [
+			"\\str[120] đang xem TV"
 		],
-   		"description": [
-      		""
-    	],
+		"description": [
+			""
+		],
 		"variants": {
 			"0": {
-           		"description": [
-             		"\\str[120] cuộn tròn như con mèo, ",
+				"description": [
+					"\\str[120] cuộn tròn như con mèo, ",
 					"lén liếc nhìn tôi."
-           		]
+				]
 			},
 			"1": {
-           		"description": [
-            		"Em ấy áp sát vào tôi, ",
-			 		"như đang ôm một chiếc gối."
-          		]
+				"description": [
+					"Em ấy áp sát vào tôi, ",
+					"như đang ôm một chiếc gối."
+				]
 			}
-		}	
+		}
 	},
 	"43": {
-    	"name": [],
-    	"subtitle": [
-	  		"\\str[120] sợ hãi"
+		"name": [],
+		"subtitle": [
+			"\\str[120] sợ hãi"
 		],
-   		"description": [
-    		""	
-    	],
+		"description": [
+			""
+		],
 		"variants": {
 			"0": {
-           		"description": [
-            		"\\str[120] bám chặt lấy tôi,",
+				"description": [
+					"\\str[120] bám chặt lấy tôi,",
 					"cơ thể em ấy run rẩy nhẹ…"
-        		]
+				]
 			},
 			"1": {
-           		"description": [
-            		"Cơ thể chúng tôi hoàn toàn quấn lấy nhau, ",
+				"description": [
+					"Cơ thể chúng tôi hoàn toàn quấn lấy nhau, ",
 					"Trao đổi hơi ấm cho nhau…"
-           		]
-			}	
-		}	
-  	},
+				]
+			}
+		}
+	},
 	"44": {
 		"name": [],
 		"subtitle": [],
@@ -435,7 +434,7 @@
 			"✦Không hẳn là 'Hân Hoan' nữa... ",
 			"mà em ấy đang cực kỳ 'vui sướng'!"
 		]
-  	},
+	},
 	"45": {
 		"name": [],
 		"subtitle": [
@@ -462,7 +461,7 @@
 		"description": [
 			"Bạn đang bị một nhóm sinh vật nhỏ theo dõi..."
 		]
-  	},
+	},
 	"55": {
 		"name": [],
 		"subtitle": [
@@ -610,7 +609,7 @@
 		"description": [
 			"Độ nhạy cảm tăng! Sát thương nhận vào gấp đôi!"
 		]
-  	},
+	},
 	"77": {
 		"name": [],
 		"subtitle": [
@@ -692,6 +691,16 @@
 		"description": [
 			"Dính hiệu ứng Ngập Nước với ${$gameParty.leader().getStateCounter(93)} cộng dồn! ",
 			"Tốc độ di chuyển giảm theo mỗi cộng dồn! Khi vượt quá 10 cộng dồn sẽ lập tức chết đuối!"
+		]
+	},
+	"96": {
+		"name": [],
+		"subtitle": [
+			"Mistilteinn Toàn Lực——!"
+		],
+		"description": [
+			"Tăng sức tấn công, nhận 20 Xuyên Phá, ",
+			"\\is[4] nhận hiệu ứng truy đuổi mục tiêu."
 		]
 	},
 	"98": {
@@ -792,7 +801,7 @@
 		"description": [
 			"Tự động hồi phục HP vĩnh viễn."
 		]
-  	},
+	},
 	"123": {
 		"name": [],
 		"subtitle": [
