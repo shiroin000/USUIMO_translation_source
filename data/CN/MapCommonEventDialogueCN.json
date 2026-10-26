@@ -38,7 +38,8 @@
     "MajorUpdate": "主要版本更新",
     "PatchUpdate": "补丁版本更新",
     "ReadControls": "拖拽 / 滚轮阅读 · 悬停或按住箭头滚动",
-    "NotProvided": "未提供"
+    "NotProvided": "未提供",
+    "ClickToUpdate": "点击进行更新"
   },
   "rpgMapButtonDescription": {
     "starDoor": "回家",

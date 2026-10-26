@@ -26,7 +26,8 @@
     "MajorUpdate": "Major Update",
     "PatchUpdate": "Patch Update",
     "ReadControls": "Drag / Scroll Wheel to Read · Hover Over or Hold Arrows to Scroll",
-    "NotProvided": "Not provided"
+    "NotProvided": "Not provided",
+    "ClickToUpdate": "Click to update"
   },
   "autoUpdateReminder": {
     "0": [

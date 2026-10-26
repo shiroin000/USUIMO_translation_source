@@ -181,6 +181,14 @@
     "If you are unable to complete purchase verification, please download and install the latest version manually from the platform where you purchased the game.",
     "After updating, you can transfer your save files manually or use the game's cloud save feature to carry over your progress."
   ],
+  "outdatedVersionWarningForJapanPlatform": [
+    "A major game update is available. The latest version is ${}.",
+    "Automatic updates for major versions are only available to logged-in users who have completed purchase verification.",
+    "Your current copy of the game is from DLsite or FANZA.",
+    "These platforms do not currently support purchase verification, so automatic updates for major versions are unavailable.",
+    "Please download and install the latest version from the platform where you originally purchased the game.",
+    "After updating, you can transfer your save files manually or use the game's cloud save feature to carry over your progress."
+  ],
   "renameCharacter": [
     "I remember now—",
     "she is..."

@@ -946,6 +946,74 @@
       "\\str[110]"
     ]
   },
+  "81": {
+    "name": [
+      "Red Bride Tincture"
+    ],
+    "subtitle": "",
+    "description": [
+      "An enchanting potion brewed through alchemy",
+      "Since the Abyss was opened for free exploration, ",
+      "monster materials that were once incredibly rare ",
+      "have begun appearing in markets by the basketful..."
+    ],
+    "ability": [
+      "Enchants the currently equipped melee weapon for 10 minutes upon use",
+      "While active, attacks have a chance to inflict Burning and deal additional magic damage",
+      "Slightly increases weapon durability consumption while active"
+    ]
+  },
+  "82": {
+    "name": [
+      "Winter's Kiss Tincture"
+    ],
+    "subtitle": "",
+    "description": [
+      "An enchanting potion brewed through alchemy",
+      "Since the Abyss was opened for free exploration, ",
+      "monster materials that were once incredibly rare ",
+      "have begun appearing in markets by the basketful..."
+    ],
+    "ability": [
+      "Enchants the currently equipped melee weapon for 10 minutes upon use",
+      "While active, attacks have a chance to inflict Freeze and deal additional magic damage",
+      "Slightly increases weapon durability consumption while active"
+    ]
+  },
+  "83": {
+    "name": [
+      "Golden Serpent Tincture"
+    ],
+    "subtitle": "",
+    "description": [
+      "An enchanting potion brewed through alchemy",
+      "Since the Abyss was opened for free exploration, ",
+      "monster materials that were once incredibly rare ",
+      "have begun appearing in markets by the basketful..."
+    ],
+    "ability": [
+      "Enchants the currently equipped melee weapon for 10 minutes upon use",
+      "While active, attacks have a chance to inflict Lightning and deal additional magic damage",
+      "Slightly increases weapon durability consumption while active"
+    ]
+  },
+  "84": {
+    "name": [
+      "Black Widow Tincture"
+    ],
+    "subtitle": "",
+    "description": [
+      "An enchanting potion brewed through alchemy",
+      "Since the Abyss was opened for free exploration, ",
+      "monster materials that were once incredibly rare ",
+      "have begun appearing in markets by the basketful..."
+    ],
+    "ability": [
+      "Enchants the currently equipped melee weapon for 10 minutes upon use",
+      "While active, attacks have a chance to inflict Poison and deal additional magic damage",
+      "Slightly increases weapon durability consumption while active"
+    ]
+  },  
   "88": {
     "name": [
       "Bird Leg Meat"

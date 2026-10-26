@@ -1,207 +1,449 @@
 {
+  "6": {
+    "0": [
+      "...May no lost lamb have to walk alone,",
+      "And may those with nowhere to rest find sweet dreams tonight..."
+    ],
+    "1": [
+      "May the cries that no one hears...",
+      "One day be met with a gentle response..."
+    ],
+    "2": [
+      "...Ah!",
+      "W-When did you get here...?"
+    ],
+    "2.1": [
+      "I'm sorry...",
+      "I didn't hear your footsteps at all."
+    ],
+    "3": [
+      "We rarely have visitors here...",
+      "I'm not even sure how to welcome you."
+    ],
+    "3.1": [
+      "Um...",
+      "Have you come here to pray?"
+    ],
+    "4": [
+      "...Huh? You look a little pale...",
+      "Are you feeling unwell?"
+    ],
+    "5": [
+      "I-Is this... karma?",
+      "Such an enormous amount..."
+    ],
+    "5.1": [
+      "Even the air around you...",
+      "Feels strangely unsettled."
+    ],
+    "6": [
+      "If this continues... something terrible might happen.",
+      "I-I can't just let you leave like this..."
+    ],
+    "7": [
+      "Ah... please don't worry.",
+      "We can perform a confession ritual here."
+    ],
+    "7.1": [
+      "Through the ritual,",
+      "We can ease some of the karma clinging to you..."
+    ],
+    "8": [
+      "Ah... I almost forgot to introduce myself.",
+      "I'm actually the sister who looks after this place..."
+    ],
+    "8.1": [
+      "So... I think I should be able",
+      "To help you with something like this."
+    ],
+    "8.2": [
+      "If you're willing...",
+      "Would you let me give it a try?"
+    ],
+    "9": [
+      "Hurt",
+      "Confess"
+    ],
+    "10": [
+      "...Mm. Thank you...",
+      "for putting your trust in me."
+    ],
+    "11": [
+      "Leave the ritual to me. But...",
+      "Please don't suddenly pull away, all right?"
+    ],
+    "12": [
+      "B-Because... I'll need to get a little closer.",
+      "I might touch you... if you don't mind..."
+    ],
+    "13": [
+      "...Mm, that's good.",
+      "Please come a little closer..."
+    ],
+    "14": [
+      "E-Excuse me...!",
+      "Th-This is a necessary part of the ritual..."
+    ],
+    "14.1": [
+      "I have to hold you close like this...",
+      "To help ease the karma weighing on you..."
+    ],
+    "15": [
+      "...You don't have to do anything.",
+      "Just leave everything to me."
+    ],
+    "15.1": [
+      "Just relax, little by little...",
+      "And rest comfortably in my arms."
+    ],
+    "16": [
+      "...Mm, good. Just stay relaxed.",
+      "The ritual has begun... Just listen to my voice now."
+    ],
+    "16.1": [
+      "Do you know...",
+      "What exactly 'karma' is?"
+    ],
+    "16.2": [
+      "You see... everything we do",
+      "Leaves a mark deep within our souls."
+    ],
+    "17": [
+      "Especially the things we do that hurt others...",
+      "Or the things we know are wrong, yet do anyway."
+    ],
+    "17.1": [
+      "Even if no one sees them...",
+      "Those sins don't simply disappear."
+    ],
+    "17.2": [
+      "They accumulate little by little...",
+      "Until they become karma that clings to the soul."
+    ],
+    "17.3": [
+      "And the more karma you accumulate...",
+      "The more likely you are to invite misfortune, or even calamity."
+    ],
+    "18": [
+      "But... please don't be afraid.",
+      "I'm not trying to blame you..."
+    ],
+    "18.1": [
+      "Some things...",
+      "Just because you've forgotten them doesn't mean they never happened."
+    ],
+    "18.2": [
+      "The choices you've made in the past...",
+      "May stay with you in ways you could never imagine."
+    ],
+    "18.3": [
+      "...Ah, I'm sorry.",
+      "I suppose I'm saying some rather strange things..."
+    ],
+    "19": [
+      "What I'm trying to say is...",
+      "Please don't take the choices you make lightly."
+    ],
+    "19.1": [
+      "Sometimes, even a seemingly insignificant choice...",
+      "Can lead so many things toward a completely different ending."
+    ],
+    "19.2": [
+      "But... no matter what's happened in the past,",
+      "The path ahead is still yours to choose."
+    ],
+    "19.3": [
+      "So... please cherish",
+      "Every chance you have to make a choice, all right?"
+    ],
+    "20": [
+      "...How do you feel?",
+      "Does your body feel... a little lighter now?"
+    ],
+    "21": [
+      "Mm... quite a bit of the karma clinging to you",
+      "Has faded away."
+    ],
+    "21.1": [
+      "Everything seems to be all right now.",
+      "You can slowly get up."
+    ],
+    "22": [
+      "...Oh my.",
+      "W-Why are you... holding me even tighter?"
+    ],
+    "23": [
+      "Hehe, all right. I won't rush you.",
+      "If you still want to hold me... we can stay like this a little longer~"
+    ],
+    "23.1": [
+      "If you ever need more comfort...",
+      "You can always come and see me."
+    ],
+    "24": [
+      "But... all I can really do",
+      "Is help ease some of your karma."
+    ],
+    "24.1": [
+      "As for making it disappear completely...",
+      "That's something you'll have to figure out for yourself."
+    ],
+    "25": [
+      "I'll always be here...",
+      "Praying for you."
+    ],
+    "26": [
+      "Ask to Undress",
+      "Never Mind"
+    ],
+    "26.1": [
+      "...Eh? You w-want to feel...",
+      "The warmth of my embrace... more directly?"
+    ],
+    "27": [
+      "B-But... I am a nun, after all...",
+      "Something like that would be terribly improper..."
+    ],
+    "28": [
+      "...Ah, you're hugging me even tighter...",
+      "Just like a little child who's had a rough day..."
+    ],
+    "29": [
+      "Oh my, what am I going to do with you?",
+      "You can bear such tremendous karma, yet here you are, acting so needy..."
+    ],
+    "30": [
+      "...All right, I understand.",
+      "Th-This is to soothe your soul too... isn't it?"
+    ],
+    "31": [
+      "...Ah, I-I'm still so embarrassed...",
+      "Doing something like this before the eyes of God..."
+    ],
+    "32": [
+      "W-We're really pressed close together...",
+      "You might even be able to feel my heartbeat..."
+    ],
+    "33": [
+      "But... seeing how happy this makes you,",
+      "I'm starting to feel less nervous too."
+    ],
+    "34": [
+      "...There, there. Good boy.",
+      "You don't have to think about anything now. You can let me spoil you all you want."
+    ],
+    "35": [
+      "No matter how heavy your burdens are, or how much pain you've kept inside...",
+      "While you're in my arms, you can forget about all of it~"
+    ],
+    "36": [
+      "But... just this once.",
+      "I won't let you do this again, all right?"
+    ]
+  },
   "13": {
-        "0": [
-            "...Oh my? Has another ",
-			"cute little lamb wandered in?"
-		],
-		"1": [
-            "Hehehe~ Are you here to seek power from me?",
-			"This is a deal with a demon, you know~"
-        ],
-        "2": [
-            "But unfortunately, it's 'not the time' yet~",
-            "It's not time for you to face your fate just yet~"
-        ],
-        "3": [
-            "Right now, you're still just a lost little lamb~",
-			"One who knows nothing and hasn’t realized anything yet~"
-        ],
-        "4": [
-            "Heyyy~~ Are you sitting there ",
-			"hoping to hear my prayers?"
-        ],
-        "5": [
-            "Too bad♥ I'm a great demon~",
-			"I don't do things like that for you~"
-        ],
-        "6": [
-            "Hee—ey~~ you ♥",
-			"You’re giving off an awfully dangerous aura~"
-        ],	
-        "7": [
-            "Impulse, destruction, rampage— Hehe♥",
-			"I can tell you’ve been holding it in for a long time, haven’t you?"
-        ],	
-        "8": [
-            "Well~? You’re about to lose control, aren’t you ♥",
-			"That restless desire… is it about to spill out of your chest?"
-        ],	
-        "9": [
-            "Even if this place is ruled by a demon—",
-			"it’s still a church, you know ♥"
-        ],	
-        "10": [
-            "Come now~ before the sister...",
-			"Speak out all your true desires ♥"
-        ],	
-        "11": [
-            "Hurt",
-			"Confess"
-        ],	
-        "12": [
-            "...Oh my?",
-			"And what exactly does that mean~?"
-        ],	
-        "13": [
-            "Is that your choice?",
-			"Even though you were just gasping under my teasing~"
-        ],	
-        "14": [
-            "That foolish arrogance of yours…",
-			"let me crush it deep into the floor ♥"
-        ],	
-        "15": [
-            "Hehe ♥",
-			"You can’t hold it back anymore, can you?"
-        ],	
-        "16": [
-            "Come now ♥ show me that unrestrained desire—",
-			"I’m very curious to see what you’ll turn into next~"
-        ],	
-        "17": [
-            "Good ♥ yes, that posture…",
-			"what a well-behaved little thing you are~ ♥"
-        ],	
-        "18": [
-            "Fully exposed, self-aware of your own inferiority, utterly obedient—",
-			"a lost little lamb should always stay just like this ♥"
-        ],	
-        "19": [
-            "Don’t move ♥ don’t even try to resist my power~",
-			"Not that you’re capable of it anymore~"
-        ],	
-        "20": [
-            "Aww ♥ what’s wrong with you now?",
-			"Your breathing is already a mess and we’ve barely begun?"
-        ],	
-        "21": [
-			"Ah ♥ all that sin in you…",
-			"it just keeps pouring out~!"
-        ],	
-        "22": [
-            "In a situation like this,",
-			"you can still get excited ♥"
-        ],	
-        "23": [
-            "You’re supposed to be confessing your sins~",
-			"but your mind has been completely taken over by desire, hasn’t it? ♥"
-        ],	
-        "24": [
-            "As expected from a naughty child like you~",
-			"I’ll just have to punish you with something even harsher ♥"
-        ],	
-        "25": [
-            "Hehe~ ♥",
-			"Nothing left to say now, is there~?"
-        ],		
-        "26": [
-            "Your impulses, your anxiety, your gloom…",
-			"I’m absorbing all of it ♥"
-        ],	
-        "27": [
-            "You can feel it, can’t you?",
-			"your heart growing emptier and emptier~"
-        ],	
-        "28": [
-            "That’s right ♥ the deeper you sink,",
-			"the more I can satisfy your craving for salvation~"
-        ],	
-        "29": [
-            "Come now… offer everything to me like a good little one ♥",
-			"That is the only reason you exist here, after all ♥♥"
-        ],			
-        "30": [
-            "Just you wait, my little lamb♥",
-			"I'm gonna wring every last drop of sin out of you~"
-        ],	
-        "31": [
-            "(M-My body… it won’t obey me…",
-			"I can’t move…!)"
-        ]			
-    },	
+    "0": [
+      "...Oh my? Has another ",
+      "cute little lamb wandered in?"
+    ],
+    "1": [
+      "Hehehe~ Are you here to seek power from me?",
+      "This is a deal with a demon, you know~"
+    ],
+    "2": [
+      "But unfortunately, it's 'not the time' yet~",
+      "It's not time for you to face your fate just yet~"
+    ],
+    "3": [
+      "Right now, you're still just a lost little lamb~",
+      "One who knows nothing and hasn’t realized anything yet~"
+    ],
+    "4": [
+      "Heyyy~~ Are you sitting there ",
+      "hoping to hear my prayers?"
+    ],
+    "5": [
+      "Too bad♥ I'm a great demon~",
+      "I don't do things like that for you~"
+    ],
+    "6": [
+      "Hee—ey~~ you ♥",
+      "You’re giving off an awfully dangerous aura~"
+    ],
+    "7": [
+      "Impulse, destruction, rampage— Hehe♥",
+      "I can tell you’ve been holding it in for a long time, haven’t you?"
+    ],
+    "8": [
+      "Well~? You’re about to lose control, aren’t you ♥",
+      "That restless desire… is it about to spill out of your chest?"
+    ],
+    "9": [
+      "Even if this place is ruled by a demon—",
+      "it’s still a church, you know ♥"
+    ],
+    "10": [
+      "Come now~ before the sister...",
+      "Speak out all your true desires ♥"
+    ],
+    "11": [
+      "Hurt",
+      "Confess"
+    ],
+    "12": [
+      "...Oh my?",
+      "And what exactly does that mean~?"
+    ],
+    "13": [
+      "Is that your choice?",
+      "Even though you were just gasping under my teasing~"
+    ],
+    "14": [
+      "That foolish arrogance of yours…",
+      "let me crush it deep into the floor ♥"
+    ],
+    "15": [
+      "Hehe ♥",
+      "You can’t hold it back anymore, can you?"
+    ],
+    "16": [
+      "Come now ♥ show me that unrestrained desire—",
+      "I’m very curious to see what you’ll turn into next~"
+    ],
+    "17": [
+      "Good ♥ yes, that posture…",
+      "what a well-behaved little thing you are~ ♥"
+    ],
+    "18": [
+      "Fully exposed, self-aware of your own inferiority, utterly obedient—",
+      "a lost little lamb should always stay just like this ♥"
+    ],
+    "19": [
+      "Don’t move ♥ don’t even try to resist my power~",
+      "Not that you’re capable of it anymore~"
+    ],
+    "20": [
+      "Aww ♥ what’s wrong with you now?",
+      "Your breathing is already a mess and we’ve barely begun?"
+    ],
+    "21": [
+      "Ah ♥ all that sin in you…",
+      "it just keeps pouring out~!"
+    ],
+    "22": [
+      "In a situation like this,",
+      "you can still get excited ♥"
+    ],
+    "23": [
+      "You’re supposed to be confessing your sins~",
+      "but your mind has been completely taken over by desire, hasn’t it? ♥"
+    ],
+    "24": [
+      "As expected from a naughty child like you~",
+      "I’ll just have to punish you with something even harsher ♥"
+    ],
+    "25": [
+      "Hehe~ ♥",
+      "Nothing left to say now, is there~?"
+    ],
+    "26": [
+      "Your impulses, your anxiety, your gloom…",
+      "I’m absorbing all of it ♥"
+    ],
+    "27": [
+      "You can feel it, can’t you?",
+      "your heart growing emptier and emptier~"
+    ],
+    "28": [
+      "That’s right ♥ the deeper you sink,",
+      "the more I can satisfy your craving for salvation~"
+    ],
+    "29": [
+      "Come now… offer everything to me like a good little one ♥",
+      "That is the only reason you exist here, after all ♥♥"
+    ],
+    "30": [
+      "Just you wait, my little lamb♥",
+      "I'm gonna wring every last drop of sin out of you~"
+    ],
+    "31": [
+      "(M-My body… it won’t obey me…",
+      "I can’t move…!)"
+    ]
+  },
   "16": {
-        "0": [
-            "By the sweat of your brow you will eat ",
-			"your food until you return to the ground,",
-			"since from it you were taken; ",
-			"for dust you are and to dust you will return."
-		],
-		"1": [
-            "I have seen all the things that are done under the sun; ",
-			"all of them are meaningless, a chasing after the wind."
-        ],
-        "2": [
-            "And we know that all things work together ",
-            "for good for those who love God,",
-			"who are called according to His purpose."
-        ],
-        "3": [
-            "For all have sinned and fall ",
-			"short of the glory of God."
-        ],
-        "4": [
-            "For the vision is yet for an appointed time;",
-			"it speaks of the end and will not prove false.",
-			"Though it lingers, wait for it; ",
-			"it will certainly come and will not delay."
-        ],
-        "5": [
-            "My guilt has overwhelmed me ",
-			"like a burden too heavy to bear."
-        ]		
-    },
+    "0": [
+      "By the sweat of your brow you will eat ",
+      "your food until you return to the ground,",
+      "since from it you were taken; ",
+      "for dust you are and to dust you will return."
+    ],
+    "1": [
+      "I have seen all the things that are done under the sun; ",
+      "all of them are meaningless, a chasing after the wind."
+    ],
+    "2": [
+      "And we know that all things work together ",
+      "for good for those who love God,",
+      "who are called according to His purpose."
+    ],
+    "3": [
+      "For all have sinned and fall ",
+      "short of the glory of God."
+    ],
+    "4": [
+      "For the vision is yet for an appointed time;",
+      "it speaks of the end and will not prove false.",
+      "Though it lingers, wait for it; ",
+      "it will certainly come and will not delay."
+    ],
+    "5": [
+      "My guilt has overwhelmed me ",
+      "like a burden too heavy to bear."
+    ]
+  },
   "17": {
-        "0": [
-            "Jesus asked him, \"What is your name?\"",
-			"He replied, \"My name is Legion, for we are many.\""
-		],
-		"1": [
-            "Then another sign appeared in heaven: ",
-			"a great red dragon with seven heads and ten horns,",
-			"and on its heads were seven crowns. Its tail swept ",
-			"a third of the stars from the sky and cast them to the earth"
-        ],
-        "2": [
-            "O shining one, son of the morning! ",
-            "How have you fallen from heaven?",
-			"You who once laid nations low, ",
-			"how have you been cast down to the earth?"
-        ],
-        "3": [
-            "And I saw a beast rising out of the sea. ",
-			"It had ten horns and seven heads,",
-			"with ten crowns on its horns, ",
-			"and blasphemous names on its heads."
-        ],
-        "4": [
-            "Even though I walk through the valley of the shadow of death, ",
-			"I will fear no evil, for You are with me;",
-			"Your rod and Your staff, they comfort me."
-        ],
-        "5": [
-            "The Lord said to Satan, \"Where have you come from?\"",
-			"Satan answered, \"From roaming the earth, ",
-			"going back and forth upon it.\""
-        ]		
-    },
+    "0": [
+      "Jesus asked him, \"What is your name?\"",
+      "He replied, \"My name is Legion, for we are many.\""
+    ],
+    "1": [
+      "Then another sign appeared in heaven: ",
+      "a great red dragon with seven heads and ten horns,",
+      "and on its heads were seven crowns. Its tail swept ",
+      "a third of the stars from the sky and cast them to the earth"
+    ],
+    "2": [
+      "O shining one, son of the morning! ",
+      "How have you fallen from heaven?",
+      "You who once laid nations low, ",
+      "how have you been cast down to the earth?"
+    ],
+    "3": [
+      "And I saw a beast rising out of the sea. ",
+      "It had ten horns and seven heads,",
+      "with ten crowns on its horns, ",
+      "and blasphemous names on its heads."
+    ],
+    "4": [
+      "Even though I walk through the valley of the shadow of death, ",
+      "I will fear no evil, for You are with me;",
+      "Your rod and Your staff, they comfort me."
+    ],
+    "5": [
+      "The Lord said to Satan, \"Where have you come from?\"",
+      "Satan answered, \"From roaming the earth, ",
+      "going back and forth upon it.\""
+    ]
+  },
   "18": {
-        "0": [
-			"...It's a teleportation circle.",
-			"Leaving this place now…?"
-		],
-		"1": [
-            "Leave",
-			"Wait a bit…"
-        ]
-    }	
+    "0": [
+      "...It's a teleportation circle.",
+      "Leaving this place now…?"
+    ],
+    "1": [
+      "Leave",
+      "Wait a bit…"
+    ]
+  }
 }

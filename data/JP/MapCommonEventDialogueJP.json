@@ -26,7 +26,8 @@
     "MajorUpdate": "メジャーアップデート",
     "PatchUpdate": "パッチアップデート",
     "ReadControls": "ドラッグ / マウスホイールで閲覧 · 矢印にカーソルを合わせるか長押しでスクロール",
-    "NotProvided": "情報なし"
+    "NotProvided": "情報なし",
+    "ClickToUpdate": "クリックして更新"
   },
   "autoUpdateReminder": {
     "0": [
