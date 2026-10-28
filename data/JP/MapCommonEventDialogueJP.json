@@ -84,6 +84,7 @@
       "初回入手日時：",
       "%1日目 %2時 %3分"
     ],
+    "obtainableFrom": "入手元：",
     "allEvents": "全イベント",
     "mainEvents": "重要イベント",
     "sideEvents": "サブイベント",

@@ -84,6 +84,7 @@
       "第一次获得的时间:",
       "第%1天 %2时 %3分"
     ],
+    "obtainableFrom": "可从它们身上获得:",
     "allEvents": "全部事件",
     "mainEvents": "重要事件",
     "sideEvents": "支线事件",

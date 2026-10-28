@@ -84,6 +84,7 @@
       "First Acquired:",
       "Day %1, %2h %3m"
     ],
+    "obtainableFrom": "Obtainable From:",
     "allEvents": "All Events",
     "mainEvents": "Main Events",
     "sideEvents": "Side Events",

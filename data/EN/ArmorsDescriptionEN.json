@@ -988,7 +988,8 @@
     ],
     "ability": [
       "Immune to Burning and Heatstroke states",
-      "Increases shatter damage dealt when breaking an enemy's Frozen state"
+      "Enchants melee weapons and bows with ice, giving attacks a chance to inflict Frozen",
+      "Enhances chilling effects and increases shatter damage dealt when breaking an enemy's Frozen state"
     ]
   },
   "72": {
@@ -1033,6 +1034,7 @@
       "grant deeper insight into fire when studied."
     ],
     "ability": [
+      "Increases the chance for fire-element attacks to inflict Burning and extends the attack range of flaming sword waves",
       "Strengthens the damage and form of fire-element magic"
     ]
   },

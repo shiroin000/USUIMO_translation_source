@@ -38,7 +38,8 @@
     "MajorUpdate": "主要版本更新",
     "PatchUpdate": "補丁版本更新",
     "ReadControls": "拖拽 / 滾輪閱讀 · 懸停或按住箭頭滾動",
-    "NotProvided": "未提供"
+    "NotProvided": "未提供",
+    "ClickToUpdate": "點擊進行更新"
   },
   "rpgMapButtonDescription": {
     "starDoor": "回家",
@@ -83,6 +84,7 @@
       "第一次獲得的時間:",
       "第%1天 %2時 %3分"
     ],
+    "obtainableFrom": "可從它們身上獲得:",
     "allEvents": "全部事件",
     "mainEvents": "重要事件",
     "sideEvents": "支線事件",
@@ -265,6 +267,14 @@
   "unlockMystletainn": {
     "0": [
       " 魔剣米斯特汀 "
+    ],
+    "1": [
+      " 出現在了深淵裡！ "
+    ]
+  },
+  "unlockTraumaRescueTeam": {
+    "0": [
+      " 創傷救援小組 "
     ],
     "1": [
       " 出現在了深淵裡！ "
@@ -477,6 +487,11 @@
     ],
     "description12": [
       "從支配者身上獲得的特殊碎片",
+      "如果能收集到各種各樣的碎片",
+      "可能會対${}的病情有所幇助吧"
+    ],
+    "description46": [
+      "從魔劍米斯特汀身上獲得的特殊碎片",
       "如果能收集到各種各樣的碎片",
       "可能會対${}的病情有所幇助吧"
     ],
