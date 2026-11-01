@@ -392,247 +392,244 @@
   },
   "6": {
     "1": [
-      "Ugh... My body feels so heavy... I can't move...",
-      "This feels awful..."
+      "О-ох... Моё тело слишком тяжёлое... Не могу двигаться...",
+      "Ужасное чувство..."
     ],
     "2": [
-      "...Huh? Is it morning already?"
+      "...А? Уже утро?"
     ],
     "3": [
-      "Why is the blanket... bulging like that?",
-      "...Is that \\str[120]?"
+      "Почему одеяло... так выпирает?",
+      "...Это \\str[120]?"
     ],
     "4": [
-      "\"...Seriously, sneaking under the blanket to scare me again?",
-      "I've already seen through this little trick of yours——",
+      "\"...Серьезно, забираешься под одеяло, чтобы снова напугать меня?",
+      "Я уже раскусил этот твой маленький трюк...",
       "\\w[60]\\^"
     ]
   },
   "7": {
     "1": [
-      "Ugh... My body feels so heavy... I can't move...",
-      "This feels awful..."
+      "О-ох... Моё тело слишком тяжёлое... Не могу двигаться...",
+      "Ужасное чувство..."
     ],
     "2": [
-      "\"...O...nii...chan...\""
+      "\"...Бра...тиш...ка...\""
     ],
     "3": [
-      "My chest feels heavy too...",
-      "Like something's pressing down on me."
+      "У меня тоже тяжело в груди...",
+      "Как будто что-то давит на меня."
     ],
     "4": [
-      "\"...Wake... up...\""
+      "\"...Вста-а-авай...\""
     ],
     "5": [
-      "...Come to think of it, ",
-      "I've been hearing something for a while now.",
-      "It keeps buzzing around... Did a bug get into the room?"
+      "...Кстати, я уже некоторое время что-то слышу",
+      "Оно всё жужжит рядом... Не залетела ли в комнату муха?"
     ],
     "6": [
-      "\"...If you... don't wake... I'll...\""
+      "\"...Если ты... не проснёшься... то я...\""
     ],
     "7": [
-      "...Hm?",
-      "My nose... itches...",
-      "Feels like something just touched it."
+      "...Хм?",
+      "Мой нос... щекотно...",
+      "Кажется, что-то только что коснулось его."
     ],
     "8": [
-      "There it is again...",
-      "Once, twice... It keeps poking the tip of my nose."
+      "И вот снова...",
+      "Один, другой... Оно продолжает тыкать в кончик моего носа."
     ],
     "9": [
-      "Still half-asleep, I shook my head,",
-      "trying to chase away the annoying bug messing with my face."
+      "Ещё полусонный, я мотнул головой, пытаясь прогнать",
+      "надоедливое насекомое, донимавшее моё лицо."
     ],
     "10": [
-      "My body felt so heavy that even lifting a hand to swat it away was a struggle.",
-      "...Did I stay up too late last night?"
+      "Тело было таким тяжёлым, что даже поднять руку, чтобы отогнать его, было трудно.",
+      "...Неужели я слишком поздно лёг вчера?"
     ],
     "11": [
-      "\"...Hehe... missed me...\""
+      "\"...Хе-хе... Соскучился по мне?..\""
     ],
     "12": [
-      "Buzz, buzz, buzz...",
-      "Instead of leaving, the bug only got bolder, teasing the tip of my nose even more."
+      "Б-з-з-з, б-з-з-з, б-з-з-з...",
+      "Вместо того чтобы улететь, «насекомое» стало только смелее",
+      "и ещё сильнее дразнило кончик моего носа."
     ],
     "13": [
-      "The next moment, my nose was suddenly pinched shut."
+      "В следующее мгновение мой нос вдруг крепко зажали."
     ],
     "14": [
-      "\"............Mmph!\""
+      "\"............М-М-МКХМ!\""
     ],
     "15": [
-      "I-I can't breathe...!",
-      "There was no way I could keep sleeping after that.",
-      "And the string of giggles by my ear finally made me realize—",
-      "that probably wasn't a bug at all."
+      "Я-я-я не могу вздохнуть!..",
+      "После такого спать дальше было уже невозможно.",
+      "А череда смешков у самого уха наконец заставила меня понять...",
+      "это, наверное, и вовсе не насекомое."
     ],
     "16": [
-      "I forced my heavy eyelids open.",
-      "Through my blurry vision, the first thing I saw was silver hair hanging down over me.",
-      "Then, a pair of red eyes just inches away, ",
-      "staring at me with obvious amusement."
+      "Я с усилием поднял тяжёлые веки.",
+      "Сквозь размытое зрение первым, что я увидел, были серебристые локоны, свисавшие надо мной.",
+      "А затем — пара красных глаз всего в нескольких сантиметрах,",
+      "смотревших на меня с явным весельем..."
     ],
     "17": [
-      "\"............................\\str[120]!?\""
+      "\"......\\str[120]?!\""
     ],
     "18": [
-      "\\nl< >\"Ehehe♥ Finally awake~!",
-      "\\str[121], you were sleeping like a rock today! ",
-      "I can't believe you slept this late~\""
+      "\\nl< >\"Эхе-хе♥ Наконец-то проснулся!〜",
+      "Куроха, ты сегодня спал как убитый!",
+      "Не могу поверить, что ты проспал так долго〜\""
     ],
     "19": [
-      "\\nl< >\\{\"Good morning, \\str[121]~♪\""
+      "\\nl< >\\{\"Доброе утро, Куроха!〜♪\""
     ],
     "20": [
-      "I stared at her with my mouth hanging open, ",
-      "unable to make sense of the situation for a moment."
+      "Я смотрел на неё с открытым ртом, какое-то время",
+      "не в силах осознать происходящее."
     ],
     "21": [
-      "Soft morning light streamed in through the window. ",
-      "There was no doubt—it was still morning.",
-      "And yet \\str[120], who would normally still be stuck in bed ",
-      "and impossible to wake at this hour—",
-      "was now full of energy, ",
-      "perched on my bed and cheerfully greeting me."
+      "В окно лился мягкий утренний свет.",
+      "Сомнений не было — всё ещё было утро.",
+      "И всё же, \\str[120], которая обычно в это время ещё лежала бы в кровати",
+      "и которую невозможно было бы разбудить, теперь была полна энергии,",
+      "сидя на моей кровати и весело приветствуя меня."
     ],
     "22": [
-      "\"Huh... Ah... Good... morning...?\""
+      "\"Хах... Ох-ой... Доброе... утро?..\""
     ],
     "23": [
-      "\\nl< >\"It is morning, you know? ",
-      "Are you still not awake, \\str[121]~?",
-      "If you don't get up, I'll have to do what you always do to me——\""
+      "\\nl< >\"Конечно утро, знаешь?",
+      "Ты всё ещё не проснулся, \\str[121]〜?",
+      "Если не встанешь, мне придётся сделать то, что ты всегда делаешь со мной...\""
     ],
     "24": [
-      "As soon as she said that, ",
-      "\\str[120] cupped my cheeks in both hands and started vigorously rubbing them."
+      "Едва это сказав, она взяла мои щёки в обе ладони и начала энергично их теребить."
     ],
     "25": [
-      "\"Y-You... don't feel sick today?\""
+      "\"Т-ты... сегодня не заболела?\""
     ],
     "26": [
-      "\\nl< >\"Mm-hmm~ I'm full of energy~!",
-      "I had a really long dream last night, ",
-      "but when I woke up, I felt completely full of energy——",
-      "Hehehe~~ \\str[121], your face looks like a piggy now~\""
+      "\\nl< >\"Не-а〜 Я полна энергии!〜",
+      "Мне сегодня ночью приснился очень долгий сон,",
+      "но когда я проснулась, то почувствовала себя совершенно полной сил...",
+      "Ха-ха-ха〜 Куроха, твоё лицо теперь похоже на поросёнка〜\""
     ],
     "27": [
-      "\\str[120] squeezed even harder, squishing both of my cheeks toward the middle.",
-      "My face must have looked ridiculous, because she quickly burst into a giggle."
+      "\\str[120] сжала руки ещё сильнее, стягивая обе мои щёки к середине.",
+      "Моё лицо, должно быть, выглядело нелепо, потому что она тут же расхохоталась."
     ],
     "28": [
-      "I didn't stop her from getting carried away.",
-      "Instead, an indescribable wave of emotion suddenly welled up inside me,",
-      "and before I knew it, the corners of my eyes had grown a little wet."
+      "Я не стал останавливать её, когда она увлеклась.",
+      "Вместо этого во мне внезапно поднялась невыразимая волна чувств,",
+      "и, не успев опомниться, я почувствовал, что уголки моих глаз слегка прослезились."
     ],
     "29": [
-      "——The Elixir Rubrum was clearly working.",
-      "The sight before me was the strongest proof I could ask for."
+      "...Эликсир Рубрум явно действовал.",
+      "Вид передо мной был самым настоящим доказательством, о котором я мог просить..."
     ],
     "30": [
-      "\\nl< >\"...\\str[121]?",
-      "What's wrong...? Why'd you suddenly go quiet?",
-      "Did I rub too hard?\""
+      "\\nl< >\"...К-куроха?..",
+      "Что-то случилось?.. Почему ты вдруг замолчал?",
+      "Я слишком сильно растёрла?\""
     ],
     "31": [
-      "\"...No.",
-      "I just suddenly thought... how wonderful this is.\""
+      "\"...Н-нет.",
+      "Я просто задумался... как же это прекрасно.\""
     ],
     "32": [
-      "\\nl< >\"Maybe from now on, ",
-      "I can be the one who wakes \\str[121] up every day~♪\"",
+      "\\nl< >\"Может, теперь я смогу быть той,",
+      "кто будет будить тебя каждое утро〜♪\"",
       "\\w[120]"
     ],
     "33": [
-      "\"Yeah... That actually doesn't sound too bad——",
-      "but first, could you let me get up...? ",
-      "This is starting to hurt a little.\""
+      "\"Да... Звучит очень даже не плохо...",
+      "Но сначала, не могла бы ты дать мне встать?..",
+      "Это уже начинает немного болеть.\""
     ],
     "34": [
-      "As petite as \\str[120] was, ",
-      "having her sit on my chest and rock back and forth like this",
-      "eventually left me feeling like I was being crushed by sleep paralysis."
+      "Такая малявка, как \\str[120], сидя у меня на груди и раскачиваясь взад-вперёд,",
+      "но в конце концов заставила меня почувствовать себя так, будто меня раздавило ",
+      "сонным параличом."
     ],
     "35": [
-      "\\nl< >\"Ehehe~ I guess you're right~\""
+      "\\nl< >\"Хе-хе〜 Пожалуй, ты прав〜\""
     ],
     "36": [
-      "\\nl< >\"But when \\str[121] used to wake me up,",
-      "you did all sorts of mean things to me too, remember~?\""
+      "\\nl< >\"Но когда Куроха будил меня раньше,",
+      "он ведь тоже дразнил меня, припоминаешь?〜\""
     ],
     "37": [
-      "\\nl< >\"So starting today——",
-      "I'm going to pay \\str[121] back, little by little, for every single one♥\""
+      "\\nl< >\"Так что начиная с сегодняшнего дня...",
+      "Я буду возвращать тебе долг за каждый из тех моментов!〜♥\""
     ],
     "38": [
-      "...I guess not every change brought about by the treatment",
-      "was something to celebrate."
+      "...Похоже, не каждое изменение, вызванное лечением,",
+      "было поводом для радости."
     ],
     "39": [
-      "Still, looking at \\str[120]'s smug little grin,",
-      "I couldn't help but smile along with her."
+      "И всё же, глядя на самодовольную ухмылку \\str[120],",
+      "я невольно улыбнулся вместе с ней."
     ],
     "40": [
-      "\"....................\\str[120]?\""
+      "\"......\\str[120]?\""
     ],
     "41": [
-      "I opened my eyes.",
-      "Sure enough, \\str[120] was sprawled across my bed, smiling down at me.",
+      "Я открыл глаза.",
+      "И правда — \\str[120] лежала, раскинувшись на моей кровати, и улыбалась мне сверху вниз.",
       " ",
       " ",
-      "A few strands of silver hair gently brushed against my cheeks, ",
-      "accompanied by that familiar sweet scent,",
-      "almost tempting me to close my eyes and drift off again."
+      "Несколько прядей серебристых волос мягко касались моих щёк,",
+      "сопровождаемые тем знакомым сладким ароматом,",
+      "почти соблазняя меня снова закрыть глаза и провалиться в сон."
     ],
     "42": [
-      "\\nl< >\"Huh~~? You're already awake?",
-      "It's not often \\str[121] sleeps in. ",
-      "You could've slept a little longer~\""
+      "\\nl< >\"Ого〜 Ты уже проснулся?",
+      "Ты нечасто спишь так долго.",
+      "Мог бы поспать ещё немножко〜\""
     ],
     "43": [
-      "\"You already messed with me enough to wake me up...",
-      "Anyway, isn't it about time you tried a different wake-up service?",
-      "Having you pin me down like this every time is honestly pretty uncomfortable.\""
+      "\"Ты и так уже достаточно меня мучила, чтобы разбудить...",
+      "В общем, не пора ли тебе попробовать другой способ будить?",
+      "Когда ты каждый раз меня так прижимаешь, честно говоря, довольно некомфортно.\""
     ],
     "44": [
-      "\\nl< >\"No~ \\str[121] is the one who should reflect on what you've done~",
-      "Couldn't you have been a little gentler when you used to wake me up?\""
+      "\\nl< >\"Не-а!〜 Это Куроха должен подумать над своим поведением〜",
+      "Разве ты не мог быть чуть помягче, когда раньше будил меня?\""
     ],
     "45": [
-      "\"Sure~ Then next time, ",
-      "I'll wake you like Sleeping Beauty—with a kiss!\""
+      "\"Конечно〜 Тогда в следующий раз я разбужу тебя,",
+      "как Спящую красавицу — поцелуем!\""
     ],
     "46": [
-      "\\nl< >\"Uweeeeh~~!?",
-      "Th-That kind of naughty wake-up method isn't allowed~!\""
+      "\\nl< >\"Ч-ч-чего?!..",
+      "Т-таким непристойным способом будить нельзя!〜\""
     ],
     "47": [
-      "\\str[120] immediately looked away, her eyes darting around nervously.",
-      "Finally unable to endure my perfectly serious stare, ",
-      "she blushed and lightly hopped off the bed."
+      "\\str[120] тут же отвернулась, её глаза нервно забегали по сторонам.",
+      "Наконец, не выдержав моего совершенно серьёзного взгляда,",
+      "она покраснела и легко спрыгнула с кровати."
     ],
     "48": [
-      "\\nl< >\"I-If \\str[121] really does that to me——",
-      "then next time I'll do something naughty to \\str[121] while you're asleep~!\""
+      "\\nl< >\"Н-но... если Куроха действительно сделает это со мной,.. то...",
+      "То в следующий раз, пока ты спишь, я сделаю с тобой что-нибудь непристойное!〜\""
     ],
     "49": [
-      "\"Sure, sure~ Then I'll be looking forward to it——\""
+      "\"Ну-ну〜 Тогда я буду с нетерпением этого ждать.\""
     ],
     "50": [
-      "\\nl< >\"Ugh...!!",
-      "W-Why is \\str[121] looking forward to it instead——!?",
-      "Grrrrrr——!\""
+      "\\nl< >\"Ой!",
+      "П-почему ты так обрадовался?!..\""
     ],
     "51": [
-      "Completely outmatched in our little war of words, ",
-      "\\str[120] finally gave up on verbal retaliation",
-      "and started pummeling me with a flurry of angry little punches."
+      "Полностью проиграв в нашей маленькой словесной перепалке,",
+      "\\str[120] наконец отказалась от словесной мести",
+      "и начала молотить меня градом сердитых маленьких кулачков."
     ],
     "52": [
-      "I caught each of \\str[120]'s little fists as they came.",
-      "Seeing her this energetic first thing in the morning,",
-      "I was gradually getting used to a sight that once would have been unimaginable."
+      "Я ловил каждый её маленький кулачок.",
+      "Видя её такой энергичной с самого утра, я постепенно привыкал к зрелищу,",
+      "которое раньше было бы немыслимым."
     ]
   }
 }
