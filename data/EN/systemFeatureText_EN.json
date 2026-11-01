@@ -358,6 +358,7 @@
     "28": "Forgotten Catacombe:Upper Layer",
     "37": "Shallow Ruins Labyrinth",
     "40": "Excavation Site",
+    "44": "Abandoned Forest",
     "46": "Excavation Site",
     "47": "Forest of Ruins",
     "48": "Adventurer's Path:Monument",
@@ -372,7 +373,8 @@
     "59": "Excavation Site",
     "60": "Excavation Site",
     "61": "Excavation Site",
-    "62": "Adventurer's Path:Grove"
+    "62": "Adventurer's Path:Grove",
+    "73": "Excavation Site:Abandoned Ruins"
   },
   "AdventurersPathway": {
     "mapName": "Adventurer's Pathway"

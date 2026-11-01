@@ -629,6 +629,103 @@
       "I caught each of \\str[120]'s little fists as they came.",
       "Seeing her this energetic first thing in the morning,",
       "I was gradually getting used to a sight that once would have been unimaginable."
+    ],
+    "53": [
+      "\"...Okay.",
+      "I'll bring a bottle too...\""
+    ],
+    "54": [
+      "\\nl< >\"...A bottle?",
+      "Are you thirsty, \\str[121]?\""
+    ],
+    "55": [
+      "\"...I'll come get you when I'm ready.",
+      "So... just wait a little longer...\""
+    ],
+    "56": [
+      "\\nl< >\"...What are you talking about?",
+      "I'm the one waking you up right now, \\str[121].\""
+    ],
+    "57": [
+      "\\nl< >\"It's morning already—come on, wake up!\""
+    ],
+    "58": [
+      "The blurry face suddenly moved closer."
+    ],
+    "59": [
+      "Silver strands of hair brushed lightly against my cheek.",
+      "\\str[120] was looking down at me, barely holding back a smile."
+    ],
+    "60": [
+      "\"...Oh.\""
+    ],
+    "61": [
+      "She wasn't holding a stuffed toy.",
+      "And the morning light spilling through the window",
+      "was nothing like the room I'd just been in."
+    ],
+    "62": [
+      "\"...So it was a dream.\""
+    ],
+    "63": [
+      "\\nl< >\"Finally awake?",
+      "You kept mumbling something. I couldn't make sense of any of it.\""
+    ],
+    "64": [
+      "\"...Yeah, I was dreaming about the past.",
+      "I think... it was some promise we made when we were kids.\""
+    ],
+    "65": [
+      "\\nl< >\"...A promise?\""
+    ],
+    "66": [
+      "\\nl< >\"Oh! You mean...",
+      "taking me on a grand adventure once I'm better?\""
+    ],
+    "67": [
+      "\"...A grand adventure?",
+      "Oh... right. I guess we did talk about that.\""
+    ],
+    "68": [
+      "\\nl< >\"What do you mean, 'I guess'?",
+      "You're the one who promised me, \\str[121]!\""
+    ],
+    "69": [
+      "\"Haha... Sorry, sorry.",
+      "I'm still a little muddled. I only just woke up.\""
+    ],
+    "70": [
+      "...But there was something else in the dream...",
+      "Right, I think there was a sea...",
+      "But how could there be a sea in the Abyss?"
+    ],
+    "71": [
+      "...Oh, well.",
+      "It was probably just something my dreaming mind made up."
+    ],
+    "72": [
+      "\\nl< >\"—Hey, \\str[121]!",
+      "You're spacing out again!\""
+    ],
+    "73": [
+      "\"...It's nothing.",
+      "I was just thinking about that dream.\""
+    ],
+    "74": [
+      "\\nl< >\"Honestly, forget about the dream for now!",
+      "If you keep sleeping in this late, \\str[121],",
+      "I'll have to come play pranks on you!\""
+    ],
+    "75": [
+      "\"...I'm getting up.",
+      "So, don't you think it's time you got off me?\""
+    ],
+    "76": [
+      "\\nl< >\"Ehehe~ Just a little longer.\""
+    ],
+    "77": [
+      "As she spoke, she took the opportunity to snuggle a little closer.",
+      "The weight on my chest finally brought me fully awake."
     ]
   }
 }

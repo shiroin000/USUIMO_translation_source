@@ -85,6 +85,7 @@
       "Day %1, %2h %3m"
     ],
     "obtainableFrom": "Obtainable From:",
+    "quickTipTitle": "Tips:",
     "allEvents": "All Events",
     "mainEvents": "Main Events",
     "sideEvents": "Side Events",
@@ -518,6 +519,11 @@
     ],
     "description56": [
       "A special shard obtained from the Maid Bunny",
+      "If various shards can be collected",
+      "it might help improve ${}'s condition"
+    ],
+    "description73": [
+      "A special shard obtained from the Guardian Golem",
       "If various shards can be collected",
       "it might help improve ${}'s condition"
     ]

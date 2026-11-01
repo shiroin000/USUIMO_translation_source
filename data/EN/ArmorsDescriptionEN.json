@@ -581,7 +581,7 @@
       "No matter who wears it, they'll look absolutely adorable!"
     ],
     "ability": [
-      "Blessed with luck! Items are more likely to drop!"
+      "Defeating an enemy has a 25% chance to trigger an extra loot roll"
     ]
   },
   "42": {
@@ -1157,6 +1157,23 @@
     ],
     "ability": [
       ""
+    ]
+  },
+  "83": {
+    "name": [
+      "Guardian's Core"
+    ],
+    "subtitle": "",
+    "description": [
+      "An energy core extracted from a Guardian Golem",
+      "No one knows who created this golem or when it was placed here",
+      "Even what it was guarding… has long since been lost to history",
+      "Only the crystal of magical energy upon the core still shines brilliantly to this day"
+    ],
+    "ability": [
+      "While equipped, automatically grants one layer of shield every 10 minutes",
+      "While the shield is active, increases Physical Defense by an additional 24",
+      "While the shield is active, reduces the chance of being afflicted with Poison, Bleed, Lightning, Burning, or Frozen"
     ]
   },
   "100": {

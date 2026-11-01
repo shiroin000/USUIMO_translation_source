@@ -1,228 +1,428 @@
 {
   "1": {
-        "0": [
-            "It is now an era many years after ",
-			"the Demon Lord was defeated by the Hero."
-		],
-		"1": [
-            "The once famous Hero and Sage,",
-			"their legends have now become nothing more",
-			"than fairy tales adults use to scold children."
-        ],
-        "2": [
-            "This is the name given to the mysterious giant labyrinth",
-            "that suddenly appeared on the surface ten years ago."
-        ],
-        "3": [
-            "Its seemingly endless depth,",
-			"areas filled with various ruins,",
-			"and monsters rapidly breeding under its magical power."
-        ],
-        "4": [
-            "With the Demon Lord no longer threatening humanity,",
-			"the sudden birth of this unknown labyrinth,",
-			"instantly shattered the brief peace of the human world."
-        ],
-        "5": [
-            "The Adventurers’ Guild organized many exploration teams ",
-			"to delve into it, but they never made any decisive progress.",
-			"However, the labyrinth has never shown any intention of invading ",
-			"or attacking the outside world."
-        ],
-        "6": [
-            "Local lords and various powers,",
-            "all tried to name and manage the labyrinth."
-        ],
-        "7": [
-            "Yet all those names were forgotten over time,",
-			"and in the end, only 'Abyss' remained,",
-			"deeply etched into people’s memories."
-        ],
-        "8": [
-            "Since the labyrinth showed no signs of ",
-			"expanding to consume the world,",
-			"the Adventurers’ Guild finally decided——",
-			"to open its exploration rights to the public."
-        ],
-        "9": [
-            "Thus, the once forgotten profession,",
-			"'adventurer',",
-			"welcomed a new era of glory and fervor."
-        ],
-        "10": [
-            "And in this final great labyrinth,",
-			"I have only one goal——",
-			"to find a way to completely cure my \\str[120]’s condition———"
-        ]		
-    },
+    "0": [
+      "It is now an era many years after ",
+      "the Demon Lord was defeated by the Hero."
+    ],
+    "1": [
+      "The once famous Hero and Sage,",
+      "their legends have now become nothing more",
+      "than fairy tales adults use to scold children."
+    ],
+    "2": [
+      "This is the name given to the mysterious giant labyrinth",
+      "that suddenly appeared on the surface ten years ago."
+    ],
+    "3": [
+      "Its seemingly endless depth,",
+      "areas filled with various ruins,",
+      "and monsters rapidly breeding under its magical power."
+    ],
+    "4": [
+      "With the Demon Lord no longer threatening humanity,",
+      "the sudden birth of this unknown labyrinth,",
+      "instantly shattered the brief peace of the human world."
+    ],
+    "5": [
+      "The Adventurers’ Guild organized many exploration teams ",
+      "to delve into it, but they never made any decisive progress.",
+      "However, the labyrinth has never shown any intention of invading ",
+      "or attacking the outside world."
+    ],
+    "6": [
+      "Local lords and various powers,",
+      "all tried to name and manage the labyrinth."
+    ],
+    "7": [
+      "Yet all those names were forgotten over time,",
+      "and in the end, only 'Abyss' remained,",
+      "deeply etched into people’s memories."
+    ],
+    "8": [
+      "Since the labyrinth showed no signs of ",
+      "expanding to consume the world,",
+      "the Adventurers’ Guild finally decided——",
+      "to open its exploration rights to the public."
+    ],
+    "9": [
+      "Thus, the once forgotten profession,",
+      "'adventurer',",
+      "welcomed a new era of glory and fervor."
+    ],
+    "10": [
+      "And in this final great labyrinth,",
+      "I have only one goal——",
+      "to find a way to completely cure my \\str[120]’s condition———"
+    ]
+  },
   "4": {
-        "0": [
-            "My father was a brilliant alchemist."
-		],
-		"1": [
-            "Even in this peaceful era where there’s no need to fight demons,",
-			"he still actively solved several alchemical mysteries."
-        ],
-        "2": [
-            "\"I’m so sorry… about your mother…\""
-        ],
-        "3": [
-            "\"I’ve tried everything…",
-			"but…!\""
-        ],
-        "4": [
-            "Yet this man, admired by all,",
-			"was now kneeling weakly on the ground,",
-			"repeatedly apologizing",
-			"to the young me."
-        ],
-        "5": [
-            "His grip on my shoulders tightened,",
-			"and I couldn’t help but start crying.",
-			"Perhaps realizing he’d lost control,",
-			"he slowly loosened his hands and gently patted my head instead."
-        ],
-        "6": [
-            "\"It’s okay now… it’s Daddy’s fault,",
-            "I shouldn’t give up so easily…\""
-        ],
-        "7": [
-            "\"You’re a good child, ",
-			"you shouldn’t have to bear all this…",
-			"leave the rest to Daddy.\""
-        ],
-        "8": [
-            "\"That’s right… even if it costs me everything… I must…\""
-        ],
-        "9": [
-            "His voice started to tremble,",
-			"was he scared of something?"
-        ],
-        "10": [
-            "I didn’t understand any of it then, ",
-			"but I remember that after that day,",
-			"he never returned to being the kind, gentle father I once knew."
-        ]		
-    },
-  "5": {		
-        "0": [
-            "\\nl<Man>\"The feathers dropped by the Firebird...",
-			"Even when soaked in strong acid, they do not corrode...",
-			"If it is for that... we still need—\""
-		],
-		"1": [
-            "The man's voice echoed lowly in the workshop, ",
-			"which was crammed with ancient tomes.",
-			"Various alchemical instruments were stacked neatly ",
-			"across the workbench."
-        ],
-		"2": [
-            "A sudden flurry of light, ",
-			"hurried footsteps interrupted the man's muttering.",
-			"A barefoot girl with snow white hair barged into the dusty,",
-			"potion scented chaos of the workshop without warning."
-        ],		
-        "3": [
-            "\\nl<Boy>\\{\"Ah...! Found you!!",
-			"Stop running off everywhere!!\""
-        ],		
-        "4": [
-            "Following close behind the girl was a slightly older boy.",
-			"He had clearly been chasing her for a long time. ",
-			"he was leaning over, hands on his knees, panting heavily as ",
-			"he pointed at the girl with an irritated shout."
-        ],
-        "5": [
-            "\\nl<Girl>\"……………………………………",
-			"……………………………………\""
-        ],
-        "6": [
-            "The girl, the subject of his scolding, simply stood there blankly.",
-			"Her hollow eyes reflected no one."
-        ],
-        "7": [
-            "\\nl<Boy>\"Honestly! That face again! not even a single peep!",
-			"Dad! I don't want to take care of her anymore!!\""
-        ],
-        "8": [
-            "\\nl<Boy>\"It's been days and she hasn't opened her mouth once!",
-			"She just keeps wandering off on her own... ",
-			"this isn't fun at all!!\""
-        ],		
-        "9": [
-            "\\nl<Man>\"Haaah... The same old story again, I see...\""
-        ],
-        "10": [
-            "Watching the girl stare intently at the instruments ",
-			"while his son threw a tantrum, the man let out a long sigh ",
-            "and was forced to halt his work."
-        ],
-        "11": [
-            "\\nl<Man>\"You're quite the handful yourself, little brat.",
-			"How many times have I told you? ",
-			"Don't enter the workshop without my permission. It's dangerous!\""
-        ],		
-        "12": [
-            "\\nl<Boy>\"Hmph... ",
-			"says the useless adult who relies on a kid to make lunch!",
-			"When are you going to stop messing with this boring junk ",
-			"and teach me real alchemy?\""
-        ],
-        "13": [
-            "\\nl<Man>\"Cough, cough...! ",
-			"Didn't I just transmute a toy sword for you the other day? ",
-            "Father has been busy identifying these relics brought up from ",
-            "the Abyss for the Guild. I really don't have time for your antics—\""
-        ],
-        "14": [
-            "\\nl<Boy>\"That crappy sword broke ages ago! — The Abyss?",
-			"You mean that Grand Labyrinth that suddenly appeared!?",
-			"Hey, hey! When can I go take a look too?\""
-        ],
-        "15": [
-            "\\nl<Man>\"Absolutely not! That's no place for a child's adventure!",
-			"We moved here specifically to conduct research and ",
-			"develop countermeasures. ",
-			"Just be patient...!\""
-        ],
-        "16": [
-            "\\nl<Girl>\"……………………………………",
-			"……………………………………\""
-        ],
-        "17": [
-			"The girl, previously as still as a doll, seemed to sense something.",
-            "Her movements, precise as a machine, stirred once more.",
-            "She suddenly turned and dashed past the two of them, ",
-			"heading straight out of the workshop."
-        ],
-        "18": [
-            "\\nl<Boy>\"Ahhh—! See! She's doing it again!!\""
-        ],
-        "19": [
-            "\\nl<Man>\"Sigh... ",
-			"neither of you makes things easy... go catch her quickly!",
-			"And remember, do not let her leave the estate grounds! ",
-			"The barrier here isn't fully stable yet!\""
-        ],
-        "20": [
-            "The boy wanted to argue back, ",
-			"but seeing the girl about to vanish from his sight,",
-			"he could only stomp his feet in frustration ",
-			"and take off after her again."
-        ],
-        "21": [
-            "\\nl<Man>\"..................Sigh.",
-			"I hope time... is still on our side.\""
-        ],
-        "22": [
-            "Standing by the door, the man watched the distant figures—",
-			"the boy finally catching up as the two of them scuffled together.",
-			"He whispered a murmur filled with heavy concern."
-        ],
-        "23": [
-			"Then, as if escaping some dark premonition, ",
-			"he sat back in his chair and buried himself ",
-			"in his research once more."
-        ]
-    }	
+    "0": [
+      "My father was a brilliant alchemist."
+    ],
+    "1": [
+      "Even in this peaceful era where there’s no need to fight demons,",
+      "he still actively solved several alchemical mysteries."
+    ],
+    "2": [
+      "\"I’m so sorry… about your mother…\""
+    ],
+    "3": [
+      "\"I’ve tried everything…",
+      "but…!\""
+    ],
+    "4": [
+      "Yet this man, admired by all,",
+      "was now kneeling weakly on the ground,",
+      "repeatedly apologizing",
+      "to the young me."
+    ],
+    "5": [
+      "His grip on my shoulders tightened,",
+      "and I couldn’t help but start crying.",
+      "Perhaps realizing he’d lost control,",
+      "he slowly loosened his hands and gently patted my head instead."
+    ],
+    "6": [
+      "\"It’s okay now… it’s Daddy’s fault,",
+      "I shouldn’t give up so easily…\""
+    ],
+    "7": [
+      "\"You’re a good child, ",
+      "you shouldn’t have to bear all this…",
+      "leave the rest to Daddy.\""
+    ],
+    "8": [
+      "\"That’s right… even if it costs me everything… I must…\""
+    ],
+    "9": [
+      "His voice started to tremble,",
+      "was he scared of something?"
+    ],
+    "10": [
+      "I didn’t understand any of it then, ",
+      "but I remember that after that day,",
+      "he never returned to being the kind, gentle father I once knew."
+    ]
+  },
+  "5": {
+    "0": [
+      "\\nl<Man>\"The feathers dropped by the Firebird...",
+      "Even when soaked in strong acid, they do not corrode...",
+      "If it is for that... we still need—\""
+    ],
+    "1": [
+      "The man's voice echoed lowly in the workshop, ",
+      "which was crammed with ancient tomes.",
+      "Various alchemical instruments were stacked neatly ",
+      "across the workbench."
+    ],
+    "2": [
+      "A sudden flurry of light, ",
+      "hurried footsteps interrupted the man's muttering.",
+      "A barefoot girl with snow white hair barged into the dusty,",
+      "potion scented chaos of the workshop without warning."
+    ],
+    "3": [
+      "\\nl<Boy>\\{\"Ah...! Found you!!",
+      "Stop running off everywhere!!\""
+    ],
+    "4": [
+      "Following close behind the girl was a slightly older boy.",
+      "He had clearly been chasing her for a long time. ",
+      "he was leaning over, hands on his knees, panting heavily as ",
+      "he pointed at the girl with an irritated shout."
+    ],
+    "5": [
+      "\\nl<Girl>\"……………………………………",
+      "……………………………………\""
+    ],
+    "6": [
+      "The girl, the subject of his scolding, simply stood there blankly.",
+      "Her hollow eyes reflected no one."
+    ],
+    "7": [
+      "\\nl<Boy>\"Honestly! That face again! not even a single peep!",
+      "Dad! I don't want to take care of her anymore!!\""
+    ],
+    "8": [
+      "\\nl<Boy>\"It's been days and she hasn't opened her mouth once!",
+      "She just keeps wandering off on her own... ",
+      "this isn't fun at all!!\""
+    ],
+    "9": [
+      "\\nl<Man>\"Haaah... The same old story again, I see...\""
+    ],
+    "10": [
+      "Watching the girl stare intently at the instruments ",
+      "while his son threw a tantrum, the man let out a long sigh ",
+      "and was forced to halt his work."
+    ],
+    "11": [
+      "\\nl<Man>\"You're quite the handful yourself, little brat.",
+      "How many times have I told you? ",
+      "Don't enter the workshop without my permission. It's dangerous!\""
+    ],
+    "12": [
+      "\\nl<Boy>\"Hmph... ",
+      "says the useless adult who relies on a kid to make lunch!",
+      "When are you going to stop messing with this boring junk ",
+      "and teach me real alchemy?\""
+    ],
+    "13": [
+      "\\nl<Man>\"Cough, cough...! ",
+      "Didn't I just transmute a toy sword for you the other day? ",
+      "Father has been busy identifying these relics brought up from ",
+      "the Abyss for the Guild. I really don't have time for your antics—\""
+    ],
+    "14": [
+      "\\nl<Boy>\"That crappy sword broke ages ago! — The Abyss?",
+      "You mean that Grand Labyrinth that suddenly appeared!?",
+      "Hey, hey! When can I go take a look too?\""
+    ],
+    "15": [
+      "\\nl<Man>\"Absolutely not! That's no place for a child's adventure!",
+      "We moved here specifically to conduct research and ",
+      "develop countermeasures. ",
+      "Just be patient...!\""
+    ],
+    "16": [
+      "\\nl<Girl>\"……………………………………",
+      "……………………………………\""
+    ],
+    "17": [
+      "The girl, previously as still as a doll, seemed to sense something.",
+      "Her movements, precise as a machine, stirred once more.",
+      "She suddenly turned and dashed past the two of them, ",
+      "heading straight out of the workshop."
+    ],
+    "18": [
+      "\\nl<Boy>\"Ahhh—! See! She's doing it again!!\""
+    ],
+    "19": [
+      "\\nl<Man>\"Sigh... ",
+      "neither of you makes things easy... go catch her quickly!",
+      "And remember, do not let her leave the estate grounds! ",
+      "The barrier here isn't fully stable yet!\""
+    ],
+    "20": [
+      "The boy wanted to argue back, ",
+      "but seeing the girl about to vanish from his sight,",
+      "he could only stomp his feet in frustration ",
+      "and take off after her again."
+    ],
+    "21": [
+      "\\nl<Man>\"..................Sigh.",
+      "I hope time... is still on our side.\""
+    ],
+    "22": [
+      "Standing by the door, the man watched the distant figures—",
+      "the boy finally catching up as the two of them scuffled together.",
+      "He whispered a murmur filled with heavy concern."
+    ],
+    "23": [
+      "Then, as if escaping some dark premonition, ",
+      "he sat back in his chair and buried himself ",
+      "in his research once more."
+    ]
+  },
+  "6": {
+    "1": [
+      "—In the end, Father left us behind."
+    ],
+    "2": [
+      "The experiments had only just started getting somewhere.",
+      "Now he was gone, leaving us and all that unfinished work."
+    ],
+    "3": [
+      "What an irresponsible man...",
+      "He never made it in time when we needed him most.",
+      "...It was the same with Mom."
+    ],
+    "4": [
+      "—And what was going to happen to her now?",
+      "Could I really finish the experiments on my own?"
+    ],
+    "5": [
+      "\\nl<\\str[121]>\"...It's just the two of us now, huh?\""
+    ],
+    "6": [
+      "\\nl<\\str[121]>\"But it's okay. ",
+      "I'll look after you from now on.\""
+    ],
+    "7": [
+      "\\nl<\\str[121]>\"Cooking, making medicine...",
+      "I'll figure it out.\""
+    ],
+    "8": [
+      "\\nl< >\"...Can you make medicine, \\str[121]?\""
+    ],
+    "9": [
+      "\\nl<\\str[121]>\"...N-not really. Not yet.",
+      "But I watched my master work every day!",
+      "There are experiment records! Notes and stuff!",
+      "If I learn from those, I'll figure it out eventually!\""
+    ],
+    "10": [
+      "\\nl< >\"...But you're only a child.\""
+    ],
+    "11": [
+      "\\nl<\\str[121]>\"You're a kid too, you know...?",
+      "You could at least say, 'I'm counting on you, onii-chan.'\""
+    ],
+    "12": [
+      "\\nl< >\"...Why?\""
+    ],
+    "13": [
+      "\\nl< >\"...Why are you still trying so hard?\""
+    ],
+    "14": [
+      "\\nl<\\str[121]>\"What do you mean, why...? ",
+      "You're not better yet.",
+      "I can't just leave you like this too.",
+      "Then I'd be just like him, wouldn't I?\""
+    ],
+    "15": [
+      "\\nl<\\str[121]>\"...I'll carry on with the experiments he left unfinished.",
+      "I'll find a way to make you better!\""
+    ],
+    "16": [
+      "\\nl<\\str[121]>\"Besides, you can't stay in this room forever, can you?",
+      "I wouldn't last two or three days!",
+      "I'm going to be an adventurer and explore the Abyss!\""
+    ],
+    "17": [
+      "\\nl< >\"...Is it bad to stay here?\""
+    ],
+    "18": [
+      "\\nl<\\str[121]>\"It's not bad, but...",
+      "Don't you get bored seeing the same things every day?\""
+    ],
+    "19": [
+      "\\nl< >\"...There's food, and there are books to read.",
+      "There are still lots I haven't finished.\""
+    ],
+    "20": [
+      "\\nl<\\str[121]>\"Aw, what's so fun about reading all day?",
+      "Just thinking about sitting still that long makes me squirm!\""
+    ],
+    "21": [
+      "\\nl< >\"...Books have everything in them.\""
+    ],
+    "22": [
+      "\\nl<\\str[121]>\"But that's just what someone wrote down, right?",
+      "You have to see it with your own eyes to know if it's true!\""
+    ],
+    "23": [
+      "\\nl<\\str[121]>\"Oh, hey, did you know?",
+      "There's even a sea deep down in the Abyss!\""
+    ],
+    "24": [
+      "\\nl<\\str[121]>\"It's underground, but they say it's so big,",
+      "you can't even see where it ends!",
+      "And the water glows!",
+      "It's all sparkly—even prettier than the stars in the sky!\""
+    ],
+    "25": [
+      "\\nl< >\"...There's no sun underground.\""
+    ],
+    "26": [
+      "\\nl<\\str[121]>\"Exactly! No sun, no moon,",
+      "but the sea still glows. Isn't that amazing?\""
+    ],
+    "27": [
+      "\\nl< >\"...Why does it glow?\""
+    ],
+    "28": [
+      "\\nl<\\str[121]>\"I don't know!",
+      "Maybe there's something hiding in the water.",
+      "Maybe it's fish that glow...",
+      "That's why I want to go down there and see!\""
+    ],
+    "29": [
+      "\\nl<\\str[121]>\"And this is a sea in the Abyss.",
+      "Who knows what else is in there!",
+      "Maybe even a River Lord no one's ever seen before!\""
+    ],
+    "30": [
+      "\\nl<\\str[121]>\"I can't even catch a normal fish,",
+      "so I'm even more curious what the River Lord looks like!",
+      "I wish I could see it for myself!\""
+    ],
+    "31": [
+      "\\nl< >\"...What does a glowing sea look like?\""
+    ],
+    "32": [
+      "\\nl<\\str[121]>\"They say it sparkles everywhere,",
+      "from the shore all the way out into the distance.",
+      "When the waves move, the lights sway with them.",
+      "Like all the stars in the sky fell into the water!\""
+    ],
+    "33": [
+      "\\nl<\\str[121]>\"And it's not just one little page in a picture book.",
+      "Look left, look right—it's everywhere!",
+      "You wouldn't know where to look first!\""
+    ],
+    "34": [
+      "\\nl< >\"...Light everywhere.\""
+    ],
+    "35": [
+      "\\nl<\\str[121]>\"Yeah! You can go right up to it,",
+      "take off your shoes, and stand in the shallow water.",
+      "When a wave comes in, all those lights rush up to your feet!\""
+    ],
+    "36": [
+      "\\nl<\\str[121]>\"The water's cool, and there's soft sand under your feet.",
+      "When the wave goes back out, the sand moves with it.",
+      "If you don't stand steady, your feet sink in a little!\""
+    ],
+    "37": [
+      "\\nl<\\str[121]>\"Then the next wave comes in,",
+      "all sparkly, flowing right past your toes...",
+      "Like you're standing among the stars yourself!\""
+    ],
+    "38": [
+      "\\nl< >\"...I want to touch it.\""
+    ],
+    "39": [
+      "\\nl<\\str[121]>\"Then go ahead!",
+      "You can scoop it up and see what those lights really are.",
+      "Oh, let's bring a bottle too!",
+      "Maybe we can take some home!\""
+    ],
+    "40": [
+      "\\nl< >\"...Can I go too?\""
+    ],
+    "41": [
+      "\\nl<\\str[121]>\"Of course! Once you're better, we'll go together.",
+      "So come on, it's something to look forward to!",
+      "There's more out there than the same old things you see every day!\""
+    ],
+    "42": [
+      "\\nl< >\"...When?\""
+    ],
+    "43": [
+      "\\nl<\\str[121]>\"Well... you'll have to wait a bit.",
+      "I have to learn to make medicine first,",
+      "and find the way down there...\""
+    ],
+    "44": [
+      "\\nl<\\str[121]>\"Anyway, I'll come get you when everything's ready!",
+      "We'll see it together, instead of just hearing about it.\""
+    ],
+    "45": [
+      "\\nl< >\"...Bring a bottle.\""
+    ],
+    "46": [
+      "\\nl<\\str[121]>\"I know, I know! I won't forget!\""
+    ],
+    "47": [
+      "\\nl< >\"...It's a promise.\""
+    ],
+    "48": [
+      "\\nl<\\str[121]>\"Yeah, it's a promise!\""
+    ],
+    "49": [
+      "\\c[10]\"This promise must never be forgotten.\""
+    ]
+  }
 }

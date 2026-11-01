@@ -20,8 +20,17 @@
     ],
     "2": [
       "Take a rest",
-      "Do nothing"
-    ]
+      "Do nothing",
+      "Fast travel(Prototype)"
+    ],
+    "warp": {
+      "prompt": [
+        "Which bonfire should I travel to?"
+      ],
+      "none": [
+        "There are no other lit bonfires yet..."
+      ]
+    }
   },
   "8": {
     "objectName": [
@@ -2040,6 +2049,23 @@
       "is to defeat the frailty of its own past...",
       "Right? You are the same, are you not?",
       "O adventurer, you who seek the truth—"
+    ]
+  },
+  "126": {
+    "objectName": [
+      "Awakened Guardian Golem"
+    ],
+    "subtitle": [
+      "Buried Deep Underground"
+    ],
+    "bossName": [
+      "Awakened Guardian Golem"
+    ],
+    "sentouryoku": [
+      "6000"
+    ],
+    "description": [
+      ""
     ]
   }
 }

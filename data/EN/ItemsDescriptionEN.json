@@ -451,6 +451,21 @@
       "HP+75. Temporarily increases Attack Speed and Movement Speed"
     ]
   },
+  "28": {
+    "name": [
+      "Chocolate Milk"
+    ],
+    "subtitle": [
+      "\"Sponsored by:NLCH\""
+    ],
+    "description": [
+      "A drink from a strange vending machine",
+      "Never mind the taste, why is there a vending machine?"
+    ],
+    "ability": [
+      "HP+75, grants a 300-point shield for 10 minutes"
+    ]
+  },
   "30": {
     "name": [
       "Pink Konpeito"
@@ -525,7 +540,12 @@
     ],
     "ability": [
       "Shake vigorously and throw to trigger a massive explosion"
-    ]
+    ],
+    "quickTip": {
+      "1": [
+        "Putting it in the fridge or giving it to \\str[120] to drink might bring a little surprise"
+      ]
+    }
   },
   "41": {
     "name": [
@@ -588,7 +608,12 @@
     ],
     "ability": [
       "Throws a marker that allows position swapping"
-    ]
+    ],
+    "quickTip": {
+      "1": [
+        "Might help you escape from places you cannot leave by normal means…"
+      ]
+    }
   },
   "45": {
     "name": [
@@ -603,7 +628,12 @@
     ],
     "ability": [
       "Throws and swaps positions with the target it touches"
-    ]
+    ],
+    "quickTip": {
+      "1": [
+        "Might help you escape from places you cannot leave by normal means…"
+      ]
+    }
   },
   "46": {
     "name": [
@@ -693,7 +723,13 @@
     ],
     "ability": [
       "When used, a NLCH truck slams into the player"
-    ]
+    ],
+    "quickTip": {
+      "1": [
+        "As soon as the catgirls receive the summoning signal, they come barreling in with horns blaring and the pedal to the metal, so watch out!",
+        "If you happen to get sent flying… you might wake up in another world…"
+      ]
+    }
   },
   "54": {
     "name": [
@@ -753,7 +789,15 @@
     ],
     "ability": [
       "When used, the Death Devil's power manifests here"
-    ]
+    ],
+    "quickTip": {
+      "1": [
+        "The alchemist who made this card has received almost no negative reviews to date…"
+      ],
+      "2": [
+        "The Death Devil's power only affects living creatures, leaving everything else seemingly untouched"
+      ]
+    }
   },
   "60": {
     "name": [
@@ -783,7 +827,15 @@
     ],
     "ability": [
       "When used, summons the Sealed Pillar"
-    ]
+    ],
+    "quickTip": {
+      "1": [
+        "The Sealed Pillar only appears inside the Grand Labyrinth of the Abyss"
+      ],
+      "2": [
+        "The spiritual energy of the Abyss is limited, so the Sealed Pillar can only appear once per day"
+      ]
+    }
   },
   "63": {
     "name": [
@@ -798,7 +850,16 @@
     ],
     "ability": [
       "Summons a Star Door near the player to return to start"
-    ]
+    ],
+    "quickTip": {
+      "1": [
+        "\\str[121]'s special \"The Star\" card is never consumed, and the Star Door's exit seems to be permanently linked to home"
+      ],
+      "2": [
+        "\\str[121]'s Star Door even contains a separate space within it, which also seems to have been specially designed…",
+        "To other adventurers, spatial magic on this scale is a miracle beyond imagination"
+      ]
+    }
   },
   "65": {
     "name": [
@@ -1013,7 +1074,7 @@
       "While active, attacks have a chance to inflict Poison and deal additional magic damage",
       "Slightly increases weapon durability consumption while active"
     ]
-  },  
+  },
   "88": {
     "name": [
       "Bird Leg Meat"
@@ -1047,6 +1108,17 @@
       "Fresh meat carved from a monster. Delicious meat dishes can",
       "be made from it. Monsters eat people, and people eat monsters",
       "This is the natural order"
+    ],
+    "ability": ""
+  },
+  "91": {
+    "name": [
+      "Young Dragon Tail"
+    ],
+    "subtitle": "",
+    "description": [
+      "Thick, meaty tail flesh taken from a young dragon that is still growing",
+      "I feel a little guilty about it… but a dragon's tail should grow back like a lizard's too, right?"
     ],
     "ability": ""
   },
@@ -3947,6 +4019,48 @@
       "Isn't that place just for... when I have to go...?",
       "I feel like... it would be so messy and gross.",
       "Why... would you want to touch a place like that...?\""
+    ],
+    "ability": ""
+  },
+  "472": {
+    "name": [
+      "Morning Care"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "ability": ""
+  },
+  "473": {
+    "name": [
+      "Lewd Treatment I"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "ability": ""
+  },
+  "474": {
+    "name": [
+      "Lewd Treatment II"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "ability": ""
+  },
+  "475": {
+    "name": [
+      "Promise to See the Sea"
+    ],
+    "recallEventName": [
+      "\"...What does a glowing sea look like?\""
+    ],
+    "unlockCondition": [
+      "Completed the Fourth Treatment"
+    ],
+    "subtitle": [
+      "\\c[10]\\{\"This promise must never be forgotten\""
     ],
     "ability": ""
   },
