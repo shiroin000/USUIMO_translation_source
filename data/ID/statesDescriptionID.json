@@ -691,6 +691,16 @@
       "Terkena ${$gameParty.leader().getStateCounter(93)} lapis Waterlogged! ",
       "Kecepatan gerak menurun setiap lapis! Langsung tenggelam jika lebih dari 10 lapis!"
     ]
+  },
+  "96": {
+    "name": [],
+    "subtitle": [
+      "Mistilteinn dalam Kekuatan Penuh——!"
+    ],
+    "description": [
+      "Meningkatkan MAT, memberikan 20 Penetrasi Pertahanan, ",
+      "dan memberikan \\is[4] efek melacak"
+    ]
   },  
   "98": {
     "name": [],

@@ -485,6 +485,42 @@
       "Serangan menghasilkan gelombang pedang yang memberikan damage"
     ]
   },
+  "37": {
+    "name": [
+      "Pedang Iblis Mistilteinn"
+    ],
+    "subtitle": "",
+    "description": [
+      "Pedang cahaya yang diselimuti gelombang merah tua, tampak memiliki kehendaknya sendiri",
+      "Ia menjadi jauh lebih jinak setelah dipukuli hingga tunduk, ",
+      "tetapi jika kamu tidak memberinya makan, ia akan merajuk dan menolak bekerja..."
+    ],
+    "ability": [
+      "Gunakan satu \\ii[20] untuk membangkitkan Mistilteinn, mengaktifkannya selama 10 menit",
+      "Saat aktif, Mistilteinn memperoleh status Kekuatan Penuh",
+      "Saat terbangun, semua serangan melepaskan gelombang pedang",
+      "Saat terbangun, \\ia[81] lain yang terpasang tetapi belum bangkit akan beresonansi",
+      "Saat status aktif berakhir, Mistilteinn akan otomatis melancarkan tebasan berputar sebelum kembali tertidur lelap"
+    ]
+  },
+  "38": {
+    "name": [
+      "Kamui"
+    ],
+    "subtitle": [
+      "\"Wahai Hujan! Basuhlah segalanya, dan singkirkan semua hal di hadapanmu!\""
+    ],
+    "description": [
+      "Tongkat yang begitu ringan hingga terasa nyaris tanpa bobot, ",
+      "gagang-nya terjalin dengan awan lembut yang terus mengalir",
+      "Cukup alirkan sihir ke dalamnya untuk memanggil petir dan hujan deras, ",
+      "menyembunyikan kekuatan yang cukup untuk memicu bencana alam"
+    ],
+    "ability": [
+      "Menembakkan sambaran plasma yang terhubung ke musuh terdekat, menciptakan rantai petir",
+      "Tahan tombol klik kiri untuk merapal \\is[93]"
+    ]
+  },
   "40": {
     "name": [
       "Palu Anti-Bullying"
@@ -698,6 +734,7 @@
     "subtitle": [
       "\"Lepaskan Kekuatan Emas ⬆⬆⬇⬇⬅⮕⬅⮕\""
     ],
+    "coolDown": "Skill sedang cooldown! Tersisa ${} menit!",
     "description": [
       "Pedang iblis emas yang menyilaukan, salah satu harta karun ",
       "sang Administrator Dunia. Pria itu pernah menggunakannya, ",

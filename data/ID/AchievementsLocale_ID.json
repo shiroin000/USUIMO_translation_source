@@ -73,6 +73,11 @@
       "Description": "Menyuruh Imouto memperagakan tiga pertanyaan pengantin baru!",
       "Pop Up Desc": "Tiga Pertanyaan Pengantin Baru!"
     },
+    "ToBeContinued": {
+      "Name": "To Be Continued",
+      "Description": "Mengabadikan momen keajaiban!",
+      "Pop Up Desc": "To Be Continued"
+    },
     "PeopleDieIfTheyAreKilled": {
       "Name": "Orang Mati Kalau Dibunuh?",
       "Description": "HP-mu turun ke nol di Abyss...",

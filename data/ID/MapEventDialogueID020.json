@@ -210,6 +210,31 @@
       "tapi bentuknya tidak pernah mau rapi..."
     ]	
   },
+  "4": {
+    "0": [
+      "\"...Lho? Kenapa lampu lorong masih menyala...?",
+      "Dan kenapa di sini remang-remang sekali...?\""
+    ],
+    "1": [
+      "Sepertinya aku mendengar suara aneh.",
+      "Suara itu berasal dari—"
+    ],
+    "2": [
+      "\"Pintu toiletnya... terbuka?\""
+    ],
+    "3": [
+      "Suara itu terdengar lagi.",
+      "Apakah sesuatu memanggilku ke sana...?"
+    ],
+    "4": [
+      "Lihat ke dalam",
+      "Berbalik dan pergi"
+    ],
+    "5": [
+      "\"Aku tidak bisa melihat apa-apa di dalam...",
+      "Apakah ada orang di sana...?\""
+    ]
+  },
   "6": {
     "0": [
       "\\nl< >\"————————！？\""
