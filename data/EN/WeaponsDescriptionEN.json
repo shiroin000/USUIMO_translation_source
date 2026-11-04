@@ -525,6 +525,22 @@
       "Hold left mouse button to cast \\is[93]"
     ]
   },
+  "39": {
+    "name": [
+      "Mammon's Will"
+    ],
+    "subtitle": "",
+    "description": [
+      "An ornate staff cast entirely in gold, crowned with a golden hand, its index finger raised",
+      "They say this was the Demon of Greed’s favorite gesture",
+      "Follow where the finger points, and even the most unremarkable monster seems to be worth a little more"
+    ],
+    "ability": [
+      "Fires coins or banknotes from your own funds",
+      "Damage varies with the denomination fired",
+      "Hold the right mouse button to cast \\is[105]"
+    ]
+  },
   "40": {
     "name": [
       "Anti-Bullying Hammer"

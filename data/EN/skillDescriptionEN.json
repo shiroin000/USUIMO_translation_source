@@ -419,5 +419,20 @@
       "Releases a shockwave to counter surrounding enemies when taking damage",
       "Releases a healing wave that heals surrounding enemies when healed"
     ]
+  },
+  "105": {
+    "name": [
+      "Gold Transmutation"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      "Temporarily turns all units within the spell’s area of effect into gold, preventing them from acting",
+      "Enemies defeated while still turned to gold drop a large amount of money"
+    ]
   }
 }

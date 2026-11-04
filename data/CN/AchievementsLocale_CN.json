@@ -74,7 +74,7 @@
       "Name": "To Be Continued",
       "Description": "拍下了奇迹的瞬间！",
       "Pop Up Desc": "To Be Continued"
-    },    
+    },
     "PeopleDieIfTheyAreKilled": {
       "Name": "人被杀就会死？",
       "Description": "在深渊里体力归零……",
@@ -159,6 +159,14 @@
       "Name": "不要停下来啊！",
       "Description": "用超高速持续奔跑",
       "Pop Up Desc": "不要停下来啊！"
+    },
+    "DefenseMaxedOut": {
+      "Name": "因为太怕痛所以点满了防御力",
+      "Description": "把防御力堆积到最大值了",
+      "Pop Up Desc": [
+        "\\fs[24]因为太怕痛",
+        "所以点满了防御力"
+      ]
     },
     "YouAreBeingSummoned": {
       "Name": "◉▽◉在召唤你",

@@ -154,6 +154,14 @@
       "Description": "超高速で走り続ける",
       "Pop Up Desc": "止まるんじゃねぇぞ！"
     },
+    "DefenseMaxedOut": {
+      "Name": "痛いのは嫌なので防御力に極振りしました",
+      "Description": "防御力を最大値まで上げた",
+      "Pop Up Desc": [
+        "\\fs[24]痛いのは嫌なので",
+        "防御力に極振りしました"
+      ]
+    },
     "YouAreBeingSummoned": {
       "Name": "よんでますよ、◉▽◉さん",
       "Description": "古代生物を発見！",

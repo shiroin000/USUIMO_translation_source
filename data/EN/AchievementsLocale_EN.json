@@ -172,6 +172,14 @@
       "Description": "Keep running at super high speed",
       "Pop Up Desc": "Don't you ever stop!"
     },
+    "DefenseMaxedOut": {
+      "Name": "I Don't Want to Get Hurt, so I Maxed Out My Defense",
+      "Description": "Raised Defense to its maximum value",
+      "Pop Up Desc": [
+        "\\fs[24]I hate getting hurt…",
+        "so I maxed out Defense!"
+      ]
+    },
     "YouAreBeingSummoned": {
       "Name": "You're Being Summoned, ◉▽◉!",
       "Description": "Ancient creature discovered!",
