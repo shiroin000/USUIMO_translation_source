@@ -20,8 +20,17 @@
     ],
     "2": [
       "Beristirahat",
-      "Tidak melakukan apa-apa"
-    ]
+      "Tidak melakukan apa-apa",
+      "Perjalanan cepat (Prototipe)"
+    ],
+    "warp": {
+      "prompt": [
+        "Mau pindah ke api unggun yang mana?"
+      ],
+      "none": [
+        "Belum ada api unggun lainnya yang menyala..."
+      ]
+    }
   },
   "8": {
     "objectName": [
@@ -999,6 +1008,23 @@
       "para petualang dan koki."
     ]
   },
+  "46": {
+    "objectName": [
+      "Pedang Iblis Mistilteinn"
+    ],
+    "subtitle": [
+      "Disegel di dalam Monumen Batu"
+    ],
+    "bossName": [
+      "Pedang Iblis Mistilteinn"
+    ],
+    "sentouryoku": [
+      "6000"
+    ],
+    "description": [
+      ""
+    ]
+  },
   "47": {
     "objectName": [
       "\\c[114]Gerbang Bintang"
@@ -1096,11 +1122,10 @@
       "?10"
     ],
     "description": [
-      "Slime yang bermutasi setelah tak sengaja ",
-      "memakan seekor kucing menggemaskan,",
-      "dan akibatnya jadi menggemaskan sendiri.",
-      "Ia sudah kehilangan keinginan untuk menyerang,",
-      "tapi akan mengembang seperti kucing saat terancam..."
+      "Slime yang bermutasi setelah tak sengaja menelan",
+      "seekor kucing menggemaskan, hingga ikut menjadi lucu.",
+      "Meskipun sudah kehilangan dorongan aslinya untuk menyerang,",
+      "ia tetap mengembang seperti kucing saat terancam..."
     ],
     "1": [
       "Slime kucing itu sepertinya ",
@@ -1115,11 +1140,10 @@
       "?10"
     ],
     "description": [
-      "Slime yang bermutasi setelah tak sengaja ",
-      "memakan seekor kucing menggemaskan,",
-      "dan akibatnya jadi menggemaskan sendiri.",
-      "Ia sudah kehilangan keinginan untuk menyerang,",
-      "tapi akan mengembang seperti kucing saat terancam..."
+      "Slime yang bermutasi setelah tak sengaja menelan",
+      "seekor kucing menggemaskan, hingga ikut menjadi lucu.",
+      "Meskipun sudah kehilangan dorongan aslinya untuk menyerang,",
+      "ia tetap mengembang seperti kucing saat terancam..."
     ],
     "1": [
       "Slime kucing itu sepertinya ",
@@ -1134,11 +1158,10 @@
       "?10"
     ],
     "description": [
-      "Slime yang bermutasi setelah tak sengaja ",
-      "memakan seekor kucing menggemaskan,",
-      "dan akibatnya jadi menggemaskan sendiri.",
-      "Ia sudah kehilangan keinginan untuk menyerang,",
-      "tapi akan mengembang seperti kucing saat terancam..."
+      "Slime yang bermutasi setelah tak sengaja menelan",
+      "seekor kucing menggemaskan, hingga ikut menjadi lucu.",
+      "Meskipun sudah kehilangan dorongan aslinya untuk menyerang,",
+      "ia tetap mengembang seperti kucing saat terancam..."
     ],
     "1": [
       "Slime kucing itu sepertinya ",
@@ -1153,11 +1176,11 @@
       "?10"
     ],
     "description": [
-      "Slime yang bermutasi setelah tak sengaja ",
-      "memakan seekor kucing menggemaskan,",
-      "dan akibatnya jadi menggemaskan sendiri.",
-      "Ia sudah kehilangan keinginan untuk menyerang,",
-      "tapi akan mengembang seperti kucing saat terancam..."
+      "Slime yang bermutasi setelah tak sengaja menelan",
+      "seekor kucing menggemaskan, hingga ikut menjadi lucu.",
+      "Meskipun sudah kehilangan dorongan aslinya untuk menyerang,",
+      "ia tetap mengembang seperti kucing saat terancam...",
+      "Ngomong-ngomong, sepertinya ia juga suka bernyanyi."
     ],
     "1": [
       "Slime kucing itu sepertinya ",
@@ -2026,6 +2049,23 @@
       "adalah mengalahkan kelemahan masa lalunya sendiri...",
       "Benar? Kamu juga sama, bukan?",
       "Oh petualang, kamu yang mencari kebenaran—"
+    ]
+  },
+  "126": {
+    "objectName": [
+      "Golem Penjaga yang Terbangun"
+    ],
+    "subtitle": [
+      "Terkubur Jauh di Bawah Tanah"
+    ],
+    "bossName": [
+      "Golem Penjaga yang Terbangun"
+    ],
+    "sentouryoku": [
+      "6000"
+    ],
+    "description": [
+      ""
     ]
   }
 }

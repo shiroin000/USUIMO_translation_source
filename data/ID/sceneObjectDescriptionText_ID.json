@@ -114,5 +114,24 @@
     "✦Celana dalam yang baru saja dilepas \\str[120].",
     "Masih hangat karena tubuhnya, dan bagian kecil ",
     "kain di tengahnya tampak basah kuyup."
-  ]
+  ],
+  "Fridge": {
+    "objectName": "Kulkas LV1",
+    "objectDescription": [
+      "Kulkas besar dengan banyak ruang untuk bahan-bahan segar",
+      "Rak pintunya milik \\str[120], ",
+      "dikhususkan untuk minuman favoritnya",
+      "Setiap hari memperlihatkan pemandangan menggemaskan saat ia mengendap-endap ",
+      "untuk berburu minuman dingin"
+    ],
+    "storedCount": "Jumlah Tersimpan",
+    "drinkCapacity": "Kapasitas Minuman",
+    "affectionDrinkGain": "Perolehan Afeksi Saat Diminum",
+    "moodDrinkGain": "Perolehan Suasana Hati Saat Diminum",
+    "affectionPledgeReward": "Perolehan Afeksi Otomatis Harian",
+    "moodPledgeReward": "Perolehan Suasana Hati Otomatis Harian",
+    "allDrinksCollected": [
+      "Semua varian rasa telah tersedia! Cukup untuk membuat \\str[120] senang dalam waktu yang lama!"
+    ]
+  }
 }

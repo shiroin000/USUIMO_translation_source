@@ -448,7 +448,9 @@
     "name": [
       "Pukulan Neko"
     ],
-    "subtitle": "",
+    "subtitle": [
+      "\"Hyaa—!! Jangan macam-macam denganku nya!\""
+    ],
     "description": [
       "\"Hyaa—!! Jangan macam-macam sama aku nya!\"",
       "Sarung tangan kaki kucing berlapis lembut, senjata kebanggaan seorang catgirl tertentu",
@@ -580,7 +582,7 @@
       "Siapa pun yang memakainya, akan terlihat sangat menggemaskan!"
     ],
     "ability": [
-      "Diberkahi keberuntungan! Barang lebih mungkin jatuh!"
+      "Mengalahkan musuh memiliki 25% peluang untuk memicu drop tambahan"
     ]
   },
   "42": {
@@ -986,7 +988,8 @@
     ],
     "ability": [
       "Kebal terhadap status Terbakar dan Sengatan Panas",
-      "Meningkatkan damage pecah yang diberikan saat memecahkan status Beku musuh"
+      "Melapisi senjata jarak dekat dan busur dengan es, memberi serangan peluang untuk menimbulkan status Beku",
+      "Meningkatkan efek hawa dingin dan damage pecah yang dihasilkan saat memecahkan status Beku musuh"
     ]
   },
   "72": {
@@ -1031,6 +1034,7 @@
       "memberikan wawasan lebih dalam tentang api saat dipelajari."
     ],
     "ability": [
+      "Meningkatkan peluang serangan berelemen api untuk menimbulkan status Terbakar dan memperluas jangkauan serangan gelombang pedang api",
       "Memperkuat damage dan bentuk sihir elemen api"
     ]
   },
@@ -1123,6 +1127,54 @@
     "ability": [
       "Sedikit meningkatkan semua stat",
       "Memperbesar semua servant dan meningkatkan atribut spesial mereka"
+    ]
+  },
+  "81": {
+    "name": [
+      "Bantuan Mistilteinn"
+    ],
+    "subtitle": "",
+    "description": [
+      "Pedang cahaya yang diselimuti gelombang merah tua, tampak memiliki kehendaknya sendiri",
+      "Ia menjadi jauh lebih jinak setelah dipukuli hingga tunduk,",
+      "tetapi jika kamu tidak memberinya makan, ia akan merajuk dan menolak bekerja..."
+    ],
+    "ability": [
+      "Otomatis menyerang musuh di sekitar sebagai servant",
+      "Gunakan satu \\ii[20] untuk membangkitkan Mistilteinn, mengaktifkannya selama 10 menit",
+      "Saat aktif, Mistilteinn menjadi lebih agresif dan memperoleh akses ke serangan tambahan",
+      "Saat status aktif berakhir, Mistilteinn akan otomatis melancarkan tebasan berputar sebelum kembali ke kondisi normalnya"
+    ]
+  },
+  "82": {
+    "name": [
+      "Jantung Viper"
+    ],
+    "subtitle": "",
+    "description": [
+      "Cincin menyeramkan berwujud ular berbisa yang menggigit ekornya sendiri",
+      "Racunnya bersirkulasi tanpa henti di dalamnya, tak pernah memudar",
+      "Pada akhirnya, sang ular bahkan tak mengampuni dirinya sendiri, dan bisanya menjadi abadi"
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "83": {
+    "name": [
+      "Inti Penjaga"
+    ],
+    "subtitle": "",
+    "description": [
+      "Inti energi yang diekstraksi dari Golem Penjaga",
+      "Tak ada yang tahu siapa yang menciptakan golem ini atau kapan ia ditempatkan di sini",
+      "Bahkan apa yang dulu dijaganya… sudah lama hilang ditelan sejarah",
+      "Hanya kristal energi sihir pada inti ini yang masih bersinar terang hingga hari ini"
+    ],
+    "ability": [
+      "Saat dipasang, otomatis memberikan satu lapis perisai setiap 10 menit",
+      "Saat perisai aktif, meningkatkan Pertahanan Fisik sebesar 24 tambahan",
+      "Saat perisai aktif, mengurangi peluang terkena status Racun, Bleed, Petir, Terbakar, atau Beku"
     ]
   },
   "100": {
@@ -1340,6 +1392,22 @@
     ],
     "ability": []
   },
+  "202": {
+    "name": [
+      "Mimpi Sang Janin"
+    ],
+    "subtitle": [
+      "\"Wahai Janin, wahai Janin,",
+      "Mengapa engkau menggeliat?",
+      "Begitu menakutkankah mengetahui isi hati ibumu?\""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
+    ]
+  },
   "295": {
     "name": [
       "Sayap Kristal Ratu Peri"
@@ -1385,7 +1453,8 @@
       "melawan mekanisme kematian instan"
     ],
     "ability": [
-      "Memulihkan 100% HP per detik saat dipasang"
+      "Memulihkan 100% HP per detik saat dipasang",
+      "Secara otomatis membuat kontrak dengan \\dMPFCstart[TraumaRescueTeam] dan memungkinkan penyelamatan terpicu setiap kali kamu tumbang"
     ]
   },
   "298": {

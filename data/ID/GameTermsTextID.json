@@ -1,0 +1,38 @@
+{
+  "Receptiveness": {
+    "name": "Tingkat Penerimaan \\str[120]",
+    "description": [
+      "Mengukur seberapa terbuka \\str[120] terhadap permintaan mesum dari \\str[121].",
+      "Skor dasar dihitung dari berbagai Hati yang saat ini dimiliki \\str[120]:",
+      "\\dimg[15] = 1    \\dimg[16] = 2",
+      "\\dimg[17] = 1    \\dimg[18] = 2",
+      "\\dimg[19] = 2    \\dimg[20] = 3",
+      "\\dimg[21] = 3",
+      "Saat dalam kondisi birahi, mendapatkan tambahan 2 poin.",
+      "Saat suasana hati baik, secara acak mendapatkan 0–2 poin.",
+      "Saat suasana hati buruk, secara acak kehilangan 0–2 poin.",
+      "Tingkat Penerimaan \\str[120] saat ini: ${QJ.MPMZ.tl.canImoutoAcceptHentaiRequest({ predictedScore: true })}"
+    ]
+  },
+  "Koufun": {
+    "name": "Gairah",
+    "description": [
+      "Mengukur tingkat hasrat seksual \\str[121].",
+      "Pemberitahuan akan muncul di status bar saat nilainya di atas 20.",
+      "Meningkat dengan melakukan tindakan nakal atau tidur setiap hari.",
+      "Event tertentu membutuhkan jumlah Gairah dalam batas tertentu.",
+      "Ejakulasi akan langsung mengosongkan seluruh Gairah dan memasuki Mode Bijak.",
+      "Semua stat meningkat saat berada dalam Mode Bijak."
+    ]
+  },
+  "TraumaRescueTeam": {
+    "name": "Trauma Rescue Team",
+    "description": [
+      "\"Karena kamu dengan tulus telah memanggil bantuan kami!\"",
+      "\"Kami dengan senang hati akan menjawab permohonanmu!\"",
+      "Perawat kembar yang menjelajah antar dunia. Buat kontrak dengan mereka untuk mendapatkan layanan penyelamatannya.",
+      "Saat HP-mu mencapai nol dan proses kematian dimulai, Trauma Rescue Team akan otomatis muncul dan berusaha melakukan resusitasi darurat.",
+      "Rumornya, mereka bahkan tidak memiliki izin praktik medis."
+    ]
+  }
+}
