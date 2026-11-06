@@ -2,6 +2,26 @@
   "gameTitle": [
     "Hidup Sederhana Bersama Adik Pendiamku"
   ],
+  "versionAnnotation": {
+    "majorTitle": "Versi Utama ${}",
+    "majorBody": [
+      "Versi utama diperbarui saat ada event dan gameplay baru yang ditambahkan",
+      "Masuk dengan akun terverifikasi untuk mendapatkan versi baru",
+      "Atau unduh manual versi terbaru dari toko pembelianmu"
+    ],
+    "patchTitle": "Patch Minor ${}",
+    "patchBody": [
+      "Perbaikan bug berkala dan peningkatan kenyamanan bermain",
+      "Beberapa konten eksperimental mungkin juga ditambahkan melalui patch",
+      "Kamu akan menerima pemberitahuan di dalam game saat patch dirilis"
+    ],
+    "revisionTitle": "Revisi ${}",
+    "revisionBody": [
+      "Pop-up pembaruan yang terlalu sering dirasa kurang elegan",
+      "Perbaikan darurat dan penyesuaian kecil akan diterapkan secara senyap",
+      "Mulai ulang game setelah pembaruan senyap untuk memuat data terbaru"
+    ]
+  },
   "goldHeld": [
     "Emas"
   ],
@@ -56,11 +76,17 @@
   "ShowWeaponDurability": [
     "Tampilkan Ketahanan Senjata"
   ],
+  "fullUIMode": [
+    "Tombol Selalu Disorot"
+  ],
   "DisableAutoUpdate": [
     "Nonaktifkan Pembaruan Otomatis"
   ],
   "LockedFPS": [
     "Kunci 60 FPS"
+  ],
+  "FPSDisplay": [
+    "Tampilkan Monitor FPS"
   ],
   "ZakoMode": [
     "ZAKO Mode"
@@ -164,6 +190,14 @@
     "Pembaruan otomatis besar kini tersedia, tetapi khusus untuk pengguna yang telah menyelesaikan sistem verifikasi kepemilikan resmi. ",
     "Jika kamu tidak dapat menyelesaikan verifikasi, kamu tetap perlu mengunduh ulang game dari saluran resmi untuk memperbarui."
   ],
+  "outdatedVersionWarningForJapanPlatform": [
+    "Pembaruan versi utama game telah tersedia. Versi terbaru adalah ${}.",
+    "Pembaruan otomatis untuk versi utama hanya tersedia bagi pengguna yang telah masuk dan menyelesaikan verifikasi pembelian.",
+    "Salinan game yang kamu gunakan saat ini berasal dari DLsite atau FANZA.",
+    "Platform ini saat ini belum mendukung verifikasi pembelian, sehingga pembaruan otomatis untuk versi utama tidak tersedia.",
+    "Silakan unduh dan pasang versi terbaru dari platform tempat kamu membeli game ini.",
+    "Setelah memperbarui, kamu dapat memindahkan file save secara manual atau menggunakan fitur cloud save untuk melanjutkan progresmu."
+  ],
   "renameCharacter": [
     "Aku ingat sekarang—",
     "dia adalah..."
@@ -248,6 +282,15 @@
     "notLoggedIn": "Belum Masuk",
     "RequestingLogin": "Meminta tautan login...",
     "openingWindow": "Membuka jendela login Patreon...",
+    "saikeyVerify": "Verifikasi pembelian dengan Saikey",
+    "saikeyVerified": "Pembelian Saikey terverifikasi. Pembaruan versi utama telah tersedia.",
+    "saikeyNotOwned": "Akun Saikey ini tidak memiliki game ini.",
+    "saikeySessionInvalid": "Masuk kembali dengan platform asalmu sebelum menautkan Saikey.",
+    "saikeyConflict": "Akun pemain ini memiliki identitas platform yang berbenturan.",
+    "saikeySaveConflict": "Kedua akun memiliki simpanan di slot cloud yang sama. Kedua akun beserta data simpanannya tetap dipertahankan.",
+    "saikeyRetry": "Pilih Saikey untuk memverifikasi ulang pembelianmu.",
+    "saikeyUnavailable": "Verifikasi Saikey tidak tersedia. Silakan coba lagi.",
+    "saikeyWaiting": "Selesaikan verifikasi Saikey di browsermu.",
     "chooseLoginMethod": "Pilih platform untuk masuk",
     "openingWindowItch": "Membuka jendela login itch.io...",
     "cloudSave": "Gunakan Cloud Save",
@@ -276,6 +319,8 @@
     "title": "Cloud Save",
     "lastSync": "Terakhir Disinkronkan: ",
     "neverSynced": "Belum Pernah Disinkronkan",
+    "nextUploadIn": "(Unggah berikutnya dapat dilakukan dalam %1 jam %2 menit)",
+    "nextSaveWillUpload": "(Simpanan cloud akan terunggah secara otomatis pada penyimpanan berikutnya)",
     "loading": "Memuat cloud saves...",
     "hint": "Unduh satu cloud save, atau gunakan tombol atas untuk menyinkronkan semua (menimpa slot lokal yang cocok)",
     "empty": "Tidak ada simpanan di cloud!",
@@ -331,6 +376,7 @@
     "28": "Katakombe Terlupakan:Lapisan Atas",
     "37": "Labirin Reruntuhan Dangkal",
     "40": "Situs Penggalian",
+    "44": "Hutan Tersesat",
     "46": "Situs Penggalian",
     "47": "Hutan Reruntuhan",
     "48": "Jalur Petualang:Monumen",
@@ -345,7 +391,8 @@
     "59": "Situs Penggalian",
     "60": "Situs Penggalian",
     "61": "Situs Penggalian",
-    "62": "Jalur Petualang:Rumpun Pohon"
+    "62": "Jalur Petualang:Rumpun Pohon",
+    "73": "Situs Penggalian:Reruntuhan Terbengkalai"
   },
   "AdventurersPathway": {
     "mapName": "Jalur Petualang"
@@ -369,6 +416,10 @@
   "TheFallenChurch": {
     "mapName": "Gereja yang Jatuh",
     "mapDescription": "domba kesayanganku! Mengapa engkau meninggalkanku?"
+  },
+  "ThePureChurch": {
+    "mapName": "Gereja yang Murni",
+    "mapDescription": "Berbahagialah orang yang suci hatinya, karena mereka akan melihat Allah."
   },
   "DoorofStar": {
     "mapName": "Gerbang Bintang"

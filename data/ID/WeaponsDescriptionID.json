@@ -521,6 +521,22 @@
       "Tahan tombol klik kiri untuk merapal \\is[93]"
     ]
   },
+  "39": {
+    "name": [
+      "Kehendak Mammon"
+    ],
+    "subtitle": "",
+    "description": [
+      "Tongkat megah yang seluruhnya ditempa dari emas, bermahkotakan tangan emas dengan jari telunjuk teracung",
+      "Konon ini gestur favorit sang Iblis Keserakahan",
+      "Ikuti arah yang ditunjuk jarinya, monster paling biasa pun tampak jadi sedikit lebih berharga"
+    ],
+    "ability": [
+      "Menembakkan koin atau uang kertas dari uangmu sendiri",
+      "Damage bervariasi sesuai nominal yang ditembakkan",
+      "Tahan tombol klik kanan untuk merapal \\is[105]"
+    ]
+  },
   "40": {
     "name": [
       "Palu Anti-Bullying"
