@@ -265,12 +265,6 @@
       "Aku menemukan ini di bawah tempat tidurmu saat ",
       "aku sedang membersihkan kamar hari ini!!\""
     ],
-    "16.5": [
-      "\\nl< >\"Aku sudah curiga sebelumnya kalau ",
-      "kamu diam-diam mengoleksi barang-barang ini...",
-      "Tapi tumpukannya terus bertambah!",
-      "Kamu punya banyak hal yang harus dijelaskan!\""
-    ],
     "17": [
       "\\str[120] minggir ke samping memperlihatkan kotak karton besar ",
       "yang berisi berbagai macam barang.",
@@ -355,6 +349,12 @@
     "34": [
       "\\{\\c[2]",
       "Kamu sekarang bisa memberikan uang jajan kepada \\str[120]!"
+    ],
+    "16.5": [
+      "\\nl< >\"Aku sudah curiga sebelumnya kalau ",
+      "kamu diam-diam mengoleksi barang-barang ini...",
+      "Tapi tumpukannya terus bertambah!",
+      "Kamu punya banyak hal yang harus dijelaskan!\""
     ]
   },
   "5": {
@@ -468,6 +468,308 @@
       "lalu perlahan mengintip ke dalam——"
     ]
   },
+  "8": {
+    "1": [
+      "\"Mandi dulu yuk... ",
+      "Aku udah keringatan begini soalnya.\""
+    ],
+    "2": [
+      "\\nl< >\"Kalau gitu biar aku siapin air mandinya~! ",
+      "\\str[121] istirahat dulu aja ya~!\""
+    ],
+    "3": [
+      "Ajak \\str[120]",
+      "Tidak Usah"
+    ],
+    "4": [
+      "\\nl< >\"A-Aku harus ikut mandi bareng kamu juga?\""
+    ],
+    "5": [
+      "\\nl< >\"...Gak mau ah! ",
+      "Kamu kan lagi keringat gitu, \\str[121]! ",
+      "Ngapain juga aku harus ikut mandi bareng kamu...?\""
+    ],
+    "6": [
+      "\"Eeeh... Berhubung kamu lagi main peran jadi istri pengantin baru, ",
+      "bukannya harus mendalami perannya dengan benar? ",
+      "Membasuh lelah dan keringat suami yang sudah bekerja keras seharian ",
+      "adalah kewajiban paling mendasar seorang istri pengantin baru lho.\""
+    ],
+    "7": [
+      "\\nl< >\"I-Istri pengantin baru?! Kenapa kamu mendadak bilang begitu?! ",
+      "Yang kuomongin tadi kan cuma dialog yang kutiru dari TV...!\""
+    ],
+    "8": [
+      "Ternyata dia sendiri sama sekali gak sadar dengan apa yang dia ucapkan barusan...",
+      "Dia bahkan gak tahu acara macam apa yang dia tonton..."
+    ],
+    "9": [
+      "\\nl< >\"P-Pokoknya! ",
+      "Aku mau siapin air mandinya dulu~~! ",
+      "Pengantin baru atau apalah itu~! ",
+      "Masih kecepetan tahu gak~~!\""
+    ],
+    "10": [
+      "Dengan wajah yang memerah, \\str[120] lari ke kamar mandi seolah kabur terbirit-birit.",
+      "Tapi... apa cuma perasaanku saja atau dia sebenarnya kelihatan agak senang ya?"
+    ],
+    "11": [
+      "\\nl< >\"Eh? M-Memangnya harus begitu ya...?\""
+    ],
+    "12": [
+      "Tampaknya dia malu sekali dengan sebutan 'istri pengantin baru',",
+      "wajah \\str[120] seketika merona merah, ",
+      "dan kedua telinga panjangnya bergerak-gerak gelisah.",
+      "Tapi melihat reaksinya ini... sepertinya aku punya kesempatan?"
+    ],
+    "13": [
+      "\"Iya, betul banget~ Bisa dibilang semacam 'latihan jadi pengantin', kan? ",
+      "Terbiasa dengan kewajiban seorang istri sejak dini kan bagus buat latihan \\str[120] juga~ ",
+      "\\}Cuma bercanda kok!\""
+    ],
+    "14": [
+      "\\nl< >\"Ugh... L-Latihan jadi pengantin atau apalah itu...! ",
+      "I-Iya deh, aku ngerti...! Tinggal mandi bareng kan...! ",
+      "Lagian... lagian rasanya bakal sama kayak biasanya juga...\""
+    ],
+    "15": [
+      "Padahal rona merahnya sudah menjalar sampai ke lehernya,",
+      "\\str[120] pura-pura bersikap tenang, sambil membusungkan dadanya seolah dia ",
+      "masih punya kendali. Kalau dilihat-lihat begini... ",
+      "dia beneran kelihatan mirip istri pengantin baru."
+    ],
+    "16": [
+      "\\nl< >\"...Mandi bareng? Boleh aja sih... ",
+      "\\str[121] kan sudah kerja keras seharian, jadi kamu memang pantas dapat hadiah manis♥\""
+    ],
+    "17": [
+      "\"Kalau gitu... Saatnya menikmati \\str[120] duluan~! ",
+      "Mwahahaha, asiiik~~\""
+    ],
+    "18": [
+      "Demi mengimbangi akting \\str[120],",
+      "aku memasang wajah penjahat licik ",
+      "dari komik pasca-kiamat,",
+      "merentangkan kedua tanganku dengan senyum jahat dan perlahan mendekatinya."
+    ],
+    "19": [
+      "\\nl< >\"Kyaaa~ Yaah~ Aah~! Aku mau dimakan \\str[121]~~!\""
+    ],
+    "21": [
+      "\\nl< >\"Kamu mau mandi dulu?    \\w[60]",
+      "Kamu mau makan malam dulu?                \\w[60]",
+      "Atau kamu maunya..."
+    ],
+    "22": [
+      "\\nl< >\\{\"A·k·u~?\""
+    ],
+    "23": [
+      "—Gaya sambutan macam apa lagi ini!?",
+      "Gawat! \\str[120] imutnya bahaya banget~!"
+    ],
+    "24": [
+      "Makan \\str[120] dulu",
+      "Mandi dulu",
+      "Makan malam dulu"
+    ],
+    "25": [
+      "\"Makan malam dulu deh!\""
+    ],
+    "26": [
+      "\\nl< >\"Maaf ya~ Aku belum masak sama sekali~\""
+    ],
+    "27": [
+      "\"—Eh.\""
+    ],
+    "28": [
+      "\\nl< >\"Tadi aku nonton ini di TV dan kelihatannya seru banget~\""
+    ],
+    "29": [
+      "\\nl< >\"Tapi kalau \\str[121] memang mau makan, ",
+      "aku sebenarnya baru aja dapat ide resep masakan baru nih~!\""
+    ],
+    "30": [
+      "\"—Eeeh!?\""
+    ],
+    "31": [
+      "Bahkan sebelum rasa kagetku reda, ",
+      "\\str[120] sudah berlari kecil ke dapur dengan wajahnya yang berseri-seri.",
+      "Mengingat masakan yang pernah dibuat \\str[120] dulu, ",
+      "hawa dingin seketika meremang di punggungku."
+    ],
+    "32": [
+      "\"Buat jaga-jaga... mending kulihat dulu deh...\""
+    ],
+    "33": [
+      "Saat aku mendekatinya pelan-pelan dengan tangan terentang,",
+      "\\str[120] sama sekali gak kelihatan takut. Malahan, dia terus tertawa kecil.",
+      "Dengan langkah ringan, dia berlari ke sana kemari di pintu masuk, ",
+      "gesit menghindari setiap sergapanku yang ingin menangkapnya."
+    ],
+    "34": [
+      "Jatuhkan \\str[120]",
+      "Terkam \\str[120]"
+    ],
+    "35": [
+      "\"Sialan... Jangan terlalu sombong!\""
+    ],
+    "36": [
+      "Sambil berteriak heboh, aku menekuk lutut lalu menghentak lantai,",
+      "melesat ke udara dengan segenap kekuatanku,",
+      "lalu menerjang ke arah \\str[120] bak seekor serigala lapar yang memburu mangsanya!"
+    ],
+    "37": [
+      "\\nl< >\"Lam~bat ba~nget~!\""
+    ],
+    "38": [
+      "\\str[120] tampaknya sudah tahu persis ke mana aku bakal mendarat.",
+      "Tepat saat aku hendak menyergapnya, dia meliuk ringan ke samping.",
+      "Saat aku melayang melewatinya, dia bahkan sempat-sempatnya berbalik dan mengejekku sambil menjulurkan lidah."
+    ],
+    "39": [
+      "BRUKK——!!"
+    ],
+    "40": [
+      "Karena sasaran menghilang, mustahil bagiku mengerem mendadak.",
+      "Sergapanku gagal total dan aku terbanting keras ke lantai dengan posisi yang sangat memalukan."
+    ],
+    "41": [
+      "\\nl< >\"Hahahahaha~! \\str[121], kamu konyol banget! Dasar bodoh, bodoh~!\""
+    ],
+    "42": [
+      "\\str[120] menatap ke bawah ke arahku yang terkapar di lantai, ",
+      "tertawa terpingkal-pingkal sampai memegangi perutnya."
+    ],
+    "43": [
+      "\\nl< >\"Ehehe~ Kamu gak bisa nangkep aku, \\str[121], jadi aku yang menang~♪",
+      "Dan karena kamu kalah, makan malam nanti jadi tugas \\str[121] ya~!\""
+    ],
+    "44": [
+      "\"Hey, sejak kapan ada hukuman buat yang kalah begini...?\""
+    ],
+    "45": [
+      "\\nl< >\"Ba~ru sa~ja kutentukan~♪\""
+    ],
+    "46": [
+      "\\str[120] berjongkok lalu mengelus dahiku yang agak nyeri sambil tersenyum.",
+      "Lalu sebelum aku sempat memprotes, ",
+      "dia langsung bangkit dan berlari ke ruang makan sambil tertawa kecil."
+    ],
+    "47": [
+      "Menatap \\str[120] yang berlari pergi dengan penuh kemenangan, ",
+      "aku hanya bisa pasrah mengakui kekalahan dan bangkit dari lantai.",
+      "",
+      "",
+      "...Lain kali, aku gak boleh asal menerjang frontal sebodoh tadi lagi.",
+      "Aku harus cari akal lain buat ngasih pelajaran ke bocah sombong itu."
+    ],
+    "48": [
+      "\"...Jangan kira trik yang sama bakal mempan dua kali padaku!\""
+    ],
+    "49": [
+      "Kali ini, ",
+      "bukannya menerjang serampangan ke arah \\str[120] lagi, aku mendadak merendahkan kuda-kudaku,",
+      "memperhatikan ke arah mana dia bakal menghindar, lalu meluncur cepat menyusur lantai."
+    ],
+    "50": [
+      "\\nl< >\"E-Eeeh...!?\""
+    ],
+    "51": [
+      "Dia jelas gak menyangka aku bakal melancarkan serangan kejutan semacam ini.",
+      "Terlambat sepersekian detik, \\str[120] buru-buru memutar tubuhnya untuk menghindar, ",
+      "tapi tetap tersandung olehku yang melesat tepat di kakinya,",
+      "hingga kehilangan keseimbangan dan terjatuh ke depan."
+    ],
+    "52": [
+      "Tapi aku sudah memperhitungkan hal itu dan langsung mengulurkan kedua tangan,",
+      "menangkap \\str[120] dengan sigap sebelum dia membentur lantai ",
+      "lalu menariknya langsung ke dalam dekapanku."
+    ],
+    "53": [
+      "\\nl< >\"Kyaa...! T-Tunggu... Uwaa!?\""
+    ],
+    "54": [
+      "\"Hehehe...! Kena kamu sekarang kan?\""
+    ],
+    "55": [
+      "Dengan bangga aku berdiri sambil menggendong \\str[120] di lenganku.",
+      "Terkunci erat dalam dekapanku, \\str[120] cuma bisa menggeliat kesal, ",
+      "kedua kakinya menendang-nendang di udara, tapi sekeras apa pun dia meronta,",
+      "kali ini aku gak bakal membiarkannya lolos lagi."
+    ],
+    "56": [
+      "\\nl< >\"C-Curang! Barusan gak sah! Gak dihitung tahu!",
+      "Pake ngejegal segala... Cara curang kayak gitu pelanggaran! ",
+      "Kamu gak boleh nangkep dengan cara begitu!\""
+    ],
+    "57": [
+      "Sadar gak bisa melepaskan diri, ",
+      "\\str[120] menggembungkan pipinya dan melotot ke arahku dengan kesal.",
+      "Padahal sudah tertangkap basah di lenganku, ",
+      "dia tampaknya tetap gak mau mengakui kekalahannya."
+    ],
+    "58": [
+      "\"Kita kan gak pernah bikin aturan cara nangkepnya gimana?",
+      "Yang menang yang berkuasa dong~ Mau gimana pun juga, kali ini aku yang menang.\""
+    ],
+    "59": [
+      "Dengan wajah polos tanpa dosa aku membela diri dengan dalih konyol itu, ",
+      "sambil semakin mengeratkan pelukanku pada \\str[120].",
+      "Melihatnya yang jelas-jelas pengen membantah tapi tak bisa menemukan kata-kata,",
+      "aku tak bisa menahan diri untuk menyeringai nakal."
+    ],
+    "60": [
+      "\"Karena kamu sudah berhasil kutangkap—",
+      "sekarang saatnya mikirin gimana cara memakanmu sebagai hukumannya ya~\""
+    ],
+    "61": [
+      "\\nl< >\"D-Dimakan!? ",
+      "T-Tunggu! Tadi kan kita cuma main kejar-kejaran!?",
+      "Sejak kapan yang ketangkap ada hukumannya juga begini~!?\""
+    ],
+    "62": [
+      "\"Ba~ru sa~ja kubuat~♪\""
+    ],
+    "63": [
+      "\\nl< >\"W-Waaaaaaaah—!\""
+    ],
+    "64": [
+      "Akhirnya sadar ia sedang dalam masalah besar, ",
+      "\\str[120] panik dan mulai meronta makin putus asa dalam pelukanku.",
+      " ",
+      " ",
+      "Tapi semuanya sudah terlambat. ",
+      "Karena sudah sepenuhnya jadi mangsaku, dia cuma bisa merengek pasrah tanpa daya,",
+      "saat aku menggendongnya erat-erat menuju ke ruang makan."
+    ],
+    "65": [
+      "Melihatnya menggembungkan pipinya dengan cemberut,",
+      "aku menahan tawa dan memutuskan untuk berhenti menggodanya."
+    ],
+    "66": [
+      "\"Iya, iya, kali ini kita anggap seri deh.",
+      "Tapi gantinya, urusan makan malam nanti kuserahkan padamu ya?",
+      "Abis lari-larian begini perutku jadi lapar banget nih.\""
+    ],
+    "67": [
+      "\\nl< >\"...Iya deh.",
+      "Tapi berhubung kamu udah terlanjur gendong aku begini,",
+      "bawa aku ke ruang makan kayak gini ya, \\str[121]~\""
+    ],
+    "68": [
+      "Begitu tahu aku gak mempermasalahkan siapa yang menang,",
+      "wajah cemberut \\str[120] langsung luntur.",
+      "Dia tersenyum manis sambil mengangkat tangannya menunjuk ke arah ruang makan."
+    ],
+    "69": [
+      "\\nl< >\"Berangkaaat~! ",
+      "Nanti pas sampai, aku bakal masakin makan malam buat \\str[121] ya.\""
+    ],
+    "70": [
+      "\"Pinter banget ya kamu nyuruh-nyuruh... ",
+      "Oke, iya deh, kalau gitu aku serahkan makan malamnya padamu ya.\""
+    ]
+  },
   "9": {
     "0": [
       "Kehangatan di pelukanku mengingatkanku bahwa ",
@@ -539,49 +841,17 @@
       "Kerja bagus hari ini!\""
     ],
     "21": [
-      "\\nl< >\"Mau mandi dulu?    \\w[120]",
-      "Mau makan malam dulu?                \\w[120]",
-      "Atau kamu lebih suka..."
+      "\\nl< >\"Mau nyiapin makan malam sekarang? Aku bantu ya~!\""
     ],
     "22": [
-      "\\nl< >\\{\"Makan·Aku~?\""
+      "\\nl< >\"Malam ini kamu bakal biarin aku masak makan malam lagi, ",
+      "kan, \\str[121]~?\""
     ],
     "23": [
-      "—Gaya sambutan baru macam apa ini!?",
-      "Bahaya ini! \\str[120] terlihat imut secara berbahaya~!"
+      "Iya ya, sudah waktunya makan malam. Selanjutnya apa yang harus kita lakukan?"
     ],
     "24": [
-      "Makan \\str[120] dulu",
-      "Mandi dulu",
-      "Makan malam dulu"
-    ],
-    "25": [
-      "\"Ayo makan malam dulu!\""
-    ],
-    "26": [
-      "\\nl< >\"Maaf~ aku belum memasak apa-apa~\""
-    ],
-    "27": [
-      "\"—Eh.\""
-    ],
-    "28": [
-      "\\nl< >\"Aku melihat ini di TV hari ini dan mengira ini terlihat seru~\""
-    ],
-    "29": [
-      "\\nl< >\"Tapi kalau \\str[121] mau makan, ",
-      "aku sebenarnya baru saja mendapat ide untuk masakan baru~!\""
-    ],
-    "30": [
-      "\"—Ehhh!?\""
-    ],
-    "31": [
-      "Sebelum aku sempat keluar dari keterkejutanku, ",
-      "\\str[120] berlari kecil menuju dapur dengan wajah penuh semangat.",
-      "Mengingat kembali makanan yang pernah dibuat \\str[120] di masa lalu, ",
-      "rasa dingin tiba-tiba menjalari punggungku."
-    ],
-    "32": [
-      "\"Untuk jaga-jaga... lebih baik aku pergi melihat-lihat dulu...\""
+      "Bagaimanapun juga, ayo kita ke ruang makan dulu."
     ]
   },
   "13": {
@@ -872,6 +1142,43 @@
     "34": [
       "Aku berpura-pura tidak menyadari apa pun ",
       "sambil memanggil \\str[120] di dalam."
+    ],
+    "35": [
+      "\\nl< >\"\\str[121]... selamat datang...",
+      "Hari ini juga panas banget ya...?\""
+    ],
+    "36": [
+      "\\nl< >\"...Hmm? Kamu lagi bawa apa tuh...?",
+      "\\str[121], kamu beli sesuatu ya?\""
+    ],
+    "37": [
+      "\"Iya... dari seorang Tuan Ksatria atau Nona Ksatria ya...?",
+      "Yah, pokoknya aku beli barang bagus buat seneng-seneng di musim panas dari Ksatria itu.",
+      "Tapi dengerin dulu deh, ternyata Ksatria itu sebenarnya—",
+      "\\w[90]\\^"
+    ],
+    "38": [
+      "\\nl< >\"Ini kan merchandise bonus dari 'Shadows Soul'—!?\""
+    ],
+    "39": [
+      "\\nl< >\"Baju renang ini...! ",
+      "Sudah kuduga, ini yang dari bonus kencan di pantai!",
+      "Ditambah lagi kolam renang edisi peringatan ini...! ",
+      "\\str[121], kamu beneran bisa beli barang sampai kayak ginian!?\""
+    ],
+    "40": [
+      "\"Ternyata game itu beneran ada alur cerita kayak gitu...",
+      "Ah, ngomong-ngomong, aku kemarin sempat ngebuka topeng si Ksatria—",
+      "\\w[60]\\^"
+    ],
+    "41": [
+      "\\nl< >\\{\"Hal kayak gitu gak penting sekarang~!",
+      "Cepetan, cepetan~! Aku pengen langsung nyoba ini sekarang juga~!\""
+    ],
+    "42": [
+      "Yah... sudahlah. ",
+      "Lagipula identitas asli si Ksatria gak penting juga buat \\str[120].",
+      "Asalkan dia bisa menikmatinya dengan gembira, itu sudah lebih dari cukup—"
     ]
   }
 }

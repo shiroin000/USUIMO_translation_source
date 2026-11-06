@@ -172,6 +172,14 @@
       "Description": "Terus berlari dengan kecepatan super tinggi",
       "Pop Up Desc": "Jangan pernah berhenti!"
     },
+    "DefenseMaxedOut": {
+      "Name": "Karena Aku Tidak Ingin Terluka Jadi Seluruh Poin Status Kufokuskan ke Pertahanan",
+      "Description": "Menaikkan Pertahanan hingga batas maksimal",
+      "Pop Up Desc": [
+        "\\fs[24]Tidak ingin terluka…",
+        "kufokuskan ke Pertahanan!"
+      ]
+    },
     "YouAreBeingSummoned": {
       "Name": "◉▽◉ Sedang Memanggilmu!",
       "Description": "Makhluk kuno ditemukan!",

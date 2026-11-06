@@ -1,14 +1,4 @@
 {
-  "Note": [
-    "(This note is for the translator only and does not need to be translated.)",
-    "If you notice strange gaps appearing in each line of text, those are placeholders.",
-    "The game is already set up so that each dialogue box can display a maximum of four lines of text, ",
-    "and any text exceeding four lines will automatically continue in the next dialogue box. ",
-    "To avoid awkward line breaks in the actual display, I will manually trim long passages whenever necessary so that, ",
-    "as much as possible, a complete sentence appears within a single dialogue box.",
-    "The intentional insertion of spaces is meant to split the text into content for different dialogue boxes.",
-    "So when translating into other languages, you may follow this rule and add blank placeholders yourself to split the text."
-  ],
   "1": {
     "0": [
       "Meskipun kami sepakat mandi bareng, ",
@@ -937,14 +927,6 @@
       "\\nl< >\"Ugh... ueeegh...",
       "Kenapa kamu begini... selalu menggangguku lagi...\""
     ],
-    "100.1": [
-      "Yah, kenakalannya sebaiknya dihentikan di sini.",
-      "Tidak baik kalau dia pingsan seperti terakhir kali..."
-    ],
-    "100.2": [
-      "Akan kusimpan sisanya untuk saat \\str[120] sudah dalam kondisi lebih baik...",
-      "Lagipula aku tidak akan kehabisan waktu."
-    ],
     "101": [
       "Aku terus meningkatkan intensitas remasan, ",
       "ujung jariku sengaja menggesek puting yang sudah tegak itu.",
@@ -959,14 +941,6 @@
       "Melihat matanya yang sayu dan cara menggemaskan ",
       "dia akhirnya tak tahan untuk merayuku,",
       "hasrat gelap tanpa nama di dalam diriku akhirnya meledak sepenuhnya."
-    ],
-    "103.1": [
-      "Aku berdiri dengan diam-diam, memanfaatkan kesempatan untuk menggendong \\str[120] ",
-      "yang bersandar padaku dan mengangkatnya keluar dari bak mandi.",
-      "Masih tidak menyadari apa yang akan terjadi, ",
-      "dia membiarkan aku menggendongnya ke tengah kamar mandi.",
-      "Hanya ketika aku berhenti aku memutar tubuhnya, mengarahkan kedua pipi ",
-      "bulatnya yang menggoda itu tepat ke batangku."
     ],
     "104": [
       "Ruang sempit seperti bak mandi memang tidak nyaman untuk bergerak.",
@@ -1000,19 +974,6 @@
       "Tak lama kemudian, sensasi ejakulasi yang luar biasa telah ",
       "mencapai ambang ledakan."
     ],
-    "109.1": [
-      "Di penglihatanku, mata \\str[120] sudah mulai kosong, ",
-      "dan erangan yang pecah merembes dari sela bibirnya yang terpisah.",
-      "Tubuhnya bergetar hebat karena kenikmatan yang tak tertahankan."
-    ],
-    "109.2": [
-      "Mengubah kegembiraanku yang meluap menjadi momentum, ",
-      "aku dengan kuat mengangkat pinggangnya,",
-      "meluncur ke sprint terakhir dengan kecepatan yang lebih besar."
-    ],
-    "109.3": [
-      "\"—Aku mau keluar! Ayo rasakan bersama-sama~~!\""
-    ],
     "110": [
       "Dengan satu dorongan terakhir yang dilepaskan sekuat seluruh tubuhku, ",
       "batangku menekan kuat di bagian terdalam vaginanya.",
@@ -1040,6 +1001,35 @@
       "Aku membiarkan \\str[120] melampiaskan ketidakpuasannya, ",
       "hanya tersenyum sambil menikmati reaksi menggemaskannya.",
       "Tapi aku akan pastikan untuk memberinya sebotol susu sebagai hadiah nanti..."
+    ],
+    "100.1": [
+      "Yah, kenakalannya sebaiknya dihentikan di sini.",
+      "Tidak baik kalau dia pingsan seperti terakhir kali..."
+    ],
+    "100.2": [
+      "Akan kusimpan sisanya untuk saat \\str[120] sudah dalam kondisi lebih baik...",
+      "Lagipula aku tidak akan kehabisan waktu."
+    ],
+    "103.1": [
+      "Aku berdiri dengan diam-diam, memanfaatkan kesempatan untuk menggendong \\str[120] ",
+      "yang bersandar padaku dan mengangkatnya keluar dari bak mandi.",
+      "Masih tidak menyadari apa yang akan terjadi, ",
+      "dia membiarkan aku menggendongnya ke tengah kamar mandi.",
+      "Hanya ketika aku berhenti aku memutar tubuhnya, mengarahkan kedua pipi ",
+      "bulatnya yang menggoda itu tepat ke batangku."
+    ],
+    "109.1": [
+      "Di penglihatanku, mata \\str[120] sudah mulai kosong, ",
+      "dan erangan yang pecah merembes dari sela bibirnya yang terpisah.",
+      "Tubuhnya bergetar hebat karena kenikmatan yang tak tertahankan."
+    ],
+    "109.2": [
+      "Mengubah kegembiraanku yang meluap menjadi momentum, ",
+      "aku dengan kuat mengangkat pinggangnya,",
+      "meluncur ke sprint terakhir dengan kecepatan yang lebih besar."
+    ],
+    "109.3": [
+      "\"—Aku mau keluar! Ayo rasakan bersama-sama~~!\""
     ]
   },
   "4": {
@@ -1091,44 +1081,9 @@
       "\\nl< >\"Karena kamu sangat menginginkannya, kurasa aku akan...     \\w[120]",
       "membantumu supaya sedikit lebih bersih~♥\""
     ],
-    "10.1": [
-      "Di tengah suara air yang memercik, ",
-      "aliran hangat yang halus membilas busa dari batangku sepenuhnya.",
-      "Lalu, \\str[120] mencondongkan tubuhnya sendiri, ",
-      "dengan lembut menempelkan bagian hangat itu pada bibirnya."
-    ],
-    "10.2": [
-      "\\nl< >\"Fiuh... busanya sudah bersih. ",
-      "Namun, bagian yang paling penting ini perlu dibersihkan ",
-      "dengan cara yang lebih istimewa...♥\""
-    ],
-    "10.3": [
-      "Dia membuka bibirnya sedikit, napas hangatnya yang manis ",
-      "mengirim getaran ke ujung yang paling sensitif.",
-      " ",
-      " ",
-      "Lalu, lidah merah muda yang lincah itu mengintip keluar dengan tenang,",
-      "memutar dan menjilat di sekitar tepian kepala batang ",
-      "dengan rasa ingin tahu yang lembut seperti anak kucing yang lapar—"
-    ],
-    "10.4": [
-      "Itu adalah sensasi yang sangat halus dan lembap, ",
-      "disertai erangan pelan dan tertahan dari tenggorokannya sesekali.",
-      "Sentuhan menggoda yang singkat itu seratus kali lebih hebat ",
-      "dari rangsangan tangannya tadi."
-    ],
     "11": [
       "\\nl< >\"\\str[121], tubuhmu berkedut♥     \\w[120]",
       "Kenapa~? Apa rasanya seenak itu?\""
-    ],
-    "11.1": [
-      "Ujung batang sudah tak terkendali meneteskan butiran-butiran cairan bening, ",
-      "berkilau dengan kilau kental dan keruh di bawah cahaya.",
-      "",
-      "",
-      "Alih-alih merasa jijik, \\str[120] justru semakin bersemangat, ",
-      "menjilat habis setiap tetes cairan yang merembes ke dalam mulutnya,",
-      "mengeluarkan suara kecup pelan yang membuat jantungku berdebar."
     ],
     "12": [
       "\\nl< >\"Ah... masih ada kotoran yang keluar dari sini...     \\w[120]",
@@ -1139,12 +1094,6 @@
       "kepala batang mengikuti tonjolan urat yang membesar,",
       "dengan sabar menjilat dari ujung sampai ",
       "ke bagian paling pangkal."
-    ],
-    "13.1": [
-      "Bahkan lipatan paling tersembunyi yang biasanya terlewatkan ",
-      "terus dilacak oleh lidahnya yang tak kenal lelah.",
-      "Gatal yang halus dan menggelitik itu berubah menjadi sengatan listrik, ",
-      "menyembur dari akar langsung ke otakku."
     ],
     "14": [
       "\\nl< >\"Ehehe... sekarang jauh lebih bersih♥\""
@@ -1176,58 +1125,6 @@
       "Menyuapnya",
       "Memohon padanya"
     ],
-    "19.1": [
-      "\"Tolong...! Aku salah!",
-      "Kalau kamu berhenti sekarang, ini akan sangat menyakitkan!",
-      "Tolong, lanjutkan saja!\""
-    ],
-    "19.2": [
-      "\"Aku menyerah! Seharusnya aku tidak terus-menerus menggoda kamu...!",
-      "\\str[120]-ku yang termanis, terimut... ",
-      "tolong bantu \\str[121]-mu yang malang ini, oke?\""
-    ],
-    "19.3": [
-      "Aku segera memasang ekspresi paling tulus yang bisa kulakukan,",
-      "menggenggam tangannya seolah itu talinya penyelamat terakhirku."
-    ],
-    "19.4": [
-      "\\nl< >\"Hehe♥ Nggak~ mau~♥",
-      "Aku sudah membasuhmu sampai bersih semua~ ",
-      "Sisanya urus sendiri aja!\""
-    ],
-    "19.5": [
-      "\\{\"A-apa-apa-apaaaa?!!\""
-    ],
-    "19.6": [
-      "\\nl< >\"Hmph~ Sekarang kamu baru merasakan bagaimana rasanya ",
-      "kalau terus digoda, kan~?\""
-    ],
-    "19.7": [
-      "Dia menjulurkan lidah dan melenggang ",
-      "ke dalam bak mandi dalam sekejap mata.",
-      "Dengan senyum kemenangan yang nakal di tengah uap itu,",
-      "dia benar-benar terlihat seperti succubus kecil yang mendapatkan keinginannya."
-    ],
-    "19.8": [
-      "Menghadapi balas dendam yang diperhitungkan ini, aku jadi kehabisan kata-kata.",
-      "Sepertinya aku harus mengurus semuanya sendiri setelah ini..."
-    ],
-    "19.9": [
-      "\\nl< >\"Ugh... ",
-      "mengucapkan hal seperti itu tidak adil...\""
-    ],
-    "19.91": [
-      "\\nl< >\"Baiklah, dasar... ",
-      "Aku bantu sedikit lagi deh... \\w[120]",
-      "Kalau kamu berani menggoda aku lagi, ",
-      "aku benar-benar akan meninggalkanmu menggantung!\""
-    ],
-    "19.92": [
-      "Meski dimarahi, ",
-      "dia sebenarnya sudah berhenti berusaha bangkit.",
-      "Melihat perlawanan mulai memudar dari matanya, ",
-      "aku akhirnya bisa menghela napas lega."
-    ],
     "20": [
       "\"Aku akan memberi satu botol \\ii[\\v[90]]!!\""
     ],
@@ -1239,78 +1136,9 @@
       "\\nl< >\".............................",
       ".............................\""
     ],
-    "22.1": [
-      "\\nl< >\"..................Jadikan dua.\""
-    ],
-    "22.2": [
-      "\\{ Dia menaikkan harga di tempat——!!"
-    ],
-    "22.3": [
-      "\"Urgh——————    \\w[60]\\{",
-      "Deal!!\""
-    ],
-    "22.4": [
-      "\\nl< >\"Hehe~ Karena demi susu,    \\w[120]",
-      "kurasa aku akan membantumu menyelesaikannya setelah ini~!\""
-    ],
-    "22.5": [
-      "Begitu dijanjikan hadiah, ",
-      "matanya yang malas langsung berbinar.",
-      "Sambil tersenyum, dia bersandar kembali, ",
-      "gerakannya bahkan lebih bersemangat dari sebelumnya."
-    ],
-    "22.6": [
-      "\\nl< >\"..................Nggak mau! ",
-      "Aku tidak suka rasa yang ini!\""
-    ],
-    "22.7": [
-      "\\{ Aku sama sekali salah pilih————!!"
-    ],
-    "22.8": [
-      "\"T-Tunggu, biar kucoba yang lain——\" \\w[25]\\^"
-    ],
-    "22.9": [
-      "\\nl< >\"............Apa ini?      \\w[90]",
-      "Kelihatannya aneh banget... Aku nggak mau...\""
-    ],
     "23": [
       "\"Baik! Aku pakai ini! ",
       "Aku menukar Free Pass-ku, sekarang juga!\""
-    ],
-    "23.1": [
-      "Itu 'Free Pass' yang dibuat dengan tangannya sendiri untukku.",
-      "Dia bilang waktu itu bahwa selama aku menunjukkannya padanya, ",
-      "dia akan menyetujui permintaan apa pun dariku, sesulit apa pun ",
-      "atau se-manja apa pun aku."
-    ],
-    "23.2": [
-      "\\nl< >\"A-Apa kamu serius?!     \\w[90]",
-      "\\str[121], kamu benar-benar mau memakai Free Pass-mu untuk ini?\""
-    ],
-    "23.3": [
-      "\"Urgh...! K-karena...",
-      "Sekarang adalah saat di mana aku paling membutuhkan hiburan \\str[120]!\""
-    ],
-    "23.4": [
-      "Aku merasa sedikit memalukan memakai kartu truf seperti itu ",
-      "hanya untuk memanjakan diri seperti ini...",
-      "Tapi desakan yang menyakitkan untuk melepaskannya di bagian bawah tubuhku ",
-      "sudah membuatku tidak bisa berpikir jernih."
-    ],
-    "23.5": [
-      "\\nl< >\"\\str[121] yang konyol...               \\w[60]",
-      "heboh banget cuma karena hal seperti ini.     \\w[60]",
-      "Baiklah, baiklah~ Aku bantu kamu selesaikan!            \\w[60]",
-      "Simpan Free Pass itu untuk permintaan yang lebih penting!\""
-    ],
-    "23.6": [
-      "\"Ooooohhhhh...! Aku tahu... ",
-      "kamu memang selalu yang terbaik untukku...!\""
-    ],
-    "23.7": [
-      "\\str[120] menghela napas pelan dan melanjutkan tugasnya.",
-      "Seolah untuk mencegahku mendapat ide-ide liar lagi, ",
-      "dia mulai menjilat bahkan lebih bersemangat dari sebelumnya."
     ],
     "24": [
       "\\nl< >\"\\str[120]-mu bekerja sangat keras membantumu...    \\w[120]",
@@ -1320,11 +1148,6 @@
       "Dia mengedipkan mata padaku dengan genit,",
       "sementara lidah merah mudanya dengan nakal melingkari ",
       "tepi yang paling sensitif."
-    ],
-    "25.1": [
-      "Godaannya yang berulang kali ini telah mendorong hasratku ke batas mutlak.",
-      "Menatap \\str[120] yang sepenuhnya tidak berdaya, aku bahkan merasa ",
-      "impuls untuk langsung menjatuhkannya dan memilikinya di sini."
     ],
     "26": [
       "\\nl< >\"……Chu♥    \\w[120]",
@@ -1370,25 +1193,6 @@
       "Lebih dalam",
       "Tahan saja",
       "Ejakulasi di mulut"
-    ],
-    "35.1": [
-      "\\nl< >\"Dasar... aku tidak percaya kamu, \\str[121]...",
-      "membuat permintaan yang... tidak masuk akal seperti itu...\""
-    ],
-    "35.2": [
-      "\\nl< >\"...Aku... akan berusaha sebaik mungkin...♥\""
-    ],
-    "35.3": [
-      "\\nl< >\"Karena \\str[121]... sangat memintanya...",
-      "kalau begitu aku akan... mengerahkan semuanya♥\""
-    ],
-    "35.4": [
-      "\\nl< >\"Ugh... jujur saja, \\str[121]...",
-      "selalu membuat permintaan yang memalukan seperti itu...♥\""
-    ],
-    "35.5": [
-      "\\nl< >\"Kamu jahat banget, \\str[121]...",
-      "apa kamu memang sangat suka melihatku kebingungan seperti ini?♥\""
     ],
     "40": [
       "\\str[120] menutup matanya sambil meringis kesakitan karena kepenuhan itu,",
@@ -1531,6 +1335,197 @@
       "Jujur saja, \\str[121], kebiasaanmu menghambur-hamburkan uang kambuh lagi...",
       "Kalau aku tidak bilang iya, kamu pasti akan berbalik dan ",
       "menghabiskan semuanya untuk barang-barang acak lagi, kan?\""
+    ],
+    "10.1": [
+      "Di tengah suara air yang memercik, ",
+      "aliran hangat yang halus membilas busa dari batangku sepenuhnya.",
+      "Lalu, \\str[120] mencondongkan tubuhnya sendiri, ",
+      "dengan lembut menempelkan bagian hangat itu pada bibirnya."
+    ],
+    "10.2": [
+      "\\nl< >\"Fiuh... busanya sudah bersih. ",
+      "Namun, bagian yang paling penting ini perlu dibersihkan ",
+      "dengan cara yang lebih istimewa...♥\""
+    ],
+    "10.3": [
+      "Dia membuka bibirnya sedikit, napas hangatnya yang manis ",
+      "mengirim getaran ke ujung yang paling sensitif.",
+      " ",
+      " ",
+      "Lalu, lidah merah muda yang lincah itu mengintip keluar dengan tenang,",
+      "memutar dan menjilat di sekitar tepian kepala batang ",
+      "dengan rasa ingin tahu yang lembut seperti anak kucing yang lapar—"
+    ],
+    "10.4": [
+      "Itu adalah sensasi yang sangat halus dan lembap, ",
+      "disertai erangan pelan dan tertahan dari tenggorokannya sesekali.",
+      "Sentuhan menggoda yang singkat itu seratus kali lebih hebat ",
+      "dari rangsangan tangannya tadi."
+    ],
+    "11.1": [
+      "Ujung batang sudah tak terkendali meneteskan butiran-butiran cairan bening, ",
+      "berkilau dengan kilau kental dan keruh di bawah cahaya.",
+      "",
+      "",
+      "Alih-alih merasa jijik, \\str[120] justru semakin bersemangat, ",
+      "menjilat habis setiap tetes cairan yang merembes ke dalam mulutnya,",
+      "mengeluarkan suara kecup pelan yang membuat jantungku berdebar."
+    ],
+    "13.1": [
+      "Bahkan lipatan paling tersembunyi yang biasanya terlewatkan ",
+      "terus dilacak oleh lidahnya yang tak kenal lelah.",
+      "Gatal yang halus dan menggelitik itu berubah menjadi sengatan listrik, ",
+      "menyembur dari akar langsung ke otakku."
+    ],
+    "19.1": [
+      "\"Tolong...! Aku salah!",
+      "Kalau kamu berhenti sekarang, ini akan sangat menyakitkan!",
+      "Tolong, lanjutkan saja!\""
+    ],
+    "19.2": [
+      "\"Aku menyerah! Seharusnya aku tidak terus-menerus menggoda kamu...!",
+      "\\str[120]-ku yang termanis, terimut... ",
+      "tolong bantu \\str[121]-mu yang malang ini, oke?\""
+    ],
+    "19.3": [
+      "Aku segera memasang ekspresi paling tulus yang bisa kulakukan,",
+      "menggenggam tangannya seolah itu talinya penyelamat terakhirku."
+    ],
+    "19.4": [
+      "\\nl< >\"Hehe♥ Nggak~ mau~♥",
+      "Aku sudah membasuhmu sampai bersih semua~ ",
+      "Sisanya urus sendiri aja!\""
+    ],
+    "19.5": [
+      "\\{\"A-apa-apa-apaaaa?!!\""
+    ],
+    "19.6": [
+      "\\nl< >\"Hmph~ Sekarang kamu baru merasakan bagaimana rasanya ",
+      "kalau terus digoda, kan~?\""
+    ],
+    "19.7": [
+      "Dia menjulurkan lidah dan melenggang ",
+      "ke dalam bak mandi dalam sekejap mata.",
+      "Dengan senyum kemenangan yang nakal di tengah uap itu,",
+      "dia benar-benar terlihat seperti succubus kecil yang mendapatkan keinginannya."
+    ],
+    "19.8": [
+      "Menghadapi balas dendam yang diperhitungkan ini, aku jadi kehabisan kata-kata.",
+      "Sepertinya aku harus mengurus semuanya sendiri setelah ini..."
+    ],
+    "19.9": [
+      "\\nl< >\"Ugh... ",
+      "mengucapkan hal seperti itu tidak adil...\""
+    ],
+    "19.91": [
+      "\\nl< >\"Baiklah, dasar... ",
+      "Aku bantu sedikit lagi deh... \\w[120]",
+      "Kalau kamu berani menggoda aku lagi, ",
+      "aku benar-benar akan meninggalkanmu menggantung!\""
+    ],
+    "19.92": [
+      "Meski dimarahi, ",
+      "dia sebenarnya sudah berhenti berusaha bangkit.",
+      "Melihat perlawanan mulai memudar dari matanya, ",
+      "aku akhirnya bisa menghela napas lega."
+    ],
+    "22.1": [
+      "\\nl< >\"..................Jadikan dua.\""
+    ],
+    "22.2": [
+      "\\{ Dia menaikkan harga di tempat——!!"
+    ],
+    "22.3": [
+      "\"Urgh——————    \\w[60]\\{",
+      "Deal!!\""
+    ],
+    "22.4": [
+      "\\nl< >\"Hehe~ Karena demi susu,    \\w[120]",
+      "kurasa aku akan membantumu menyelesaikannya setelah ini~!\""
+    ],
+    "22.5": [
+      "Begitu dijanjikan hadiah, ",
+      "matanya yang malas langsung berbinar.",
+      "Sambil tersenyum, dia bersandar kembali, ",
+      "gerakannya bahkan lebih bersemangat dari sebelumnya."
+    ],
+    "22.6": [
+      "\\nl< >\"..................Nggak mau! ",
+      "Aku tidak suka rasa yang ini!\""
+    ],
+    "22.7": [
+      "\\{ Aku sama sekali salah pilih————!!"
+    ],
+    "22.8": [
+      "\"T-Tunggu, biar kucoba yang lain——\" \\w[25]\\^"
+    ],
+    "22.9": [
+      "\\nl< >\"............Apa ini?      \\w[90]",
+      "Kelihatannya aneh banget... Aku nggak mau...\""
+    ],
+    "23.1": [
+      "Itu 'Free Pass' yang dibuat dengan tangannya sendiri untukku.",
+      "Dia bilang waktu itu bahwa selama aku menunjukkannya padanya, ",
+      "dia akan menyetujui permintaan apa pun dariku, sesulit apa pun ",
+      "atau se-manja apa pun aku."
+    ],
+    "23.2": [
+      "\\nl< >\"A-Apa kamu serius?!     \\w[90]",
+      "\\str[121], kamu benar-benar mau memakai Free Pass-mu untuk ini?\""
+    ],
+    "23.3": [
+      "\"Urgh...! K-karena...",
+      "Sekarang adalah saat di mana aku paling membutuhkan hiburan \\str[120]!\""
+    ],
+    "23.4": [
+      "Aku merasa sedikit memalukan memakai kartu truf seperti itu ",
+      "hanya untuk memanjakan diri seperti ini...",
+      "Tapi desakan yang menyakitkan untuk melepaskannya di bagian bawah tubuhku ",
+      "sudah membuatku tidak bisa berpikir jernih."
+    ],
+    "23.5": [
+      "\\nl< >\"\\str[121] yang konyol...               \\w[60]",
+      "heboh banget cuma karena hal seperti ini.     \\w[60]",
+      "Baiklah, baiklah~ Aku bantu kamu selesaikan!            \\w[60]",
+      "Simpan Free Pass itu untuk permintaan yang lebih penting!\""
+    ],
+    "23.6": [
+      "\"Ooooohhhhh...! Aku tahu... ",
+      "kamu memang selalu yang terbaik untukku...!\""
+    ],
+    "23.7": [
+      "\\str[120] menghela napas pelan dan melanjutkan tugasnya.",
+      "Seolah untuk mencegahku mendapat ide-ide liar lagi, ",
+      "dia mulai menjilat bahkan lebih bersemangat dari sebelumnya."
+    ],
+    "25.1": [
+      "Godaannya yang berulang kali ini telah mendorong hasratku ke batas mutlak.",
+      "Menatap \\str[120] yang sepenuhnya tidak berdaya, aku bahkan merasa ",
+      "impuls untuk langsung menjatuhkannya dan memilikinya di sini."
+    ],
+    "35.1": [
+      "\\nl< >\"Dasar... aku tidak percaya kamu, \\str[121]...",
+      "membuat permintaan yang... tidak masuk akal seperti itu...\""
+    ],
+    "35.2": [
+      "\\nl< >\"...Aku... akan berusaha sebaik mungkin...♥\""
+    ],
+    "35.3": [
+      "\\nl< >\"Karena \\str[121]... sangat memintanya...",
+      "kalau begitu aku akan... mengerahkan semuanya♥\""
+    ],
+    "35.4": [
+      "\\nl< >\"Ugh... jujur saja, \\str[121]...",
+      "selalu membuat permintaan yang memalukan seperti itu...♥\""
+    ],
+    "35.5": [
+      "\\nl< >\"Kamu jahat banget, \\str[121]...",
+      "apa kamu memang sangat suka melihatku kebingungan seperti ini?♥\""
+    ],
+    "44.1": [
+      "Meski dia belum pulih dari sesak napas tadi, ",
+      "\\str[120] tampak enggan menyerah,",
+      "mengulurkan tangannya untuk mengocok penisku yang masih berdenyut penuh gairah."
     ]
   },
   "5": {
@@ -1603,17 +1598,6 @@
       "SEKS!",
       "Masturbasi!",
       "Tahan saja!"
-    ],
-    "12.1": [
-      "Tahan saja, belahan jiwaku...! ",
-      "Kalau aku saja tidak bisa menahan rangsangan sebanyak ini, ",
-      "martabatku sebagai \\str[121] akan benar-benar hancur!"
-    ],
-    "12.2": [
-      "Aku menampar batangku yang menyedihkan dengan keras, ",
-      "mencoba menggunakan rasa sakit itu untuk mengusir panas di pikiranku.",
-      "Aku sedang mandi bersama \\str[120] sekarang—",
-      "bagaimana bisa kepalaku begitu dipenuhi pikiran mesum!?"
     ],
     "13": [
       "Melihat punggung \\str[120] yang tidak berdaya, ",
@@ -1737,11 +1721,6 @@
       "\\nl< >\"Jujur saja, \\str[121], ",
       "kamu benar-benar tidak bisa mengendalikan diri di saat seperti ini...\""
     ],
-    "35.1": [
-      "Guh... kurasa memang begitu adanya...",
-      "Aku juga heran... Setiap kali ini terjadi, ",
-      "aku selalu tidak bisa mengendalikan diri."
-    ],  
     "36": [
       "\\nl< >\"—Pasti sakit menahannya, kan?",
       "Bahkan saat kupandangi seperti ini, masih begitu bersemangat...",
@@ -1906,6 +1885,29 @@
       "Karena \\str[120] telah memenuhi begitu banyak permintaanku yang aneh,",
       "aku berusaha mati-matian untuk menebusnya, ",
       "dengan bersemangat membantunya membasuh tubuhnya sekali lagi."
+    ],
+    "12.1": [
+      "Tahan saja, belahan jiwaku...! ",
+      "Kalau aku saja tidak bisa menahan rangsangan sebanyak ini, ",
+      "martabatku sebagai \\str[121] akan benar-benar hancur!"
+    ],
+    "12.2": [
+      "Aku menampar batangku yang menyedihkan dengan keras, ",
+      "mencoba menggunakan rasa sakit itu untuk mengusir panas di pikiranku.",
+      "Aku sedang mandi bersama \\str[120] sekarang—",
+      "bagaimana bisa kepalaku begitu dipenuhi pikiran mesum!?"
+    ],
+    "35.1": [
+      "Guh... kurasa memang begitu adanya...",
+      "Aku juga heran... Setiap kali ini terjadi, ",
+      "aku selalu tidak bisa mengendalikan diri."
+    ]
+  },
+  "6": {
+    "1": [
+      "Isi Air Panas",
+      "Naikkan Suhu",
+      "Turunkan Suhu"
     ]
   },
   "7": {
@@ -1921,10 +1923,6 @@
       "yang masih berjongkok di depanku.",
       "Tanpa menyadari apa yang akan terjadi, dia diputar di tempat,",
       "sampai aku berhenti, mengarahkan kedua pipi kecilnya yang menggoda langsung ke batangku."
-    ],
-    "1.1": [
-      "\\nl< >\"...\\str[121]? Apakah kita sudah selesai mandi?     \\w[180]",
-      "Kenapa tiba-tiba—\"                                         \\w[45]\\^"
     ],
     "2": [
       "Lalu, saat dia masih setengah langkah di belakang kenyataan,",
@@ -2205,6 +2203,10 @@
       "\\nl< >\"——Tunggu. Bahkan dari awal...",
       "\\str[121] tiba-tiba mulai bilang ini pijatan...",
       "Dan lalu... dan lalu—!!\""
+    ],
+    "1.1": [
+      "\\nl< >\"...\\str[121]? Apakah kita sudah selesai mandi?     \\w[180]",
+      "Kenapa tiba-tiba—\"                                         \\w[45]\\^"
     ]
   },
   "8": {
@@ -2389,6 +2391,329 @@
       "penurut di saat seperti ini...?\""
     ]
   },
+  "9": {
+    "1": [
+      "Di dalam kamar mandi yang dipenuhi uap,",
+      "\\str[120] menaruh kedua tangannya pada cermin yang dingin, ",
+      "perlahan berbalik dan membungkuk ke depan."
+    ],
+    "2": [
+      "Bahkan leher dan daun telinga panjangnya ikut merona merah muda.",
+      "Sambil gemetar, dia mengulurkan tangan ke bawah, menyentuh lembut bagian pribadinya ",
+      "lalu membukanya dengan hati-hati."
+    ],
+    "3": [
+      "\\nl< >\"Ugh... S-Sayang... makan malam... sudah... siap lho...♥\""
+    ],
+    "4": [
+      "\\nl< >\"S-Selanjutnya... s-silakan nikmati santapanmu ya...♥\""
+    ],
+    "5": [
+      "\"Uwooooooh~~~!",
+      "Mantap! Ini dia yang dari tadi pengen kulihat!\""
+    ],
+    "6": [
+      "\\nl< >\"Eh...? Ada apa, kok mendadak—\"",
+      "\\w[90]\\^"
+    ],
+    "7": [
+      "Bahkan sebelum kalimatnya selesai, ",
+      "aku langsung merapatkan tubuhku dari belakang tanpa sabar,",
+      "memeluk erat pinggang mungil \\str[120] ",
+      "sambil mengangkat sebelah pahanya,",
+      "lalu menghentakkan pinggulku dengan kuat, ",
+      "menusukkan penis berdenyutku sedalam-dalamnya."
+    ],
+    "8": [
+      "\\nl< >\"—Nnn-aah♥!",
+      "M-Mendadak banget... kamu langsung menusuk ke dalamnya...!",
+      "Sekarang... \\str[121] s-sudah puas...?\""
+    ],
+    "9": [
+      "\"Iya, dialog tadi bener-bener sempurna dan mantap banget!",
+      "Sekarang seluruh tubuhku penuh energi membara!!\""
+    ],
+    "10": [
+      "Dorongan hawa panas dan nafsu yang meluap membuatku mulai menusuk tubuhnya dengan bertenaga.",
+      "Suara basah yang becek serta benturan kulit dengan kulit ",
+      "seketika bergema di seluruh kamar mandi yang sempit."
+    ],
+    "11": [
+      "\\nl< >\"Haah...♥ Nnh...♥ ",
+      "Tiba-tiba menghentak k-keras banget begini...! Mmh-aah♥!\""
+    ],
+    "12": [
+      "Dengan satu kaki terangkat di pinggangku, ",
+      "\\str[120] hanya bisa bertumpu pada satu kakinya yang tersisa ",
+      "untuk menopang tubuhnya yang terangkat.",
+      " ",
+      "Gelombang kenikmatan tanpa henti menyapu tubuh bagian bawahnya ",
+      "memaksanya untuk terus menjaga keseimbangan,",
+      "yang justru membuat cengkeraman dan kedutan dari vaginanya ",
+      "menjadi semakin rapat dan intens."
+    ],
+    "13": [
+      "Agar tidak terpeleset, ",
+      "dia tak punya pilihan selain tanpa sadar menjepitkan pahanya rapat-rapat.",
+      "Tapi jepitan refleks itu justru seolah menarikku masuk kian dalam."
+    ],
+    "14": [
+      "\\nl< >\"T-Tunggu sebentar... ini terlalu cepat...! ",
+      "Kalau terus begini... aku beneran gak bakal bisa berdiri lagi... haah♥!\""
+    ],
+    "15": [
+      "Tusuk dengan Kuat",
+      "Semburan Terakhir"
+    ],
+    "16": [
+      "\\nl< >\"Kyaah~~♥",
+      "K-Kenapa malah makin kencang sih!?",
+      "\\str[121] jahat banget——!\""
+    ],
+    "17": [
+      "Mencari saat yang tepat, ",
+      "aku menusuk pinggulku kuat-kuat ke perut bawah \\str[120].",
+      "Hantaman tiba-tiba itu membuat paha \\str[120] lemas tak bertenaga, ",
+      "nyaris membuatnya kehilangan pijakan."
+    ],
+    "18": [
+      "\"Kalau mau cepat selesai, ",
+      "coba ucapkan beberapa dialog kayak yang tadi lagi dong~",
+      "Bisa jadi aku langsung keluar dalam sekejap lho.\""
+    ],
+    "19": [
+      "\\nl< >\"Eeeh!? D-Di saat seperti ini... ",
+      "kamu masih menyuruhku ngomong begituan...!?\""
+    ],
+    "20": [
+      "\\nl< >\"Nnh♥ Haah♥ ",
+      "Kepalaku benar-benar kosong sekarang... ",
+      "Aku bener-bener gak bisa mikir apa-apa lagi~!\""
+    ],
+    "21": [
+      "\"Kalau gak bisa mikir, siapa yang tahu kapan ini bakal selesai?\""
+    ],
+    "22": [
+      "Sambil berkata begitu, aku sama sekali tak melambat, ",
+      "justru makin mempercepat irama dorongan pinggulku."
+    ],
+    "23": [
+      "\\nl< >\"Uwaaa~~! I-Ini lagi mikir kok... Umm... ",
+      "'Darling pasti capek setelah kerja seharian~ ",
+      "Biar aku rawat dan manjakan kamu se~puas~nya ya♥'\"",
+      "\\w[240]"
+    ],
+    "24": [
+      "\\nl< >\"'Akhir-akhir ini... kita gak pernah kencan beneran kan? ",
+      "Pas hari libur perhatikan aku lebih banyak dong, Please♥'\"",
+      "\\w[300]"
+    ],
+    "25": [
+      "\\nl< >\"'—Makan malam duluan? Kenapa bukan aku duluan!? ",
+      "Kenapa, kenapa~!? Padahal dulu kamu selalu milih aku!? ",
+      "Kamu selingkuh ya!? Pasti lagi selingkuh, kan!?'\"",
+      "\\w[360]"
+    ],
+    "26": [
+      "Tatapan mata \\str[120] semakin sayu kehilangan fokus, ",
+      "dan dialog yang dia ocehkan jadi semakin ngawur tak terkendali.",
+      "Sebenarnya acara aneh macam apa yang diam-diam dia tonton!?"
+    ],
+    "27": [
+      "Meski arah dialognya makin lama makin aneh,",
+      "melihat wajah \\str[120] yang memerah dan usahanya yang mati-matian ",
+      "mengimbangi permainanku meski dilanda rasa malu,",
+      "justru mendorong gairahku melesat langsung ke puncaknya."
+    ],
+    "28": [
+      "\\nl< >\"Ugh... D-Darling... c-cintai aku lebih banyak lagi... ",
+      "Aku... udah... gak tahan lagi...♥\"",
+      "\\w[180]"
+    ],
+    "29": [
+      "\\nl< >\"Nnh~♥ Mmh~~♥ A-Aku k-keluaaarrr~♥♥\""
+    ],
+    "30": [
+      "Terdorong oleh rangsangan yang begitu dahsyat, ",
+      "peju hangat memancar deras melebihi biasanya, ",
+      "mengisi penuh di dalam tubuh \\str[120] sekaligus. ",
+      "Rasa lemas yang luar biasa bahkan membuat kepalaku terasa melayang."
+    ],
+    "31": [
+      "Setelah juga mencapai klimaks yang dahsyat, ",
+      "\\str[120] menjatuhkan telinga panjangnya,",
+      "menyandarkan tubuhnya yang lemas padaku sambil terengah-engah kehabisan napas."
+    ],
+    "32": [
+      "\\nl< >\"Ugh... Eeeee... ",
+      "Sekarang... perutku beneran kelaparan banget...\""
+    ],
+    "33": [
+      "Sambil memeluk \\str[120] yang kehabisan tenaga di dalam bak mandi cukup lama, ",
+      "pikiranku yang tadinya linglung akhirnya berangsur jernih."
+    ],
+    "34": [
+      "Pada akhirnya, ",
+      "setelah berjanji memasakkan hidangan daging mewah sebagai permintaan maaf,",
+      "aku nyaris tak berhasil menenangkan \\str[120] yang merajuk sambil cemberut."
+    ]
+  },
+  "10": {
+    "1": [
+      "\"...Fiuh, mandi berendam sehabis berolahraga memang paling nikmat...",
+      "Seluruh tubuhku terasa rileks banget...\""
+    ],
+    "2": [
+      "\"Sudah waktunya keluar. Masih harus masak makan malam juga.\""
+    ],
+    "10": [
+      "Aku segera membasuh tubuhku sampai bersih, ",
+      "lalu duduk di samping dan diam-diam memandangi \\str[120]."
+    ],
+    "11": [
+      "\\str[120] membelakangiku,",
+      "sepertinya menyadari tatapanku, dia membasuh tubuhnya dengan sedikit gugup."
+    ],
+    "12": [
+      "Uap air membalut butiran-butiran air berkilau ",
+      "yang mengalir turun di atas kulit putihnya.",
+      "Saat dia mengusap lengan dan dadanya, ",
+      "tubuhnya yang ramping dan mungil itu bergoyang pelan dalam pandanganku."
+    ],
+    "13": [
+      "\\{Glek..."
+    ],
+    "14": [
+      "Gara-gara \\str[120] di pintu masuk tadi, aku sudah terangsang duluan,",
+      "dan melihat pemandangan seindah ini di depan mata, ",
+      "membuat penisku langsung tegang tak terkendali."
+    ],
+    "15": [
+      "Tanpa berpikir panjang, aku berdiri, ",
+      "menaruh tanganku perlahan di pundak \\str[120],",
+      "lalu membalikkan tubuhnya menghadapku—"
+    ],
+    "16": [
+      "\\nl< >\"...Hmm? Ada apa, \\str[121]?",
+      "Aku bentar lagi seles—",
+      "\\w[60]\\^"
+    ],
+    "17": [
+      "\\nl< >\"—H-Haaaaah!? ",
+      "Kenapa barang itu tiba-tiba ",
+      "jadi sebesar itu di saat seperti ini!?\""
+    ],
+    "18": [
+      "Kaget oleh penis berdenyut yang tiba-tiba menempel dekat wajahnya,",
+      "wajah \\str[120] tersipu malu, menggerutu sambil berusaha keras ",
+      "mendorong tubuhku menjauh."
+    ],
+    "19": [
+      "Tapi aku tak berniat melepaskannya dan terus merapatkan tubuhku ke arahnya.",
+      "Tak lama kemudian, \\str[120] kehilangan tenaga untuk melawan ",
+      "dan hanya bisa merintih pelan karena malu."
+    ],
+    "20": [
+      "\"Maaf, maaf, tapi bagian bawahku ini benar-benar gak tahan lagi...\""
+    ],
+    "21": [
+      "\\nl< >\"\\str[121]... sudah kuduga...",
+      "Dari tadi... kamu pasti terus mikirin hal-hal mesum kayak begini kan...\""
+    ],
+    "22": [
+      "\"Ini juga salah \\str[120] kan? ",
+      "Tadi kamu menggodaku dengan kata-kata manja kayak gitu sih~\""
+    ],
+    "23": [
+      "\\nl< >\"Ugh... I-Iya deh, aku paham... Tinggal kubantu kan,",
+      "jadi jangan gesek-gesek benda itu ke mukaku dong~~!\""
+    ],
+    "24": [
+      "Mendengar keluhan pasrahnya, aku melonggarkan kuncian tubuhku.",
+      "\\str[120] juga tidak kabur, melainkan malah berjongkok malu-malu di depanku,",
+      "ragu-ragu mengulurkan kedua tangan untuk mengelus penis yang panas membara itu."
+    ],
+    "25": [
+      "\\nl< >\"Ugh... Ini sangat memalukan...\""
+    ],
+    "26": [
+      "Wajah \\str[120] memerah saat telinga panjangnya berkedut gugup.",
+      "Gerakannya lembut tapi canggung seolah takut menyakitiku, ",
+      "tapi dia terlalu malu untuk menatap langsung apa yang dilakukan tangannya."
+    ],
+    "27": [
+      "\\nl< >\"...Kalau begini udah bener? ",
+      "Rasanya udah enakan belum...?\""
+    ],
+    "28": [
+      "\"Hmm... gimana ya...\""
+    ],
+    "29": [
+      "Dielus dengan tangan mungil \\str[120] yang licin memang terasa enak, ",
+      "tapi rasanya tak jauh berbeda dari biasanya.",
+      "Sensasi menggiurkan yang kurasakan di pintu masuk tadi rasanya masih kurang..."
+    ],
+    "30": [
+      "\\nl< >\"Kenapa wajahmu kelihatan gak puas gitu sih, \\str[121]...",
+      "Astaga... padahal aku udah berusaha sebisaku buat bantuin kamu...\""
+    ],
+    "31": [
+      "Menyadari reaksiku yang ambigu, \\str[120] menggembungkan pipinya ",
+      "karena agak kesal lalu sedikit mempercepat gerakan tangannya,",
+      "tapi hatiku masih merasa ada sesuatu yang kurang."
+    ],
+    "32": [
+      "\"Kalau cuma pakai tangan rasanya kurang greget...",
+      "Gimana kalau \\str[120] coba ucapkan dialog kayak 'pengantin baru'?",
+      "Kamu sering nonton yang begituan di TV, kan?\""
+    ],
+    "33": [
+      "\\nl< >\"...Heeh!? P-Pengantin baru...!? ",
+      "M-Mana mungkin... aku tahu hal semacam itu!\""
+    ],
+    "34": [
+      "Wajah \\str[120] seketika memerah padam, ",
+      "matanya melirik ke sana kemari karena panik.",
+      "Melihat reaksinya ini... ",
+      "gadis ini pasti sering diam-diam nonton acara aneh-aneh...!"
+    ],
+    "35": [
+      "\\nl< >\"'S-Sayang... Selamat datang di rumah...' atau semacamnya... ",
+      "Kayak gitu udah cukup kan buatmu!?\""
+    ],
+    "36": [
+      "\"Hmm... Hawanya gak dapet sama sekali, ",
+      "kedengarannya kayak cuma baca naskah datar.\""
+    ],
+    "37": [
+      "\\nl< >\"Ugh... K-Kamu banyak maunya banget sih...!\""
+    ],
+    "38": [
+      "Meski menggerutu, melihatku yang masih belum puas,",
+      "\\str[120] menggigit bibir bawahnya dan menghentikan gerakan tangannya."
+    ],
+    "39": [
+      "Dia berdiri memikirkan sesuatu dengan serius sejenak, ",
+      "wajahnya memerah karena sebuah tekad bulat,",
+      "lalu diam-diam berjalan ke dinding kamar mandi."
+    ],
+    "22.1": [
+      "\"Kamu gak mau kan membiarkanku menderita begini...?",
+      "Justru sekarang ini aku sangat butuh bantuan \\str[120].\""
+    ],
+    "29.1": [
+      "\\nl< >\"...Belum juga? Tanganku mulai pegal nih...\""
+    ],
+    "29.2": [
+      "\"Hmm... masih kurang dikit...\""
+    ],
+    "29.3": [
+      "\\nl< >\"...Cepetan keluarin dong! Aku mulai laper nih...!\""
+    ],
+    "29.4": [
+      "\"........................................\""
+    ]
+  },
   "12": {
     "0": [
       "\\str[120] dengan malu-malu mengangguk, dan reaksinya yang menggemaskan membuatku ",
@@ -2453,5 +2778,15 @@
       "Di dalam kehampaan putih murni di mana tidak ada yang bisa terlihat, ",
       "aku berhenti berpikir sama sekali."
     ]
-  }
+  },
+  "Note": [
+    "(This note is for the translator only and does not need to be translated.)",
+    "If you notice strange gaps appearing in each line of text, those are placeholders.",
+    "The game is already set up so that each dialogue box can display a maximum of four lines of text, ",
+    "and any text exceeding four lines will automatically continue in the next dialogue box. ",
+    "To avoid awkward line breaks in the actual display, I will manually trim long passages whenever necessary so that, ",
+    "as much as possible, a complete sentence appears within a single dialogue box.",
+    "The intentional insertion of spaces is meant to split the text into content for different dialogue boxes.",
+    "So when translating into other languages, you may follow this rule and add blank placeholders yourself to split the text."
+  ]
 }

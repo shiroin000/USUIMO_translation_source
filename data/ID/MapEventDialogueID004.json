@@ -1,64 +1,4 @@
 {
-  "beginnersGuide": {
-    "0": [
-      "Arahkan mouse ke \\str[120] untuk memeriksa status \\str[120]",
-      "Klik kiri pada \\str[120] untuk berinteraksi dengan \\str[120]"
-    ],
-    "1": [
-      "Tahan mouse di atas background untuk memanggil \\str[120] ke tempatmu"
-    ],
-    "2": [
-      "Sentuh dan geser di atas \\str[120] untuk melakukan interaksi intim"
-    ],
-    "3": [
-      "Klik kanan atau tekan lama tombol kanan mouse",
-      "untuk keluar dari mode skinShip"
-    ]
-  },
-  "AndroidBeginnersGuide": {
-    "0": [
-      "Ketuk \\str[120] untuk memeriksa statusnya",
-      "Tahan pada \\str[120] untuk berinteraksi dengannya"
-    ],
-    "1": [
-      "Tekan dan tahan pada background untuk memanggil \\str[120] ke tempatmu"
-    ],
-    "2": [
-      "Sentuh dan geser di atas \\str[120] untuk melakukan interaksi intim"
-    ],
-    "3": [
-      "Ketuk tombol kembali atau",
-      "ketuk dua kali untuk keluar"
-    ],
-    "4": [
-      "File save game akan disimpan di \\TC[#fff94e]Documents/sister_save\\TC[#ffffff] ",
-      "di perangkatmu. Bebas aja buat membackup atau menggantinya ",
-      "dengan file save yang baru! Save dari perangkat lain juga didukung ",
-      "Save PC dan Android sepenuhnya kompatibel!"
-    ],
-    "5": [
-      "Catatan: Kamu hanya bisa menimpa file save yang sudah ada!",
-      "Kalau kamu memindahkan file save baru tanpa catatan yang cocok",
-      "gamenya gak akan mengenalinya!"
-    ]
-  },
-  "exitGame": {
-    "0": [
-      "Apakah kamu ingin kembali ke layar judul game?",
-      "Semua data yang belum tersimpan akan hilang."
-    ],
-    "1": [
-      "Iya",
-      "Gak"
-    ]
-  },
-  "quickHeadpat": [
-    "Rambutku bakal berantakan!",
-    "Jangan terlalu sering dielus-elus!",
-    "Enak rasanya",
-    "Sedikit lagi?",
-    "Meow..."
-  ],
   "2": {
     "0": [
       "Aku ngerasa agak bosen... Kita main apa ya?"
@@ -191,11 +131,6 @@
       "Suara kerikan yang berirama dan kehadirannya yang dekat ",
       "serta hangat membuatku merasa sangat bahagia...",
       "Rasa kantuk yang lebih kuat mulai menghampiriku..."
-    ],
-    "12.5": [
-      "Gesek pipi",
-      "Manja-manja",
-      "Akhiri di sini"
     ],
     "13": [
       "\\nl< >\"Tekanannya udah pas?       \\w[90]",
@@ -337,6 +272,11 @@
     ],
     "45": [
       "\\nl< >\"Kalau \\str[121] mau lagi, balik lagi lain kali ya~\""
+    ],
+    "12.5": [
+      "Gesek pipi",
+      "Manja-manja",
+      "Akhiri di sini"
     ]
   },
   "4": {
@@ -499,7 +439,8 @@
     ],
     "8": [
       "\\nl< >\"A-apa-apaan ketebalan segini!?",
-      "\\str[121]... kamu gak ngelakuin sesuatu yang nekat di luar kan?\""
+      "\\str[121]... kamu gak ngelakuin sesuatu yang nekat di luar sana, ",
+      "kan...?\""
     ],
     "9": [
       "\\nl< >\"Ap... apakah ini kekuatan uang...",
@@ -522,56 +463,51 @@
     "13": [
       "\\nl< >\"...Hm? ",
       "Bukankah ini Free Pass yang aku kasih ke kamu, \\str[121]?\""
-    ],  
-    "13.5": [
-      "\\nl< >\"Itu buat kamu pakai! ",
-      "Aku gak nerima retur~!\""
-    ],  
+    ],
     "14": [
       "\\nl< >\"..............Rambut putih?\""
-    ],  
+    ],
     "15": [
       "\\nl< >\"————————!?\""
-    ],  
+    ],
     "16": [
       "\\nl< >\"\\str[121]!!",
       "Kenapa sih kamu pegang banyak banget rambutku di tanganmu!?",
       "Ini gak lucu sama sekali!!\""
-    ],  
+    ],
     "17": [
       "\\nl< >\"\\str[121]... ",
       "Aku udah tau kalau kamu kadang ngelakuin hal aneh...",
       "Tapi ini udah kelewatan batas...\""
-    ],  
+    ],
     "18": [
       "\\nl< >\"...Susu? ",
       "\\str[121]... kalau kamu mikir bisa nyogok aku dengan ",
       "sesuatu kayak gini biar aku maafin kamu—\""
-    ],  
+    ],
     "19": [
       "\\{\\nl< >\"—Kalau gitu kamu harus kasih ",
       "aku minimal satu botol lagi!\""
-    ],  
-    "19.5": [
-      "\\nl< >\"Ooh~! Beneran bisa aku minum semua ini sendirian?",
-      "Aku ngerasa bersalah tapi seneng banget gini~!\""
-    ], 
+    ],
     "20": [
       "\\nl< >\"A-apa ini...?\""
-    ],   
+    ],
     "21": [
       "\\nl< >\"...Buku dari luar? ",
       "Ilustrasinya banyak banget~! ",
       "Makasih, \\str[121]! Aku bakal nungguin buat bacanya~\""
-    ],  
+    ],
+    "22": [
+      "\\nl< >\"...Bukannya ini buku aneh yang dikasih \\str[121] ke aku waktu itu!?\""
+    ],
     "23": [
       "\\nl< >\"Isinya cuma gambar mesum! ",
       "Ini semua gara-gara kamu! Setelah ngeliatnya, ",
       "aku ngerasa mataku bakal jadi aneh!!\""
-    ],  
+    ],
     "24": [
       "\\nl< >\"...Eh? Apa aku... mau ngeliat lebih banyak lagi...?\""
-    ],  
+    ],
     "25": [
       "\\nl< >\"Bukan itu masalahnya!! ",
       "Ini salahmu karena udah ngasih doujinshi kayak gini ",
@@ -582,7 +518,48 @@
       "kamu suka ngeliat hal kayak gini, \\str[121]... ",
       "mungkin aku bisa... pakai itu sebagai referensi... \\}",
       "Buat ngeliat... hal kayak apa yang kamu suka...\""
-    ]    
+    ],
+    "27": [
+      "\"Masih ada semangka dingin di kulkas lho!",
+      "Kamu mau makan sekarang~?\""
+    ],
+    "28": [
+      "\\nl< >\"Semangka dingin?",
+      "Mau, mau banget~! Pas banget aku lagi haus nih~!\""
+    ],
+    "29": [
+      "\\nl< >\"...Semangka?",
+      "Aku lagi nggak haus sih, ",
+      "tapi mana mungkin aku menolak yang manis-manis~!\""
+    ],
+    "30": [
+      "\\nl< >\"Selamat makaaann~~!\""
+    ],
+    "31": [
+      "\\nl< >\"Dingin dan segar banget—enak banget lagi~!\""
+    ],
+    "32": [
+      "\\nl< >\"Dingin dan segar, manisnya juga pas banget~!\""
+    ],
+    "33": [
+      "...Dia cepat banget makannya!?",
+      "Padahal aku belum makan sesuap pun..."
+    ],
+    "34": [
+      "Aku menikmati semangka dingin yang lezat dan menyegarkan bersama \\str[120]!"
+    ],
+    "13.5": [
+      "\\nl< >\"Itu buat kamu pakai! ",
+      "Aku gak nerima retur~!\""
+    ],
+    "19.5": [
+      "\\nl< >\"Ooh~! Beneran bisa aku minum semua ini sendirian?",
+      "Aku ngerasa bersalah tapi seneng banget gini~!\""
+    ],
+    "27.5": [
+      "Dia kan sudah makan tadi...",
+      "Nggak baik juga kalau membiarkannya makan makanan dingin terlalu banyak."
+    ]
   },
   "7": {
     "0": [
@@ -719,6 +696,225 @@
       "Itu agak mengkhawatirkan sih..."
     ]
   },
+  "9": {
+    "1": [
+      "Setelah menyantap makan malam yang lezat, ",
+      "Perut \\str[120] yang keroncongan akhirnya berhasil dipuaskan.",
+      " ",
+      " ",
+      "Namun, begitu kenyang dan tenaganya pulih kembali, ",
+      "hal pertama yang ia lakukan sesampainya di kamarnya",
+      "adalah menunjuk ke sudut ruangan dan menyuruhku duduk bersimpuh patuh di sana."
+    ],
+    "2": [
+      "Tanpa tahu kenapa \\str[120] tiba-tiba memasang wajah serius,",
+      "aku meneguk ludah dengan gugup dan menurutinya dengan patuh tanpa berani membantah."
+    ],
+    "3": [
+      "\\nl< >\"Ehem...! ",
+      "\\str[121], kamu tahu kan kenapa kamu dipanggil ke sini!?\""
+    ],
+    "4": [
+      "Berdiri di depanku, \\str[120] berusaha sekuat tenaga memasang ekspresi galak.",
+      "Ia mengangkat jari telunjuknya yang mungil dan mengarahkannya padaku,",
+      "bersikap sok berwibawa seolah ingin menegaskan, ",
+      "'Aku sekarang lagi marah besar sama kamu!'"
+    ],
+    "5": [
+      "Duduk bersimpuh di lantai, ",
+      "aku memeras otak di bawah tatapan tajamnya tanpa petunjuk sama sekali,",
+      "hingga akhirnya memberanikan diri untuk menebak pelan-pelan—"
+    ],
+    "6": [
+      "\"Umm... apa karena makan malam hari ini agak telat kusiapkan...?\""
+    ],
+    "7": [
+      "\\nl< >\"Ugh... Y-Yah, ",
+      "itu salah satunya sih, tapi sama sekali bukan itu masalah utamanya!\""
+    ],
+    "8": [
+      "\"Eh...? Berarti pas kita ngelakuinnya tadi rasanya nggak enak ya—\""
+    ],
+    "9": [
+      "\\nl< >\"Bukan nggak enak sih—   ",
+      "\\w[90]\\^"
+    ],
+    "10": [
+      "Begitu terucap, ",
+      "\\str[120] tampak teringat kembali adegan saat kami bermesraan tadi.",
+      "Wajah kecilnya yang tadinya galak seketika memerah, ",
+      "sampai-sampai ujung jarinya yang terangkat ikut bergetar sedikit."
+    ],
+    "11": [
+      "Meski begitu, \\str[120] menggigit bibir bawahnya demi mempertahankan sikap tegasnya,",
+      "menyentil dahiku berulang kali dengan jarinya dalam perpaduan antara ",
+      "rasa malu dan kesal."
+    ],
+    "12": [
+      "\\nl< >\"Ihh! Kamu hampir membuatku lupa apa yang akan kukatakan!",
+      "Sudah saat begini pun, kamu masih saja membahas hal-hal aneh...!\""
+    ],
+    "13": [
+      "\\nl< >\"Sudah kuduga—belakangan ini aku terlalu baik dan ",
+      "memanjakanmu berlebihan, \\str[121]!",
+      "Makanya kamu sampai tidak sadar betapa keterlaluannya kelakuanmu!",
+      "Pokoknya hari ini, aku benar-benar akan menceramahimu habis-habisan—!\""
+    ],
+    "14": [
+      "\"D-Diceramahi...?\"",
+      "Memangnya aku berbuat kesalahan yang separah itu ya...?\""
+    ],
+    "15": [
+      "Aku mengedipkan mata dengan wajah polos tanpa dosa,",
+      "benar-benar tidak paham apa yang membuat \\str[120] semarah ini."
+    ],
+    "16": [
+      "\\nl< >\"Maksudku itu soal pikiranmu yang belakangan ini isinya mesum terus, \\str[121]!",
+      "Barusan juga begitu...! Awalnya kamu bersikap biasa saja,",
+      "tapi gak lama kemudian, kamu tiba-tiba mendekat dan mau melakukan hal itu... ",
+      "hal-hal yang memalukan itu padaku...!\""
+    ],
+    "17": [
+      "\"Ah... J-Jadi soal itu...",
+      "Tapi bukan tiba-tiba kok, aku juga udah menahannya lama banget—",
+      "\\w[45]\\^"
+    ],
+    "18": [
+      "\\nl< >\"—Pelaku dilarang beralasan!",
+      "Ini juga bukan pertama kalinya kamu berbuat begini kan!",
+      "Semua kelakuan nakal yang pernah kamu perbuat masih ada di buku harianku, \\str[121]!\""
+    ],
+    "19": [
+      "\\nl< >\"Setiap kali aku lagi mandi, ",
+      "kamu pasti diam-diam ikut masuk kan, \\str[121]!?",
+      "Sudah ketahuan berkali-kali pun, kamu tetap nggak pernah kapok!\""
+    ],
+    "20": [
+      "\\nl< >\"Waktu nonton TV juga sama saja! ",
+      "Kamu selalu saja memilih acara-acara aneh, \\str[121]!",
+      "Jadinya suasana selalu canggung setiap saat!\""
+    ],
+    "21": [
+      "\\nl< >\"Ditambah lagi, kamu malah berbuat mesum di ruang makan! Padahal aku lagi lapar banget,",
+      "tapi perbuatanmu tadi benar-benar... intens banget tahu, \\str[121]!\""
+    ],
+    "22": [
+      "\\nl< >\"Di toilet pun kamu nggak bisa diam! ",
+      "Bisa-bisanya kamu mengintipku waktu lagi buang air di toilet!",
+      "\\str[121] jahat banget...!\""
+    ],
+    "23": [
+      "Gawat, suasananya jadi makin runyam nih...",
+      "Sepertinya belakangan ini aku memang terlalu sering melakukan hal-hal yang membuatnya kesal..."
+    ],
+    "24": [
+      "\"E-Eeeh...!? S-Sedikit aja pun nggak boleh...?\""
+    ],
+    "25": [
+      "\\nl< >\\{\"Kubilang... GAK BOLEH MESUM!!\""
+    ],
+    "26": [
+      "Mana mungkin...",
+      "Kalau aku tidak bisa bermesraan lagi dengan \\str[120] untuk selamanya,",
+      "lantas apa artinya hidupku ini..."
+    ],
+    "27": [
+      "Mendengar larangan yang bagaikan disambar petir di siang bolong itu, bahuku langsung terkulai lemas.",
+      "Aku tersungkur di sudut ruangan seolah jiwaku telah melayang keluar dari tubuh, ",
+      "dengan ekspresi keputusasaan yang seakan-akan kiamat telah datang."
+    ],
+    "28": [
+      "\\nl< >\"\\str[121]...? Kamu dengar nggak sih?",
+      "Kamu jangan coba-coba mengalihkan pembicaraan lagi ya?",
+      "Pokoknya kali ini aku nggak akan—"
+    ],
+    "29": [
+      "\"UWOOOOOGHHH AAAAAAHHHH—\""
+    ],
+    "30": [
+      "\"Nggak bisa bermesraan lagi sama \\str[120]...? Gak mauuu, aku nggak mau hal itu terjadi—\""
+    ],
+    "31": [
+      "\\nl< >\"Kyaaah!? \\str[121], k-kenapa kamu mendadak teriak-teriak begitu!!\""
+    ],
+    "32": [
+      "Sambil memegangi kepala di sudut ruangan, aku meratap memilukan sepenuh hati.",
+      "Sama sekali tak menyangka reaksiku akan sedramatis ini, bahu \\str[120] tersentak kaget,",
+      "dan mode ceramahnya yang berapi-api tadi langsung buyar seketika."
+    ],
+    "33": [
+      "\"Membayangkan nggak bakal bisa menyentuh \\str[120] lagi membuatku...!!",
+      "UWOOOOOGHHH AAAAAAHHHH—",
+      "Aku mau \\str[120] terus mencintaiku seumur hidup—\""
+    ],
+    "34": [
+      "\\nl< >\"...Duh, \\str[121]! ",
+      "Kamu lebay banget sih!",
+      "Kan cuma aturan 'GAK BOLEH MESUM'! ",
+      "Kenapa kelakuanmu seolah-olah dunia sudah kiamat begini...?\""
+    ],
+    "35": [
+      "\"Gak mauuuu, pokoknya nggak mauuuu—\""
+    ],
+    "36": [
+      "\\nl< >\"Iya, iya, aku paham! Berhenti berteriak dan jangan menangis lagi dong...!",
+      "Maksudku melarangmu bersikap mesum itu, a-aku cuma ingin kamu tidak berbuat mesum tanpa ",
+      "memikirkan waktu, tempat, ataupun suasananya!\""
+    ],
+    "37": [
+      "\\nl< >\\}\"Kalau saja kamu bisa sedikit lebih menahan diri dan ",
+      "menjaga kelakuanmu sehari-hari, \\str[121]...",
+      "serta minta izin baik-baik kalau s-sesekali kamu kepengin,",
+      "bukan berarti aku bakal selalu menolakmu kok...\""
+    ],
+    "38": [
+      "Suaranya semakin lama semakin mengecil, ",
+      "\\str[120] memalingkan wajahnya tersipu malu, bahkan daun telinganya ikut memerah.",
+      "Namun aku mendengar dengan jelas kompromi yang ia bisikkan itu—",
+      " ",
+      "dan meski sedetik lalu aku tampak seperti mayat hidup tanpa jiwa, ",
+      "saat itu juga energiku langsung pulih total seratus persen,",
+      "melompat bangkit dari lantai dengan tangan terbuka lebar untuk merangkul \\str[120] ke dalam pelukan erat."
+    ],
+    "39": [
+      "\"Sudah kuduga \\str[120] memang paling sayang padaku! Itu baru \\str[120]-ku!",
+      "Tentu saja aku akan memperlakukanmu dengan sangat berharga~! ",
+      "Gadis baik, gadis baik~ \\str[120] adalah yang paling imut sedunia~!\""
+    ],
+    "40": [
+      "\\nl< >\"Kyaah!? J-Jangan menempelkan ingus dan air matamu ke badanku dong~!",
+      "Aku melonggarkan aturannya kali ini cuma karena tampangmu kelihatan menyedihkan banget, \\str[121]!",
+      "Kamu ini sebenarnya beneran intropeksi diri nggak sih, \\str[121]...!\""
+    ],
+    "41": [
+      "\"Iya dong! Aku lagi merenunginya dalam-dalam nih sekarang~",
+      "Jadi sebagai hadiahnya, ayo kita pelukan tanda baikan~!\""
+    ],
+    "42": [
+      "\\nl< >\\{\"Kayaknya aku memang harus melarang \\str[121] berbuat mesum ",
+      "seharian penuh deh.\""
+    ],
+    "43": [
+      "\"GYAAAAAAAHHHHH—\""
+    ],
+    "44": [
+      "\\c[2]\\str[120] sekarang berkesempatan memperoleh \\dimg[22]."
+    ],
+    "9.1": [
+      "\\nl< >\\{\"—B-Bukan!! Bukan itu juga maksudku!\""
+    ],
+    "19.1": [
+      "\\nl< >\"Bahkan waktu kita mandi bareng, ",
+      "padahal aku cuma ingin berendam santai bersamamu!",
+      "Tapi tangan \\str[121] selalu meraba ke sana kemari dan menyentuh seluruh tubuhku!\""
+    ],
+    "23.1": [
+      "\\nl< >\"Pokoknya! Karena setiap kali aku selalu gampang memaafkanmu,",
+      "makanya kamu jadi menganggap perbuatan nakal seperti itu ",
+      "sebagai hal yang wajar kan, \\str[121]! Jadi mulai sekarang, aku resmi mengumumkan—",
+      "larangan keras 'Gak Boleh Mesum'!\""
+    ]
+  },
   "10": {
     "0": [
       "itadakimasu——"
@@ -797,9 +993,6 @@
     "4": [
       "\\nl< >\"Keringin rambut itu melelahkan... ",
       "\\str[121], bantuin aku dong~\""
-    ],
-    "4.1": [
-      "\\nl< >\"...Tolong jangan terusin ngeliatin aku kayak gitu~\""
     ],
     "5": [
       "\\nl< >\"Kenapa, \\str[121]?\""
@@ -1051,6 +1244,9 @@
     "70": [
       "Meskipun ada beberapa kendala, ",
       "pada akhirnya, aku tetap berhasil bantu ngekeringin rambutnya!"
+    ],
+    "4.1": [
+      "\\nl< >\"...Tolong jangan terusin ngeliatin aku kayak gitu~\""
     ]
   },
   "14": {
@@ -1259,7 +1455,7 @@
       "\\nl< >\"Ueeegh...",
       "Aneh banget... seluruh tubuhku gatal-gatal...",
       "Bahkan bajuku yang bergesekan dengan kulit bikin aku merinding...\""
-    ]    
+    ]
   },
   "18": {
     "0": [
@@ -2731,6 +2927,63 @@
       "Kalau terus begini, ",
       "selama aku bisa dapet empat atau lima botol Elixir Rubrum lagi,",
       "mungkin \\str[120] beneran bisa pulih cukup buat keluar rumah lagi!"
+    ],
+    "60": [
+      "...Dengan ini, pengobatan keempat sudah selesai.",
+      "Kupikir butuh waktu bertahun-tahun untuk mengumpulkan semua pecahannya.",
+      "Namun sekarang semuanya berjalan begitu cepat, bahkan aku hampir tidak mempercayainya."
+    ],
+    "61": [
+      "Tentu saja aku senang melihatnya semakin sehat dan bersemangat setiap hari.",
+      "Tapi kenapa harus sekarang?",
+      "Apa ada sesuatu yang mendasar telah berubah",
+      "sejak hari di mana keanehan mulai terjadi di Abyss?"
+    ],
+    "62": [
+      "Monster-monster kuat yang belum pernah kulihat sebelumnya",
+      "terus bermunculan di Abyss.",
+      "Dan kekuatanku sendiri bertambah dengan kecepatan yang tak pernah kubayangkan.",
+      "Mungkinkah ada keterkaitan di antara perubahan-perubahan ini...?"
+    ],
+    "63": [
+      "...Saat ini aku masih belum memahaminya.",
+      "Namun jika terus seperti ini,",
+      "aku mungkin benar-benar bisa menemukan ketujuh Fragmen Filsuf",
+      "yang tertulis di catatan Ayah."
+    ],
+    "64": [
+      "Tujuh.",
+      "Angka itu berulang kali muncul di catatan peninggalan Ayah.",
+      "Tujuh hari dalam seminggu, tujuh nada dalam tangga nada, tujuh warna cahaya yang melewati prisma.",
+      "Alkimia pun memiliki tujuh logam dan tujuh tahapan yang selaras."
+    ],
+    "65": [
+      "Kalsinasi, pelarutan, pemisahan, penyatuan,",
+      "fermentasi, distilasi dan akhirnya, koagulasi.",
+      "Tujuh menandai akhir dari sebuah siklus.",
+      "Itu juga berarti sesuatu yang belum utuh akhirnya mendekati kesempurnaan."
+    ],
+    "66": [
+      "Tujuh pecahan. Tujuh pengobatan.",
+      "Jika perhitungan Ayah tidak salah,",
+      "begitu pengobatan terakhir selesai,",
+      "ia tak perlu lagi terkurung di dalam kamar ini."
+    ],
+    "67": [
+      "...Tinggal tiga lagi.",
+      "Begitu menyadarinya di dalam benakku,",
+      "entah kenapa aku jadi tak bisa duduk diam."
+    ],
+    "68": [
+      "Dulu semua itu terasa begitu jauh di masa depan.",
+      "Yang bisa kulakukan hanyalah terus meyakinkan diriku:",
+      "sedikit lebih bersabar, sedikit lebih berjuang.",
+      "Namun sekarang, 'suatu hari nanti' yang dulu hanya bisa kuucapkan, akhirnya terasa begitu dekat untuk dinantikan."
+    ],
+    "69": [
+      "Ekspresi seperti apa yang akan ia tunjukkan ya,",
+      "saat pertama kali melangkahkan kakinya keluar dari kamar ini.",
+      "...Aku tak sabar menantikan hari itu tiba."
     ]
   },
   "51": {
@@ -2832,5 +3085,65 @@
     "20": [
       "Akhirnya aku bikin dia marah..."
     ]
-  }
+  },
+  "beginnersGuide": {
+    "0": [
+      "Arahkan mouse ke \\str[120] untuk memeriksa status \\str[120]",
+      "Klik kiri pada \\str[120] untuk berinteraksi dengan \\str[120]"
+    ],
+    "1": [
+      "Tahan mouse di atas background untuk memanggil \\str[120] ke tempatmu"
+    ],
+    "2": [
+      "Sentuh dan geser di atas \\str[120] untuk melakukan interaksi intim"
+    ],
+    "3": [
+      "Klik kanan atau tekan lama tombol kanan mouse",
+      "untuk keluar dari mode skinShip"
+    ]
+  },
+  "AndroidBeginnersGuide": {
+    "0": [
+      "Ketuk \\str[120] untuk memeriksa statusnya",
+      "Tahan pada \\str[120] untuk berinteraksi dengannya"
+    ],
+    "1": [
+      "Tekan dan tahan pada background untuk memanggil \\str[120] ke tempatmu"
+    ],
+    "2": [
+      "Sentuh dan geser di atas \\str[120] untuk melakukan interaksi intim"
+    ],
+    "3": [
+      "Ketuk tombol kembali atau",
+      "ketuk dua kali untuk keluar"
+    ],
+    "4": [
+      "File save game akan disimpan di \\TC[#fff94e]Documents/sister_save\\TC[#ffffff] ",
+      "di perangkatmu. Bebas aja buat membackup atau menggantinya ",
+      "dengan file save yang baru! Save dari perangkat lain juga didukung ",
+      "Save PC dan Android sepenuhnya kompatibel!"
+    ],
+    "5": [
+      "Catatan: Kamu hanya bisa menimpa file save yang sudah ada!",
+      "Kalau kamu memindahkan file save baru tanpa catatan yang cocok",
+      "gamenya gak akan mengenalinya!"
+    ]
+  },
+  "exitGame": {
+    "0": [
+      "Apakah kamu ingin kembali ke layar judul game?",
+      "Semua data yang belum tersimpan akan hilang."
+    ],
+    "1": [
+      "Iya",
+      "Gak"
+    ]
+  },
+  "quickHeadpat": [
+    "Rambutku bakal berantakan!",
+    "Jangan terlalu sering dielus-elus!",
+    "Enak rasanya",
+    "Sedikit lagi?",
+    "Meow..."
+  ]
 }

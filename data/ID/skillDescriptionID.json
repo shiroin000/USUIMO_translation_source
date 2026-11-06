@@ -231,6 +231,50 @@
       "Bonus damage pukulan terakhir: \\c[6]${200+(100*$gameActors.actor(1).skillMasteryLevel(48))}%\\c[0]"
     ]
   },
+  "21": {
+    "name": [
+      "Deteksi Koordinat"
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      "Menampilkan koordinat peta saat ini"
+    ]
+  },
+  "22": {
+    "name": [
+      "Deteksi Relik"
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      "Menampilkan jumlah monster dan relik di peta saat ini"
+    ]
+  },
+  "23": {
+    "name": [
+      "Deteksi Bos"
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      "Menampilkan status respawn bos yang bisa ditantang"
+    ]
+  },
+  "24": {
+    "name": [
+      "Deteksi HP"
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      "Menampilkan informasi HP target saat terkena serangan"
+    ]
+  },
   "26": {
     "name": [
       "Latihan Ilmu Pedang"
@@ -246,6 +290,149 @@
     "ability": [
       "Ayunan Latihan Selesai: \\{\\c[6]${QJ.MPMZ.tl.playerSwordsmanshipTraining(1)}\\c[0]",
       "Damage serangan dasar senjata jarak dekat meningkat sebesar \\c[6]${QJ.MPMZ.tl.playerSwordsmanshipTraining(2)}%"
+    ]
+  },
+  "66": {
+    "name": [
+      "Sihir Pembeku"
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      "Permukaan es yang tercipta secara berkala mencoba membekukan musuh di atasnya",
+      "Musuh yang berada di atas es lebih mudah dibekukan oleh hawa dingin"
+    ]
+  },
+  "82": {
+    "name": [
+      "Sihir Pembasmi Hama"
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      "Menyemprotkan kabut beracun yang sangat efektif melawan hama",
+      "Semakin tinggi Magic Attack, semakin besar damage racun tambahannya",
+      "Kabut racun bertahan sejenak dan meledak jika terkena api"
+    ]
+  },
+  "87": {
+    "name": [
+      "Racun Mematikan"
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      "Meracuni musuh berulang kali meningkatkan akumulasi damage racun sebesar 40%",
+      "Setiap pemicu damage racun meningkatkan akumulasi damage racun sebesar 40%"
+    ]
+  },
+  "93": {
+    "name": [
+      "Awan Petir Vajra"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      "\\is[93] bertahan dan otomatis menyambar musuh di sekitarnya",
+      "Saat cuaca hujan, semua efek tongkat meningkat drastis"
+    ]
+  },
+  "95": {
+    "name": [
+      "Black Hole"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      "Menciptakan black hole yang menarik musuh dan memberikan damage terus-menerus",
+      "Meledak saat efek berakhir, memukul mundur musuh di sekitarnya"
+    ]
+  },
+  "96": {
+    "name": [
+      "Tusukan Riak Air"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      "Memanipulasi air di lokasi target untuk menyerang",
+      "Memberikan peningkatan damage besar jika lokasi target adalah air",
+      "Saat digunakan di air, serangan ini juga bisa melempar keluar item yang tersembunyi di bawah permukaan"
+    ]
+  },
+  "97": {
+    "name": [
+      "Torrential Burial"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      "Terus menyerap dan memadatkan elemen air di sekitar (pengisian daya berhenti jika tidak ada air)",
+      "Saat pengisian daya selesai, melepaskan gelombang kejut air yang kuat ke arah target"
+    ]
+  },
+  "98": {
+    "name": [
+      "Crimson Lotus Meteor"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      "Merapal sihir pemanggilan, menandai lokasi target saat pengisian daya selesai",
+      "Setelah beberapa detik, memanggil meteor jatuh untuk menghantam lokasi yang ditandai"
+    ]
+  },
+  "103": {
+    "name": [
+      "Balasan Karma"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      "Melepaskan gelombang kejut untuk membalas musuh di sekitar saat menerima damage",
+      "Melepaskan gelombang pemulihan yang menyembuhkan musuh di sekitar saat menerima pemulihan"
+    ]
+  },
+  "105": {
+    "name": [
+      "Transmutasi Emas"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      "Mengubah sementara semua unit di dalam area efek mantra menjadi emas, mencegah mereka bertindak",
+      "Musuh yang dikalahkan saat masih menjadi emas akan menjatuhkan uang dalam jumlah besar"
     ]
   }
 }

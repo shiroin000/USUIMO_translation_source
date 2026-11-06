@@ -1,4 +1,34 @@
 {
+  "MapExploration": {
+    "mapTemplate": [
+      "Pintu Masuk",
+      "Ruang Makan",
+      "Ruang Keluarga",
+      "Kamar \\str[120]",
+      "Kamarku",
+      "Kamar Tidur Utama",
+      "Area Wastafel",
+      "Kamar Mandi",
+      "Toilet"
+    ],
+    "saveButton": [
+      "Muat",
+      "Simpan"
+    ]
+  },
+  "changelogScene": {
+    "Announcements": "Pengumuman",
+    "Changelog": "Catatan Pembaruan",
+    "ReleaseDate": "Tanggal Rilis",
+    "LastModified": "Terakhir Diubah",
+    "UpgradableFrom": "Bisa Diperbarui Dari",
+    "NotRecorded": "Tidak tercatat",
+    "MajorUpdate": "Pembaruan Utama",
+    "PatchUpdate": "Pembaruan Patch",
+    "ReadControls": "Seret / Gulir Mouse untuk Membaca · Arahkan Kursor atau Tahan Panah untuk Menggulir",
+    "NotProvided": "Tidak ada informasi",
+    "ClickToUpdate": "Klik untuk memperbarui"
+  },
   "autoUpdateReminder": {
     "0": [
       "Proses pembaruan akan otomatis dimulai saat kamu bangun keesokan harinya.",
@@ -10,6 +40,63 @@
       "Koneksi jaringan mungkin gagal!",
       "\\w[120]"
     ]
+  },
+  "rpgMapButtonDescription": {
+    "starDoor": "PULANG",
+    "option": "PENGATURAN",
+    "skill": "SKILL",
+    "inventory": "ITEM",
+    "status": "STATUS",
+    "collection": "NEXUS"
+  },
+  "equipmentDescriptionKeyword": {
+    "sentouryoku": "Kekuatan Tempur",
+    "HP": "HP Maksimal",
+    "durability": "Ketahanan",
+    "ATK": "Serangan",
+    "DEF": "Pertahanan",
+    "MAT": "Kekuatan Sihir",
+    "MDF": "Ketahanan Sihir",
+    "LUK": "Keberuntungan",
+    "ASP": "Kecepatan Serang",
+    "CSP": "Kecepatan Merapal",
+    "HRG": "Pemulihan Otomatis",
+    "SPD": "Kecepatan Gerak"
+  },
+  "EquipScene": {
+    "operationInstructions": "Klik atau tarik ikon perlengkapan untuk memasang atau membuang.",
+    "discardDescription": "Tarik perlengkapan ke sini untuk membuangnya.",
+    "unequipDescription": "Tarik perlengkapan ke sini untuk melepas dan mengembalikannya ke tas."
+  },
+  "CollectionScene": {
+    "itemCollection": "ITEM",
+    "weaponCollection": "SENJATA",
+    "gearCollection": "PERLENGKAPAN",
+    "traceCollection": "JEJAK",
+    "lockedObject": "?????",
+    "lockedNotice": [
+      "Data Hilang—",
+      "Dapatkan item ini setidaknya satu kali untuk membukanya."
+    ],
+    "collectionProgress": "Progres Koleksi: %1 / %2",
+    "acquiredCount": "Jumlah Didapat",
+    "firstAcquiredTime": [
+      "Pertama Didapat:",
+      "Hari ke-%1, %2j %3m"
+    ],
+    "obtainableFrom": "Didapat Dari:",
+    "quickTipTitle": "Tips:",
+    "allEvents": "Semua Event",
+    "mainEvents": "Event Utama",
+    "sideEvents": "Event Sampingan",
+    "eroEvents": "Event Mesum",
+    "readMore": "Baca Selengkapnya",
+    "achievementEvents": "Pencapaian",
+    "unlockTime": "Hari ke-%1 · %2",
+    "unlockCondition": "Syarat Membuka: ",
+    "howToObtain": "Didapat Dari: ",
+    "traceControls": "Seret untuk melihat lini masa · Gulir / Cubit untuk memperbesar atau memperkecil lini masa",
+    "readMoreControls": "Gulir / Geser atas atau bawah untuk membaca"
   },
   "magicCamera": {
     "record": "Rekam Video",
@@ -29,8 +116,10 @@
     ],
     "recallButton": [
       "Putar Ulang Event",
-      "Tidak Usah"
+      "Tidak Usah",
+      "Lihat Kompendium"
     ],
+    "lockedVariation": "Variasi ini belum terbuka!",
     "placeholder": "Kenangan yang Tersedia",
     "takeBathWithImouto": "Mandi bersama \\str[120]",
     "Polaroid": "Seri Polaroid NLCH"
@@ -51,6 +140,11 @@
       "Buka fitur yang sesuai dengan memasukkan kode curang yang benar!"
     ]
   },
+  "UnitINexus": {
+    "bossRespawnCountdown": "%1 akan muncul kembali dalam %2 hari!",
+    "bossChallengeAvailable": "%1 telah muncul kembali!",
+    "noBossDetected": "Tidak ada boss dengan \\ii[20] yang terdeteksi!"
+  },
   "warehouseIsFull": "Tidak bisa menyimpan barang lagi!",
   "cannotUseItem": "Tidak bisa memakai item sekarang!",
   "bulkSelectButton": "Klik untuk mengaktifkan/menonaktifkan pilihan massal",
@@ -59,10 +153,17 @@
       "Mengeluarkan \\ii[\\v[90]]  ",
       "aku harus bagaimana ya…?"
     ],
-    "1": [
+    "doubleConfirm": [
       "Pakai",
-      "Tidak Usah",
       "Buang"
+    ],
+    "cannotQuickUse": "Item ini tidak bisa ditambahkan ke Quick Item Wheel",
+    "operationInstructions": [
+      "Seret item yang mendukung penggunaan cepat ke dalam Quick Item Wheel",
+      "untuk berganti-ganti dan menggunakannya di peta"
+    ],
+    "operationInstructionsForPC": [
+      "(Tekan tombol F/G untuk berganti, dan R untuk menggunakan item)"
     ]
   },
   "forceGoHome": [
@@ -164,6 +265,14 @@
       " telah muncul di Abyss! "
     ]
   },
+  "unlockTraumaRescueTeam": {
+    "0": [
+      " Trauma Rescue Team "
+    ],
+    "1": [
+      " telah muncul di Abyss! "
+    ]
+  },
   "unlockAppleFairy": {
     "0": [
       " Apple Fairy "
@@ -216,6 +325,10 @@
       "Lakukan atas risiko kamu sendiri!"
     ]
   },
+  "minecartTutorial": [
+    "Kalau kereta tambang tidak bergerak, ",
+    "coba ketuk beberapa kali."
+  ],
   "nekoTruck": {
     "0": [
       "Mau beli \\v[84]?",
@@ -394,6 +507,11 @@
       "Jika berbagai serpihan bisa dikumpulkan",
       "mungkin bisa membantu memperbaiki kondisi ${}"
     ],
+    "description48": [
+      "Serpihan spesial yang didapat dari Pedang Iblis Mistilteinn",
+      "Jika berbagai serpihan bisa dikumpulkan",
+      "mungkin bisa membantu memperbaiki kondisi ${}"
+    ],
     "description50": [
       "Serpihan istimewa yang didapat dari Red Beast",
       "Jika berbagai serpihan bisa dikumpulkan",
@@ -401,6 +519,11 @@
     ],
     "description56": [
       "Serpihan istimewa yang didapat dari Maid Bunny",
+      "Jika berbagai serpihan bisa dikumpulkan",
+      "mungkin bisa membantu memperbaiki kondisi ${}"
+    ],
+    "description73": [
+      "Serpihan spesial yang didapat dari Golem Penjaga",
       "Jika berbagai serpihan bisa dikumpulkan",
       "mungkin bisa membantu memperbaiki kondisi ${}"
     ]
@@ -443,6 +566,9 @@
     ],
     "2": [
       "Masih memilih bahan!!"
+    ],
+    "3": [
+      "Aku harus memilih setidaknya satu bahan lagi..."
     ]
   },
   "inventoryExpansion": {
