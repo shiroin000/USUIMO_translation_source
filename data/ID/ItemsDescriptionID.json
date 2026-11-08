@@ -11,7 +11,21 @@
     "ability": [
       "Bisa dimasukkan ke mesin gacha tanpa rusak untuk memicu satu tarikan",
       "Selalu memberi tarikan 11x dengan minimal satu bola emas"
-    ]
+    ],
+    "obtainSource": [
+      "Saat mesin gacha meledak ketika ketahanannya hampir habis, ",
+      "nilai tersisa yang belum terkonversi menjadi kapsul ",
+      "akan diubah menjadi tingkat drop untuk item ini. ",
+      "Semakin tinggi nilai yang tersisa, semakin tinggi tingkat drop-nya"
+    ],
+    "relatedTags": {
+      "keyItem": true,
+      "nonConsumableItem": true,
+      "relatedDropPool": [
+        189
+      ],
+      "firstAppearanceVersion": 0.77
+    }
   },
   "2": {
     "name": [
@@ -356,6 +370,10 @@
     ],
     "ability": [
       "Bisa memicu event terkait saat pulang ke rumah di cuaca panas"
+    ],
+    "unlockCondition": [
+      "Sudah mendapatkan \\ii[22]",
+      "Pilih untuk pulang lebih awal saat cuaca panas"
     ]
   },
   "23": {
@@ -433,6 +451,21 @@
       "HP+75. Sementara meningkatkan Kecepatan Serangan dan Kecepatan Gerak"
     ]
   },
+  "28": {
+    "name": [
+      "Susu Cokelat"
+    ],
+    "subtitle": [
+      "\"Disponsori oleh:NLCH\""
+    ],
+    "description": [
+      "Minuman dari mesin penjual otomatis yang aneh",
+      "Rasanya lumayan, tapi kenapa ada mesin penjual otomatis di sini?"
+    ],
+    "ability": [
+      "HP+75, memberikan perisai 300 poin selama 10 menit"
+    ]
+  },
   "30": {
     "name": [
       "Konpeito Merah Muda"
@@ -507,7 +540,12 @@
     ],
     "ability": [
       "Kocok dengan keras lalu lempar untuk memicu ledakan besar"
-    ]
+    ],
+    "quickTip": {
+      "1": [
+        "Menaruhnya di kulkas atau memberikannya kepada \\str[120] untuk diminum mungkin akan memberikan kejutan kecil"
+      ]
+    }
   },
   "41": {
     "name": [
@@ -570,7 +608,12 @@
     ],
     "ability": [
       "Melempar penanda yang memungkinkan bertukar posisi"
-    ]
+    ],
+    "quickTip": {
+      "1": [
+        "Mungkin bisa membantumu kabur dari tempat yang tidak bisa ditinggalkan dengan cara biasa…"
+      ]
+    }
   },
   "45": {
     "name": [
@@ -585,7 +628,12 @@
     ],
     "ability": [
       "Melempar dan bertukar posisi dengan target yang tersentuh"
-    ]
+    ],
+    "quickTip": {
+      "1": [
+        "Mungkin bisa membantumu kabur dari tempat yang tidak bisa ditinggalkan dengan cara biasa…"
+      ]
+    }
   },
   "46": {
     "name": [
@@ -705,7 +753,13 @@
     ],
     "ability": [
       "Saat dipakai, truk NLCH menabrak pemain"
-    ]
+    ],
+    "quickTip": {
+      "1": [
+        "Begitu gadis-gadis kucing menerima sinyal pemanggilan, mereka akan menerobos kencang sambil membunyikan klakson dan menginjak gas dalam-dalam, jadi hati-hati!",
+        "Kalau sampai kamu terlempar ditabrak… waktu membuka mata nanti, bisa-bisa kamu sudah berada di dunia lain…"
+      ]
+    }
   },
   "54": {
     "name": [
@@ -795,7 +849,15 @@
     ],
     "ability": [
       "Saat dipakai, kekuatan Iblis Kematian terwujud di sini"
-    ]
+    ],
+    "quickTip": {
+      "1": [
+        "Efek instakill dari Death hanya mempan pada musuh kroco dan tidak berpengaruh pada monster sekelas bos"
+      ],
+      "2": [
+        "Saat aktif, sihir ini memberikan damage tambahan setiap kali kamu melancarkan serangan"
+      ]
+    }
   },
   "60": {
     "name": [
@@ -840,7 +902,15 @@
     ],
     "ability": [
       "Saat dipakai, memanggil Pilar yang Tersegel"
-    ]
+    ],
+    "quickTip": {
+      "1": [
+        "Efek batu ini hanya mempan pada musuh kroco dan tidak berpengaruh pada monster sekelas bos"
+      ],
+      "2": [
+        "Memberikan damage besar pada musuh non-bos sekaligus memulihkan HP-mu"
+      ]
+    }
   },
   "63": {
     "name": [
@@ -855,7 +925,16 @@
     ],
     "ability": [
       "Memanggil Gerbang Bintang di dekat pemain untuk kembali ke titik awal"
-    ]
+    ],
+    "quickTip": {
+      "1": [
+        "Kartu khusus \"The Star\" milik \\str[121] tidak akan pernah terkonsumsi, dan pintu keluar Gerbang Bintang tampaknya terhubung secara permanen ke rumah"
+      ],
+      "2": [
+        "Gerbang Bintang milik \\str[121] bahkan memiliki ruang terpisah di dalamnya, yang tampaknya juga dirancang secara khusus…",
+        "Bagi petualang lain, sihir spasial dalam skala sebesar ini adalah keajaiban di luar nalar"
+      ]
+    }
   },
   "64": {
     "name": [
@@ -1033,6 +1112,74 @@
       "\\str[110]"
     ]
   },
+  "81": {
+    "name": [
+      "Tingtur Pengantin Merah"
+    ],
+    "subtitle": "",
+    "description": [
+      "Ramuan pemikat sihir yang diracik melalui alkimia",
+      "Sejak Abyss dibuka untuk eksplorasi bebas, ",
+      "material monster yang dulunya sangat langka ",
+      "mulai bermunculan di pasar berkeranjang-keranjang..."
+    ],
+    "ability": [
+      "Memberikan enchant pada senjata jarak dekat yang sedang dipakai selama 10 menit saat digunakan",
+      "Saat aktif, serangan berpeluang memberikan status Terbakar dan tambahan damage sihir",
+      "Sedikit meningkatkan konsumsi ketahanan senjata saat aktif"
+    ]
+  },
+  "82": {
+    "name": [
+      "Tingtur Ciuman Musim Dingin"
+    ],
+    "subtitle": "",
+    "description": [
+      "Ramuan pemikat sihir yang diracik melalui alkimia",
+      "Sejak Abyss dibuka untuk eksplorasi bebas, ",
+      "material monster yang dulunya sangat langka ",
+      "mulai bermunculan di pasar berkeranjang-keranjang..."
+    ],
+    "ability": [
+      "Memberikan enchant pada senjata jarak dekat yang sedang dipakai selama 10 menit saat digunakan",
+      "Saat aktif, serangan berpeluang memberikan status Beku dan tambahan damage sihir",
+      "Sedikit meningkatkan konsumsi ketahanan senjata saat aktif"
+    ]
+  },
+  "83": {
+    "name": [
+      "Tingtur Ular Emas"
+    ],
+    "subtitle": "",
+    "description": [
+      "Ramuan pemikat sihir yang diracik melalui alkimia",
+      "Sejak Abyss dibuka untuk eksplorasi bebas, ",
+      "material monster yang dulunya sangat langka ",
+      "mulai bermunculan di pasar berkeranjang-keranjang..."
+    ],
+    "ability": [
+      "Memberikan enchant pada senjata jarak dekat yang sedang dipakai selama 10 menit saat digunakan",
+      "Saat aktif, serangan berpeluang memberikan status Petir dan tambahan damage sihir",
+      "Sedikit meningkatkan konsumsi ketahanan senjata saat aktif"
+    ]
+  },
+  "84": {
+    "name": [
+      "Tingtur Janda Hitam"
+    ],
+    "subtitle": "",
+    "description": [
+      "Ramuan pemikat sihir yang diracik melalui alkimia",
+      "Sejak Abyss dibuka untuk eksplorasi bebas, ",
+      "material monster yang dulunya sangat langka ",
+      "mulai bermunculan di pasar berkeranjang-keranjang..."
+    ],
+    "ability": [
+      "Memberikan enchant pada senjata jarak dekat yang sedang dipakai selama 10 menit saat digunakan",
+      "Saat aktif, serangan berpeluang memberikan status Racun dan tambahan damage sihir",
+      "Sedikit meningkatkan konsumsi ketahanan senjata saat aktif"
+    ]
+  },
   "86": {
     "name": [
       "Irisan Daging"
@@ -1079,6 +1226,19 @@
       "Itulah hukum alam"
     ],
     "ability": ""
+  },
+  "91": {
+    "name": [
+      "Ekor Naga Muda"
+    ],
+    "description": [
+      "Ekor naga muda yang cukup berlemak, lezat baik dipanggang maupun dibuat sup",
+      "Daging khas yang populer di kalangan penikmat kuliner, bernilai cukup tinggi di pasar manusia"
+    ],
+    "ability": [
+      "Bisa dipakai untuk memasak atau dijual demi uang!"
+    ],
+    "subtitle": ""
   },
   "97": {
     "name": [
@@ -1391,6 +1551,22 @@
       "Memakannya langsung sedikit memulihkan kesehatan"
     ],
     "ability": ""
+  },
+  "126": {
+    "name": [
+      "Apel Emas"
+    ],
+    "subtitle": [
+      "\"Sentuhan Emas\""
+    ],
+    "description": [
+      "Apel ajaib yang diubah menjadi emas murni oleh kekuatan alkimia.",
+      "Berkilau dengan kilau memikat dan terasa cukup berat di tanganmu.",
+      "Tunggu, apa apel ini masih bisa dimakan?"
+    ],
+    "ability": [
+      "Bisa diberikan ke Apple Fairy untuk meningkatkan keberuntungan secara permanen!"
+    ]
   },
   "127": {
     "name": [
@@ -1758,7 +1934,7 @@
       "Konon ia otomatis mengerut dan bergerak mengikuti tingkat gairah pemakainya...",
       "Tapi kenapa aku membuat barang seperti ini—HARUSNYA ITU BUKAN DIRIKU...!!"
     ],
-    "productSubtitle":[
+    "productSubtitle": [
       ""
     ],
     "productDescription": [
@@ -3208,6 +3384,20 @@
     ],
     "ability": ""
   },
+  "326": {
+    "name": [
+      "Semangka Dingin"
+    ],
+    "description": [
+      "Semangka yang didinginkan dengan es, menyegarkan dan manis",
+      "Teman terbaik untuk hari-hari musim panas yang terik"
+    ],
+    "ability": [
+      "Bisa memicu event terkait saat pulang ke rumah di tengah cuaca panas"
+    ],
+    "beIndependent": true,
+    "subtitle": ""
+  },
   "410": {
     "name": [
       "Saran Sang Knight"
@@ -3267,7 +3457,10 @@
       "\\str[121] membawanya ke depan cermin—"
     ],
     "description": "",
-    "ability": ""
+    "ability": "",
+    "recallEventName": [
+      "Aksi Malu di Depan Cermin Kamar Mandi"
+    ]
   },
   "431": {
     "name": [
@@ -3279,7 +3472,16 @@
       "Dengan paham sepenuhnya, \\str[120] langsung menawarkan layanan cuci spesial..."
     ],
     "description": "",
-    "ability": ""
+    "ability": "",
+    "recallEventName": [
+      "Layanan Cuci Spesial \\str[120] II"
+    ],
+    "unlockCondition": [
+      "Membutuhkan setidaknya \\px[10]\\dimg[15]\\dimg[15]",
+      "Berhasil mengajak \\str[120] untuk mandi bersama",
+      "Minta \\str[120] mencuci punggung, lalu kemaluan",
+      "Perlu memicu percabangan mencuci lengan terlebih dahulu"
+    ]
   },
   "432": {
     "name": [
@@ -3291,7 +3493,15 @@
       "Dengan paham sepenuhnya, \\str[120] langsung menawarkan layanan cuci spesial..."
     ],
     "description": "",
-    "ability": ""
+    "ability": "",
+    "recallEventName": [
+      "Layanan Cuci Spesial \\str[120] I"
+    ],
+    "unlockCondition": [
+      "Membutuhkan setidaknya \\px[10]\\dimg[15]\\dimg[15]",
+      "Berhasil mengajak \\str[120] untuk mandi bersama",
+      "Minta \\str[120] mencuci punggung, lalu lengan"
+    ]
   },
   "433": {
     "name": [
@@ -3304,6 +3514,704 @@
       "\\str[121] memutuskan untuk menegakkan penisnya dan memberinya hukuman yang keras—"
     ],
     "description": "",
+    "ability": "",
+    "recallEventName": [
+      "Menghukum \\str[120] yang Diam-diam Menjadi Nakal"
+    ],
+    "unlockCondition": [
+      "Sudah mendapatkan \\ii[193]",
+      "Pilih pulang lebih awal di hari yang tidak panas",
+      "Tergantung pada tingkat libido \\str[120], ada peluang memergokinya sedang bermain dildo diam-diam di ruang tamu"
+    ]
+  },
+  "434": {
+    "name": [
+      "Menonton Film Horor"
+    ],
+    "recallEventName": [
+      "Menonton Film Horor Bersama \\str[120]"
+    ],
+    "unlockCondition": [
+      "Membutuhkan setidaknya \\px[10]\\dimg[16]\\dimg[16]\\dimg[16]\\dimg[16]",
+      "Perlu menyelesaikan setidaknya satu pengobatan",
+      "Menonton TV bersama \\str[120] di ruang tamu setidaknya dua kali",
+      "Menonton \\ii[188] bersama \\str[120] di ruang tamu saat larut malam (setelah pukul 22.00)"
+    ],
+    "subtitle": [
+      "\\str[121] mengajak \\str[120], yang belum pernah begadang, untuk menonton ",
+      "kaset video misterius yang dibelinya, yang ternyata film horor!",
+      "Ketakutan oleh adegan mengerikan, \\str[120] memeluk erat \\str[121], ",
+      "mencoba meredakan rasa cemasnya lewat kontak fisik yang dekat, tetapi tanpa ",
+      "mereka sadari, suasananya perlahan menjadi semakin panas dan intim..."
+    ],
+    "description": "",
+    "ability": ""
+  },
+  "435": {
+    "name": [
+      "Mengintip Mandi"
+    ],
+    "recallEventName": [
+      "Mengintip \\str[120] Mandi"
+    ],
+    "description": [
+      ""
+    ],
+    "subtitle": [
+      "Mempertaruhkan seluruh ilmu ninjaku! ",
+      "Pemandangan di depanku saat ini ADALAH JALAN NINJAKU, UWOOOOOOH—!"
+    ],
+    "ability": ""
+  },
+  "436": {
+    "name": [
+      "Jadi Mesum demi \\str[120]!"
+    ],
+    "recallEventName": [
+      "Jadi Mesum demi \\str[120]!"
+    ],
+    "unlockCondition": [
+      "Saat \\str[120] sedang melepas baju di kamar mandi untuk mandi, pilih untuk langsung menerobos masuk",
+      "Saat diinterogasi oleh \\str[120], pilih \"Mau Berbuat Mesum\""
+    ],
+    "subtitle": [
+      "\"\\str[120]-ku yang manis, kamu nggak mau \\str[121] terus menderita begini, kan?\"",
+      "Meskipun tertangkap basah mengintip \\str[120], ",
+      "entah kenapa \\str[121] malah bersikap sok benar,",
+      "lalu merayu \\str[120] yang pemalu selangkah demi selangkah dengan kemaluannya—"
+    ],
+    "ability": ""
+  },
+  "437": {
+    "name": [
+      "Layanan Celana Dalam"
+    ],
+    "recallEventName": [
+      "Layanan Celana Dalam \\str[120]"
+    ],
+    "unlockCondition": [
+      "Sudah mendapatkan \\ia[130]",
+      "Tertangkap basah oleh \\str[120] saat bermasturbasi menggunakan celana dalamnya di Tempat Cuci",
+      "Membutuhkan \\dMPFCstart[Receptiveness] setidaknya 8"
+    ],
+    "subtitle": [
+      "\"Melakukan hal seperti ini dengan celana dalamku sambil memikirkanku...",
+      "Kamu benar-benar payah, \\str[121]♥\"",
+      "Meski jengkel dengan \\str[121] yang selalu memikirkan hal mesum, ",
+      "\\str[120] yang manis dan perhatian tetap melayaninya dengan sungguh-sungguh ",
+      "menggunakan celana dalamnya yang masih hangat dan baru dilepas—"
+    ],
+    "ability": ""
+  },
+  "438": {
+    "name": [
+      "Tiga Pilihan Pengantin Baru I"
+    ],
+    "recallEventName": [
+      "Tiga Pilihan Pengantin Baru: Mandi dulu~?"
+    ],
+    "unlockCondition": [
+      "Membutuhkan setidaknya \\px[10]\\dimg[15]\\dimg[15]\\dimg[15]\\dimg[15]\\dimg[15]\\dimg[15]",
+      "\\str[120] sedang dalam suasana hati yang sangat baik",
+      "Memicu rangkaian tiga pilihan pengantin baru dari \\str[120] di pintu masuk saat pulang di waktu senja",
+      "Pernah mandi bersama \\str[120] setidaknya satu kali",
+      "Pernah bercinta dengan \\str[120] setidaknya satu kali",
+      "Membutuhkan \\dMPFCstart[Receptiveness] setidaknya 10"
+    ],
+    "subtitle": [
+      "\"Mau mandi dulu?",
+      "Mau makan malam dulu?",
+      "Atau kamu lebih memilih... A·k·u~?\""
+    ],
+    "ability": ""
+  },
+  "439": {
+    "name": [
+      "Tiga Pilihan Pengantin Baru II"
+    ],
+    "recallEventName": [
+      "Tiga Pilihan Pengantin Baru: Atau \\str[120] dulu~?"
+    ],
+    "unlockCondition": [
+      "Membutuhkan setidaknya \\px[10]\\dimg[15]\\dimg[15]\\dimg[15]\\dimg[15]\\dimg[15]\\dimg[15]",
+      "\\str[120] sedang dalam suasana hati yang sangat baik",
+      "Memicu rangkaian tiga pilihan pengantin baru dari \\str[120] di pintu masuk saat pulang di waktu senja",
+      "\\dMPFCstart[Koufun] milik \\str[121] setidaknya 40",
+      "Pernah bercinta dengan \\str[120] setidaknya satu kali",
+      "Membutuhkan \\dMPFCstart[Receptiveness] setidaknya 10"
+    ],
+    "subtitle": [
+      "\"Mau mandi dulu?",
+      "Mau makan malam dulu?",
+      "Atau kamu lebih memilih... A·k·u~?\""
+    ],
+    "ability": ""
+  },
+  "440": {
+    "name": [
+      "Maxx C"
+    ],
+    "recallEventName": [
+      "\"Berapa kali pun itu, aku pasti akan kembali dari neraka! Salam dari ▓▓▓▓▓▓▓♪\""
+    ],
+    "unlockCondition": [
+      "Beri makan \\str[120] dengan \\ii[30] untuk memicu status berahi",
+      "Buntuti \\str[120] dan intip saat dia pergi ke toilet",
+      "\\str[120] setidaknya pernah bertemu C di toilet satu kali"
+    ],
+    "subtitle": [
+      "Kecoak C yang tak boleh disebut namanya—musuh bebuyutan yang ditakdirkan selalu kembali ke toilet tak peduli berapa kali pun dibasmi!",
+      "Kini monster itu mengincar \\str[120] yang wajahnya memerah sambil menahan napas di toilet!",
+      "\\str[121], dengan kedua kepalan tangan dan penis yang mengeras bagai batu karang, bangkitlah dan bertarung!"
+    ],
+    "ability": ""
+  },
+  "441": {
+    "name": [
+      "Menerobos Toilet"
+    ],
+    "recallEventName": [
+      "Pelayanan dari \\str[120] yang Sedang Berahi"
+    ],
+    "subtitle": [
+      "\\str[120] menjulurkan lidahnya dengan genit, ",
+      "tapi aku tahu dia sebenarnya masih sangat malu.",
+      "Biasanya dia tidak akan pernah berbuat seberani ini—",
+      "ini pasti karena pengaruh permen itu."
+    ],
+    "ability": ""
+  },
+  "442": {
+    "name": [
+      "Mengeringkan Rambut"
+    ],
+    "recallEventName": [
+      "Mengeringkan Rambut \\str[120]"
+    ],
+    "subtitle": [
+      "\"Rambutmu sekarang sudah panjang sekali ya.",
+      "Seingatku waktu kamu masih kecil dulu tidak sepanjang ini...\""
+    ],
+    "ability": "",
+    "unlockCondition": [
+      "Membutuhkan setidaknya \\px[10]\\dimg[15]\\dimg[15]",
+      "Berhasil mengajak \\str[120] untuk mandi bersama"
+    ]
+  },
+  "443": {
+    "name": [
+      "Selalu Bersama"
+    ],
+    "recallEventName": [
+      "Malam ini aku akan selalu ada di sisimu..."
+    ],
+    "subtitle": [
+      "\"\\str[121]... jangan tinggalkan aku ya...",
+      "Malam ini... ayo kita tidur bersama...\""
+    ],
+    "ability": "",
+    "unlockCondition": [
+      "Bercinta dengan \\str[120] di ruang tamu saat malam hari"
+    ]
+  },
+  "444": {
+    "name": [
+      "S-Selamat Pagi..."
+    ],
+    "recallEventName": [
+      "S-Selamat Pagi..."
+    ],
+    "subtitle": [
+      "\"Eh... \\str[121]...?",
+      "Kenapa... kamu ada di tempat tidur juga...?\""
+    ],
+    "ability": "",
+    "unlockCondition": [
+      "Bercinta dengan \\str[120] saat larut malam hingga staminanya habis,",
+      "atau tidur bersama setelah bercinta di kamar tidur utama"
+    ]
+  },
+  "445": {
+    "name": [
+      "Mandi Bersama"
+    ],
+    "recallEventName": [
+      "Mandi Bersama \\str[120]"
+    ],
+    "subtitle": [
+      "\"Tatapan matamu itu...",
+      "Sekali lihat saja aku sudah tahu kalau \\str[121] sedang ",
+      "memikirkan hal-hal mesum lagi.",
+      "Dasar cowok mesum...\""
+    ],
+    "ability": "",
+    "unlockCondition": [
+      "Membutuhkan setidaknya \\px[10]\\dimg[15]\\dimg[15]",
+      "Berhasil mengajak \\str[120] untuk mandi bersama",
+      "Saat berendam di bak mandi, berhasil membujuk \\str[120] untuk duduk bersama"
+    ]
+  },
+  "446": {
+    "name": [
+      "Rebutan Toilet"
+    ],
+    "recallEventName": [
+      "Perang Rebutan Toilet"
+    ],
+    "subtitle": [
+      "\"Uwaaaahhh——!",
+      "Aku sudah tidak tahan lagi...!\""
+    ],
+    "ability": "",
+    "unlockCondition": [
+      "Memasak hidangan menggunakan bahan beracun",
+      "atau terkena keracunan makanan secara acak setelah membuat masakan gagal"
+    ]
+  },
+  "447": {
+    "name": [
+      "Sikat Gigi Bareng"
+    ],
+    "recallEventName": [
+      "Sikat Gigi Bersama \\str[120]"
+    ],
+    "subtitle": [
+      "\"kalo nggoookoknya ke thamping... nanti bitha lebiyh bwerthih...\"",
+      " ",
+      "\"K-Kakaaak... kamu th-thwndiri... yang—!\""
+    ],
+    "ability": "",
+    "unlockCondition": [
+      "Terpicu setelah berhasil membangunkan \\str[120] di pagi hari",
+      "Event yang terjadi bisa berbeda tergantung frekuensi pemicuan dan kondisi \\str[120] saat bangun"
+    ]
+  },
+  "448": {
+    "name": [
+      "Membangunkan \\str[120]"
+    ],
+    "recallEventName": [
+      "Kalau tidak bangun, \\str[121] bakal sungguhan nih~!"
+    ],
+    "subtitle": [
+      "\"Guling, guling, guling, guling, guling, guling~!\"",
+      " ",
+      "\"Pencet, pencet, pencet, pencet, pencet~!\""
+    ],
+    "ability": "",
+    "unlockCondition": [
+      "Berhasil membangunkan \\str[120] di pagi hari sebanyak satu kali",
+      "Perlu menyelesaikan setidaknya satu kali pengobatan"
+    ]
+  },
+  "449": {
+    "name": [
+      "Mengocok Cola"
+    ],
+    "recallEventName": [
+      "Mengocok Cola"
+    ],
+    "subtitle": [
+      "Kelihatannya ini cola khusus dengan soda ekstra,",
+      "kalau kukocok sedikit saja…"
+    ],
+    "ability": "",
+    "unlockCondition": [
+      "Pilih pulang lebih awal di hari yang terik",
+      "Pilih mengocok \\ii[35] dingin diam-diam sebelum memberikannya kepada \\str[120]"
+    ]
+  },
+  "450": {
+    "name": [
+      "Membangunkan \\str[121]"
+    ],
+    "recallEventName": [
+      "\\str[120] Membangunkan \\str[121]"
+    ],
+    "subtitle": [
+      "\"Sudah pagi lho.",
+      "Masih belum bangun juga, \\str[121]~?",
+      "Kalau tidak mau bangun, aku bakal lakukan apa yang selalu kamu lakukan padaku lho——\""
+    ],
+    "ability": "",
+    "unlockCondition": [
+      "Selesaikan Pengobatan Ketiga",
+      "\\str[121] bangun sangat siang karena begadang"
+    ]
+  },
+  "451": {
+    "name": [
+      "Mengintip Ganti Baju II"
+    ],
+    "recallEventName": [
+      "Mengintip \\str[120] Berganti Baju II"
+    ],
+    "subtitle": [
+      "\"Sudah, cukup!",
+      "Pemeriksaan kesehatanmu sudah lebih dari cukup kan, \\str[121]?",
+      "Aku mau mandi, jadi cepat keluar sana!\""
+    ],
+    "ability": ""
+  },
+  "452": {
+    "name": [
+      "Membantu Mandi"
+    ],
+    "recallEventName": [
+      "Membantu \\str[120] Mandi"
+    ],
+    "subtitle": [
+      "Perawatan yang dilakukan perempuan ternyata benar-benar rumit...",
+      "Melihat rambut perak yang kini sehalus sutra ini, aku jadi berpikir,",
+      "apakah lain kali aku harus belajar cara mengikat rambutnya ya?"
+    ],
+    "ability": "",
+    "unlockCondition": [
+      "Membutuhkan setidaknya \\px[10]\\dimg[15]\\dimg[15]",
+      "Berhasil mengajak \\str[120] untuk mandi bersama",
+      "Membutuhkan \\dMPFCstart[Receptiveness] setidaknya 8",
+      "Pilih untuk membantu \\str[120] mandi"
+    ]
+  },
+  "453": {
+    "name": [
+      "Terpeleset"
+    ],
+    "recallEventName": [
+      "Terpeleset di Lantai"
+    ],
+    "subtitle": [
+      "\\str[120] tiba-tiba terpeleset tepat di depanku,",
+      "jatuh tersungkur ke lantai—",
+      "melihatnya saja sudah terasa sakit..."
+    ],
+    "ability": "",
+    "unlockCondition": [
+      "Saat giliran \\str[120] mandi sendirian, sampo sudah habis",
+      "Saat diminta \\str[120] mengisi ulang sampo, panggil \\str[120] keluar",
+      "Ada peluang 50% bagi \\str[120] untuk terpeleset saat kembali ke kamar mandi"
+    ]
+  },
+  "454": {
+    "name": [
+      "Khayalan?"
+    ],
+    "recallEventName": [
+      "\\str[120] dalam Khayalan?"
+    ],
+    "subtitle": [
+      "\\{Aku pasti bisa!  \\}",
+      "Dengan ini, aku seharusnya bisa membayangkan ",
+      "sosok sempurna milik \\str[120]!"
+    ],
+    "ability": "",
+    "unlockCondition": [
+      "Menyelinap ke area wastafel saat \\str[120] sedang mandi",
+      "Saat \\dMPFCstart[Koufun] milik \\str[121] di atas 50, pilih untuk berfantasi"
+    ]
+  },
+  "455": {
+    "name": [
+      "Mimpi Buruk I"
+    ],
+    "recallEventName": [
+      "Mimpi Buruk \\str[121] I"
+    ],
+    "subtitle": [
+      "Bikin jantungan saja... ",
+      "Rasanya aku baru saja melihat sosok \\str[120] yang sangat menyeramkan..."
+    ],
+    "ability": "",
+    "unlockCondition": [
+      "Mencabut ahoge milik \\str[120] sebanyak total 5 kali"
+    ]
+  },
+  "456": {
+    "name": [
+      "Mimpi Buruk II"
+    ],
+    "recallEventName": [
+      "Mimpi Buruk \\str[121] II"
+    ],
+    "subtitle": [
+      "Bikin jantungan saja... ",
+      "Rasanya aku baru saja melihat sosok \\str[120] yang sangat menyeramkan..."
+    ],
+    "ability": "",
+    "unlockCondition": [
+      "Perlu menyelesaikan setidaknya satu kali pengobatan",
+      "Nonton \\ii[188] bersama \\str[120] di ruang tamu saat larut malam (setelah pukul 22.00)"
+    ]
+  },
+  "457": {
+    "name": [
+      "Mimpi Buruk III"
+    ],
+    "recallEventName": [
+      "Mimpi Buruk \\str[121] III"
+    ],
+    "subtitle": [
+      "Bikin jantungan saja... ",
+      "Rasanya aku baru saja melihat sosok \\str[120] yang sangat menyeramkan..."
+    ],
+    "ability": "",
+    "unlockCondition": [
+      "Membutuhkan setidaknya tiga kali pengobatan yang telah diselesaikan",
+      "Pernah meminta \\str[120] membangunkan \\str[121] di pagi hari",
+      "Saat syarat pemicuan mimpi buruk lain terpenuhi, ada peluang mimpi buruk itu digantikan oleh mimpi buruk ini"
+    ]
+  },
+  "458": {
+    "name": [
+      "\\str[120]?"
+    ],
+    "recallEventName": [
+      "\\str[120]...?"
+    ],
+    "subtitle": [
+      "\"\\str[121], kamu tidak apa-apa? ",
+      "Wajahmu pucat sekali.\""
+    ],
+    "ability": ""
+  },
+  "459": {
+    "name": [
+      "Masakan Daging"
+    ],
+    "recallEventName": [
+      "Pesta Masakan Daging"
+    ],
+    "subtitle": [
+      "Sebelum aku sempat bereaksi,",
+      "\\str[120] sudah melahap habis semua daging",
+      "di atas piring dengan sangat lahap..."
+    ],
+    "ability": "",
+    "unlockCondition": [
+      "Memasak hidangan daging untuk \\str[120] menggunakan bahan olahan daging"
+    ]
+  },
+  "460": {
+    "name": [
+      "Omelan"
+    ],
+    "recallEventName": [
+      "Menceramahi \\str[121]"
+    ],
+    "subtitle": [
+      "\"Sepanjang hari yang kamu pikirkan cuma hal mesum melulu...!",
+      "Mulai sekarang, aku resmi memberlakukan aturan 'Dilarang Berpikir Mesum' untuk \\str[121]!\""
+    ],
+    "ability": ""
+  },
+  "461": {
+    "name": [
+      "Ketiduran"
+    ],
+    "recallEventName": [
+      "\\str[120] yang Mengantuk"
+    ],
+    "subtitle": [
+      "Hah?",
+      "Bahkan setelah begitu dia masih belum bangun juga…?",
+      "Boleh tidak ya… aku mengulanginya lagi…?"
+    ],
+    "ability": "",
+    "unlockCondition": [
+      "Jika pemain tidak melakukan input selama beberapa waktu, \\str[120] yang sedang duduk perlahan akan mengantuk"
+    ]
+  },
+  "462": {
+    "name": [
+      "Makan Semangka"
+    ],
+    "recallEventName": [
+      "Menikmati Semangka Dingin"
+    ],
+    "subtitle": [
+      "...Cepat banget makannya!?",
+      "Aku bahkan belum mencicipi satu gigitan pun..."
+    ],
+    "ability": "",
+    "unlockCondition": [
+      "Makan semangka bersama \\str[120] di hari yang terik"
+    ]
+  },
+  "463": {
+    "name": [
+      "Pengobatan?"
+    ],
+    "recallEventName": [
+      "Pengobatan Khusus?"
+    ],
+    "subtitle": [
+      "Pada akhirnya, ",
+      "tidak ada yang berubah setelah dia meminum \\ii[197].",
+      "Apa benar-benar tidak ada efeknya sama sekali?"
+    ],
+    "ability": "",
+    "unlockCondition": [
+      "Lakukan reaksi rubedo pada \\ii[20] khusus di dalam Gerbang Bintang untuk mendapatkan \\ii[197],",
+      "lalu campurkan ke dalam susu dan berikan kepada \\str[120] untuk diminum."
+    ]
+  },
+  "464": {
+    "name": [
+      "Bermain Game"
+    ],
+    "recallEventName": [
+      "Bermain Game Bareng \\str[120]"
+    ],
+    "subtitle": [
+      "Tanpa sadar aku memeluk \\str[120] lebih erat, ",
+      "membenamkan wajahku ke rambutnya sambil mengelusnya,",
+      "menikmati rasa kepuasan batin yang begitu mendalam."
+    ],
+    "ability": "",
+    "unlockCondition": [
+      "Sudah mendapatkan \\ii[15]",
+      "Saat \\str[120] sedang bermain game, pilih untuk memangku \\str[120], lalu pilih \"Amati lekat-lekat\"."
+    ]
+  },
+  "465": {
+    "name": [
+      "Bermain Dildo Diam-Diam"
+    ],
+    "recallEventName": [
+      "Memergoki \\str[120] Diam-Diam Belajar Hal Mesum..."
+    ],
+    "subtitle": [
+      "\"\\str[121]...!? Kenapa kamu ada di sini...\"",
+      "\"T-Tunggu sebentar, barusan... kamu melihat semuanya...!?\""
+    ],
+    "ability": ""
+  },
+  "466": {
+    "name": [
+      "Ditatap"
+    ],
+    "recallEventName": [
+      "Membuat \\str[120] Menyaksikan Hal Mesum \\str[121]"
+    ],
+    "unlockCondition": [
+      "Membutuhkan setidaknya \\px[10]\\dimg[15]\\dimg[15]",
+      "Berhasil mengajak \\str[120] untuk mandi bersama",
+      "Membutuhkan \\dMPFCstart[Receptiveness] setidaknya 8",
+      "Pilih untuk membantu \\str[120] mandi"
+    ],
+    "subtitle": [
+      "\"Eh...!?\"",
+      "\"C-Cuma melihat saja...?\"",
+      "\"\\str[121]... permintaanmu selalu aneh-aneh saja deh...\""
+    ],
+    "ability": ""
+  },
+  "467": {
+    "name": [
+      "Klimaks di Wajah"
+    ],
+    "recallEventName": [
+      "Kemaluan \\str[121] Benar-Benar Meledak?!"
+    ],
+    "subtitle": [
+      "\"Kyaaaaaaa—\""
+    ],
+    "ability": ""
+  },
+  "468": {
+    "name": [
+      "Mengintip Ganti Baju I"
+    ],
+    "recallEventName": [
+      "Ini Murni Pemeriksaan Kesehatan untuk \\str[120], Paham?! I"
+    ],
+    "subtitle": [
+      "Menyelinap pelan-pelan…………",
+      "Kalau mau mengintip, pintunya harus dibuka hati-hati ",
+      "supaya tidak ketahuan \\str[120]—"
+    ],
+    "ability": ""
+  },
+  "469": {
+    "name": [
+      "Toilet"
+    ],
+    "recallEventName": [
+      "Tak Sengaja Memergoki \\str[120] Sedang di Toilet"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "ability": ""
+  },
+  "470": {
+    "name": [
+      "Menonton Video Dewasa"
+    ],
+    "recallEventName": [
+      "Menonton Video Dewasa Bersama \\str[120]"
+    ],
+    "subtitle": [
+      "\"A-Aku nggak apa-apa kok! Lagian \\str[121] selalu... memainkan tubuhku... \"",
+      "\"Hal seperti ini... a-aku sudah siap sejak lama kok!!\""
+    ],
+    "ability": ""
+  },
+  "471": {
+    "name": [
+      "Eksplorasi Anal"
+    ],
+    "recallEventName": [
+      "Apa pantatku... benar-benar muat dimasuki benda sebesar ini...?"
+    ],
+    "subtitle": [
+      "\"Eh...!? Um... \\str[121]... jangan di situ... \"",
+      "\"Bukankah tempat itu cuma untuk... buang air...?\"",
+      "\"Rasanya... kotor dan menjijikkan deh.\"",
+      "\"Kenapa... kamu ingin menyentuh tempat seperti itu...?\""
+    ],
+    "ability": ""
+  },
+  "472": {
+    "name": [
+      "Perawatan Pagi"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "ability": ""
+  },
+  "473": {
+    "name": [
+      "Pengobatan Mesum I"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "ability": ""
+  },
+  "474": {
+    "name": [
+      "Pengobatan Mesum II"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "ability": ""
+  },
+  "475": {
+    "name": [
+      "Janji Melihat Laut"
+    ],
+    "recallEventName": [
+      "\"...Seperti apa pemandangan laut yang bercahaya itu?\""
+    ],
+    "unlockCondition": [
+      "Selesaikan Pengobatan Keempat"
+    ],
+    "subtitle": [
+      "\\c[10]\\{\"Janji ini tidak boleh sampai dilupakan\""
+    ],
     "ability": ""
   },
   "480": {

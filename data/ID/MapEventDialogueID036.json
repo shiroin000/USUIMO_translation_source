@@ -1,228 +1,428 @@
 {
   "1": {
-        "0": [
-            "Kini sudah bertahun-tahun setelah ",
-			"Raja Iblis dikalahkan oleh Sang Pahlawan."
-		],
-		"1": [
-            "Pahlawan dan Bijak yang dulunya terkenal,",
-			"legenda mereka kini tak lebih",
-			"dari dongeng yang dipakai orang dewasa untuk memarahi anak-anak."
-        ],
-        "2": [
-            "Inilah nama yang diberikan untuk labirin raksasa misterius",
-            "yang tiba-tiba muncul di permukaan sepuluh tahun lalu."
-        ],
-        "3": [
-            "Kedalamannya yang tampak tak berujung,",
-			"area yang dipenuhi berbagai reruntuhan,",
-			"dan monster yang berkembang biak cepat di bawah kekuatan sihirnya."
-        ],
-        "4": [
-            "Dengan Raja Iblis yang tak lagi mengancam umat manusia,",
-			"kelahiran mendadak labirin tak dikenal ini,",
-			"langsung menghancurkan kedamaian singkat dunia manusia."
-        ],
-        "5": [
-            "Guild Petualang mengorganisir banyak tim eksplorasi ",
-			"untuk menyelaminya, tapi mereka tak pernah membuat kemajuan yang menentukan.",
-			"Namun, labirin itu tidak pernah menunjukkan niat untuk menyerbu ",
-			"atau menyerang dunia luar."
-        ],
-        "6": [
-            "Para penguasa lokal dan berbagai kekuatan,",
-            "semuanya mencoba menamai dan mengelola labirin itu."
-        ],
-        "7": [
-            "Namun semua nama itu terlupakan seiring waktu,",
-			"dan pada akhirnya, hanya 'Abyss' yang tersisa,",
-			"terukir dalam ingatan orang-orang."
-        ],
-        "8": [
-            "Karena labirin itu tidak menunjukkan tanda-tanda ",
-			"meluas untuk melahap dunia,",
-			"Guild Petualang akhirnya memutuskan——",
-			"untuk membuka hak eksplorasinya bagi publik."
-        ],
-        "9": [
-            "Dengan begitu, profesi yang dulunya terlupakan,",
-			"'petualang',",
-			"menyambut era baru kejayaan dan semangat."
-        ],
-        "10": [
-            "Dan di labirin besar terakhir ini,",
-			"aku hanya punya satu tujuan——",
-			"menemukan cara untuk menyembuhkan total kondisi \\str[120]-ku———"
-        ]		
-    },
+    "0": [
+      "Kini sudah bertahun-tahun setelah ",
+      "Raja Iblis dikalahkan oleh Sang Pahlawan."
+    ],
+    "1": [
+      "Pahlawan dan Bijak yang dulunya terkenal,",
+      "legenda mereka kini tak lebih",
+      "dari dongeng yang dipakai orang dewasa untuk memarahi anak-anak."
+    ],
+    "2": [
+      "Inilah nama yang diberikan untuk labirin raksasa misterius",
+      "yang tiba-tiba muncul di permukaan sepuluh tahun lalu."
+    ],
+    "3": [
+      "Kedalamannya yang tampak tak berujung,",
+      "area yang dipenuhi berbagai reruntuhan,",
+      "dan monster yang berkembang biak cepat di bawah kekuatan sihirnya."
+    ],
+    "4": [
+      "Dengan Raja Iblis yang tak lagi mengancam umat manusia,",
+      "kelahiran mendadak labirin tak dikenal ini,",
+      "langsung menghancurkan kedamaian singkat dunia manusia."
+    ],
+    "5": [
+      "Guild Petualang mengorganisir banyak tim eksplorasi ",
+      "untuk menyelaminya, tapi mereka tak pernah membuat kemajuan yang menentukan.",
+      "Namun, labirin itu tidak pernah menunjukkan niat untuk menyerbu ",
+      "atau menyerang dunia luar."
+    ],
+    "6": [
+      "Para penguasa lokal dan berbagai kekuatan,",
+      "semuanya mencoba menamai dan mengelola labirin itu."
+    ],
+    "7": [
+      "Namun semua nama itu terlupakan seiring waktu,",
+      "dan pada akhirnya, hanya 'Abyss' yang tersisa,",
+      "terukir dalam ingatan orang-orang."
+    ],
+    "8": [
+      "Karena labirin itu tidak menunjukkan tanda-tanda ",
+      "meluas untuk melahap dunia,",
+      "Guild Petualang akhirnya memutuskan——",
+      "untuk membuka hak eksplorasinya bagi publik."
+    ],
+    "9": [
+      "Dengan begitu, profesi yang dulunya terlupakan,",
+      "'petualang',",
+      "menyambut era baru kejayaan dan semangat."
+    ],
+    "10": [
+      "Dan di labirin besar terakhir ini,",
+      "aku hanya punya satu tujuan——",
+      "menemukan cara untuk menyembuhkan total kondisi \\str[120]-ku———"
+    ]
+  },
   "4": {
-        "0": [
-            "Ayahku adalah seorang alkemis yang brilian."
-		],
-		"1": [
-            "Bahkan di era damai yang tak perlu melawan iblis ini,",
-			"dia tetap aktif memecahkan beberapa misteri alkimia."
-        ],
-        "2": [
-            "\"Aku minta maaf… tentang ibumu…\""
-        ],
-        "3": [
-            "\"Aku sudah mencoba segalanya…",
-			"tapi…!\""
-        ],
-        "4": [
-            "Namun pria yang dikagumi semua orang ini,",
-			"kini berlutut lemah di tanah,",
-			"berulang kali meminta maaf",
-			"kepadaku yang masih kecil."
-        ],
-        "5": [
-            "Genggamannya di pundakku mengencang,",
-			"dan aku tak bisa menahan untuk mulai menangis.",
-			"Mungkin menyadari dia kehilangan kendali,",
-			"dia perlahan mengendurkan tangannya dan mengelus kepalaku dengan lembut."
-        ],
-        "6": [
-            "\"Tidak apa-apa sekarang… ini salah Ayah,",
-            "Ayah tidak boleh menyerah begitu mudah…\""
-        ],
-        "7": [
-            "\"Kamu anak yang baik, ",
-			"kamu seharusnya tidak perlu menanggung semua ini…",
-			"serahkan sisanya pada Ayah.\""
-        ],
-        "8": [
-            "\"Benar… bahkan jika itu mengorbankan segalanya… aku harus…\""
-        ],
-        "9": [
-            "Suaranya mulai bergetar,",
-			"apa dia takut akan sesuatu?"
-        ],
-        "10": [
-            "Saat itu aku tidak mengerti semua itu, ",
-			"tapi aku ingat setelah hari itu,",
-			"dia tak pernah kembali menjadi ayah yang baik dan lembut seperti dulu."
-        ]		
-    },
-  "5": {		
-        "0": [
-            "\\nl<Man>\"Bulu yang dijatuhkan oleh Firebird...",
-			"Bahkan saat direndam dalam asam kuat, bulu itu tidak terkorosi...",
-			"Jika itu demi hal tersebut... kita masih perlu—\""
-		],
-		"1": [
-            "Suara pria itu bergema pelan di bengkel, ",
-			"yang dipenuhi buku-buku kuno.",
-			"Berbagai instrumen alkimia tersusun rapi ",
-			"di atas meja kerja."
-        ],
-		"2": [
-            "Serentetan langkah kaki ringan dan tergesa-gesa ",
-			"tiba-tiba memotong gumaman pria itu.",
-			"Seorang gadis bertelanjang kaki dengan rambut seputih salju menerobos masuk ke dalam kekacauan bengkel yang berdebu",
-			"dan berbau ramuan itu tanpa peringatan."
-        ],		
-        "3": [
-            "\\nl<Boy>\\{\"Ah...! Ketemu kamu!!",
-			"Berhenti lari ke mana-mana!!\""
-        ],		
-        "4": [
-            "Di belakang gadis itu ada seorang anak laki-laki yang sedikit lebih tua.",
-			"Jelas dia sudah lama mengejarnya. ",
-			"Dia membungkuk, tangan di lutut, terengah-engah berat sambil ",
-			"menunjuk gadis itu dengan teriakan kesal."
-        ],
-        "5": [
-            "\\nl<Girl>\"……………………………………",
-			"……………………………………\""
-        ],
-        "6": [
-            "Gadis yang menjadi sasaran omelannya itu hanya berdiri kosong di sana.",
-			"Matanya yang hampa tidak memantulkan siapa pun."
-        ],
-        "7": [
-            "\\nl<Boy>\"Dasar! Wajah itu lagi! tidak bersuara sama sekali!",
-			"Ayah! Aku tidak mau lagi mengurus dia!!\""
-        ],
-        "8": [
-            "\\nl<Boy>\"Sudah berhari-hari dan dia tidak pernah membuka mulut sekali pun!",
-			"Dia terus saja berkeliaran sendiri... ",
-			"ini sama sekali tidak menyenangkan!!\""
-        ],		
-        "9": [
-            "\\nl<Man>\"Haaah... Cerita lama yang sama lagi ya...\""
-        ],
-        "10": [
-            "Melihat gadis itu menatap instrumen dengan saksama ",
-			"selagi anaknya mengamuk, pria itu menghela napas panjang ",
-            "dan terpaksa menghentikan pekerjaannya."
-        ],
-        "11": [
-            "\\nl<Man>\"Kamu juga sama merepotkannya, anak nakal.",
-			"Sudah berapa kali Ayah bilang? ",
-			"Jangan masuk bengkel tanpa izin Ayah. Itu berbahaya!\""
-        ],		
-        "12": [
-            "\\nl<Boy>\"Hmph... ",
-			"kata orang dewasa tak berguna yang mengandalkan anak kecil untuk membuat makan siang!",
-			"Kapan kau berhenti bermain-main dengan barang usang yang membosankan ini ",
-			"dan mengajariku alkimia sungguhan?\""
-        ],
-        "13": [
-            "\\nl<Man>\"Batuk, batuk...! ",
-			"Bukankah kemarin Ayah baru saja mengubah sesuatu menjadi pedang mainan untukmu? ",
-            "Ayah sibuk mengidentifikasi peninggalan yang dibawa dari ",
-            "Abyss untuk Guild. Ayah benar-benar tidak punya waktu untuk ulahmu—\""
-        ],
-        "14": [
-            "\\nl<Boy>\"Pedang jelek itu sudah rusak sejak lama! — Abyss?",
-			"Maksudmu Labirin Agung yang tiba-tiba muncul itu!?",
-			"Hei, hei! Kapan aku boleh ikut melihat-lihat?\""
-        ],
-        "15": [
-            "\\nl<Man>\"Tentu tidak! Itu bukan tempat untuk petualangan anak-anak!",
-			"Kita pindah ke sini khusus untuk melakukan penelitian dan ",
-			"mengembangkan penangkalnya. ",
-			"Sabar dulu...!\""
-        ],
-        "16": [
-            "\\nl<Girl>\"……………………………………",
-			"……………………………………\""
-        ],
-        "17": [
-			"Gadis yang sebelumnya setenang boneka itu seakan merasakan sesuatu.",
-            "Gerakannya yang presisi seperti mesin bergerak kembali.",
-            "Dia tiba-tiba berbalik dan berlari melewati keduanya, ",
-			"langsung keluar dari bengkel."
-        ],
-        "18": [
-            "\\nl<Boy>\"Ahhh—! Tuh kan! Dia melakukannya lagi!!\""
-        ],
-        "19": [
-            "\\nl<Man>\"Huh... ",
-			"kalian berdua sama-sama tidak membantu... cepat kejar dia!",
-			"Dan ingat, jangan biarkan dia keluar dari pekarangan! ",
-			"Penghalang di sini belum sepenuhnya stabil!\""
-        ],
-        "20": [
-            "Anak laki-laki itu ingin membantah, ",
-			"tapi melihat gadis itu hampir menghilang dari pandangannya,",
-			"dia hanya bisa menghentakkan kakinya karena frustrasi ",
-			"dan berlari mengejarnya lagi."
-        ],
-        "21": [
-            "\\nl<Man>\"..................Huh.",
-			"Aku harap waktu... masih berpihak pada kita.\""
-        ],
-        "22": [
-            "Berdiri di dekat pintu, pria itu mengamati sosok-sosok di kejauhan—",
-			"anak laki-laki itu akhirnya mengejarnya sementara keduanya berkelahi.",
-			"Dia bergumam pelan penuh kekhawatiran yang berat."
-        ],
-        "23": [
-			"Lalu, seolah melarikan diri dari firasat kelam, ",
-			"dia duduk kembali di kursinya dan membenamkan diri ",
-			"dalam penelitiannya sekali lagi."
-        ]
-    }	
+    "0": [
+      "Ayahku adalah seorang alkemis yang brilian."
+    ],
+    "1": [
+      "Bahkan di era damai yang tak perlu melawan iblis ini,",
+      "dia tetap aktif memecahkan beberapa misteri alkimia."
+    ],
+    "2": [
+      "\"Aku minta maaf… tentang ibumu…\""
+    ],
+    "3": [
+      "\"Aku sudah mencoba segalanya…",
+      "tapi…!\""
+    ],
+    "4": [
+      "Namun pria yang dikagumi semua orang ini,",
+      "kini berlutut lemah di tanah,",
+      "berulang kali meminta maaf",
+      "kepadaku yang masih kecil."
+    ],
+    "5": [
+      "Genggamannya di pundakku mengencang,",
+      "dan aku tak bisa menahan untuk mulai menangis.",
+      "Mungkin menyadari dia kehilangan kendali,",
+      "dia perlahan mengendurkan tangannya dan mengelus kepalaku dengan lembut."
+    ],
+    "6": [
+      "\"Tidak apa-apa sekarang… ini salah Ayah,",
+      "Ayah tidak boleh menyerah begitu mudah…\""
+    ],
+    "7": [
+      "\"Kamu anak yang baik, ",
+      "kamu seharusnya tidak perlu menanggung semua ini…",
+      "serahkan sisanya pada Ayah.\""
+    ],
+    "8": [
+      "\"Benar… bahkan jika itu mengorbankan segalanya… aku harus…\""
+    ],
+    "9": [
+      "Suaranya mulai bergetar,",
+      "apa dia takut akan sesuatu?"
+    ],
+    "10": [
+      "Saat itu aku tidak mengerti semua itu, ",
+      "tapi aku ingat setelah hari itu,",
+      "dia tak pernah kembali menjadi ayah yang baik dan lembut seperti dulu."
+    ]
+  },
+  "5": {
+    "0": [
+      "\\nl<Man>\"Bulu yang dijatuhkan oleh Firebird...",
+      "Bahkan saat direndam dalam asam kuat, bulu itu tidak terkorosi...",
+      "Jika itu demi hal tersebut... kita masih perlu—\""
+    ],
+    "1": [
+      "Suara pria itu bergema pelan di bengkel, ",
+      "yang dipenuhi buku-buku kuno.",
+      "Berbagai instrumen alkimia tersusun rapi ",
+      "di atas meja kerja."
+    ],
+    "2": [
+      "Serentetan langkah kaki ringan dan tergesa-gesa ",
+      "tiba-tiba memotong gumaman pria itu.",
+      "Seorang gadis bertelanjang kaki dengan rambut seputih salju menerobos masuk ke dalam kekacauan bengkel yang berdebu",
+      "dan berbau ramuan itu tanpa peringatan."
+    ],
+    "3": [
+      "\\nl<Boy>\\{\"Ah...! Ketemu kamu!!",
+      "Berhenti lari ke mana-mana!!\""
+    ],
+    "4": [
+      "Di belakang gadis itu ada seorang anak laki-laki yang sedikit lebih tua.",
+      "Jelas dia sudah lama mengejarnya. ",
+      "Dia membungkuk, tangan di lutut, terengah-engah berat sambil ",
+      "menunjuk gadis itu dengan teriakan kesal."
+    ],
+    "5": [
+      "\\nl<Girl>\"……………………………………",
+      "……………………………………\""
+    ],
+    "6": [
+      "Gadis yang menjadi sasaran omelannya itu hanya berdiri kosong di sana.",
+      "Matanya yang hampa tidak memantulkan siapa pun."
+    ],
+    "7": [
+      "\\nl<Boy>\"Dasar! Wajah itu lagi! tidak bersuara sama sekali!",
+      "Ayah! Aku tidak mau lagi mengurus dia!!\""
+    ],
+    "8": [
+      "\\nl<Boy>\"Sudah berhari-hari dan dia tidak pernah membuka mulut sekali pun!",
+      "Dia terus saja berkeliaran sendiri... ",
+      "ini sama sekali tidak menyenangkan!!\""
+    ],
+    "9": [
+      "\\nl<Man>\"Haaah... Cerita lama yang sama lagi ya...\""
+    ],
+    "10": [
+      "Melihat gadis itu menatap instrumen dengan saksama ",
+      "selagi anaknya mengamuk, pria itu menghela napas panjang ",
+      "dan terpaksa menghentikan pekerjaannya."
+    ],
+    "11": [
+      "\\nl<Man>\"Kamu juga sama merepotkannya, anak nakal.",
+      "Sudah berapa kali Ayah bilang? ",
+      "Jangan masuk bengkel tanpa izin Ayah. Itu berbahaya!\""
+    ],
+    "12": [
+      "\\nl<Boy>\"Hmph... ",
+      "kata orang dewasa tak berguna yang mengandalkan anak kecil untuk membuat makan siang!",
+      "Kapan kau berhenti bermain-main dengan barang usang yang membosankan ini ",
+      "dan mengajariku alkimia sungguhan?\""
+    ],
+    "13": [
+      "\\nl<Man>\"Batuk, batuk...! ",
+      "Bukankah kemarin Ayah baru saja mengubah sesuatu menjadi pedang mainan untukmu? ",
+      "Ayah sibuk mengidentifikasi peninggalan yang dibawa dari ",
+      "Abyss untuk Guild. Ayah benar-benar tidak punya waktu untuk ulahmu—\""
+    ],
+    "14": [
+      "\\nl<Boy>\"Pedang jelek itu sudah rusak sejak lama! — Abyss?",
+      "Maksudmu Labirin Agung yang tiba-tiba muncul itu!?",
+      "Hei, hei! Kapan aku boleh ikut melihat-lihat?\""
+    ],
+    "15": [
+      "\\nl<Man>\"Tentu tidak! Itu bukan tempat untuk petualangan anak-anak!",
+      "Kita pindah ke sini khusus untuk melakukan penelitian dan ",
+      "mengembangkan penangkalnya. ",
+      "Sabar dulu...!\""
+    ],
+    "16": [
+      "\\nl<Girl>\"……………………………………",
+      "……………………………………\""
+    ],
+    "17": [
+      "Gadis yang sebelumnya setenang boneka itu seakan merasakan sesuatu.",
+      "Gerakannya yang presisi seperti mesin bergerak kembali.",
+      "Dia tiba-tiba berbalik dan berlari melewati keduanya, ",
+      "langsung keluar dari bengkel."
+    ],
+    "18": [
+      "\\nl<Boy>\"Ahhh—! Tuh kan! Dia melakukannya lagi!!\""
+    ],
+    "19": [
+      "\\nl<Man>\"Huh... ",
+      "kalian berdua sama-sama tidak membantu... cepat kejar dia!",
+      "Dan ingat, jangan biarkan dia keluar dari pekarangan! ",
+      "Penghalang di sini belum sepenuhnya stabil!\""
+    ],
+    "20": [
+      "Anak laki-laki itu ingin membantah, ",
+      "tapi melihat gadis itu hampir menghilang dari pandangannya,",
+      "dia hanya bisa menghentakkan kakinya karena frustrasi ",
+      "dan berlari mengejarnya lagi."
+    ],
+    "21": [
+      "\\nl<Man>\"..................Huh.",
+      "Aku harap waktu... masih berpihak pada kita.\""
+    ],
+    "22": [
+      "Berdiri di dekat pintu, pria itu mengamati sosok-sosok di kejauhan—",
+      "anak laki-laki itu akhirnya mengejarnya sementara keduanya berkelahi.",
+      "Dia bergumam pelan penuh kekhawatiran yang berat."
+    ],
+    "23": [
+      "Lalu, seolah melarikan diri dari firasat kelam, ",
+      "dia duduk kembali di kursinya dan membenamkan diri ",
+      "dalam penelitiannya sekali lagi."
+    ]
+  },
+  "6": {
+    "1": [
+      "—Pada akhirnya, Ayah meninggalkan kami berdua."
+    ],
+    "2": [
+      "Padahal eksperimennya baru saja menunjukkan sedikit kemajuan.",
+      "Namun kini beliau telah tiada, meninggalkan kami berdua dan setumpuk pekerjaan yang belum selesai."
+    ],
+    "3": [
+      "Benar-benar orang yang tidak bertanggung jawab...",
+      "Beliau tak pernah ada di saat kami paling membutuhkannya.",
+      "...Saat kepergian Ibu dulu pun, sama saja."
+    ],
+    "4": [
+      "—Lalu, apa yang akan terjadi padanya sekarang?",
+      "Bisakah aku menyelesaikan eksperimen ini sampai akhir seorang diri?"
+    ],
+    "5": [
+      "\\nl<\\str[121]>\"...Mulai sekarang, tinggal kita berdua ya?\""
+    ],
+    "6": [
+      "\\nl<\\str[121]>\"Tapi tak apa-apa. ",
+      "Mulai sekarang, aku yang akan menjagamu.\""
+    ],
+    "7": [
+      "\\nl<\\str[121]>\"Urusan masak, membuat obat...",
+      "Semuanya biar aku yang bereskan.\""
+    ],
+    "8": [
+      "\\nl< >\"...Apa \\str[121] bisa membuat obat?\""
+    ],
+    "9": [
+      "\\nl<\\str[121]>\"...B-belum terlalu bisa sih. Belum sekarang.",
+      "Tapi setiap hari aku selalu melihat Ayah bekerja kok!",
+      "Ada catatan eksperimen! Buku catatan dan lainnya!",
+      "Kalau aku belajar dari situ, lama-lama aku pasti paham!\""
+    ],
+    "10": [
+      "\\nl< >\"...Tapi kamu kan masih anak-anak.\""
+    ],
+    "11": [
+      "\\nl<\\str[121]>\"Kamu juga masih anak-anak kan...?",
+      "Di saat seperti ini, setidaknya bilang, 'Kalau begitu, kuserahkan padamu, onii-chan.'\""
+    ],
+    "12": [
+      "\\nl< >\"...Kenapa?\""
+    ],
+    "13": [
+      "\\nl< >\"...Kenapa kamu berusaha sekeras itu?\""
+    ],
+    "14": [
+      "\\nl<\\str[121]>\"Kenapa bagaimana...? ",
+      "Tubuhmu kan belum sembuh.",
+      "Aku juga tidak bisa membiarkanmu dalam keadaan seperti ini.",
+      "Kalau begitu, aku bakal sama saja seperti orang itu kan?\""
+    ],
+    "15": [
+      "\\nl<\\str[121]>\"...Eksperimen yang tidak sempat beliau selesaikan, biar aku yang lanjutkan.",
+      "Pasti akan kucari cara untuk menyembuhkanmu!\""
+    ],
+    "16": [
+      "\\nl<\\str[121]>\"Lagipula, kamu tidak mau kan terus-terusan mengurung diri di kamar ini?",
+      "Kalau aku sih, dua atau tiga hari saja sudah tak tahan!",
+      "Suatu hari nanti aku mau jadi petualang dan menjelajahi Abyss!\""
+    ],
+    "17": [
+      "\\nl< >\"...Apa tidak boleh kalau aku tetap di sini?\""
+    ],
+    "18": [
+      "\\nl<\\str[121]>\"Bukannya tidak boleh sih, tapi...",
+      "Apa kamu tidak bosan melihat hal yang sama setiap hari?\""
+    ],
+    "19": [
+      "\\nl< >\"...Ada makanan, ada buku untuk dibaca.",
+      "Masih banyak buku yang belum selesai kubaca.\""
+    ],
+    "20": [
+      "\\nl<\\str[121]>\"Yaaah, apa asyiknya membaca melulu sepanjang hari?",
+      "Membayangkan duduk diam selama itu saja sudah bikin aku gelisah!\""
+    ],
+    "21": [
+      "\\nl< >\"...Di dalam buku, segalanya tertulis.\""
+    ],
+    "22": [
+      "\\nl<\\str[121]>\"Tapi itu kan cuma tulisan orang lain, kan?",
+      "Kamu harus melihatnya sendiri dengan matamu untuk mengetahui apakah itu benar!\""
+    ],
+    "23": [
+      "\\nl<\\str[121]>\"Oh iya, kamu tahu tidak?",
+      "Bahkan jauh di kedalaman Abyss, terhampar sebuah lautan!\""
+    ],
+    "24": [
+      "\\nl<\\str[121]>\"Itu ada di bawah tanah, tapi mereka bilang ukurannya sangat luas,",
+      "sampai-sampai ujungnya tidak kelihatan!",
+      "Dan airnya itu bersinar!",
+      "Semuanya berkilauan, bahkan jauh lebih cantik daripada bintang-bintang di langit!\""
+    ],
+    "25": [
+      "\\nl< >\"...Di bawah tanah tidak ada matahari.\""
+    ],
+    "26": [
+      "\\nl<\\str[121]>\"Tepat sekali! Tidak ada matahari, tidak ada bulan,",
+      "tapi lautnya tetap memancarkan cahaya. Hebat banget kan?\""
+    ],
+    "27": [
+      "\\nl< >\"...Kenapa bisa bersinar?\""
+    ],
+    "28": [
+      "\\nl<\\str[121]>\"Aku juga tidak tahu!",
+      "Mungkin ada sesuatu yang tersembunyi di dalam air.",
+      "Mungkin ikan yang bercahaya...",
+      "Makanya aku ingin turun sampai ke bawah dan melihatnya sendiri!\""
+    ],
+    "29": [
+      "\\nl<\\str[121]>\"Dan ini lautan di dalam Abyss lho.",
+      "Siapa yang tahu ada makhluk apa lagi di sana!",
+      "Bisa jadi ada Penguasa Sungai yang belum pernah dilihat siapa pun!\""
+    ],
+    "30": [
+      "\\nl<\\str[121]>\"Ikan biasa saja aku tidak bisa memancingnya,",
+      "jadi aku makin penasaran seperti apa wujud Penguasa Sungai itu!",
+      "Pasti keren kalau bisa melihatnya dengan mataku sendiri!\""
+    ],
+    "31": [
+      "\\nl< >\"...Pemandangan laut yang bersinar itu seperti apa?\""
+    ],
+    "32": [
+      "\\nl<\\str[121]>\"Katanya gemerlap di mana-mana,",
+      "mulai dari tepi pantai sampai ke ujung kejauhan.",
+      "Saat ombak bergerak, cahayanya ikut bergoyang bersamanya.",
+      "Seolah semua bintang di langit jatuh ke dalam air!\""
+    ],
+    "33": [
+      "\\nl<\\str[121]>\"Dan ini bukan sekadar satu halaman di buku bergambar.",
+      "Lihat ke kiri atau menoleh ke kanan, semuanya berkilauan!",
+      "Kamu pasti bakal bingung mau melihat ke mana dulu!\""
+    ],
+    "34": [
+      "\\nl< >\"...Cahaya di mana-mana.\""
+    ],
+    "35": [
+      "\\nl<\\str[121]>\"Iya! Kamu bisa mendekat langsung,",
+      "melepas sepatumu, lalu berdiri di air yang dangkal.",
+      "Saat ombak datang, semua cahaya itu akan berkejaran ke kakimu!\""
+    ],
+    "36": [
+      "\\nl<\\str[121]>\"Airnya terasa sejuk, dan ada pasir lembut di bawah kakimu.",
+      "Saat ombak surut kembali, pasirnya ikut bergeser bersamanya.",
+      "Kalau kamu tidak berdiri dengan benar, kakimu bisa sedikit terbenam!\""
+    ],
+    "37": [
+      "\\nl<\\str[121]>\"Lalu ombak berikutnya datang lagi,",
+      "berkilau-kilau, mengalir melewati jemari kakimu...",
+      "Rasanya seolah kamu sendiri langsung berdiri di antara bintang-bintang!\""
+    ],
+    "38": [
+      "\\nl< >\"...Aku ingin menyentuhnya.\""
+    ],
+    "39": [
+      "\\nl<\\str[121]>\"Sentuh saja!",
+      "Kamu bisa meraupnya dengan tangan dan melihat cahaya apa itu sebenarnya.",
+      "Oh, ayo bawa botol juga!",
+      "Siapa tahu kita bisa membawa pulang sedikit!\""
+    ],
+    "40": [
+      "\\nl< >\"...Aku juga boleh ikut?\""
+    ],
+    "41": [
+      "\\nl<\\str[121]>\"Tentu saja! Begitu kamu sembuh, kita akan pergi bersama.",
+      "Makanya, kamu harus menantikannya ya!",
+      "Di luar sana ada banyak hal selain pemandangan membosankan yang kamu lihat setiap hari!\""
+    ],
+    "42": [
+      "\\nl< >\"...Kapan?\""
+    ],
+    "43": [
+      "\\nl<\\str[121]>\"Soal itu... kamu harus menunggu sebentar ya.",
+      "Aku harus bisa membuat obat dulu,",
+      "lalu mencari jalan menuju ke sana...\""
+    ],
+    "44": [
+      "\\nl<\\str[121]>\"Pokoknya, kalau semuanya sudah siap, aku akan datang mengajakmu!",
+      "Kita akan melihatnya bersama, bukan sekadar mendengarkan ceritanya.\""
+    ],
+    "45": [
+      "\\nl< >\"...Bawa botolnya juga.\""
+    ],
+    "46": [
+      "\\nl<\\str[121]>\"Iya, iya, aku tahu! Tidak akan kulupakan!\""
+    ],
+    "47": [
+      "\\nl< >\"...Janji ya.\""
+    ],
+    "48": [
+      "\\nl<\\str[121]>\"Iya, janji!\""
+    ],
+    "49": [
+      "\\c[10]\"Janji ini tidak boleh dilupakan.\""
+    ]
+  }
 }
