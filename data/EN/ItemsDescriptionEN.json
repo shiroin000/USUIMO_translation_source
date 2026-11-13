@@ -466,6 +466,23 @@
       "HP+75, grants a 300-point shield for 10 minutes"
     ]
   },
+  "29": {
+    "name": [
+      "Wild Dragon Milk"
+    ],
+    "subtitle": [
+      "\"After signs of dragons were discovered in the sweltering depths,",
+      "the well-informed Maid Bunnies had this product on sale overnight\""
+    ],
+    "description": [
+      "A drink from a strange vending machine",
+      "Since when were there nursing dragons down here…?",
+      "Surely no one would dare drink this stuff…"
+    ],
+    "ability": [
+      "HP+375, grants a large Defense bonus for 10 minutes"
+    ]
+  },
   "30": {
     "name": [
       "Pink Konpeito"
@@ -4073,6 +4090,20 @@
     ],
     "subtitle": [
       "\\c[10]\\{\"This promise must never be forgotten\""
+    ],
+    "ability": ""
+  },
+  "478": {
+    "name": [
+      "Peeping while Undressing III"
+    ],
+    "recallEventName": [
+      "This is strictly a health checkup for \\str[120], alright?! III"
+    ],
+    "subtitle": [
+      "...\\str[120] caught me peeking!",
+      "But is it just my imagination?",
+      "\\str[120] seems to be deliberately undressing right in front of me..."
     ],
     "ability": ""
   },

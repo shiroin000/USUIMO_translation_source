@@ -120,6 +120,10 @@
       "View Compendium"
     ],
     "lockedVariation": "Haven't unlocked this variation yet!",
+    "lockedEntry": [
+      "This entry is not available yet.",
+      "Please wait for a future update."
+    ],
     "placeholder": "Gallery Content Currently Available (More to Come)",
     "takeBathWithImouto": "Taking a bath with \\str[120]",
     "Polaroid": "NLCH Polaroid Series"
@@ -193,10 +197,10 @@
   ],
   "inventoryOverweight": {
     "weapon": [
-      "Can’t carry more weapons!"
+      "Can't carry more weapons!"
     ],
     "gear": [
-      "Can’t carry more gears!"
+      "Can't carry more gears!"
     ]
   },
   "Abyss": {
@@ -217,7 +221,7 @@
       " Heart Blooming "
     ],
     "1": [
-      " \\str[120]’s heart just skipped a beat! "
+      " \\str[120]'s heart just skipped a beat! "
     ]
   },
   "gainWhiteHeart": {
@@ -238,7 +242,7 @@
   },
   "NinjasFate": {
     "0": [
-      " Ninja’s Fate "
+      " Ninja's Fate "
     ],
     "1": [
       " Erase oneself, and wield the blade for comrades... "
@@ -257,6 +261,14 @@
       " has appeared in the Abyss! "
     ]
   },
+  "unlockWildDragonMilk": {
+    "0": [
+      " Wild Dragon Milk "
+    ],
+    "1": [
+      " has appeared in the vending machine! "
+    ]
+  },    
   "unlockMystletainn": {
     "0": [
       " Mistilteinn "
@@ -272,7 +284,7 @@
     "1": [
       " has appeared in the Abyss! "
     ]
-  }, 
+  },
   "unlockAppleFairy": {
     "0": [
       " Apple Fairy "
@@ -291,16 +303,16 @@
   },
   "maidBunnyBoss": {
     "0": [
-      "There’s really nothing special up ahead!",
-      "So there’s no need to go check it usa!"
+      "There's really nothing special up ahead!",
+      "So there's no need to go check it usa!"
     ],
     "1": [
-      "Th-there’s nothing here, really! D-don’t come any closer!",
-      "I-I swear there’s absolutely nothing hidden here usa!"
+      "Th-there's nothing here, really! D-don't come any closer!",
+      "I-I swear there's absolutely nothing hidden here usa!"
     ],
     "2": [
       "...Usa?",
-      "What’s that strange noise?"
+      "What's that strange noise?"
     ],
     "3": [
       "...Usa!?",
@@ -328,7 +340,7 @@
   "minecartTutorial": [
     "If the minecart isn't working, ",
     "try knocking it a few times."
-  ],  
+  ],
   "nekoTruck": {
     "0": [
       "Want to buy \\v[84]?",
@@ -339,42 +351,42 @@
       "Never mind…",
       "Sneakily take it…"
     ],
-    "10": "There isn’t a wide enough lane!",
+    "10": "There isn't a wide enough lane!",
     "11": "There are obstacles on the lane!",
     "12": "The Chariot has been successfully summoned!",
     "13": "The Chariot cannot be summoned in this area!"
   },
   "sela": {
     "1": [
-      "(Looks like she won’t be waking up anytime soon…",
-      "Guess I’ll come back later…)"
+      "(Looks like she won't be waking up anytime soon…",
+      "Guess I'll come back later…)"
     ],
     "2": [
       "…Hmm?",
       "Are we… at the station already?"
     ],
     "3": [
-      "Huh? Wait—this isn’t the train car?",
+      "Huh? Wait—this isn't the train car?",
       "It was so warm just a moment ago…"
     ],
     "4": [
       "A campfire… ah…",
-      "So that’s why it’s so warm."
+      "So that's why it's so warm."
     ],
     "5": [
-      "But… that’s strange… Just a moment ago, ",
+      "But… that's strange… Just a moment ago, ",
       "I was still watching the river of stars outside the window…"
     ],
     "6": [
-      "I must’ve been too mesmerized…",
+      "I must've been too mesmerized…",
       "And ended up missing my stop."
     ],
     "7": [
-      "You’re asking what a “train” is…?",
+      "You're asking what a “train” is…?",
       "Hehe… a “train,” huh—"
     ],
     "8": [
-      "It’s that clattering, clattering thing that carries everyone,",
+      "It's that clattering, clattering thing that carries everyone,",
       "shining as it glides through the stars like scattered diamonds~"
     ],
     "9": [
@@ -382,8 +394,8 @@
       "sounds just like a singing whale, you know?"
     ],
     "10": [
-      "Hehe, still don’t get it?",
-      "Then let me show you a ticket, maybe that’ll help~"
+      "Hehe, still don't get it?",
+      "Then let me show you a ticket, maybe that'll help~"
     ],
     "11": [
       "The ticket for the Galactic Train,",
@@ -391,14 +403,14 @@
     ],
     "12": [
       "Huh? Huh??",
-      "The ticket… it’s gone…"
+      "The ticket… it's gone…"
     ],
     "13": [
       "That ticket with the black vine patterns and",
-      "the strange cross in the middle… it’s gone…"
+      "the strange cross in the middle… it's gone…"
     ],
     "14": [
-      "I’m sorry… I can’t show you the galaxy after all…",
+      "I'm sorry… I can't show you the galaxy after all…",
       "Looks like I lost my ticket…"
     ],
     "15": [
@@ -406,11 +418,11 @@
       "Uuu… Uuu…"
     ],
     "16": [
-      "What will I do now…?  I guess I’ll just wait here…",
+      "What will I do now…?  I guess I'll just wait here…",
       "maybe the next train will find me."
     ],
     "17": [
-      "And also… I’m sorry…",
+      "And also… I'm sorry…",
       "the fire here is just too warm…"
     ],
     "18": [
@@ -423,7 +435,7 @@
     ],
     "20": [
       "It really is warm here.",
-      "But… it’s different from sunlight."
+      "But… it's different from sunlight."
     ],
     "21": [
       "Sunlight is the warmth of the “outside.”",
@@ -435,7 +447,7 @@
     ],
     "23": [
       "Huh? Oh,",
-      "it’s you again, adventurer!"
+      "it's you again, adventurer!"
     ],
     "24": [
       "I was just talking to you earlier…",
@@ -443,14 +455,14 @@
     ],
     "25": [
       "“Do I remember where I lost the ticket”…?",
-      "Hmm… not really… it’s all a blur now…"
+      "Hmm… not really… it's all a blur now…"
     ],
     "26": [
-      "It’s not heavy like the coins in this world…",
-      "It’s light—lighter than a swan’s feather~"
+      "It's not heavy like the coins in this world…",
+      "It's light—lighter than a swan's feather~"
     ],
     "27": [
-      "Its color looks like a ‘sleeping lake’ frozen inside it,",
+      "Its color looks like a ‘sleeping lake' frozen inside it,",
       "and if you hold it to the light, you can see stardust flowing within~"
     ],
     "28": [
@@ -463,14 +475,14 @@
     ],
     "30": [
       "or perhaps… it turned into the first drop of morning dew,",
-      "hanging from someone’s window ledge."
+      "hanging from someone's window ledge."
     ],
     "31": [
       "(Is this… a riddle?",
-      "I have no idea what she’s talking about…)"
+      "I have no idea what she's talking about…)"
     ],
     "32": [
-      "I’m sorry… the only thing I can recall,",
+      "I'm sorry… the only thing I can recall,",
       "are these… faint, hazy images…"
     ],
     "33": [
@@ -478,24 +490,24 @@
       "I used to love reading this back on the train too..."
     ],
     "34": [
-      "It’s filled with lots of... interesting notes...",
+      "It's filled with lots of... interesting notes...",
       "I think it might be useful for you as well, adventurer..."
     ],
     "35": [
-      "(She’s focused on her drawing...",
+      "(She's focused on her drawing...",
       "Better not disturb her…)"
     ],
     "36": [
-      "(I’m a bit curious...",
+      "(I'm a bit curious...",
       "What is she drawing…?)"
     ],
     "37": [
       "(Wait... ",
-      "what’s that!?)"
+      "what's that!?)"
     ],
     "38": [
       "(I think I just saw...",
-      "something I definitely shouldn’t have seen…)"
+      "something I definitely shouldn't have seen…)"
     ]
   },
   "PhilosophersFragment": {
@@ -530,20 +542,20 @@
   },
   "imoutoAhoge": {
     "0": [
-      "Accidentally pulled out \\str[120]’s ahoge."
+      "Accidentally pulled out \\str[120]'s ahoge."
     ],
     "1": [
-      "She didn’t seem to notice anything unusual, ",
+      "She didn't seem to notice anything unusual, ",
       "and it grew back quickly.",
       "...Could this be some kind of renewable resource?"
     ],
     "2": [
-      "\\nl< >\"...What’s wrong, \\str[121]?",
+      "\\nl< >\"...What's wrong, \\str[121]?",
       "You look really serious.\""
     ],
     "3": [
       "Since it seems complicated, ",
-      "I’d better not think too deeply about it."
+      "I'd better not think too deeply about it."
     ],
     "4": [
       "Better not touch it again..."
@@ -553,7 +565,7 @@
       "Did you do something, \\str[121]?\""
     ],
     "6": [
-      "\"I-I didn’t do anything… I mean it!\""
+      "\"I-I didn't do anything… I mean it!\""
     ]
   },
   "cookingSystem": {
@@ -603,12 +615,12 @@
       "Go defeat the green enemy~!\"               \\w[120]\\^"
     ],
     "4": [
-      "\\nl< >\"Ah, you’re awake…     \\w[60]",
+      "\\nl< >\"Ah, you're awake…     \\w[60]",
       "\\str[121], did you sleep well?\""
     ],
     "5": [
       "\"Not really… By the way, ",
-      "I’ve been hearing some strange sounds ",
+      "I've been hearing some strange sounds ",
       "for a while now…\""
     ],
     "6": [
@@ -672,11 +684,11 @@
   "mecha": {
     "0": [
       "A strange mech, long covered in dust, stands here...",
-      "It doesn’t respond even when touched."
+      "It doesn't respond even when touched."
     ],
     "1": [
       "Huh...?",
-      "Something’s here?"
+      "Something's here?"
     ],
     "2": [
       "A fallen part?",
@@ -691,15 +703,15 @@
   },
   "ninja": {
     "0": [
-      "I can’t believe there’s a man-made secret room in a place like this.",
-      "Who could’ve built it…?"
+      "I can't believe there's a man-made secret room in a place like this.",
+      "Who could've built it…?"
     ],
     "1": [
       "Whoa…!?",
-      "There’s even a girl passed out here…"
+      "There's even a girl passed out here…"
     ],
     "2": [
-      "Now that I think about it, I’ve been hearing weird rumbling noises…",
+      "Now that I think about it, I've been hearing weird rumbling noises…",
       "Was it her stomach making those sounds…?"
     ],
     "3": [
@@ -708,18 +720,18 @@
     ],
     "4": [
       "…………",
-      "Is she so hungry she’s barely conscious…?"
+      "Is she so hungry she's barely conscious…?"
     ],
     "5": [
-      "There’s a campfire here, perfect.",
-      "I’ll cook her something to eat!"
+      "There's a campfire here, perfect.",
+      "I'll cook her something to eat!"
     ],
     "6": [
       "Should I just use \\ii[\\v[90]]     ",
       "and whip up something simple?"
     ],
     "7": [
-      "Let’s do it!",
+      "Let's do it!",
       "…Never mind."
     ],
     "8": [
@@ -738,7 +750,7 @@
       "The smell of food!!"
     ],
     "12": [
-      "\\{Alright, I’m digging in!!"
+      "\\{Alright, I'm digging in!!"
     ],
     "13": [
       "You… you little…",
@@ -746,11 +758,11 @@
     ],
     "14": [
       "(She finished it in just a few bites…",
-      "She really must’ve been starving…)"
+      "She really must've been starving…)"
     ],
     "15": [
       "Munch munch… You totally saved me!",
-      "I haven’t eaten in days… munch munch…"
+      "I haven't eaten in days… munch munch…"
     ],
     "16": [
       "I thought I was gonna turn into some hungry ghost",
@@ -773,79 +785,79 @@
       "After I got in, the entrance got blocked by a tombstone!"
     ],
     "21": [
-      "Ugh, I totally didn’t expect that,",
+      "Ugh, I totally didn't expect that,",
       "so my rations ran out super fast… and then…"
     ],
     "22": [
       "A ninja running into a mess like this…",
-      "I can’t face the organization now…"
+      "I can't face the organization now…"
     ],
     "23": [
-      "Huh… huh? But why’d you even",
+      "Huh… huh? But why'd you even",
       "dig a secret room in the first place…"
     ],
     "24": [
-      "Because that treasure doesn’t always show up,",
+      "Because that treasure doesn't always show up,",
       "so I had to be ready for a long stay… munch munch."
     ],
     "25": [
-      "Plus, I can’t let anyone else know about this,",
+      "Plus, I can't let anyone else know about this,",
       "this is a super secret mission directly from the boss!"
     ],
     "26": [
       "If anyone else finds out…",
-      "what do you think’ll happen…"
+      "what do you think'll happen…"
     ],
     "27": [
-      "Of course, I’d have to quietly take care of them…",
-      "otherwise, I’d be a failed ninja… munch munch."
+      "Of course, I'd have to quietly take care of them…",
+      "otherwise, I'd be a failed ninja… munch munch."
     ],
     "28": [
       "…Wait, what?!",
       "I totally just leaked intel!"
     ],
     "29": [
-      "Um… I promise I won’t say anything…",
+      "Um… I promise I won't say anything…",
       "so, uh…"
     ],
     "30": [
       "…Huh!?"
     ],
     "31": [
-      "I can’t believe I messed up this badly again…",
+      "I can't believe I messed up this badly again…",
       "Ugh… even if you did save me…"
     ],
     "32": [
       "W-wait a sec!",
-      "You’re gonna kill me just for that!?"
+      "You're gonna kill me just for that!?"
     ],
     "33": [
-      "That’s what being a ninja is all about…",
+      "That's what being a ninja is all about…",
       "You gotta fight to survive…"
     ],
     "34": [
-      "I mean, I don’t really wanna hurt you, either,",
+      "I mean, I don't really wanna hurt you, either,",
       "but I still owe you a meal…"
     ],
     "35": [
-      "I-if that’s how it is—",
+      "I-if that's how it is—",
       "\\^"
     ],
     "36": [
-      "Then there’s only one answer—",
+      "Then there's only one answer—",
       "You have to become a ninja, too!"
     ],
     "37": [
       "If you join our group,",
-      "there’s no reason for us to fight each other!"
+      "there's no reason for us to fight each other!"
     ],
     "38": [
       "W-wait a second!",
-      "I don’t really have a choice here, do I!?"
+      "I don't really have a choice here, do I!?"
     ],
     "39": [
-      "It’s fine,",
-      "I’ll be gentle…"
+      "It's fine,",
+      "I'll be gentle…"
     ],
     "40": [
       "…Wah!?",
@@ -857,15 +869,317 @@
     ],
     "42": [
       "Now,",
-      "you’re one of us, too!"
+      "you're one of us, too!"
     ],
     "43": [
-      "But I’ll have to wait until my mission’s done",
+      "But I'll have to wait until my mission's done",
       "before I can introduce you to the boss!"
     ],
     "44": [
       "At this point,",
       "nothing really matters anymore…"
+    ]
+  },
+  "TraumaRescueTeam": {
+    "FirstRescue": {
+      "0": [
+        "………………?",
+        "An unfamiliar ceiling…"
+      ],
+      "1": [
+        "Onee-chan!",
+        "I think he just moved!"
+      ],
+      "2": [
+        "Easy now,",
+        "he might just not be quite dead yet."
+      ],
+      "3": [
+        "Looks like he's still alive!",
+        "—So, are we still going to save him?"
+      ],
+      "4": [
+        "Of course we are.",
+        "We finally found ourselves a patient."
+      ],
+      "5": [
+        "Yaaay! This time, ",
+        "we'll really impress the Head Nurse!"
+      ],
+      "6": [
+        "Can you hear me?",
+        "You're in the infirmary."
+      ],
+      "7": [
+        "You were badly injured,",
+        "but don't worry."
+      ],
+      "8": [
+        "Now that you're in our care,",
+        "we'll see this through to the very end."
+      ],
+      "9": [
+        "That's right! We'll treat you till your last breath!",
+        "That's end-of-life care!"
+      ],
+      "9.1": [
+        "That's not what 'end-of-life care' means,",
+        "that's for patients who are dying—"
+      ],
+      "10": [
+        "Ooh, he's talking~",
+        "But I can't make out a single word~"
+      ],
+      "11": [
+        "Even his speech seems to be impaired.",
+        "What a poor patient—"
+      ],
+      "12": [
+        "(I-I'm just…",
+        "too weak to talk…)"
+      ],
+      "13": [
+        "No time to waste,",
+        "let's start treatment right away!"
+      ],
+      "14": [
+        "But the Head Nurse won't let us use the defibrillator,",
+        "so how are we supposed to treat him now?"
+      ],
+      "15": [
+        "Hehe~ Before the Head Nurse left,",
+        "I made sure to hide this away—"
+      ],
+      "16": [
+        "That's my Onee-chan~!",
+        "You even kept it from the Head Nurse!"
+      ],
+      "17": [
+        "—Catch.",
+        "Prepare to begin the operation."
+      ],
+      "18": [
+        "(N-No way…",
+        "Are they going to—?!)"
+      ],
+      "19": [
+        "—Roger that~",
+        "Beginning the operation~!"
+      ],
+      "20": [
+        "GAAAAAAAH",
+        "AAAAAAAH~!!"
+      ],
+      "21": [
+        "He moved! He moved—!",
+        "Onee-chan, the operation was a huge success!"
+      ],
+      "22": [
+        "Mm-hmm.",
+        "His speech seems to be back to normal too."
+      ],
+      "23": [
+        "Congratulations, dear guest~",
+        "\\iw[40] didn't take you for a bad person."
+      ],
+      "24": [
+        "If you were a bad person, that last hit",
+        "probably would have killed you for real."
+      ],
+      "25": [
+        "Good kids get their ouchies chased away~",
+        "Bad kids get a good whacking!"
+      ],
+      "26": [
+        "Saving that rabbit really was a good idea.",
+        "She had so many fun things on her~!"
+      ],
+      "27": [
+        "Ahem, enough out of you—",
+        "We're still attending to our guest."
+      ],
+      "28": [
+        "Hmph~",
+        "You're the one who hid the hammer, Onee-chan…"
+      ],
+      "29": [
+        "When the Head Nurse is away,",
+        "you do as your Onee-chan says, remember?"
+      ],
+      "30": [
+        "Ahem, do excuse us—",
+        "We're the Trauma Rescue Team."
+      ],
+      "31": [
+        "This may be a separate dimension,",
+        "but we provide ongoing rescue services to our contracted clients—"
+      ],
+      "32": [
+        "The Head Nurse, who normally runs things, is away on business.",
+        "So if you have any questions, feel free to ask me."
+      ]
+    },
+    "NurseMio": {
+      "1": [
+        "Hello, dear guest.",
+        "Is there anything you would like to ask?"
+      ],
+      "1.1": [
+        "Where am I?",
+        "Why am I here?"
+      ],
+      "2": [
+        "This is a place where fragments of countless parallel worlds drift together.",
+        "Our infirmary is one of them."
+      ],
+      "3": [
+        "As long as our contract is in effect on you,",
+        "you can be guided here."
+      ],
+      "4": [
+        "We found you unconscious outside and brought you in.",
+        "I assume the contract led you here."
+      ],
+      "5": [
+        "…A contract?",
+        "All I remember is getting hit by a vehicle."
+      ],
+      "6": [
+        "W-Whaaat…?!",
+        "You mean you never signed a contract, dear guest?"
+      ],
+      "7": [
+        "…Perhaps there was some interference",
+        "from another contracted client in your world."
+      ],
+      "8": [
+        "We were just about to set out to rescue that client,",
+        "but we suddenly lost contact."
+      ],
+      "9": [
+        "The Head Nurse went out",
+        "to investigate what happened."
+      ],
+      "10": [
+        "Sounds complicated…",
+        "So how do I get out of here?"
+      ],
+      "11": [
+        "Ah, yes. Now that you're awake,",
+        "it's time you returned to your own world."
+      ],
+      "12": [
+        "Leaving this place is very simple.",
+        "Please come over here—"
+      ],
+      "13": [
+        "—Simple, right?",
+        "All you have to do is jump down from here."
+      ],
+      "14": [
+        "Onee-chan…",
+        "I don't think Onii-san heard a word we said."
+      ],
+      "15": [
+        "The idiot who calls someone else an idiot is the real idiot!",
+        "Big dummy! Big dummy!"
+      ]
+    },
+    "NurseAsaba": {
+      "1": [
+        "Onee-chan's a dummy…",
+        "She's the one who doesn't listen…"
+      ],
+      "2": [
+        "…Oh, Onii-san.",
+        "You saw it too, right? Onee-chan was the one who hid the hammer!"
+      ],
+      "3": [
+        "She won't listen to the Head Nurse, but I have to do everything she says…",
+        "You think Onee-chan's being unfair too, right, Onii-san?"
+      ],
+      "4": [
+        "Yes",
+        "No"
+      ],
+      "5": [
+        "Exactly! When the Head Nurse gets back,",
+        "I'm telling her everything!"
+      ],
+      "6": [
+        "Hmph… You're taking Onee-chan's side too, Onii-san.",
+        "I'm not talking to either of you anymore."
+      ],
+      "7": [
+        "Onee-chan, you dummy…!",
+        "This wouldn't have happened if you'd explained it first!"
+      ]
+    },
+    "anatomicalModel": [
+      "………………A model human skeleton",
+      "But it feels like it's been staring at me"
+    ],
+    "storageCabinet": [
+      "………………It won't open",
+      "It's securely locked"
+    ],
+    "headNurseDoodle": [
+      "This is probably the Head Nurse they were talking about",
+      "Looking after those two little troublemakers must be exhausting…"
+    ],
+    "messageLetter": [
+      "To you two:",
+      "",
+      "I'll only be away for a few days.",
+      "Don't turn the infirmary upside down while I'm gone.",
+      "",
+      "Your duties are simple:",
+      "Change the bedsheets, organize the cabinets, and water the flowers.",
+      "I've already taught you how to do all that.",
+      "Remember, water the flowers, not the bedsheets.",
+      "",
+      "Do not open the medicine cabinet.",
+      "Do not touch my medical equipment.",
+      "Especially the defibrillator.",
+      "",
+      "Let me make this perfectly clear.",
+      "It is NOT for waking people up.",
+      "Nor is it a toy for testing who's more energetic.",
+      "",
+      "If anything strange drifts in from outside again,",
+      "leave it alone until I get back.",
+      "If it's a human, just let them rest quietly.",
+      "",
+      "No response does NOT mean you should increase the voltage.",
+      "And it certainly doesn't mean you should try again.",
+      "",
+      "Also, about that nurse uniform on the chair.",
+      "",
+      "I know you bought it to replace the one you ruined.",
+      "I appreciate the thought, really.",
+      "",
+      "But… didn't you buy a size that's too big?",
+      "It fits perfectly around the waist, but that one part…",
+      "…N-Never mind! It must be the design!",
+      "",
+      "…I-It's not like it bothers me that much!",
+      "It's just that this outfit is designed so strangely!",
+      "",
+      "A-Anyway!",
+      "I absolutely refuse to work in an outfit like that!",
+      "",
+      "Get rid of it before I come back!",
+      "",
+      "And don't you dare stuff padding into the chest without my permission!",
+      "",
+      "Anyway, behave yourselves while I'm gone.",
+      "If you're good, I'll bring back some treats.",
+      "",
+      "— Your loving Head Nurse",
+      "\\py[300]",
+      "P.S.",
+      "The skeleton model in the hallway was store-bought.",
+      "Stop scaring people by telling them it was the last patient who misbehaved."
     ]
   }
 }

@@ -160,6 +160,14 @@
       "Description": "用超高速持續奔跑",
       "Pop Up Desc": "不要停下來啊！"
     },
+    "DefenseMaxedOut": {
+      "Name": "因為太怕痛所以點滿了防禦力",
+      "Description": "把防禦力堆積到最大值了",
+      "Pop Up Desc": [
+        "\\fs[24]因為太怕痛",
+        "所以點滿了防禦力"
+      ]
+    },
     "YouAreBeingSummoned": {
       "Name": "◉▽◉在召喚你",
       "Description": "發現了古代生物！",

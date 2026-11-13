@@ -501,8 +501,8 @@
     ],
     "ability": [
       "Consume one \\ii[20] to awaken Mistilteinn, activating it for 10 minutes",
-      "While active, Mistilteinn gains the Full Power state",
-      "While awakened, all attacks unleash sword waves",
+      "While awakened, increases damage dealt and grants some Defense Penetration",
+      "While awakened, all attacks unleash sword waves that leave searing sword marks on hit",
       "While awakened, other equipped but unawakened \\ia[81] will resonate",
       "When the active state ends, Mistilteinn will automatically perform a spinning slash before falling back into slumber"
     ]
@@ -549,12 +549,13 @@
       "\"NO BULLYING!!\""
     ],
     "description": [
-      "A weapon born to punish evil adventurers. ",
-      "Though just a toy hammer, getting bonked still hurts."
+      "One of the Maid Bunnies' three treasures",
+      "A weapon created specifically to punish evil adventurers",
+      "It may look like a toy hammer, but getting bonked with it still hurts!"
     ],
     "ability": [
-      "Deals recoil damage when used for evil deeds",
-      "The lower your Sin value, the higher its damage"
+      "The lower your Karma, the more damage your attacks deal",
+      "Using it for evil deeds causes backlash damage to the wielder"
     ]
   },
   "42": {
@@ -712,8 +713,11 @@
       "hard yet brimming with vitality and still growing"
     ],
     "ability": [
-      "Defeating enemies auto-repairs weapon durability",
-      "Excess durability grants +1 ATK per 1% above max"
+      "Automatically absorbs life energy from defeated enemies to restore weapon durability and fuel its growth",
+      "Weapon durability can exceed 100%, with excess durability contributing to its growth",
+      "Every 1% of excess durability grants 1 additional point of physical attack power",
+      "Every 10% of excess durability reduces attack speed by 1%",
+      "Every 20% of excess durability reduces movement speed by 1%"
     ]
   },
   "63": {

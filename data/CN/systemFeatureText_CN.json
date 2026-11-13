@@ -233,14 +233,29 @@
   ],
   "memberMenu": {
     "firstTimeNotice": [
-      "这是目前仍在实验中的正版验证功能。",
-      "你可以在此登录 Patreon 账号，",
-      "或额外绑定 Itch 账号进行正版身份验证。",
-      "若账号拥有有效订阅，或已在Itch拥有游戏入库记录，",
-      "即可获得大版本自动更新等功能权限。",
-      "请注意：",
-      "目前仅支持验证通过 Itch 或 Patreon 购买过游戏，",
-      "或在 Patreon 进行付费订阅的玩家！"
+      "这里可以验证你的正版玩家身份。",
+      "请点击登录按钮，",
+      "并选择你购买游戏的平台进行验证。",
+      "通过验证后，即可解锁大版本自动更新等功能权限。",
+      "",
+      "正版验证不影响离线游玩，",
+      "普通补丁更新也无需登录验证。"
+    ],
+    "patreonVerificationInfo": [
+      "受 Patreon 平台 API 功能限制，",
+      "目前仅支持验证拥有有效付费会籍的订阅玩家。",
+      "如果你通过 Patreon Shop 购买了本游戏，",
+      "请在 Patreon 上私信我们，领取 Itch.io 版本兑换码。",
+      "兑换游戏并将其添加至 Itch.io 账号后，",
+      "即可通过 Itch.io 平台完成正版身份验证。"
+    ],
+    "discordVerificationInfo": [
+      "Discord 正版验证仅面向在官方服务器中",
+      "拥有指定特殊身份组的玩家开放。",
+      "验证成功后，你将额外获得「onii-chan」身份组，",
+      "作为正版玩家的专属身份标识。",
+      "",
+      "目前支持验证的特殊身份组："
     ],
     "shortHint": "可启用云存档与大版本自动更新功能",
     "waitingLogin": "等待登录验证流程完成……",
@@ -256,6 +271,16 @@
     "saikeyRetry": "请点击 Saikey 重新验证购买资格。",
     "saikeyUnavailable": "暂时无法验证 Saikey 购买记录，请重试。",
     "saikeyWaiting": "请在浏览器中完成 Saikey 验证。",
+    "fansaikoVerify": "验证 Fansaiko 购买资格",
+    "buyGame": "点击购买游戏",
+    "itchVerify": "验证 itch.io 购买资格",
+    "fansaikoNotOwned": "此 Fansaiko 账号还没有购买本游戏。",
+    "fansaikoSessionInvalid": "请先通过原平台重新登录，再绑定 Fansaiko。",
+    "fansaikoConflict": "两个玩家账号绑定了不同的平台身份，无法合并。",
+    "fansaikoSaveConflict": "两个账号的云存档槽位重叠，已保留两个账号及存档。",
+    "fansaikoRetry": "请点击 Fansaiko 重新验证购买资格。",
+    "fansaikoUnavailable": "暂时无法验证 Fansaiko 购买记录，请重试。",
+    "fansaikoWaiting": "请在浏览器中完成 Fansaiko 登录授权。",
     "chooseLoginMethod": "请选择用于登录的平台",
     "openingWindowItch": "正在打开itch.io登录窗口……",
     "cloudSave": "启用云存档",
@@ -340,7 +365,7 @@
     "28": "忘却的墓穴 上層",
     "37": "浅層遺跡迷宮",
     "40": "開拓中区域",
-    "44": "迷失之森",    
+    "44": "迷失之森",
     "46": "開拓中区域",
     "47": "遺跡之森",
     "48": "冒險者小道:記念碑",
@@ -356,6 +381,7 @@
     "60": "開拓中区域",
     "61": "開拓中区域",
     "62": "冒險者小道:林間",
+    "67": "摩訶不思議世界",
     "73": "開拓中区域:廢棄遺址"
   },
   "AdventurersPathway": {
@@ -367,6 +393,9 @@
   },
   "ForgottenCatacombe": {
     "mapName": "忘却的墓穴"
+  },
+  "MakaFushigiWonderland": {
+    "mapName": "摩訶不思議世界"
   },
   "ForestofRuins": {
     "mapName": "遺跡之森"

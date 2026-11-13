@@ -249,6 +249,9 @@
   "underwaterTreasuresCount": [
     "Detected underwater treasures"
   ],
+  "guideHint": [
+    "Press Ctrl+F to open the search bar. Click the buttons below the document to switch its content."
+  ],
   "steamWishlist": [
     "Our Steam store page is finally live!",
     "Please add us to your wishlist and support us! (*´∀`)~♥",
@@ -256,17 +259,29 @@
   ],
   "memberMenu": {
     "firstTimeNotice": [
-      "This ownership verification feature is currently experimental.",
-      "You can sign in with Patreon here, ",
-      "or link your Itch account for ownership verification.",
-      "If you have an active subscription, ",
-      "or already own the game on Itch,",
-      "you can use features such as major update auto-patching.",
+      "You can verify your ownership of the game here.",
+      "Click the login button",
+      "and select the platform where you purchased the game.",
+      "Once verified, you can access features such as automatic major version updates.",
       "",
-      "Please note:",
-      "At this time, verification is only available for players ",
-      "who bought the game on Itch or Patreon, ",
-      "or players with a paid Patreon subscription."
+      "Ownership verification does not affect offline play,",
+      "and regular patch updates do not require login or verification."
+    ],
+    "patreonVerificationInfo": [
+      "Due to limitations in the Patreon API,",
+      "verification currently only supports subscribers with an active paid membership.",
+      "If you purchased the game through Patreon Shop,",
+      "please send us a private message on Patreon to request an itch.io game key.",
+      "After redeeming the key and adding the game to your itch.io account,",
+      "you can verify your ownership through itch.io."
+    ],
+    "discordVerificationInfo": [
+      "Discord ownership verification is only available to players",
+      "with designated special roles in the official server.",
+      "Once verified, you will also receive the \"onii-chan\" role",
+      "as an exclusive badge identifying you as a verified owner.",
+      "",
+      "Special roles currently eligible for verification:"
     ],
     "shortHint": " Can now enable cloud saves & major updates",
     "waitingLogin": "Waiting for login completion...",
@@ -282,6 +297,16 @@
     "saikeyRetry": "Select Saikey to verify your purchase again.",
     "saikeyUnavailable": "Saikey verification is unavailable. Please try again.",
     "saikeyWaiting": "Complete Saikey verification in your browser.",
+    "fansaikoVerify": "Verify purchase with Fansaiko",
+    "buyGame": "Buy the game",
+    "itchVerify": "Verify purchase with itch.io",
+    "fansaikoNotOwned": "This Fansaiko account has not bought the game yet.",
+    "fansaikoSessionInvalid": "Sign in again with your original platform before linking Fansaiko.",
+    "fansaikoConflict": "These player accounts have conflicting platform identities.",
+    "fansaikoSaveConflict": "Both accounts have saves in the same cloud slot. Both accounts and their saves have been kept.",
+    "fansaikoRetry": "Select Fansaiko to verify your purchase again.",
+    "fansaikoUnavailable": "Fansaiko verification is unavailable. Please try again.",
+    "fansaikoWaiting": "Complete Fansaiko sign-in in your browser.",
     "chooseLoginMethod": "Choose a platform to log in with",
     "openingWindowItch": "Opening the itch.io login window...",
     "cloudSave": "Use Cloud Save",
@@ -383,6 +408,7 @@
     "60": "Excavation Site",
     "61": "Excavation Site",
     "62": "Adventurer's Path:Grove",
+    "67": "Maka Fushigi Wonderland",
     "73": "Excavation Site:Abandoned Ruins"
   },
   "AdventurersPathway": {
@@ -394,6 +420,9 @@
   },
   "ForgottenCatacombe": {
     "mapName": "Forgotten Catacombe"
+  },
+  "MakaFushigiWonderland": {
+    "mapName": "Maka Fushigi Wonderland"
   },
   "ForestofRuins": {
     "mapName": "Forest of Ruins"

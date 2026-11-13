@@ -1304,15 +1304,32 @@
     ],
     "ability": []
   },
+  "149": {
+    "name": [
+      "Nurse Uniform"
+    ],
+    "subtitle": [
+      "\"Dear Head Nurse,",
+      "Sorry I accidentally cut up your uniform with scissors last time!",
+      "Onee-chan and I picked out this gift just for you. Hope you like it♥\""
+    ],
+    "description": [
+      "A brand-new nurse uniform with a charming, carefully tailored fit",
+      "The sisters proudly picked it out after visiting several shops",
+      "Yet this heartfelt gift seems not to have received the reaction they hoped for…"
+    ],
+    "ability": [
+      ""
+    ]
+  },
   "150": {
     "name": [
       "Bonus T-shirt"
     ],
     "subtitle": "",
     "description": [
-      "A custom-made outfit from the knight,",
-      "supposedly for promoting the game",
-      "But I don't really want to wear it"
+      "A bonus T-shirt handmade by the knight, apparently to promote the game",
+      "I appreciate his enthusiasm, but I really don't want to go out wearing this…"
     ],
     "ability": []
   },
@@ -1390,6 +1407,23 @@
     ],
     "ability": []
   },
+  "161": {
+    "name": [
+      "White Tights"
+    ],
+    "subtitle": [
+      "\"Dear Head Nurse,",
+      "Sorry I accidentally cut up your uniform with scissors last time!",
+      "Onee-chan and I picked out this gift just for you. Hope you like it♥\""
+    ],
+    "description": [
+      "Pure white tights made to match the nurse uniform, soft and light to the touch",
+      "The fabric seems rather delicate, though, and one careless tug could tear it…"
+    ],
+    "ability": [
+      ""
+    ]
+  },
   "202": {
     "name": [
       "Dream of a Fetus"
@@ -1404,6 +1438,41 @@
     ],
     "ability": [
       ""
+    ]
+  },
+  "204": {
+    "name": [
+      "☆Platinum Member☆"
+    ],
+    "subtitle": [
+      "\"Hurt again, Onii-san? You're such a weakling♥\""
+    ],
+    "description": [
+      "A contract with the younger sister of the Trauma Rescue Team",
+      "A mischievous little nurse who firmly believes electrotherapy can solve anything",
+      "And the little troublemaker who gives the Head Nurse the biggest headaches"
+    ],
+    "ability": [
+      "Automatically summons \\dMPFCstart[TraumaRescueTeam] when your HP reaches zero and you cannot be revived, but the summon fails if the location is unsuitable",
+      "Rescue success rate is affected by Luck and Lightning resistance",
+      "Rescue can be triggered multiple times per day, but successive attempts gradually reduce the success rate"
+    ]
+  },
+  "205": {
+    "name": [
+      "☆Platinum Member☆"
+    ],
+    "subtitle": [
+      "\"Honestly, please stop dying in the strangest places!\""
+    ],
+    "description": [
+      "A rescue contract with the older sister of the Trauma Rescue Team",
+      "She seems mature and dependable, but always pushes troublesome tasks onto her younger sister",
+      "She would much rather spend her days taking it easy"
+    ],
+    "ability": [
+      "Automatically summons \\dMPFCstart[TraumaRescueTeam] when your HP reaches zero and you cannot be revived, but the summon fails if the location is unsuitable",
+      "Rescue success rate is fixed at 95% and can only be triggered once per day"
     ]
   },
   "295": {
