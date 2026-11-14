@@ -956,8 +956,11 @@
       "Good girl, good girl~ \\str[120] is the cutest~!\""
     ],
     "40": [
-      "\\nl< >\"Kyaah!? D-Don't rub your snot and tears all over me~!",
-      "I only eased up on the rules this time because you looked so pathetic, \\str[121]!",
+      "\\nl< >\"Kyaah!? ",
+      "D-Don't rub your snot and tears all over me~!\""
+    ],
+    "40.1": [
+      "\\nl< >\"I only eased up on the rules this time because you looked so pathetic, \\str[121]!",
       "Are you even reflecting on what you did at all, \\str[121]...!\""
     ],
     "41": [
