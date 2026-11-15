@@ -259,6 +259,7 @@
     ],
     "shortHint": "可啟用雲存檔與大版本自動更新功能",
     "waitingLogin": "等待登錄驗證流程完成……",
+    "loginCanceled": "已取消登錄。",
     "notLoggedIn": "還未進行登錄驗證…",
     "RequestingLogin": "正在發起登錄請求……",
     "openingWindow": "正在打開登錄窗口……",

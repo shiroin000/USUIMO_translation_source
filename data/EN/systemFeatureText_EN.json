@@ -285,6 +285,7 @@
     ],
     "shortHint": " Can now enable cloud saves & major updates",
     "waitingLogin": "Waiting for login completion...",
+    "loginCanceled": "Login canceled.",
     "notLoggedIn": "Not Logged In",
     "RequestingLogin": "Requesting login link...",
     "openingWindow": "Opening Patreon login window...",

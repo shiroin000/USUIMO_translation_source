@@ -52,8 +52,10 @@
   "equipmentDescriptionKeyword": {
     "sentouryoku": "戰鬥力",
     "HP": "體力值",
+    "HPLimitBreak": "體力破限",
     "durability": "耐久度",
     "ATK": "攻擊力",
+    "ATKLimitBreak": "攻擊力破限",
     "DEF": "防禦力",
     "MAT": "魔法強度",
     "MDF": "魔法抗性",

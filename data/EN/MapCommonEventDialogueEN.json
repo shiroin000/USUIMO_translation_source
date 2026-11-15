@@ -52,8 +52,10 @@
   "equipmentDescriptionKeyword": {
     "sentouryoku": "Combat Power",
     "HP": "Max HP",
+    "HPLimitBreak": "HP Limit Break",
     "durability": "Durability",
     "ATK": "Attack",
+    "ATKLimitBreak": "Attack Limit Break",
     "DEF": "Defense",
     "MAT": "Magic Power",
     "MDF": "Magic Resist",

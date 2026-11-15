@@ -53,6 +53,7 @@
     "sentouryoku": "戦闘力",
     "durability": "耐久度",
     "ATK": "物理攻撃力",
+    "ATKLimitBreak": "攻撃力限界突破",
     "DEF": "防御力",
     "MAT": "魔法攻撃力",
     "MDF": "魔法耐性",
@@ -61,7 +62,8 @@
     "CSP": "詠唱速度",
     "HRG": "自動回復",
     "SPD": "移動速度",
-    "HP": "最大体力"
+    "HP": "最大体力",
+    "HPLimitBreak": "体力限界突破"
   },
   "EquipScene": {
     "operationInstructions": "装備アイコンをクリックまたはドラッグして装備・破棄",

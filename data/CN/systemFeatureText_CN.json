@@ -259,6 +259,7 @@
     ],
     "shortHint": "可启用云存档与大版本自动更新功能",
     "waitingLogin": "等待登录验证流程完成……",
+    "loginCanceled": "已取消登录。",
     "notLoggedIn": "还未进行登录验证…",
     "RequestingLogin": "正在发起登录请求……",
     "openingWindow": "正在打开登录窗口……",

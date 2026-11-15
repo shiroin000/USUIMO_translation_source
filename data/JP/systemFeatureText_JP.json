@@ -274,6 +274,7 @@
     ],
     "shortHint": "クラウドセーブとメジャーアップデートの更新を有効化できます",
     "waitingLogin": "ログイン認証の完了を待っています……",
+    "loginCanceled": "ログインをキャンセルしました。",
     "notLoggedIn": "ログイン記録がありません…",
     "RequestingLogin": "ログイン要求を送信しています……",
     "openingWindow": "Patreonのログインウィンドウを開いています……",

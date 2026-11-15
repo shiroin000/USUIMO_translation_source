@@ -39,7 +39,8 @@
       "Is it a rabbit… or a bun…?"
     ],
     "ability": [
-      ""
+      "Makes it easier to get more capsules from the gacha machine",
+      "Increases the chance of getting rare items from gacha"
     ]
   },
   "4": {
@@ -483,9 +484,7 @@
       "embedded a sword into a ring. It's far too small to use, ",
       "but it sure boosts one's presence"
     ],
-    "ability": [
-      "Physical attack power +15%, Physical attack cap +150"
-    ]
+    "ability": []
   },
   "35": {
     "name": [
@@ -856,10 +855,7 @@
       "A cursed circlet tainted by dark magic,",
       "haunted by a stubborn grudge that gnaws at the flesh"
     ],
-    "ability": [
-      "Magic attack power +100%",
-      "Max HP -50%"
-    ]
+    "ability": []
   },
   "61": {
     "name": [
