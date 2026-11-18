@@ -168,6 +168,11 @@
         "所以点满了防御力"
       ]
     },
+    "MakeItBig": {
+      "Name": "老实赚钱很枯燥吧？",
+      "Description": "一次性赚到了大钱！",
+      "Pop Up Desc": "老实赚钱，很枯燥吧？"
+    },
     "YouAreBeingSummoned": {
       "Name": "◉▽◉在召唤你",
       "Description": "发现了古代生物！",

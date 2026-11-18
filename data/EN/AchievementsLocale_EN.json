@@ -77,7 +77,7 @@
       "Name": "To Be Continued",
       "Description": "Captured a miraculous moment!",
       "Pop Up Desc": "To Be Continued"
-    },   
+    },
     "PeopleDieIfTheyAreKilled": {
       "Name": "People Die If They Are Killed?",
       "Description": "Your HP drops to zero in the Abyss...",
@@ -178,6 +178,14 @@
       "Pop Up Desc": [
         "\\fs[24]I hate getting hurt…",
         "so I maxed out Defense!"
+      ]
+    },
+    "MakeItBig": {
+      "Name": "Making Money the Honest Way Is Boring, Isn't It?",
+      "Description": "Made a fortune in one fell swoop!",
+      "Pop Up Desc": [
+        "\\fs[22]Making money the honest",
+        "way is boring, isn't it?"
       ]
     },
     "YouAreBeingSummoned": {

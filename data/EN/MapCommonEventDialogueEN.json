@@ -164,6 +164,7 @@
       "Discard"
     ],
     "cannotQuickUse": "This item cannot be added to the quick item wheel",
+    "discardDescription": "Drag items here to discard.",
     "operationInstructions": [
       "Drag items that support quick use into the quick item wheel",
       "to switch between and use them on the map"
@@ -1021,6 +1022,218 @@
         "So if you have any questions, feel free to ask me."
       ]
     },
+    "SecondVisit": {
+      "1": [
+        "Couldn't you have waited before kicking him?",
+        "I didn't even get to ask if he wanted a contract!"
+      ],
+      "2": [
+        "You're the one who said it was time he went back to his own world!",
+        "How is it my fault for sending him back?!"
+      ],
+      "3": [
+        "I meant for our guest to jump down himself!",
+        "He can walk, you know! Did you really have to kick him?!"
+      ],
+      "4": [
+        "Then why didn't you ask him sooner, Onee-chan?",
+        "Onii-san couldn't walk when he was still in bed!"
+      ],
+      "5": [
+        "Intervene",
+        "Stay out of it"
+      ],
+      "6": [
+        "…Please leave, dear guest!",
+        "We're closed right now!"
+      ],
+      "7": [
+        "That's right!",
+        "These are private business hours for me and Onee-chan!!"
+      ],
+      "8": [
+        "…Huh? Onii-san?",
+        "Onee-chan! The Onii-san I kicked down is back!"
+      ],
+      "9": [
+        "…Now that I look closely, it really is you.",
+        "You actually managed to find your way back here?"
+      ],
+      "10": [
+        "…How strange.",
+        "How did you get back without a contract?"
+      ],
+      "11": [
+        "Who cares about that little detail?",
+        "Onii-san's back, so that means I win, right?"
+      ],
+      "12": [
+        "That's a completely separate matter!",
+        "Your Onee-chan is still angry with you for acting on your own!"
+      ],
+      "13": [
+        "You just wanted to use the chance to sign up a new client anyway!",
+        "Just have Onii-san sign now, and everyone's happy!"
+      ],
+      "14": [
+        "W-What kind of way is that to put it?!",
+        "You're making us sound like some shady business!"
+      ],
+      "15": [
+        "Hmph~",
+        "You worry too much about little things like that, Onee-chan!"
+      ],
+      "16": [
+        "Hey, hey, Onii-san~",
+        "You think Onee-chan's cute too, don't you~?"
+      ],
+      "17": [
+        "Well, I'm even cuter than Onee-chan!",
+        "So sign a contract with me, Onii-san~!"
+      ],
+      "18": [
+        "Whenever you're in danger,",
+        "I'll rush right over to save you~!"
+      ],
+      "19": [
+        "W-Wait! What are you saying?!",
+        "Don't try to win over clients in such a strange way!"
+      ],
+      "20": [
+        "Ehh~? But the Head Nurse said",
+        "we should be nice to our guests~!"
+      ],
+      "21": [
+        "Being nice and tricking people are two different things!",
+        "You haven't even explained what the contract covers!"
+      ],
+      "22": [
+        "I'll leave all that to you, Onee-chan~",
+        "You're the best at talking about complicated stuff, aren't you?"
+      ],
+      "23": [
+        "…Ahem.",
+        "In that case, allow your Onee-chan to give a proper explanation."
+      ],
+      "24": [
+        "As you probably already know, dear guest,",
+        "we're the Trauma Rescue Team, and we provide emergency rescue services."
+      ],
+      "25": [
+        "Once you sign a contract with us,",
+        "you can call on us for help whenever your life is in danger."
+      ],
+      "26": [
+        "We do have our limits, though.",
+        "Whether we can save you depends on the circumstances."
+      ],
+      "27": [
+        "Interdimensional teleportation isn't completely reliable,",
+        "so sometimes we may not reach you in time."
+      ],
+      "28": [
+        "In other words~",
+        "Don't go collapsing in weird places, Onii-san!"
+      ],
+      "29": [
+        "…Why do you make it sound like",
+        "our guest is bound to get himself killed on purpose?"
+      ],
+      "30": [
+        "Well, he got here last time by getting run over!",
+        "Maybe he likes how it feels~!"
+      ],
+      "31": [
+        "…I doubt anyone would enjoy that.",
+        "No normal person, at least."
+      ],
+      "32": [
+        "A-Anyway!",
+        "Once you sign a contract, you'll have our protection."
+      ],
+      "33": [
+        "So, dear guest~",
+        "Would you like to sign a contract with me?"
+      ],
+      "34": [
+        "Hey! You're trying to get ahead of me again, Onee-chan!",
+        "I asked Onii-san first!"
+      ],
+      "35": [
+        "Onii-san~!",
+        "Pick me! Pick me~!"
+      ],
+      "36": [
+        "…Stop pestering our guest!",
+        "This is something he should decide for himself!"
+      ],
+      "37": [
+        "Hmph! You always say that!",
+        "You just want the Head Nurse to praise you!"
+      ],
+      "38": [
+        "You have some nerve! Don't think I don't know",
+        "you pried the cabinet open last night! ",
+        "Wanted to play with the defibrillator again, ",
+        "did you?!"
+      ],
+      "38.1": [
+        "(W-Wait, the way this is going…",
+        "Am I about to get…?)"
+      ],
+      "39": [
+        "NNNNNNNNN",
+        "NNNNNN—!!"
+      ],
+      "40": [
+        "Older sister!",
+        "Younger sister!"
+      ],
+      "40.1": [
+        "A contract! I'll sign a contract—!",
+        "So stop pulling, GUOOOOOAAAAAH—!"
+      ],
+      "41": [
+        "What a wise choice~",
+        "You certainly have a good eye for people, dear guest~!"
+      ],
+      "42": [
+        "Whaaaat—?!",
+        "Why Onee-chan?! I'm the cuter one!"
+      ],
+      "43": [
+        "Hehe~",
+        "It seems our guest prefers a dependable older sister~!"
+      ],
+      "44": [
+        "No, he doesn't!",
+        "You must have tricked Onii-san, Onee-chan!"
+      ],
+      "46": [
+        "Yaaay—!",
+        "I knew you liked me best, Onii-san~!"
+      ],
+      "47": [
+        "Hehe~ See that, Onee-chan?",
+        "That's the power of being cute~!"
+      ],
+      "48": [
+        "…Dear guest.",
+        "Have you really thought this through?"
+      ],
+      "49": [
+        "She likes to use the defibrillator as a toy,",
+        "you know. She's quite a handful."
+      ],
+      "50": [
+        "Hey—! That's so mean, Onee-chan!",
+        "You're bad-mouthing me!"
+      ],
+      "51": [
+        "You're the one who won't let me say anything bad about you,",
+        "so aren't you the worst one, Onee-chan?!"
+      ]
+    },
     "NurseMio": {
       "1": [
         "Hello, dear guest.",
@@ -1085,6 +1298,14 @@
       "15": [
         "The idiot who calls someone else an idiot is the real idiot!",
         "Big dummy! Big dummy!"
+      ],
+      "16": [
+        "If you want to know more about this world,",
+        "wait until the Head Nurse returns."
+      ],
+      "17": [
+        "Now that we've made a contract,",
+        "we'll keep you safe."
       ]
     },
     "NurseAsaba": {
@@ -1115,6 +1336,14 @@
       "7": [
         "Onee-chan, you dummy…!",
         "This wouldn't have happened if you'd explained it first!"
+      ],
+      "8": [
+        "Don't tell the Head Nurse",
+        "I took the defibrillator without asking, okay?!"
+      ],
+      "9": [
+        "If you bring me some fun things,",
+        "I might tell you Onee-chan's secrets…"
       ]
     },
     "anatomicalModel": [

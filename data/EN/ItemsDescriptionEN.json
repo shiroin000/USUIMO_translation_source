@@ -544,6 +544,22 @@
       "If eaten after being thrown, the target gains a temporary Sensitivity Up status"
     ]
   },
+  "34": {
+    "name": [
+      "Chocolate"
+    ],
+    "subtitle": [
+      "\"For some reason, only non-humans have been poisoned.\""
+    ],
+    "description": [
+      "A curious brown sweet from a gacha machine",
+      "People call these squares “chocolate” after the word on the wrapper. They have a bittersweet aroma",
+      "Their melt-in-the-mouth texture made them a craze far and wide, but people grew wary as reports of fatal poisoning kept coming in"
+    ],
+    "ability": [
+      "Grants a high capacity shield for 10 minutes"
+    ]
+  },
   "35": {
     "name": [
       "NLCH's Cola(L)"
@@ -4104,6 +4120,15 @@
       "...\\str[120] caught me peeking!",
       "But is it just my imagination?",
       "\\str[120] seems to be deliberately undressing right in front of me..."
+    ],
+    "ability": ""
+  },
+  "479": {
+    "name": [
+      "Lewd Treatment III"
+    ],
+    "subtitle": [
+      ""
     ],
     "ability": ""
   },

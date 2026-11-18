@@ -71,7 +71,7 @@
       "Name": "To Be Continued",
       "Description": "奇跡の瞬間を激写！",
       "Pop Up Desc": "To Be Continued"
-    },   
+    },
     "PeopleDieIfTheyAreKilled": {
       "Name": "人は殺されれば死ぬ……か？",
       "Description": "アビスで体力がゼロになる……",
@@ -161,6 +161,11 @@
         "\\fs[24]痛いのは嫌なので",
         "防御力に極振りしました"
       ]
+    },
+    "MakeItBig": {
+      "Name": "地道に稼ぐのはダルいよね？",
+      "Description": "一度に大金を稼いだ！",
+      "Pop Up Desc": "地道に稼ぐのはダルいよね？"
     },
     "YouAreBeingSummoned": {
       "Name": "よんでますよ、◉▽◉さん",

@@ -161,6 +161,7 @@
       "丟棄"
     ],
     "cannotQuickUse": "這個道具不支持放入快捷道具欄",
+    "discardDescription": "將道具拖拽至此處即可丟棄",
     "operationInstructions": [
       "將支持快捷使用的道具拖入快捷道具輪盤",
       "即可在地圖中切換使用"

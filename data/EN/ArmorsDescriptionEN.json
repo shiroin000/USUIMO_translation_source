@@ -1172,6 +1172,23 @@
       "While the shield is active, reduces the chance of being afflicted with Poison, Bleed, Lightning, Burning, or Frozen"
     ]
   },
+  "84": {
+    "name": [
+      "It's Almost Time!"
+    ],
+    "subtitle": [
+      "\"Luguanluguanlulushijiandaole\""
+    ],
+    "description": [
+      "A pocket watch the Lust Demon always carries",
+      "For a demon, he keeps remarkably close track of the time",
+      "He seems especially keen to know when the clock strikes the hour…"
+    ],
+    "ability": [
+      "Time seems to pass faster while this watch is equipped",
+      "At the start of each hour, time seems to slow down"
+    ]
+  },
   "100": {
     "name": [
       "Unit I Nexus"
