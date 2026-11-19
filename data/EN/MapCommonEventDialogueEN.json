@@ -29,6 +29,30 @@
     "NotProvided": "Not provided",
     "ClickToUpdate": "Click to update"
   },
+  "languageScene": {
+    "OfficialLanguages": "Official Languages",
+    "FanTranslations": "Fan Translations",
+    "UseLanguage": "Use this language",
+    "InUse": "In use",
+    "ContributeOnGitHub": "Contribute on GitHub",
+    "NoLanguageFound": "Can’t find your language?",
+    "LanguageSystemGuide": [
+      "The game currently supports four official languages: 简体中文, 繁體中文, 日本語 and English.",
+      "On top of that, passionate players from all over the world have brought even more languages to the game.",
+      "A heartfelt thank you to every volunteer for their generous contributions!",
+      "The following player translations are currently available:",
+      "{fanLanguages}"
+    ],
+    "TranslationProgress": "Translation progress",
+    "EntryCount": "{done} / {total} entries",
+    "Calculating": "Calculating…",
+    "NoStatistics": "No statistics available",
+    "Volunteers": "Volunteer translators",
+    "NoVolunteers": "Not recorded yet.",
+    "TranslatorNotes": "Notes from the translators",
+    "ProgressByFile": "Progress by file",
+    "ReadControls": "Choose a language on the left · Drag / scroll to read"
+  },
   "autoUpdateReminder": {
     "0": [
       "The update process will automatically start when you wake up the next day.",

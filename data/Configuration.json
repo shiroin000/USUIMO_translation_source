@@ -3,5 +3,70 @@
   "translationPackage": {
     "gameVersion": "1.4.4",
     "tag": "1.4"
+  },
+  "translationFiles": [
+    "AchievementsLocale_EN.json",
+    "AnsuzMessagesLocale_EN.json",
+    "ArmorsDescriptionEN.json",
+    "GameTermsTextEN.json",
+    "ItemsDescriptionEN.json",
+    "MapCommonEventDialogueEN.json",
+    "MapEventDialogueEN001.json",
+    "MapEventDialogueEN002.json",
+    "MapEventDialogueEN003.json",
+    "MapEventDialogueEN004.json",
+    "MapEventDialogueEN006.json",
+    "MapEventDialogueEN007.json",
+    "MapEventDialogueEN011.json",
+    "MapEventDialogueEN018.json",
+    "MapEventDialogueEN019.json",
+    "MapEventDialogueEN020.json",
+    "MapEventDialogueEN021.json",
+    "MapEventDialogueEN024.json",
+    "MapEventDialogueEN025.json",
+    "MapEventDialogueEN036.json",
+    "MapEventDialogueEN038.json",
+    "MapEventDialogueEN051.json",
+    "MapEventDialogueEN053.json",
+    "MapEventDialogueEN054.json",
+    "WeaponsDescriptionEN.json",
+    "sceneObjectDescriptionText_EN.json",
+    "skillDescriptionEN.json",
+    "statesDescriptionEN.json",
+    "systemFeatureText_EN.json"
+  ],
+  "translationContributors": {
+    "RU": [
+      "@Huntero-Endless"
+    ],
+    "FR": [
+      "@Huntero-Endless"
+    ],
+    "VN": [
+      "@NianSprout",
+      "@AkamineHaruna"
+    ],
+    "ES": [
+      "@xavmb"
+    ],
+    "PTBR": [
+      "@1nexoravel"
+    ],
+    "KR": [
+      "@TelAr"
+    ],
+    "ID": [
+      "@MeowLuckly",
+      "@nekonin1"
+    ],
+    "TH": [
+      "@0896271652"
+    ],
+    "UA": [
+      "@Huntero-Endless"
+    ],
+    "IT": [
+      "@Brombeis"
+    ]
   }
 }

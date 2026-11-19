@@ -839,8 +839,9 @@
       "Less damage, but easier rapid fire"
     ],
     "ability": [
-      "+Attack Speed, -20% Damage, -20% Durability Loss",
-      "Hold right-click to charge and release a \\c[27]Piercing Arrow\\c[0]"
+      "Weapon durability consumption reduced by 20%",
+      "Hold right-click to charge and release a \\c[27]Piercing Arrow\\c[0]",
+      "Piercing Arrows deal less damage with each unit they pass through"
     ]
   },
   "103": {
@@ -850,11 +851,12 @@
     "subtitle": "",
     "description": [
       "A magical bow filled with fire energy",
-      "Not only burns enemies, but also fires explosive arrows"
+      "Can ignite targets and fire explosive arrows"
     ],
     "ability": [
+      "Arrows have a 40% chance to inflict Burning",
       "Hold right-click to charge and release a \\c[27]Explosive Arrow\\c[0]",
-      "Explosive Arrow explode on hit"
+      "Explosive Arrows cause an explosion on hit"
     ]
   },
   "104": {
@@ -863,12 +865,13 @@
     ],
     "subtitle": "",
     "description": [
-      "A magical bow covered in ice. Shoots ice arrows",
-      "and can freeze a wide area with a charged shot"
+      "A magical bow covered in ice",
+      "Fires arrows made of ice as well"
     ],
     "ability": [
+      "Arrows have a 30% chance to inflict Frozen",
       "Hold right-click to charge and release a \\c[27]Icebound Arrow\\c[0]",
-      "Icebound Arrow freeze targets on hit"
+      "Icebound Arrows freeze the area where they land"
     ]
   },
   "105": {
@@ -882,7 +885,10 @@
       "However, be careful—it's highly conductive"
     ],
     "ability": [
-      "Hold right-click to charge and release a \\c[27]Thunder Arrow\\c[0]"
+      "Arrows have a 30% chance to inflict Lightning",
+      "Makes the wielder more conductive while equipped",
+      "Hold right-click to charge and release a \\c[27]Thunder Arrow\\c[0]",
+      "Lightning strikes have a chance to leave a lingering electric field where they land"
     ]
   },
   "106": {
@@ -897,6 +903,7 @@
     ],
     "ability": [
       "Fires three arrows at once",
+      "Arrows have a 33% chance to inflict Poison",
       "Hold right-click to charge and release a \\c[27]Piercing Arrow\\c[0]"
     ]
   },
@@ -911,8 +918,10 @@
       "until the arrow returns with a sweeter offering"
     ],
     "ability": [
+      "Arrows have a 30% chance to inflict Bleed",
+      "Continually draws on the wielder's own blood while the bow is drawn to empower the current shot",
       "Hold right-click to charge and release a \\c[27]Blood Piercing Arrow\\c[0]",
-      "Consumes HP to empower shots. Killing arrows drain blood"
+      "\\c[27]Blood Piercing Arrows\\c[0] instantly pierce all units in their path"
     ]
   },
   "250": {

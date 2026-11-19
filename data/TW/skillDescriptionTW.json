@@ -277,6 +277,17 @@
       "近戰武器的基礎攻擊提升\\c[6]${QJ.MPMZ.tl.playerSwordsmanshipTraining(2)}%\\c[0]傷害"
     ]
   },
+  "53": {
+    "name": [
+      "生命汲取"
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      "使用武器擊殺生物時自動汲取其血液，轉化為自身生命值"
+    ]
+  },
   "66": {
     "name": [
       "冰結術"

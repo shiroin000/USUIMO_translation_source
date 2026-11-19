@@ -41,6 +41,30 @@
     "NotProvided": "未提供",
     "ClickToUpdate": "点击进行更新"
   },
+  "languageScene": {
+    "OfficialLanguages": "官方语言",
+    "FanTranslations": "粉丝翻译",
+    "UseLanguage": "使用此语言",
+    "InUse": "使用中",
+    "ContributeOnGitHub": "在 GitHub 上参与翻译",
+    "NoLanguageFound": "没有找到你的语言？",
+    "LanguageSystemGuide": [
+      "游戏目前官方支持四种语言：简体中文、繁體中文、日本語和 English。",
+      "此外，来自世界各地的热心玩家也为游戏带来了更多语言支持。",
+      "感谢每一位志愿者的无私贡献！",
+      "目前提供以下玩家翻译版本：",
+      "{fanLanguages}"
+    ],
+    "TranslationProgress": "翻译完成度",
+    "EntryCount": "{done} / {total} 条",
+    "Calculating": "统计中…",
+    "NoStatistics": "暂无统计数据",
+    "Volunteers": "参与翻译的志愿者",
+    "NoVolunteers": "暂无记录。",
+    "TranslatorNotes": "译者留言",
+    "ProgressByFile": "各文件完成度",
+    "ReadControls": "点击左侧选择语言 · 拖拽 / 滚轮阅读"
+  },
   "rpgMapButtonDescription": {
     "starDoor": "回家",
     "option": "设置",

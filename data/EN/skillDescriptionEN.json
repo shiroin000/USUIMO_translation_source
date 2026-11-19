@@ -292,6 +292,17 @@
       "Base attack damage of melee weapons increased by \\c[6]${QJ.MPMZ.tl.playerSwordsmanshipTraining(2)}%"
     ]
   },
+  "53": {
+    "name": [
+      "Life Drain"
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      "Automatically drains blood from creatures killed with a weapon, converting it into HP"
+    ]
+  },
   "66": {
     "name": [
       "Freezing Magic"

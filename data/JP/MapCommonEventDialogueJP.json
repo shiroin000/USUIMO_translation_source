@@ -29,6 +29,30 @@
     "NotProvided": "情報なし",
     "ClickToUpdate": "クリックして更新"
   },
+  "languageScene": {
+    "OfficialLanguages": "公式言語",
+    "FanTranslations": "ファン翻訳",
+    "UseLanguage": "この言語を使う",
+    "InUse": "使用中",
+    "ContributeOnGitHub": "GitHubで翻訳に参加",
+    "NoLanguageFound": "お使いの言語が見つかりませんか？",
+    "LanguageSystemGuide": [
+      "本作は現在、简体中文・繁體中文・日本語・English の4つの言語に公式対応しています。",
+      "さらに、世界中の熱心なプレイヤーのおかげで、より多くの言語でも遊べるようになりました。",
+      "ご協力いただいたすべてのボランティアの皆さんに、心から感謝します！",
+      "現在、以下のプレイヤー翻訳版をご利用いただけます。",
+      "{fanLanguages}"
+    ],
+    "TranslationProgress": "翻訳の進捗",
+    "EntryCount": "{done} / {total} 件",
+    "Calculating": "集計中…",
+    "NoStatistics": "集計データがありません",
+    "Volunteers": "翻訳ボランティア",
+    "NoVolunteers": "まだ記録がありません。",
+    "TranslatorNotes": "翻訳者からのメッセージ",
+    "ProgressByFile": "ファイル別の進捗",
+    "ReadControls": "左の一覧から言語を選択 · ドラッグ / マウスホイールで閲覧"
+  },
   "autoUpdateReminder": {
     "0": [
       "アップデートは翌朝起床時に自動で開始されます。",
