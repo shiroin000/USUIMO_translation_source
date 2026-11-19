@@ -12,6 +12,11 @@ on:
 permissions:
   contents: write
 
+# Uploads replace assets in place; queue runs so two pushes never race on the same release.
+concurrency:
+  group: data-package-release
+  cancel-in-progress: false
+
 jobs:
   update-release:
     runs-on: ubuntu-latest
@@ -20,121 +25,71 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Read game version line
+        id: version
+        run: |
+          python3 - <<'PY' >> "$GITHUB_OUTPUT"
+          import json, re
+
+          # data/Configuration.json is written by the game's editor playtest:
+          # {"translationPackage": {"gameVersion": "1.4.4", "tag": "1.4"}}
+          tag = ""
+          game_version = ""
+          try:
+              with open("data/Configuration.json", "r", encoding="utf-8") as f:
+                  info = json.load(f).get("translationPackage") or {}
+              tag = str(info.get("tag") or "").strip()
+              game_version = str(info.get("gameVersion") or "").strip()
+          except (OSError, ValueError, AttributeError):
+              pass
+
+          if not re.fullmatch(r"\d+\.\d+", tag):
+              tag = ""
+          print(f"tag={tag}")
+          print(f"game_version={game_version}")
+          PY
+
       - name: Build data.zip
         run: |
           rm -rf package data.zip data.zip.sha256
           mkdir -p package
           cp -r data package/data
+          # Packaging metadata only; installing it would overwrite the player's own Configuration.json.
+          rm -f package/data/Configuration.json
           cd package
           zip -r ../data.zip data
           cd ..
           sha256sum data.zip | awk '{print $1}' > data.zip.sha256
 
-      - name: Ensure latest-data release exists
-        id: ensure_release
+      - name: Publish data packages
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          VERSION_TAG: ${{ steps.version.outputs.tag }}
+          GAME_VERSION: ${{ steps.version.outputs.game_version }}
         run: |
-          set -e
+          set -euo pipefail
 
-          API="https://api.github.com/repos/${{ github.repository }}"
-          TAG="latest-data"
-
-          STATUS=$(curl -s -o release.json -w "%{http_code}" \
-            -H "Accept: application/vnd.github+json" \
-            -H "Authorization: Bearer $GITHUB_TOKEN" \
-            -H "X-GitHub-Api-Version: 2022-11-28" \
-            "$API/releases/tags/$TAG")
-
-          if [ "$STATUS" = "200" ]; then
-            echo "Release exists."
-          else
-            echo "Creating release..."
-            curl -s -L \
-              -X POST \
-              -H "Accept: application/vnd.github+json" \
-              -H "Authorization: Bearer $GITHUB_TOKEN" \
-              -H "X-GitHub-Api-Version: 2022-11-28" \
-              "$API/releases" \
-              -d @- > release.json <<EOF
-          {
-            "tag_name": "latest-data",
-            "name": "Latest Data Package",
-            "body": "Auto-updated data package for in-game silent updates.",
-            "draft": false,
-            "prerelease": false
+          publish() {
+            local tag="$1" title="$2" notes="$3" latest="$4"
+            if ! gh release view "$tag" -R "$GITHUB_REPOSITORY" >/dev/null 2>&1; then
+              echo "Creating release $tag..."
+              gh release create "$tag" -R "$GITHUB_REPOSITORY" \
+                --title "$title" --notes "$notes" --target "$GITHUB_SHA" --latest="$latest"
+            fi
+            # --clobber replaces data.zip / data.zip.sha256 that already exist on the release.
+            gh release upload "$tag" data.zip data.zip.sha256 -R "$GITHUB_REPOSITORY" --clobber
+            echo "Uploaded data.zip to $tag."
           }
-          EOF
-          fi
 
-          python3 - <<'PY' >> $GITHUB_OUTPUT
-          import json
-          with open("release.json", "r", encoding="utf-8") as f:
-              data = json.load(f)
-          print(f"release_id={data['id']}")
-          print(f"upload_url={data['upload_url'].split('{')[0]}")
-          PY
+          # Always the newest text. Kept for clients released before version-line packages existed.
+          publish latest-data "Latest Data Package" \
+            "Auto-updated data package for in-game silent updates." true
 
-      - name: Delete old assets if they exist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          set -e
-
-          API="https://api.github.com/repos/${{ github.repository }}"
-          RELEASE_ID="${{ steps.ensure_release.outputs.release_id }}"
-
-          curl -s -L \
-            -H "Accept: application/vnd.github+json" \
-            -H "Authorization: Bearer $GITHUB_TOKEN" \
-            -H "X-GitHub-Api-Version: 2022-11-28" \
-            "$API/releases/$RELEASE_ID/assets" > assets.json
-
-          python3 - <<'PY' > delete_assets.sh
-          import json
-          with open("assets.json", "r", encoding="utf-8") as f:
-              assets = json.load(f)
-
-          target_names = {"data.zip", "data.zip.sha256"}
-          for asset in assets:
-              if asset["name"] in target_names:
-                  print(
-                      "curl -s -L -X DELETE "
-                      "-H \"Accept: application/vnd.github+json\" "
-                      "-H \"Authorization: Bearer $GITHUB_TOKEN\" "
-                      "-H \"X-GitHub-Api-Version: 2022-11-28\" "
-                      f"\"https://api.github.com/repos/${{ github.repository }}/releases/assets/{asset['id']}\""
-                  )
-          PY
-
-          if [ -s delete_assets.sh ]; then
-            bash delete_assets.sh
+          # Version-line package: game clients only download the release named after their major version.
+          if [ -n "$VERSION_TAG" ]; then
+            publish "$VERSION_TAG" "Data Package $VERSION_TAG" \
+              "Translation data for game version $VERSION_TAG.x. Game clients on this version line download this package; it stops updating once the game moves to the next version line." false
+            echo "Game version $GAME_VERSION -> release $VERSION_TAG"
           else
-            echo "No old assets to delete."
+            echo "::warning::data/Configuration.json has no valid translationPackage.tag; only latest-data was updated."
           fi
-
-      - name: Upload new data.zip
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          curl -s -L \
-            -X POST \
-            -H "Accept: application/vnd.github+json" \
-            -H "Authorization: Bearer $GITHUB_TOKEN" \
-            -H "X-GitHub-Api-Version: 2022-11-28" \
-            -H "Content-Type: application/zip" \
-            "${{ steps.ensure_release.outputs.upload_url }}?name=data.zip" \
-            --data-binary @data.zip
-
-      - name: Upload new data.zip.sha256
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          curl -s -L \
-            -X POST \
-            -H "Accept: application/vnd.github+json" \
-            -H "Authorization: Bearer $GITHUB_TOKEN" \
-            -H "X-GitHub-Api-Version: 2022-11-28" \
-            -H "Content-Type: text/plain" \
-            "${{ steps.ensure_release.outputs.upload_url }}?name=data.zip.sha256" \
-            --data-binary @data.zip.sha256
