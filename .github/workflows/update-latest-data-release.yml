@@ -49,6 +49,46 @@ jobs:
           print(f"game_version={game_version}")
           PY
 
+      - name: Collect GitHub contributors
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO_OWNER: ${{ github.repository_owner }}
+        run: |
+          # Commit authors per language folder. The game's language screen lists them when a language's
+          # systemFeatureText has no translationCredits. Bots and the repository owner are left out.
+          python3 - <<'PY' > contributors.json
+          import json, os, subprocess, sys
+
+          repo = os.environ["GITHUB_REPOSITORY"]
+          owner = os.environ["REPO_OWNER"].lower()
+          languages = {}
+          for lang in sorted(os.listdir("data")):
+              if not os.path.isdir(os.path.join("data", lang)):
+                  continue
+              try:
+                  rows = subprocess.run(
+                      ["gh", "api", "--paginate", f"repos/{repo}/commits?path=data/{lang}&per_page=100",
+                       "--jq", '.[] | [(.author.login // ""), (.author.type // ""), (.commit.author.name // "")] | @tsv'],
+                      check=True, capture_output=True, text=True).stdout
+              except subprocess.CalledProcessError as error:
+                  print(f"::warning::Could not list commits for data/{lang}: {error.stderr.strip()}", file=sys.stderr)
+                  continue
+              counts = {}
+              for row in rows.splitlines():
+                  login, kind, name = (row.split("\t") + ["", "", ""])[:3]
+                  if kind == "Bot" or login.endswith("[bot]") or name.endswith("[bot]") or login.lower() == owner:
+                      continue
+                  key = ("login", login) if login else ("name", name.strip())
+                  if key[1]:
+                      counts[key] = counts.get(key, 0) + 1
+              people = [{field: value, "commits": n} for (field, value), n in counts.items()]
+              people.sort(key=lambda p: (-p["commits"], (p.get("login") or p.get("name")).lower()))
+              if people:
+                  languages[lang] = people
+          json.dump({"schemaVersion": 1, "repository": repo, "languages": languages}, sys.stdout, ensure_ascii=False, indent=2)
+          PY
+          python3 -c "import json; d=json.load(open('contributors.json')); print({k: len(v) for k, v in d['languages'].items()})"
+
       - name: Build data.zip
         run: |
           rm -rf package data.zip data.zip.sha256
@@ -56,6 +96,7 @@ jobs:
           cp -r data package/data
           # Packaging metadata only; installing it would overwrite the player's own Configuration.json.
           rm -f package/data/Configuration.json
+          cp contributors.json package/data/TranslationContributors.json
           cd package
           zip -r ../data.zip data
           cd ..
