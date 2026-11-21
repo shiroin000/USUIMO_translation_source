@@ -249,6 +249,9 @@
   "underwaterTreasuresCount": [
     "Detected underwater treasures"
   ],
+  "grassTreasuresCount": [
+    "Detected treasures in the grass"
+  ],
   "guideHint": [
     "Press Ctrl+F to open the search bar. Click the buttons below the document to switch its content."
   ],

@@ -218,6 +218,9 @@
   "underwaterTreasuresCount": [
     "侦查到水下的遗物"
   ],
+  "grassTreasuresCount": [
+    "侦查到草丛的遗物"
+  ],
   "guideHint": [
     "按Ctrl+F可打开搜索栏、点击文档下方的按钮可切换文档内容。"
   ],

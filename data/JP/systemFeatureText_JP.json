@@ -233,6 +233,9 @@
   "underwaterTreasuresCount": [
     "水中の遺物を探知"
   ],
+  "grassTreasuresCount": [
+    "草むらの遺物を探知"
+  ],
   "guideHint": [
     "Ctrl+Fで検索バーを開けます。画面下のボタンをクリックすると文書の内容を切り替えられます。"
   ],
