@@ -448,5 +448,24 @@
   },
   "Nibelungen": {
     "mapName": "尼伯龍根"
-  }
+  },
+  "completionScanning": [
+    "正在校驗本機檔案……"
+  ],
+  "completionDownloadPlan": [
+    "需要下載 ${} 個檔案，共 ${}。"
+  ],
+  "completionNothingToDownload": [
+    "本機檔案已經齊全，正在完成更新……"
+  ],
+  "completionInstalling": [
+    "正在安裝更新……"
+  ],
+  "completionUpdateUnavailable": [
+    "暫時無法完成更新，請稍後再試。"
+  ],
+  "completionUpdateFailed": [
+    "更新沒有完成：${}",
+    "重新更新時會接著下載還缺少的部分。"
+  ]
 }

@@ -463,5 +463,24 @@
   },
   "Nibelungen": {
     "mapName": "ニーベルンゲン"
-  }
+  },
+  "completionScanning": [
+    "ローカルファイルを確認しています……"
+  ],
+  "completionDownloadPlan": [
+    "${}個のファイル（${}）をダウンロードします。"
+  ],
+  "completionNothingToDownload": [
+    "必要なファイルはすべて揃っています。アップデートを仕上げています……"
+  ],
+  "completionInstalling": [
+    "アップデートをインストールしています……"
+  ],
+  "completionUpdateUnavailable": [
+    "現在アップデートを行えません。しばらくしてから再度お試しください。"
+  ],
+  "completionUpdateFailed": [
+    "アップデートを完了できませんでした：${}",
+    "もう一度アップデートすると、足りない部分から続きをダウンロードします。"
+  ]
 }

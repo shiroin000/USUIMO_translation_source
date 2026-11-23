@@ -303,6 +303,17 @@
       "Automatically drains blood from creatures killed with a weapon, converting it into HP"
     ]
   },
+  "55": {
+    "name": [
+      "Tachi of Light"
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      "Temporarily immobilizes targets struck by Tachi of Light, then detonates the particles of light on them"
+    ]
+  },
   "66": {
     "name": [
       "Freezing Magic"

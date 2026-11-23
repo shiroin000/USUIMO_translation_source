@@ -475,5 +475,24 @@
   },
   "Nibelungen": {
     "mapName": "Nibelungen"
-  }
+  },
+  "completionScanning": [
+    "Checking local game files..."
+  ],
+  "completionDownloadPlan": [
+    "${} files (${}) need to be downloaded."
+  ],
+  "completionNothingToDownload": [
+    "All game files are already in place. Finishing the update..."
+  ],
+  "completionInstalling": [
+    "Installing the update..."
+  ],
+  "completionUpdateUnavailable": [
+    "The update is not available right now. Please try again later."
+  ],
+  "completionUpdateFailed": [
+    "The update could not be completed: ${}",
+    "Updating again will resume with the files that are still missing."
+  ]
 }

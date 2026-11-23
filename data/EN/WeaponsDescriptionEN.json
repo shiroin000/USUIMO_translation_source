@@ -468,11 +468,14 @@
       "\"Huh? I can't see anything! This isn't a sword hilt!?\""
     ],
     "description": [
-      "Blessed by light, the blade bends light, becoming an invisible sword",
-      "This makes it razor-sharp, and when needed, its radiance unleashes"
+      "A magic sword blessed by light, its blade constantly draws in the surrounding light, concealing its form",
+      "This also makes its edge all the keener",
+      "When truly needed, the blessing can be released, letting its hidden radiance pour forth"
     ],
     "ability": [
-      "Attacks completely ignore the target's defense"
+      "While the blessing of light is active, attacks with this weapon completely ignore the target's defenses",
+      "Can immediately release the blessing of light to unleash its full form and perform a \\is[55] slash",
+      "After unleashing its full form, the sword loses the blessing of light for the rest of the day"
     ]
   },
   "36": {
