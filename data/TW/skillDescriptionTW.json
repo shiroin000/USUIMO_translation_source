@@ -273,8 +273,8 @@
       "——這樣真的能變強嗎！？總而言之先照做吧……"
     ],
     "ability": [
-      "空揮練習次數: \\{\\c[6]${QJ.MPMZ.tl.playerSwordsmanshipTraining(1)}\\c[0]",
-      "近戰武器的基礎攻擊提升\\c[6]${QJ.MPMZ.tl.playerSwordsmanshipTraining(2)}%\\c[0]傷害"
+      "空揮練習次數: ${QJ.MPMZ.tl.playerSwordsmanshipTraining(1)}",
+      "使用近戰武器時，物理攻擊力提升至基準的${QJ.MPMZ.tl.playerSwordsmanshipTraining(2)}"
     ]
   },
   "53": {

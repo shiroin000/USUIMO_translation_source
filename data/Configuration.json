@@ -1,7 +1,7 @@
 {
   "test": true,
   "translationPackage": {
-    "gameVersion": "1.4.4",
+    "gameVersion": "1.4.5",
     "tag": "1.4"
   },
   "translationFiles": [

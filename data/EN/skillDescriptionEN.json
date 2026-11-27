@@ -288,8 +288,8 @@
       "—Will that really work!? Anyway, let’s give it a try..."
     ],
     "ability": [
-      "Practice Swings Completed: \\{\\c[6]${QJ.MPMZ.tl.playerSwordsmanshipTraining(1)}\\c[0]",
-      "Base attack damage of melee weapons increased by \\c[6]${QJ.MPMZ.tl.playerSwordsmanshipTraining(2)}%"
+      "Practice Swings Completed: ${QJ.MPMZ.tl.playerSwordsmanshipTraining(1)}",
+      "When using melee weapons, physical attack power increases to ${QJ.MPMZ.tl.playerSwordsmanshipTraining(2)} of its base value"
     ]
   },
   "53": {

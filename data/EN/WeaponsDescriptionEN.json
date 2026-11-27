@@ -719,8 +719,8 @@
       "Automatically absorbs life energy from defeated enemies to restore weapon durability and fuel its growth",
       "Weapon durability can exceed 100%, with excess durability contributing to its growth",
       "Every 1% of excess durability grants 1 additional point of physical attack power",
-      "Every 10% of excess durability reduces attack speed by 1%",
-      "Every 20% of excess durability reduces movement speed by 1%"
+      "Every 33% of excess durability increases attack speed by 1%",
+      "Every 33% of excess durability increases movement speed by 1%"
     ]
   },
   "63": {

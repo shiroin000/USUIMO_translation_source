@@ -280,8 +280,8 @@
       "——本当にそれで強くなれるのか！？とりあえずやってみよう……"
     ],
     "ability": [
-      "素振り練習回数: \\{\\c[6]${QJ.MPMZ.tl.playerSwordsmanshipTraining(1)}\\c[0]",
-      "近接武器の基礎攻撃が\\c[6]${QJ.MPMZ.tl.playerSwordsmanshipTraining(2)}%\\c[0]ダメージ増加"
+      "素振り練習回数: ${QJ.MPMZ.tl.playerSwordsmanshipTraining(1)}",
+      "近接武器を使用すると、物理攻撃力が基準値の${QJ.MPMZ.tl.playerSwordsmanshipTraining(2)}まで上昇する"
     ]
   },
   "53": {
