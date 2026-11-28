@@ -39,7 +39,8 @@
       "Apa ini kelinci… atau bun…?"
     ],
     "ability": [
-      ""
+      "Mempermudah mendapatkan lebih banyak kapsul dari mesin gacha",
+      "Meningkatkan peluang mendapatkan item langka dari gacha"
     ]
   },
   "4": {
@@ -484,9 +485,7 @@
       "menanamkan pedang ke sebuah cincin. Ia terlalu kecil untuk dipakai, ",
       "tapi pasti meningkatkan keberadaan seseorang"
     ],
-    "ability": [
-      "Kekuatan serangan fisik +15%"
-    ]
+    "ability": []
   },
   "35": {
     "name": [
@@ -582,7 +581,7 @@
       "Siapa pun yang memakainya, akan terlihat sangat menggemaskan!"
     ],
     "ability": [
-      "Mengalahkan musuh memiliki 25% peluang untuk memicu drop tambahan"
+      "Mengalahkan musuh memiliki peluang 25% untuk memicu hasil jarahan tambahan"
     ]
   },
   "42": {
@@ -857,10 +856,7 @@
       "Lingkar terkutuk yang dinodai sihir gelap,",
       "dihantui dendam yang membandel dan menggerogoti daging"
     ],
-    "ability": [
-      "Kekuatan serangan sihir +100%",
-      "HP Maks -50%"
-    ]
+    "ability": []
   },
   "61": {
     "name": [
@@ -1177,6 +1173,23 @@
       "Saat perisai aktif, mengurangi peluang terkena status Racun, Bleed, Petir, Terbakar, atau Beku"
     ]
   },
+  "84": {
+    "name": [
+      "Sudah Hampir Waktunya!"
+    ],
+    "subtitle": [
+      "\"Luguanluguanlulushijiandaole\""
+    ],
+    "description": [
+      "Jam saku yang selalu dibawa sang Iblis Hawa Nafsu",
+      "Untuk ukuran iblis, ia sangat teliti soal waktu",
+      "Ia tampaknya sangat ingin tahu kapan jarum jam menunjuk tepat ke satu jam…"
+    ],
+    "ability": [
+      "Waktu tampak berlalu lebih cepat selama jam ini dipakai",
+      "Setiap awal jam, waktu tampak melambat"
+    ]
+  },
   "100": {
     "name": [
       "Unit I Nexus"
@@ -1306,15 +1319,32 @@
     ],
     "ability": []
   },
+  "149": {
+    "name": [
+      "Seragam Perawat"
+    ],
+    "subtitle": [
+      "\"Kepada Kepala Perawat,",
+      "Maaf, kemarin aku tidak sengaja merobek seragammu dengan gunting!",
+      "Aku dan Onee-chan memilih hadiah ini khusus untukmu. Semoga kamu suka ya♥\""
+    ],
+    "description": [
+      "Seragam perawat baru yang menawan dengan potongan yang dibuat dengan hati-hati",
+      "Kedua kakak-beradik itu memilihnya dengan bangga setelah mengunjungi beberapa toko",
+      "Namun hadiah tulus ini tampaknya tidak mendapat reaksi yang mereka harapkan…"
+    ],
+    "ability": [
+      ""
+    ]
+  },
   "150": {
     "name": [
       "Kaos Bonus"
     ],
     "subtitle": "",
     "description": [
-      "Pakaian khusus buatan sang ksatria,",
-      "konon untuk mempromosikan game ini",
-      "Tapi aku nggak terlalu mau memakainya"
+      "Kaos bonus buatan tangan sang ksatria, konon untuk mempromosikan game ini",
+      "Aku menghargai antusiasmenya, tapi sungguh aku tak mau keluar memakai ini…"
     ],
     "ability": []
   },
@@ -1392,6 +1422,23 @@
     ],
     "ability": []
   },
+  "161": {
+    "name": [
+      "Stoking Putih"
+    ],
+    "subtitle": [
+      "\"Kepada Kepala Perawat tersayang,",
+      "Maaf, kemarin aku tidak sengaja merobek seragammu dengan gunting!",
+      "Aku dan Onee-chan memilih hadiah ini khusus untukmu. Semoga kamu suka ya♥\""
+    ],
+    "description": [
+      "Stoking putih bersih yang dibuat serasi dengan seragam perawat, lembut dan ringan saat disentuh",
+      "Namun kainnya tampak cukup rapuh, dan satu tarikan yang ceroboh bisa merobeknya…"
+    ],
+    "ability": [
+      ""
+    ]
+  },
   "202": {
     "name": [
       "Mimpi Sang Janin"
@@ -1406,6 +1453,41 @@
     ],
     "ability": [
       ""
+    ]
+  },
+  "204": {
+    "name": [
+      "☆Anggota Platinum☆"
+    ],
+    "subtitle": [
+      "\"Terluka lagi ya, Onii-san? Dasar lemah♥\""
+    ],
+    "description": [
+      "Kontrak dengan si adik dari Tim Penyelamat Trauma",
+      "Perawat kecil nakal yang sangat yakin terapi listrik bisa menyelesaikan segalanya",
+      "Dan si biang onar yang paling membuat Kepala Perawat pusing tujuh keliling"
+    ],
+    "ability": [
+      "Secara otomatis memanggil \\dMPFCstart[TraumaRescueTeam] saat HP-mu mencapai nol dan kamu tidak dapat dihidupkan kembali, namun pemanggilan gagal jika lokasinya tidak cocok",
+      "Peluang keberhasilan penyelamatan dipengaruhi oleh Keberuntungan dan resistensi Petir",
+      "Penyelamatan dapat terpicu berkali-kali per hari, namun percobaan berturut-turut secara bertahap menurunkan peluang keberhasilannya"
+    ]
+  },
+  "205": {
+    "name": [
+      "☆Anggota Platinum☆"
+    ],
+    "subtitle": [
+      "\"Serius deh, tolong berhenti mati di tempat-tempat aneh!\""
+    ],
+    "description": [
+      "Kontrak penyelamatan dengan si kakak dari Tim Penyelamat Trauma",
+      "Ia tampak dewasa dan dapat diandalkan, tapi selalu menimpakan tugas-tugas merepotkan kepada adiknya",
+      "Ia jauh lebih suka menghabiskan hari-harinya dengan santai"
+    ],
+    "ability": [
+      "Secara otomatis memanggil \\dMPFCstart[TraumaRescueTeam] saat HP-mu mencapai nol dan kamu tidak dapat dihidupkan kembali, namun pemanggilan gagal jika lokasinya tidak cocok",
+      "Peluang keberhasilan penyelamatan tetap di angka 95% dan hanya dapat terpicu sekali per hari"
     ]
   },
   "295": {

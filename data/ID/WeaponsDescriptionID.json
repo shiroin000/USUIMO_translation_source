@@ -464,11 +464,14 @@
       "\"Hah? Aku tidak bisa melihat apa-apa! Ini bukan gagang pedang!?\""
     ],
     "description": [
-      "Diberkati cahaya, bilahnya membelokkan cahaya, menjadi pedang tak terlihat",
-      "Ini membuatnya setajam silet, dan saat dibutuhkan, sinarnya terlepas"
+      "Pedang sihir yang diberkati cahaya, bilahnya terus-menerus menyerap cahaya di sekitarnya, menyembunyikan wujudnya",
+      "Hal ini juga membuat matanya semakin tajam",
+      "Saat benar-benar dibutuhkan, berkat itu dapat dilepaskan, membiarkan sinar tersembunyinya memancar keluar"
     ],
     "ability": [
-      "Serangan sepenuhnya mengabaikan pertahanan target"
+      "Selama berkat cahaya aktif, serangan dengan senjata ini sepenuhnya mengabaikan pertahanan target",
+      "Dapat segera melepaskan berkat cahaya untuk mengeluarkan wujud penuhnya dan melancarkan tebasan \\is[55]",
+      "Setelah mengeluarkan wujud penuhnya, pedang kehilangan berkat cahaya selama sisa hari itu"
     ]
   },
   "36": {
@@ -497,8 +500,8 @@
     ],
     "ability": [
       "Gunakan satu \\ii[20] untuk membangkitkan Mistilteinn, mengaktifkannya selama 10 menit",
-      "Saat aktif, Mistilteinn memperoleh status Kekuatan Penuh",
-      "Saat terbangun, semua serangan melepaskan gelombang pedang",
+      "Saat terbangun, meningkatkan damage yang ditimbulkan dan memberikan sebagian Penetrasi Pertahanan",
+      "Saat terbangun, semua serangan melepaskan gelombang pedang yang meninggalkan bekas tebasan membara saat mengenai sasaran",
       "Saat terbangun, \\ia[81] lain yang terpasang tetapi belum bangkit akan beresonansi",
       "Saat status aktif berakhir, Mistilteinn akan otomatis melancarkan tebasan berputar sebelum kembali tertidur lelap"
     ]
@@ -545,12 +548,13 @@
       "\"DILARANG BULLY!!\""
     ],
     "description": [
-      "Senjata yang lahir untuk menghukum petualang jahat. ",
-      "Meski hanya palu mainan, terkena pukulannya tetap sakit."
+      "Salah satu dari tiga harta karun Kelinci Pelayan",
+      "Senjata yang diciptakan khusus untuk menghukum petualang jahat",
+      "Bentuknya mungkin tampak seperti palu mainan, tapi terkena pukulannya tetap sakit!"
     ],
     "ability": [
-      "Memberikan damage pantulan saat digunakan untuk perbuatan jahat",
-      "Semakin rendah nilai Dosa-mu, semakin besar damage-nya"
+      "Semakin rendah Karmamu, semakin besar damage yang ditimbulkan seranganmu",
+      "Menggunakannya untuk perbuatan jahat menyebabkan damage pantulan kepada pemakainya"
     ]
   },
   "42": {
@@ -709,8 +713,11 @@
       "keras namun penuh vitalitas dan masih tumbuh"
     ],
     "ability": [
-      "Mengalahkan musuh otomatis memperbaiki ketahanan senjata",
-      "Ketahanan berlebih memberikan +1 ATK per 1% di atas maks"
+      "Secara otomatis menyerap energi kehidupan dari musuh yang dikalahkan untuk memulihkan ketahanan senjata dan menumbuhkannya",
+      "Ketahanan senjata dapat melebihi 100%, dengan kelebihan ketahanan tersebut menyumbang pertumbuhannya",
+      "Setiap 1% kelebihan ketahanan memberikan 1 poin tambahan kekuatan serangan fisik",
+      "Setiap 33% kelebihan ketahanan meningkatkan kecepatan serangan sebesar 1%",
+      "Setiap 33% kelebihan ketahanan meningkatkan kecepatan gerak sebesar 1%"
     ]
   },
   "63": {
@@ -830,8 +837,9 @@
       "Damage lebih kecil, tapi lebih mudah menembak cepat"
     ],
     "ability": [
-      "+Kecepatan Serangan, -20% Damage, -20% Kehilangan Ketahanan",
-      "Tahan klik kanan untuk mengisi dan melepaskan \\c[27]Piercing Arrow\\c[0]"
+      "Konsumsi ketahanan senjata berkurang 20%",
+      "Tahan klik kanan untuk mengisi dan melepaskan \\c[27]Piercing Arrow\\c[0]",
+      "Piercing Arrow menimbulkan damage yang lebih kecil untuk setiap unit yang dilewatinya"
     ]
   },
   "103": {
@@ -840,12 +848,13 @@
     ],
     "subtitle": "",
     "description": [
-      "Busur sihir yang berisi energi api",
-      "Tidak hanya membakar musuh, tapi juga menembakkan panah peledak"
+      "Busur sihir yang dipenuhi energi api",
+      "Dapat membakar target dan menembakkan panah peledak"
     ],
     "ability": [
+      "Panah memiliki peluang 40% untuk menimbulkan status Terbakar",
       "Tahan klik kanan untuk mengisi dan melepaskan \\c[27]Explosive Arrow\\c[0]",
-      "Explosive Arrow meledak saat mengenai target"
+      "Explosive Arrow meledak saat mengenai sasaran"
     ]
   },
   "104": {
@@ -854,12 +863,13 @@
     ],
     "subtitle": "",
     "description": [
-      "Busur sihir yang tertutup es. Menembakkan panah es",
-      "dan bisa membekukan area luas dengan tembakan yang diisi"
+      "Busur sihir yang tertutup es",
+      "Juga menembakkan panah yang terbuat dari es"
     ],
     "ability": [
+      "Panah memiliki peluang 30% untuk menimbulkan status Beku",
       "Tahan klik kanan untuk mengisi dan melepaskan \\c[27]Icebound Arrow\\c[0]",
-      "Icebound Arrow membekukan target saat mengenai"
+      "Icebound Arrow membekukan area tempat panah itu mendarat"
     ]
   },
   "105": {
@@ -873,7 +883,10 @@
       "Namun, hati-hati—ia sangat konduktif"
     ],
     "ability": [
-      "Tahan klik kanan untuk mengisi dan melepaskan \\c[27]Thunder Arrow\\c[0]"
+      "Panah memiliki peluang 30% untuk menimbulkan status Petir",
+      "Membuat pemakainya lebih mudah menghantarkan listrik selama terpasang",
+      "Tahan klik kanan untuk mengisi dan melepaskan \\c[27]Thunder Arrow\\c[0]",
+      "Sambaran petir memiliki peluang meninggalkan medan listrik yang bertahan di tempatnya mendarat"
     ]
   },
   "106": {
@@ -887,6 +900,8 @@
       "busur sihir yang mengerikan ini tetap tersegel, dengan kekuatan aslinya yang belum terlepas"
     ],
     "ability": [
+      "Menembakkan tiga panah sekaligus",
+      "Panah memiliki peluang 33% untuk menimbulkan status Racun",
       "Tahan klik kanan untuk mengisi dan melepaskan \\c[27]Piercing Arrow\\c[0]"
     ]
   },
@@ -901,8 +916,10 @@
       "sampai panahnya kembali dengan persembahan yang lebih manis"
     ],
     "ability": [
+      "Panah memiliki peluang 30% untuk menimbulkan status Pendarahan",
+      "Terus-menerus menyerap darah pemakainya sendiri selama busur ditarik untuk memperkuat tembakan saat itu",
       "Tahan klik kanan untuk mengisi dan melepaskan \\c[27]Blood Piercing Arrow\\c[0]",
-      "Mengonsumsi HP untuk memperkuat tembakan. Panah pembunuh menghisap darah"
+      "\\c[27]Blood Piercing Arrows\\c[0] langsung menembus semua unit di jalurnya"
     ]
   },
   "250": {

@@ -258,6 +258,12 @@
   "underwaterTreasuresCount": [
     "Harta karun bawah air terdeteksi"
   ],
+  "grassTreasuresCount": [
+    "Harta karun terdeteksi di rerumputan"
+  ],
+  "guideHint": [
+    "Tekan Ctrl+F untuk membuka bilah pencarian. Klik tombol di bawah dokumen untuk mengganti isinya."
+  ],
   "steamWishlist": [
     "Halaman toko Steam kami akhirnya tayang!",
     "Tolong tambahkan kami ke wishlist dan dukung kami! (*´∀`)~♥",
@@ -265,20 +271,33 @@
   ],
   "memberMenu": {
     "firstTimeNotice": [
-      "Fitur verifikasi kepemilikan ini saat ini masih eksperimental.",
-      "Kamu dapat masuk dengan Patreon di sini, ",
-      "atau menghubungkan akun Itch untuk verifikasi kepemilikan.",
-      "Jika kamu memiliki langganan aktif, ",
-      "atau sudah memiliki game ini di Itch,",
-      "kamu dapat menggunakan fitur seperti auto-patching pembaruan besar.",
+      "Kamu dapat memverifikasi kepemilikan game di sini.",
+      "Klik tombol masuk",
+      "dan pilih platform tempat kamu membeli game ini.",
+      "Setelah terverifikasi, kamu bisa mengakses fitur seperti pembaruan versi utama otomatis.",
       "",
-      "Perlu diperhatikan:",
-      "Saat ini, verifikasi hanya tersedia untuk pemain ",
-      "yang membeli game di Itch atau Patreon, ",
-      "atau pemain dengan langganan Patreon berbayar."
+      "Verifikasi kepemilikan tidak memengaruhi permainan offline,",
+      "dan pembaruan patch biasa tidak memerlukan login atau verifikasi."
+    ],
+    "patreonVerificationInfo": [
+      "Karena keterbatasan pada API Patreon,",
+      "verifikasi saat ini hanya mendukung pelanggan dengan keanggotaan berbayar yang aktif.",
+      "Jika kamu membeli game ini melalui Patreon Shop,",
+      "kirimkan pesan pribadi kepada kami di Patreon untuk meminta kunci game itch.io.",
+      "Setelah menebus kunci dan menambahkan game ke akun itch.io-mu,",
+      "kamu dapat memverifikasi kepemilikanmu melalui itch.io."
+    ],
+    "discordVerificationInfo": [
+      "Verifikasi kepemilikan Discord hanya tersedia untuk pemain",
+      "yang memiliki peran khusus yang ditentukan di server resmi.",
+      "Setelah terverifikasi, kamu juga akan menerima peran \"onii-chan\"",
+      "sebagai lencana eksklusif yang menandaimu sebagai pemilik terverifikasi.",
+      "",
+      "Peran khusus yang saat ini memenuhi syarat untuk verifikasi:"
     ],
     "shortHint": " Sekarang dapat mengaktifkan cloud saves & pembaruan besar",
     "waitingLogin": "Menunggu penyelesaian login...",
+    "loginCanceled": "Login dibatalkan.",
     "notLoggedIn": "Belum Masuk",
     "RequestingLogin": "Meminta tautan login...",
     "openingWindow": "Membuka jendela login Patreon...",
@@ -291,6 +310,37 @@
     "saikeyRetry": "Pilih Saikey untuk memverifikasi ulang pembelianmu.",
     "saikeyUnavailable": "Verifikasi Saikey tidak tersedia. Silakan coba lagi.",
     "saikeyWaiting": "Selesaikan verifikasi Saikey di browsermu.",
+    "fansaikoVerify": "Verifikasi pembelian dengan Fansaiko",
+    "buyGame": "Beli game ini",
+    "itchVerify": "Verifikasi pembelian dengan itch.io",
+    "fansaikoNotOwned": "Akun Fansaiko ini belum membeli game ini.",
+    "fansaikoSessionInvalid": "Masuk kembali dengan platform asalmu sebelum menautkan Fansaiko.",
+    "fansaikoConflict": "Akun pemain ini memiliki identitas platform yang berbenturan.",
+    "fansaikoSaveConflict": "Kedua akun memiliki simpanan di slot cloud yang sama. Kedua akun beserta data simpanannya tetap dipertahankan.",
+    "fansaikoRetry": "Pilih Fansaiko untuk memverifikasi ulang pembelianmu.",
+    "fansaikoUnavailable": "Verifikasi Fansaiko tidak tersedia. Silakan coba lagi.",
+    "fansaikoWaiting": "Selesaikan proses masuk Fansaiko di browsermu.",
+    "saveConflict": {
+      "title": "Pilih simpanan cloud mana yang ingin dipertahankan",
+      "intro": "Kedua akun ini akan segera digabungkan, tetapi keduanya memiliki simpanan cloud dan hanya satu sisi yang dapat dipertahankan.\nSimpanan cloud sisi lainnya akan dihapus dari cloud. Simpanan di perangkat ini tidak terpengaruh.",
+      "currentAccount": "Akun ini (%1)",
+      "otherAccount": "Akun %1",
+      "saveCount": "Simpanan: %1",
+      "noSaves": "Tidak ada simpanan",
+      "day": "Hari %1",
+      "playtime": "Waktu bermain %1",
+      "uploaded": "Diunggah %1",
+      "keepCurrent": "Pertahankan milik akun ini",
+      "keepOther": "Pertahankan milik akun %1",
+      "cancel": "Batal",
+      "confirm": "Pertahankan simpanan cloud “%1”?\nSimpanan cloud “%2” akan dihapus dari cloud.",
+      "ok": "Pertahankan",
+      "back": "Kembali",
+      "done": "Akun telah digabungkan. Simpanan cloud “%1” dipertahankan.",
+      "cancelled": "Dibatalkan. Kedua akun tidak berubah.",
+      "expired": "Proses ini memakan waktu terlalu lama. Silakan tautkan akun kembali.",
+      "failed": "Tidak dapat menyelesaikan penggabungan. Silakan coba lagi."
+    },
     "chooseLoginMethod": "Pilih platform untuk masuk",
     "openingWindowItch": "Membuka jendela login itch.io...",
     "cloudSave": "Gunakan Cloud Save",
@@ -392,6 +442,7 @@
     "60": "Situs Penggalian",
     "61": "Situs Penggalian",
     "62": "Jalur Petualang:Rumpun Pohon",
+    "67": "Maka Fushigi Wonderland",
     "73": "Situs Penggalian:Reruntuhan Terbengkalai"
   },
   "AdventurersPathway": {
@@ -403,6 +454,9 @@
   },
   "ForgottenCatacombe": {
     "mapName": "Katakombe Terlupakan"
+  },
+  "MakaFushigiWonderland": {
+    "mapName": "Maka Fushigi Wonderland"
   },
   "ForestofRuins": {
     "mapName": "Hutan Reruntuhan"
@@ -430,5 +484,24 @@
   },
   "Nibelungen": {
     "mapName": "Nibelungen"
-  }
+  },
+  "completionScanning": [
+    "Memeriksa berkas game lokal..."
+  ],
+  "completionDownloadPlan": [
+    "${} berkas (${}) perlu diunduh."
+  ],
+  "completionNothingToDownload": [
+    "Semua berkas game sudah tersedia. Menyelesaikan pembaruan..."
+  ],
+  "completionInstalling": [
+    "Memasang pembaruan..."
+  ],
+  "completionUpdateUnavailable": [
+    "Pembaruan sedang tidak tersedia saat ini. Silakan coba lagi nanti."
+  ],
+  "completionUpdateFailed": [
+    "Pembaruan tidak dapat diselesaikan: ${}",
+    "Memperbarui lagi akan melanjutkan dengan berkas yang masih hilang."
+  ]
 }
