@@ -29,6 +29,30 @@
     "NotProvided": "Tidak ada informasi",
     "ClickToUpdate": "Klik untuk memperbarui"
   },
+  "languageScene": {
+    "OfficialLanguages": "Terjemahan Resmi",
+    "FanTranslations": "Terjemahan Penggemar",
+    "UseLanguage": "Gunakan bahasa ini",
+    "InUse": "Sedang digunakan",
+    "ContributeOnGitHub": "Berkontribusi di GitHub",
+    "NoLanguageFound": "Tidak menemukan bahasamu?",
+    "LanguageSystemGuide": [
+      "Saat ini game mendukung empat bahasa resmi: 简体中文, 繁體中文, 日本語, dan English.",
+      "Selain itu, para pemain antusias dari seluruh dunia telah menghadirkan lebih banyak bahasa ke dalam game.",
+      "Ucapan terima kasih dengan sepenuh hati kepada setiap relawan atas kontribusi dermawan mereka!",
+      "Terjemahan pemain berikut saat ini tersedia:",
+      "{fanLanguages}"
+    ],
+    "TranslationProgress": "Kemajuan terjemahan",
+    "EntryCount": "{done} / {total} entri",
+    "Calculating": "Menghitung…",
+    "NoStatistics": "Tidak ada statistik yang tersedia",
+    "Volunteers": "Penerjemah relawan",
+    "NoVolunteers": "Belum tercatat.",
+    "TranslatorNotes": "Catatan dari para penerjemah",
+    "ProgressByFile": "Kemajuan per file",
+    "ReadControls": "Pilih bahasa di sebelah kiri | Seret / gulir untuk membaca"
+  },
   "autoUpdateReminder": {
     "0": [
       "Proses pembaruan akan otomatis dimulai saat kamu bangun keesokan harinya.",
@@ -52,8 +76,10 @@
   "equipmentDescriptionKeyword": {
     "sentouryoku": "Kekuatan Tempur",
     "HP": "HP Maksimal",
+    "HPLimitBreak": "Terobosan Batas HP",
     "durability": "Ketahanan",
     "ATK": "Serangan",
+    "ATKLimitBreak": "Terobosan Batas Serangan",
     "DEF": "Pertahanan",
     "MAT": "Kekuatan Sihir",
     "MDF": "Ketahanan Sihir",
@@ -120,6 +146,10 @@
       "Lihat Kompendium"
     ],
     "lockedVariation": "Variasi ini belum terbuka!",
+    "lockedEntry": [
+      "Entri ini belum tersedia.",
+      "Mohon tunggu pembaruan mendatang."
+    ],
     "placeholder": "Kenangan yang Tersedia",
     "takeBathWithImouto": "Mandi bersama \\str[120]",
     "Polaroid": "Seri Polaroid NLCH"
@@ -158,6 +188,7 @@
       "Buang"
     ],
     "cannotQuickUse": "Item ini tidak bisa ditambahkan ke Quick Item Wheel",
+    "discardDescription": "Seret item ke sini untuk membuangnya.",
     "operationInstructions": [
       "Seret item yang mendukung penggunaan cepat ke dalam Quick Item Wheel",
       "untuk berganti-ganti dan menggunakannya di peta"
@@ -255,6 +286,14 @@
     ],
     "1": [
       " telah muncul di Abyss! "
+    ]
+  },
+  "unlockWildDragonMilk": {
+    "0": [
+      " Susu Naga Liar "
+    ],
+    "1": [
+      " telah muncul di mesin penjual otomatis! "
     ]
   },
   "unlockMystletainn": {
@@ -866,6 +905,536 @@
     "44": [
       "Pada titik ini,",
       "semuanya sudah tidak penting lagi…"
+    ]
+  },
+  "TraumaRescueTeam": {
+    "FirstRescue": {
+      "0": [
+        "………………?",
+        "Langit-langit yang tidak kukenal…"
+      ],
+      "1": [
+        "Onee-chan!",
+        "Sepertinya dia baru saja bergerak!"
+      ],
+      "2": [
+        "Tenang dulu,",
+        "bisa jadi dia belum benar-benar mati."
+      ],
+      "3": [
+        "Sepertinya dia masih hidup!",
+        "—Jadi, kita tetap akan menyelamatkannya?"
+      ],
+      "4": [
+        "Tentu saja.",
+        "Akhirnya kita menemukan seorang pasien."
+      ],
+      "5": [
+        "Yaaay! Kali ini, ",
+        "kita benar-benar akan membuat Kepala Perawat terkesan!"
+      ],
+      "6": [
+        "Bisakah kamu mendengarku?",
+        "Kamu berada di ruang perawatan."
+      ],
+      "7": [
+        "Kamu terluka parah,",
+        "tapi jangan khawatir."
+      ],
+      "8": [
+        "Sekarang kamu berada dalam perawatan kami,",
+        "kami akan mengurus ini sampai tuntas."
+      ],
+      "9": [
+        "Betul! Kami akan merawatmu sampai napas terakhirmu!",
+        "Itulah perawatan akhir hayat!"
+      ],
+      "9.1": [
+        "Bukan itu arti 'perawatan akhir hayat',",
+        "itu untuk pasien yang sekarat—"
+      ],
+      "10": [
+        "Ooh, dia bicara~",
+        "Tapi aku tidak bisa mengerti satu kata pun~"
+      ],
+      "11": [
+        "Bahkan cara bicaranya pun tampaknya terganggu.",
+        "Kasihan sekali pasien ini—"
+      ],
+      "12": [
+        "(A-Aku hanya…",
+        "terlalu lemah untuk bicara…)"
+      ],
+      "13": [
+        "Tidak ada waktu untuk disia-siakan,",
+        "ayo mulai perawatannya sekarang juga!"
+      ],
+      "14": [
+        "Tapi Kepala Perawat tidak mengizinkan kami memakai defibrillator,",
+        "jadi bagaimana kami harus merawatnya sekarang?"
+      ],
+      "15": [
+        "Hehe~ Sebelum Kepala Perawat pergi,",
+        "aku memastikan untuk menyembunyikan ini—"
+      ],
+      "16": [
+        "Itulah Onee-chan-ku~!",
+        "Kamu bahkan merahasiakannya dari Kepala Perawat!"
+      ],
+      "17": [
+        "—Tangkap.",
+        "Bersiap untuk memulai operasi."
+      ],
+      "18": [
+        "(T-Tidak mungkin…",
+        "Apa mereka akan—?!)"
+      ],
+      "19": [
+        "—Siap~",
+        "Memulai operasi~!"
+      ],
+      "20": [
+        "GAAAAAAAH",
+        "AAAAAAAH~!!"
+      ],
+      "21": [
+        "Dia bergerak! Dia bergerak—!",
+        "Onee-chan, operasinya sukses besar!"
+      ],
+      "22": [
+        "Mm-hmm.",
+        "Cara bicaranya tampaknya juga sudah kembali normal."
+      ],
+      "23": [
+        "Selamat, tamu tersayang~",
+        "\\iw[40] tidak mengira kamu orang jahat."
+      ],
+      "24": [
+        "Kalau kamu orang jahat, pukulan terakhir itu",
+        "mungkin benar-benar akan membunuhmu."
+      ],
+      "25": [
+        "Anak baik, lukanya diusir~",
+        "Anak nakal, dihajar habis-habisan!"
+      ],
+      "26": [
+        "Menyelamatkan kelinci itu benar-benar keputusan yang bagus.",
+        "Dia membawa begitu banyak barang menyenangkan~!"
+      ],
+      "27": [
+        "Ahem, cukup ucapanmu itu—",
+        "Kita masih menangani tamu kita."
+      ],
+      "28": [
+        "Hmph~",
+        "Kamu sendiri yang menyembunyikan palunya, Onee-chan…"
+      ],
+      "29": [
+        "Saat Kepala Perawat tidak ada,",
+        "kamu menuruti kata Onee-chan-mu, ingat?"
+      ],
+      "30": [
+        "Ahem, mohon maaf—",
+        "Kami adalah Tim Penyelamat Trauma."
+      ],
+      "31": [
+        "Ini mungkin dimensi yang terpisah,",
+        "tapi kami menyediakan layanan penyelamatan berkelanjutan kepada klien yang telah berkontrak dengan kami—"
+      ],
+      "32": [
+        "Kepala Perawat, yang biasanya mengurus segalanya, sedang pergi urusan.",
+        "Jadi kalau kamu ada pertanyaan, silakan tanyakan padaku."
+      ]
+    },
+    "SecondVisit": {
+      "1": [
+        "Tidak bisakah kamu menunggu sebelum menendangnya?",
+        "Aku bahkan belum sempat menanyakan apakah dia mau berkontrak!"
+      ],
+      "2": [
+        "Kamu sendiri yang bilang sudah waktunya dia kembali ke dunianya sendiri!",
+        "Bagaimana bisa ini salahku karena mengirimnya kembali?!"
+      ],
+      "3": [
+        "Maksudku biar tamu kita melompat turun sendiri!",
+        "Dia kan bisa berjalan! Apa kamu benar-benar harus menendangnya?!"
+      ],
+      "4": [
+        "Kalau begitu kenapa kamu tidak bertanya lebih dulu, Onee-chan?",
+        "Onii-san tidak bisa berjalan saat masih di tempat tidur!"
+      ],
+      "5": [
+        "Ikut campur",
+        "Jangan ikut campur"
+      ],
+      "6": [
+        "…Tolong pergi, tamu tersayang!",
+        "Kami sedang tutup sekarang!"
+      ],
+      "7": [
+        "Betul!",
+        "Ini jam urusan pribadi untukku dan Onee-chan!!"
+      ],
+      "8": [
+        "…Huh? Onii-san?",
+        "Onee-chan! Onii-san yang kutendang itu kembali!"
+      ],
+      "9": [
+        "…Kalau kuperhatikan baik-baik, ini benar-benar kamu.",
+        "Kamu benar-benar berhasil menemukan jalan kembali ke sini?"
+      ],
+      "10": [
+        "…Aneh sekali.",
+        "Bagaimana kamu bisa kembali tanpa kontrak?"
+      ],
+      "11": [
+        "Siapa yang peduli soal detail kecil itu?",
+        "Onii-san sudah kembali, jadi itu berarti aku menang, kan?"
+      ],
+      "12": [
+        "Itu sama sekali masalah yang berbeda!",
+        "Onee-chan-mu masih marah padamu karena bertindak sendiri!"
+      ],
+      "13": [
+        "Lagipula kamu hanya ingin memanfaatkan kesempatan untuk mendaftarkan klien baru!",
+        "Suruh saja Onii-san tanda tangan sekarang, dan semua orang senang!"
+      ],
+      "14": [
+        "B-Bagaimana bisa kamu mengatakannya seperti itu?!",
+        "Kamu membuat kami terdengar seperti bisnis yang meragukan!"
+      ],
+      "15": [
+        "Hmph~",
+        "Kamu terlalu mengkhawatirkan hal-hal kecil seperti itu, Onee-chan!"
+      ],
+      "16": [
+        "Hei, hei, Onii-san~",
+        "Kamu juga menganggap Onee-chan lucu, kan~?"
+      ],
+      "17": [
+        "Nah, aku bahkan lebih lucu dari Onee-chan!",
+        "Jadi buatlah kontrak denganku, Onii-san~!"
+      ],
+      "18": [
+        "Kapan pun kamu dalam bahaya,",
+        "aku akan segera datang menyelamatkanmu~!"
+      ],
+      "19": [
+        "T-Tunggu! Apa yang kamu katakan?!",
+        "Jangan mencoba merebut klien dengan cara yang aneh!"
+      ],
+      "20": [
+        "Ehh~? Tapi Kepala Perawat bilang",
+        "kita harus bersikap baik kepada tamu kita~!"
+      ],
+      "21": [
+        "Bersikap baik dan menipu orang itu dua hal yang berbeda!",
+        "Kamu bahkan belum menjelaskan cakupan kontraknya!"
+      ],
+      "22": [
+        "Aku serahkan semua itu padamu, Onee-chan~",
+        "Kamu kan paling jago membicarakan hal yang rumit?"
+      ],
+      "23": [
+        "…Ahem.",
+        "Kalau begitu, izinkan Onee-chan-mu memberikan penjelasan yang layak."
+      ],
+      "24": [
+        "Seperti yang mungkin sudah kamu ketahui, tamu tersayang,",
+        "kami adalah Tim Penyelamat Trauma, dan kami menyediakan layanan penyelamatan darurat."
+      ],
+      "25": [
+        "Setelah kamu menandatangani kontrak dengan kami,",
+        "kamu bisa memanggil kami untuk bantuan kapan pun nyawamu dalam bahaya."
+      ],
+      "26": [
+        "Meski begitu, kami punya batas.",
+        "Apakah kami bisa menyelamatkanmu tergantung situasinya."
+      ],
+      "27": [
+        "Teleportasi antar dimensi tidak sepenuhnya andal,",
+        "jadi terkadang kami mungkin tidak sampai tepat waktu."
+      ],
+      "28": [
+        "Dengan kata lain~",
+        "Jangan pingsan di tempat-tempat aneh, Onii-san!"
+      ],
+      "29": [
+        "…Kenapa kamu membuatnya terdengar seperti",
+        "tamu kita pasti sengaja membuat dirinya terbunuh?"
+      ],
+      "30": [
+        "Yah, dia sampai ke sini terakhir kali karena tertabrak!",
+        "Mungkin dia suka sensasinya~!"
+      ],
+      "31": [
+        "…Aku ragu ada orang yang menikmatinya.",
+        "Setidaknya bukan orang normal."
+      ],
+      "32": [
+        "A-Pokoknya!",
+        "Begitu kamu menandatangani kontrak, kamu akan mendapat perlindungan kami."
+      ],
+      "33": [
+        "Jadi, tamu tersayang~",
+        "Apakah kamu ingin menandatangani kontrak denganku?"
+      ],
+      "34": [
+        "Hei! Kamu mencoba menyalipku lagi, Onee-chan!",
+        "Aku yang bertanya pada Onii-san lebih dulu!"
+      ],
+      "35": [
+        "Onii-san~!",
+        "Pilih aku! Pilih aku~!"
+      ],
+      "36": [
+        "…Berhenti mengganggu tamu kita!",
+        "Ini adalah sesuatu yang harus dia putuskan sendiri!"
+      ],
+      "37": [
+        "Hmph! Kamu selalu bilang begitu!",
+        "Kamu hanya ingin dipuji Kepala Perawat!"
+      ],
+      "38": [
+        "Kurang ajar! Jangan kira aku tidak tahu",
+        "kamu mencongkel lemari itu tadi malam! ",
+        "Mau bermain dengan defibrillator lagi, ",
+        "ya?!"
+      ],
+      "38.1": [
+        "(T-Tunggu, kalau terus begini…",
+        "Apa aku akan…?)"
+      ],
+      "39": [
+        "NNNNNNNNN",
+        "NNNNNN—!!"
+      ],
+      "40": [
+        "Kakak perempuan!",
+        "Adik perempuan!"
+      ],
+      "40.1": [
+        "Kontrak! Aku akan menandatangani kontrak—!",
+        "Jadi berhenti menariknya, GUOOOOOAAAAAH—!"
+      ],
+      "41": [
+        "Pilihan yang bijak~",
+        "Kamu tentu punya mata yang jeli dalam menilai orang, tamu tersayang~!"
+      ],
+      "42": [
+        "Apaaa—?!",
+        "Kenapa Onee-chan?! Akulah yang lebih lucu!"
+      ],
+      "43": [
+        "Hehe~",
+        "Sepertinya tamu kita lebih menyukai kakak perempuan yang dapat diandalkan~!"
+      ],
+      "44": [
+        "Tidak, bukan begitu!",
+        "Kamu pasti sudah menipu Onii-san, Onee-chan!"
+      ],
+      "46": [
+        "Yaaay—!",
+        "Aku tahu kamu paling menyukaiku, Onii-san~!"
+      ],
+      "47": [
+        "Hehe~ Lihat itu, Onee-chan?",
+        "Itulah kekuatan dari kelucuan~!"
+      ],
+      "48": [
+        "…Tamu tersayang.",
+        "Apa kamu sudah benar-benar memikirkannya masak-masak?"
+      ],
+      "49": [
+        "Dia suka memakai defibrillator sebagai mainan, tahu.",
+        "Dia memang cukup merepotkan."
+      ],
+      "50": [
+        "Hei—! Itu jahat sekali, Onee-chan!",
+        "Kamu menjelek-jelekkanku!"
+      ],
+      "51": [
+        "Kamu sendiri yang tidak mengizinkanku mengatakan hal buruk tentangmu,",
+        "jadi bukankah kamu yang paling parah, Onee-chan?!"
+      ]
+    },
+    "NurseMio": {
+      "1": [
+        "Halo, tamu tersayang.",
+        "Ada yang ingin kamu tanyakan?"
+      ],
+      "1.1": [
+        "Di mana aku?",
+        "Kenapa aku di sini?"
+      ],
+      "2": [
+        "Ini adalah tempat di mana pecahan dari dunia paralel yang tak terhitung jumlahnya mengalir bersama.",
+        "Ruang perawatan kami adalah salah satunya."
+      ],
+      "3": [
+        "Selama kontrak kami masih berlaku padamu,",
+        "kamu bisa dituntun ke sini."
+      ],
+      "4": [
+        "Kami menemukanmu tak sadarkan diri di luar dan membawamu masuk.",
+        "Sepertinya kontrak itulah yang menuntunmu ke sini."
+      ],
+      "5": [
+        "…Kontrak?",
+        "Yang kuingat hanya aku tertabrak kendaraan."
+      ],
+      "6": [
+        "A-Apaaa…?!",
+        "Maksudmu kamu tidak pernah menandatangani kontrak, tamu tersayang?"
+      ],
+      "7": [
+        "…Mungkin ada semacam gangguan",
+        "dari klien berkontrak lain di duniamu."
+      ],
+      "8": [
+        "Kami baru saja hendak pergi menyelamatkan klien itu,",
+        "tapi kami tiba-tiba kehilangan kontak."
+      ],
+      "9": [
+        "Kepala Perawat pergi keluar",
+        "untuk menyelidiki apa yang terjadi."
+      ],
+      "10": [
+        "Kedengarannya rumit…",
+        "Jadi bagaimana aku keluar dari sini?"
+      ],
+      "11": [
+        "Ah, iya. Sekarang kamu sudah bangun,",
+        "sudah waktunya kamu kembali ke duniamu sendiri."
+      ],
+      "12": [
+        "Keluar dari tempat ini sangat sederhana.",
+        "Silakan ke sini—"
+      ],
+      "13": [
+        "—Sederhana, kan?",
+        "Yang harus kamu lakukan hanyalah melompat turun dari sini."
+      ],
+      "14": [
+        "Onee-chan…",
+        "Sepertinya Onii-san tidak mendengar sepatah kata pun dari yang kita ucapkan."
+      ],
+      "15": [
+        "Orang bodoh yang menyebut orang lain bodoh adalah yang paling bodoh!",
+        "Bodoh! Bodoh!"
+      ],
+      "16": [
+        "Kalau kamu ingin tahu lebih banyak tentang dunia ini,",
+        "tunggulah sampai Kepala Perawat kembali."
+      ],
+      "17": [
+        "Sekarang kita sudah membuat kontrak,",
+        "kami akan menjagamu tetap aman."
+      ]
+    },
+    "NurseAsaba": {
+      "1": [
+        "Onee-chan bodoh…",
+        "Dia yang tidak mau mendengarkan…"
+      ],
+      "2": [
+        "…Oh, Onii-san.",
+        "Kamu juga melihatnya, kan? Onee-chan yang menyembunyikan palunya!"
+      ],
+      "3": [
+        "Dia tidak mau mendengarkan Kepala Perawat, tapi aku harus melakukan semua yang dia suruh…",
+        "Kamu juga menganggap Onee-chan tidak adil, kan, Onii-san?"
+      ],
+      "4": [
+        "Iya",
+        "Tidak"
+      ],
+      "5": [
+        "Tepat sekali! Begitu Kepala Perawat kembali,",
+        "aku akan menceritakan semuanya!"
+      ],
+      "6": [
+        "Hmph… Kamu juga memihak Onee-chan, Onii-san.",
+        "Aku tidak akan bicara pada kalian berdua lagi."
+      ],
+      "7": [
+        "Onee-chan, bodoh…!",
+        "Ini tidak akan terjadi kalau kamu menjelaskannya lebih dulu!"
+      ],
+      "8": [
+        "Jangan beri tahu Kepala Perawat",
+        "kalau aku memakai defibrillator tanpa izin, ya?!"
+      ],
+      "9": [
+        "Kalau kamu membawakanku barang-barang menyenangkan,",
+        "bisa jadi aku akan memberitahumu rahasia Onee-chan…"
+      ]
+    },
+    "anatomicalModel": [
+      "………………Model kerangka manusia",
+      "Tapi rasanya seperti ia sedang menatapku"
+    ],
+    "storageCabinet": [
+      "………………Tidak terbuka",
+      "Terkunci dengan aman"
+    ],
+    "headNurseDoodle": [
+      "Ini mungkin Kepala Perawat yang mereka bicarakan",
+      "Mengurus dua anak pembuat onar itu pasti melelahkan…"
+    ],
+    "messageLetter": [
+      "Untuk kalian berdua:",
+      "",
+      "Aku hanya akan pergi beberapa hari.",
+      "Jangan jungkir-balikkan ruang perawatan selama aku pergi.",
+      "",
+      "Tugas kalian sederhana:",
+      "Ganti seprai, rapikan lemari, dan sirami bunga-bunga.",
+      "Aku sudah mengajari kalian cara melakukan semua itu.",
+      "Ingat, sirami bunganya, bukan seprainya.",
+      "",
+      "Jangan buka lemari obat.",
+      "Jangan sentuh peralatan medisku.",
+      "Terutama defibrillator.",
+      "",
+      "Biar kuperjelas sekali lagi.",
+      "Itu BUKAN untuk membangunkan orang.",
+      "Juga bukan mainan untuk menguji siapa yang lebih bersemangat.",
+      "",
+      "Kalau ada sesuatu yang aneh mengembara masuk dari luar lagi,",
+      "biarkan saja sampai aku kembali.",
+      "Kalau itu manusia, biarkan saja dia beristirahat dengan tenang.",
+      "",
+      "Tidak ada respons BUKAN berarti kalian harus menambah tegangannya.",
+      "Dan tentu BUKAN berarti kalian harus mencobanya lagi.",
+      "",
+      "Juga, soal seragam perawat di kursi itu.",
+      "",
+      "Aku tahu kalian membelinya untuk menggantikan yang kalian rusak.",
+      "Aku menghargai niatnya, sungguh.",
+      "",
+      "Tapi… bukankah kalian membeli ukuran yang terlalu besar?",
+      "Bagian pinggangnya pas sekali, tapi bagian yang satu itu…",
+      "…S-Sudahlah! Ini pasti karena desainnya!",
+      "",
+      "…I-Ini bukan berarti itu terlalu menggangguku!",
+      "Hanya saja pakaian ini dirancang dengan aneh sekali!",
+      "",
+      "A-Pokoknya!",
+      "Aku sama sekali menolak bekerja dengan pakaian seperti itu!",
+      "",
+      "Singkirkan sebelum aku kembali!",
+      "",
+      "Dan jangan berani-berani menjejalkan bantalan ke bagian dadanya tanpa izinku!",
+      "",
+      "Pokoknya, berperilakulah yang baik selama aku pergi.",
+      "Kalau kalian baik, aku akan membawa pulang beberapa camilan.",
+      "",
+      "— Kepala Perawat yang menyayangi kalian",
+      "\\py[300]",
+      "P.S.",
+      "Model kerangka di lorong itu dibeli di toko.",
+      "Berhenti menakuti orang dengan mengatakan itu pasien terakhir yang berbuat nakal."
     ]
   }
 }

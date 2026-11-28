@@ -882,9 +882,12 @@
       "Gadis baik, gadis baik~ \\str[120] adalah yang paling imut sedunia~!\""
     ],
     "40": [
-      "\\nl< >\"Kyaah!? J-Jangan menempelkan ingus dan air matamu ke badanku dong~!",
-      "Aku melonggarkan aturannya kali ini cuma karena tampangmu kelihatan menyedihkan banget, \\str[121]!",
-      "Kamu ini sebenarnya beneran intropeksi diri nggak sih, \\str[121]...!\""
+      "\\nl< >\"Kyaah!? ",
+      "J-Jangan menempelkan ingus dan air matamu ke badanku dong~!\""
+    ],
+    "40.1": [
+      "\\nl< >\"Aku melonggarkan aturannya kali ini cuma karena tampangmu kelihatan menyedihkan banget, \\str[121]!",
+      "Kamu ini sebenarnya beneran introspeksi diri nggak sih, \\str[121]...!\""
     ],
     "41": [
       "\"Iya dong! Aku lagi merenunginya dalam-dalam nih sekarang~",
@@ -1461,7 +1464,7 @@
     "0": [
       "Ngobrol",
       "Skinship",
-      "Ngapain sesuatu",
+      "Lakukan sesuatu",
       "Mandi",
       "Ngantuk..."
     ],
@@ -1523,7 +1526,7 @@
       "Kayaknya aku ikut liat-liat aja deh!"
     ],
     "16": [
-      "Mau ngapain sesuatu bareng \\str[120]…?"
+      "Mau lakukan sesuatu bareng, \\str[120]…?"
     ],
     "17": [
       "\\nl< >\"\\str[121]! Kamu udah kepikiran permintaan yang lebih bagus belum~?\""

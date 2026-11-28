@@ -466,6 +466,23 @@
       "HP+75, memberikan perisai 300 poin selama 10 menit"
     ]
   },
+  "29": {
+    "name": [
+      "Susu Naga Liar"
+    ],
+    "subtitle": [
+      "\"Setelah jejak-jejak naga ditemukan di kedalaman yang menyengat,",
+      "kelinci pelayan yang selalu tahu kabar burung langsung menjual produk ini dalam semalam\""
+    ],
+    "description": [
+      "Minuman dari mesin penjual otomatis yang aneh",
+      "Sejak kapan ada naga menyusui di bawah sini…?",
+      "Pasti tak ada yang berani meminum benda ini…"
+    ],
+    "ability": [
+      "HP+375, memberikan bonus Pertahanan besar selama 10 menit"
+    ]
+  },
   "30": {
     "name": [
       "Konpeito Merah Muda"
@@ -525,6 +542,22 @@
     "ability": [
       "Memberi status Sensitif saat diberikan ke \\str[120]",
       "Jika dimakan setelah dilempar, target mendapat status Sensitivitas Naik sementara"
+    ]
+  },
+  "34": {
+    "name": [
+      "Cokelat"
+    ],
+    "subtitle": [
+      "\"Entah kenapa, hanya makhluk non-manusia yang keracunan.\""
+    ],
+    "description": [
+      "Manisan cokelat kecokelatan yang misterius dari mesin gacha",
+      "Orang-orang menyebut kepingan ini “cokelat” sesuai tulisan di bungkusnya. Aromanya pahit-manis",
+      "Teksturnya yang lumer di mulut sempat menjadi tren di mana-mana, tapi orang mulai waspada saat laporan keracunan fatal terus berdatangan"
+    ],
+    "ability": [
+      "Memberikan perisai berkapasitas tinggi selama 10 menit"
     ]
   },
   "35": {
@@ -1235,9 +1268,7 @@
       "Ekor naga muda yang cukup berlemak, lezat baik dipanggang maupun dibuat sup",
       "Daging khas yang populer di kalangan penikmat kuliner, bernilai cukup tinggi di pasar manusia"
     ],
-    "ability": [
-      "Bisa dipakai untuk memasak atau dijual demi uang!"
-    ],
+    "ability": "",
     "subtitle": ""
   },
   "97": {
@@ -1556,17 +1587,13 @@
     "name": [
       "Apel Emas"
     ],
-    "subtitle": [
-      "\"Sentuhan Emas\""
-    ],
+    "subtitle": "",
     "description": [
       "Apel ajaib yang diubah menjadi emas murni oleh kekuatan alkimia.",
       "Berkilau dengan kilau memikat dan terasa cukup berat di tanganmu.",
       "Tunggu, apa apel ini masih bisa dimakan?"
     ],
-    "ability": [
-      "Bisa diberikan ke Apple Fairy untuk meningkatkan keberuntungan secara permanen!"
-    ]
+    "ability": ""
   },
   "127": {
     "name": [
@@ -4214,6 +4241,24 @@
     ],
     "ability": ""
   },
+  "478": {
+    "name": [
+      "Mengintip Saat Berpakaian III"
+    ],
+    "recallEventName": [
+      "Ini murni pemeriksaan kesehatan untuk \\str[120], oke?! III"
+    ],
+    "subtitle": [
+      "...\\str[120] memergokiku mengintip!",
+      "Tapi apa ini hanya perasaanku?",
+      "\\str[120] sepertinya sengaja membuka pakaian tepat di depanku..."
+    ]
+  },
+  "479": {
+    "name": [
+      "Pengobatan Mesum III"
+    ]
+  },
   "480": {
     "name": [
       "Kekuatan Doa"
@@ -4227,6 +4272,11 @@
       "tapi siapa yang mengambil foto-foto ini?"
     ],
     "ability": ""
+  },
+  "481": {
+    "name": [
+      "Batin"
+    ]
   },
   "500": {
     "name": [

@@ -654,7 +654,7 @@
     "description": [
       "Serangan fisik mendapat Penetrasi, mengabaikan sebagian pertahanan target"
     ]
-  },  
+  },
   "85": {
     "name": [],
     "subtitle": [
@@ -698,10 +698,10 @@
       "Mistilteinn dalam Kekuatan Penuh——!"
     ],
     "description": [
-      "Meningkatkan MAT, memberikan 20 Penetrasi Pertahanan, ",
-      "dan memberikan \\is[4] efek melacak"
+      "Meningkatkan Serangan, memberikan 33% Penetrasi Pertahanan,",
+      "dan memberikan efek melacak"
     ]
-  },  
+  },
   "98": {
     "name": [],
     "subtitle": [

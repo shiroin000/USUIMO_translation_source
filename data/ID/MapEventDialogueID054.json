@@ -875,6 +875,24 @@
       "Terhanyut panasnya musim panas, ",
       "aku mengobrol dengannya tentang berbagai topik musim panas,",
       "tapi tetap saja panas!"
+    ],
+    "46": [
+      "\"Hari ini panas banget, ",
+      "kenapa tidak kita keluarkan kolam karet yang dulu kita pakai?\""
+    ],
+    "47": [
+      "\\nl< >\"Ooohhh--! Aku mau main! Aku mau main!\""
+    ],
+    "48": [
+      "\"Kalau begitu pergilah ganti baju dulu, sementara itu aku akan mengembungkan kolamnya.\""
+    ],
+    "49": [
+      "\\nl< >\\{\"--Sudah selesai ganti~!\""
+    ],
+    "50": [
+      "....Secepat itu!? Eh, eeeeeeh!? ",
+      "Apa \\str[120] langsung melepas kaosnya begitu saja?",
+      "Kenapa aku tidak sadar dia sudah memakai baju renang di baliknya!?"
     ]
   },
   "10": {
@@ -2479,6 +2497,527 @@
       "Masih ada banyak hari esok yang menunggu kita—\""
     ]
   },
+  "15": {
+    "1": [
+      "\\nl< >\"Um... \\str[121], aku... aku sudah selesai ganti...\""
+    ],
+    "2": [
+      "Aku membungkuk, ",
+      "berkeringat deras sambil berusaha sekuat tenaga mengembungkan kolam karet itu.",
+      "Mendengar suaranya, kuseka keringatku, lalu berbalik, ",
+      "dan menatap ke arah \\str[120]—"
+    ],
+    "3": [
+      "Baju renang putih yang dipotong rapi itu menonjolkan kulitnya yang putih, ",
+      "lembut dengan kesempurnaan yang memesona,",
+      "kain tipisnya membalut erat lekuk tubuhnya yang penuh, kencang, ",
+      "dan luar biasa menggoda.",
+      "Meski aku yakin \\str[120] akan terlihat bagus dengan apa pun, ",
+      "aku tak menyangka baju renang ini pas begitu sempurna di tubuhnya..."
+    ],
+    "4": [
+      "\\nl< >\"B-Bagaimana...? Apa terlihat aneh...?\""
+    ],
+    "5": [
+      "Kelihatannya agak mesum...",
+      "Lucu banget~!",
+      "Cocok sekali denganmu"
+    ],
+    "6": [
+      "\"...Jujur, kelihatannya agak mesum.\""
+    ],
+    "7": [
+      "\\nl< >\"E-Eh, eeeeh...!?",
+      "Kenapa kamu bilang begitu!?\""
+    ],
+    "8": [
+      "Menghadapi jawaban yang sama sekali di luar dugaan,",
+      "wajah kecil \\str[120] langsung memerah padam, ",
+      "dan ia reflek mengulurkan tangan menutupi tubuhnya."
+    ],
+    "9": [
+      "Meski piyama yang biasa dipakai \\str[120] memang ",
+      "sudah rentan membuat bagian tubuhnya tersingkap,",
+      "baju renang di depanku ini membuatnya terlihat jauh lebih ",
+      "tak berdaya daripada biasanya.",
+      "Ditambah lagi dengan caranya menutupi diri dengan malu-malu, ",
+      "justru membuatnya tampak semakin erotis."
+    ],
+    "10": [
+      "\"Kalau boleh jujur, ",
+      "melihat \\str[120] seperti ini benar-benar membuatku ingin melakukan sesuatu padamu——\""
+    ],
+    "11": [
+      "\\nl< >\"\\str[121]... kamu mesum sekali.\""
+    ],
+    "12": [
+      "\"........................Ngh.\""
+    ],
+    "13": [
+      "Meski tatapan sedikit menghina di mata \\str[120] itu cukup menusuk...",
+      "betapa luar biasanya kalau aku diberi kesempatan melakukan hal mesum dengannya ",
+      "selagi ia memakai baju renang minim ini..."
+    ],
+    "14": [
+      "\"Kelihatannya lucu banget~! Seperti yang kuduga dari \\str[120]-ku!",
+      "Kamu memang sudah sangat lucu biasanya, ",
+      "tapi memakai ini membuat kelucuanmu meledak total!\""
+    ],
+    "15": [
+      "\\nl< >\"I-Itu berlebihan sekali... ",
+      "Padahal tadi aku benar-benar gugup~!\""
+    ],
+    "16": [
+      "\"Sama sekali tidak berlebihan! ",
+      "Baju renang yang lucu ditambah \\str[120] yang lucu sama dengan kelucuan yang tak terkalahkan!\""
+    ],
+    "17": [
+      "\\nl< >\"Ya ampun... \\str[121], ",
+      "kamu selalu saja bilang hal aneh yang bikin malu...\""
+    ],
+    "18": [
+      "\"Memuji \\str[120]-ku sendiri itu wajar!",
+      "Lagipula, ini kan baju renang favoritmu, ",
+      "jadi tentu saja terlihat sangat bagus padamu!\""
+    ],
+    "19": [
+      "\\nl< >\"Ehehe... benarkah...?",
+      "Kalau begitu \\str[121], pujilah aku lebih banyak lagi~!\""
+    ],
+    "20": [
+      "\"\\str[120]~! \\str[120]~! ",
+      "\\str[120] paling lucu nomor satu di seluruh dunia~!\""
+    ],
+    "21": [
+      "Tertular oleh rentetan pujianku yang berlebihan tanpa tedeng aling-aling, ",
+      "rasa malu dan canggung di wajahnya perlahan menghilang.",
+      " ",
+      " ",
+      "Matanya bersorot, dan dengan santai ia berputar penuh tepat ",
+      "di depanku saat nadanya berubah antusias,",
+      "bersemangat memamerkan setiap detail indah baju renangnya."
+    ],
+    "22": [
+      "Melihatnya begitu bersemangat dan bangga, ",
+      "aku tak bisa menahan diri untuk ikut terbawa suasana hatinya,",
+      "dan kami berdua saling memuji dengan konyol dan bercanda ",
+      "di ruang tamu cukup lama."
+    ],
+    "23": [
+      "\"Cocok sekali denganmu. Warna dan gaya potongannya bagus,",
+      "hampir seperti dibuat khusus untukmu.\""
+    ],
+    "24": [
+      "\\nl< >\"Benarkah...? Syukurlah...",
+      "Tadi aku sempat khawatir kalau ini terlihat aneh padaku...\""
+    ],
+    "25": [
+      "Mendengar ketenangan lembut dan tulus dariku, ",
+      "bahunya yang kecil yang tadinya tegang akhirnya rileks,",
+      "rona merah tipis menyebar di pipinya saat senyum lega dan ",
+      "puas melengkung di bibirnya."
+    ],
+    "26": [
+      "\\nl< >\"Dan lihat, lihat! Pita kecil di bagian dada ini~",
+      "Ditambah renda di pinggang belakang—persis seperti desain di game!\""
+    ],
+    "27": [
+      "Menarik ujung kemejaku, ",
+      "ia mendekat seperti anak kecil yang memamerkan harta berharganya kepada orang tuanya,",
+      "bersemangat menunjukkan semua detail indah pada baju renang itu, ",
+      "sepenuhnya tenggelam dalam kegembiraan."
+    ],
+    "28": [
+      "\"Fiuh----! Semua selesai!",
+      "Wah, rasanya benar-benar menguras tenaga...\""
+    ],
+    "29": [
+      "Aku menggelar kolam karet yang susah payah kuembungkan ke lantai, ",
+      "menyambungkan selang, dan mengisinya dengan air jernih.",
+      "Meski hanya pekerjaan fisik paling sederhana, melakukannya dalam cuaca panas yang ",
+      "menggerahkan ini tetap membuatku basah kuyup dan hampir kehabisan tenaga."
+    ],
+    "29.1": [
+      "\"Baiklah! Kolamnya siap~! Kamu bisa——\"",
+      "\\w[60]\\^"
+    ],
+    "30": [
+      "\\nl< >\"Whoaaa!! Ini—lautan—!!\""
+    ],
+    "31": [
+      "Sebelum aku menyelesaikan kalimatku, ",
+      "\\str[120] yang bersemangat tinggi langsung menyebur ke dalam kolam tanpa pikir panjang.",
+      "Byur! Semburan air yang besar langsung terbang ke arah wajahku, ",
+      "bahkan membuatku yang berdiri di luar ikut basah kuyup."
+    ],
+    "32": [
+      "\"Whoa! Tunggu, kamu terlalu terburu-buru!\""
+    ],
+    "33": [
+      "\\nl< >\"Ehehe~ \\str[121] jadi seperti tikus basah~!\""
+    ],
+    "34": [
+      "\\str[120] berbaring nyaman di dalam kolam, menggoyang-goyangkan kaki kecilnya yang putih,",
+      "memegang es loli di satu tangan sambil riang memercikkan air ",
+      "di sekitarnya dengan tangan yang lain,",
+      "wajahnya berseri dengan senyum sangat cerah karena kenakalannya berhasil."
+    ],
+    "35": [
+      "\"Baiklah~ Beraninya kamu memperlakukan \\str[121]-mu seperti ini! Rasakan ini~!\""
+    ],
+    "36": [
+      "Berpura-pura marah, aku berjongkok di tepi kolam, meraup segenggam besar ",
+      "air kolam yang dingin dengan kedua tangan, dan memercikkannya padanya tanpa ampun.",
+      "Tetes-tetes air berkilau memercik ke kulit \\str[120] yang seputih salju dengan byur, ",
+      "membuat tubuhnya yang mungil menggigil."
+    ],
+    "37": [
+      "\\nl< >\"Eek~! Dingin sekali~~!",
+      "\\str[121] curang sekali~~!\""
+    ],
+    "38": [
+      "Karena kolam karet yang sempit itu tidak menyediakan ruang untuk kabur,",
+      "\\str[120] hanya bisa bersikap seperti ikan mas kecil yang panik,",
+      "bergeser-geser dengan tergesa di dalam kolam mungil itu untuk mengelak,",
+      "sambil melengkingkan tawa berkilau."
+    ],
+    "39": [
+      "Jujur, kolam karet ini tidak sebesar yang dibayangkan.",
+      "Jauh dari bisa berenang bebas seperti di lautan sungguhan,",
+      "bahkan \\str[120] hampir tidak bisa berbaring lurus di dalamnya untuk bermain air."
+    ],
+    "40": [
+      "Namun melihat \\str[120] menunjukkan senyum yang luar biasa cerah ",
+      "dan bersinar hanya dari sedikit kesejukan ini,",
+      "aku tak bisa menahan perasaan bahwa semua kerja keras dan keringat hari ini ",
+      "memperoleh imbalan terbaik yang mungkin, membuatnya sangat berarti."
+    ],
+    "41": [
+      "\"Heheh, sekarang kamu tahu apa yang bisa dilakukan \\str[121]! Rasakan, rasakan——!\""
+    ],
+    "42": [
+      "\\nl< >\"Eek~! Jahat banget! \\str[121] jahat sekali——!",
+      "Whoa... rasakan balasanku——!\""
+    ],
+    "43": [
+      "Kami berdua bersenang-senang seperti anak-anak lagi,",
+      "dan di tengah cipratan air, jeritan riang serta ",
+      "tawa \\str[120] bergema di seluruh ruangan."
+    ],
+    "44": [
+      "Namun, mungkin karena gerakan bermainnya terlalu bersemangat,",
+      "tali di belakang baju renang \\str[120], yang sejak awal diikat agak tergesa,",
+      "tanpa disadari siapa pun diam-diam terlepas..."
+    ],
+    "45": [
+      "\\str[120] sendiri sama sekali tidak menyadari perubahan ini dan terus ",
+      "melambaikan tangan kecilnya untuk memercikkan air padaku.",
+      "Tepat saat aku meraup segenggam besar air kolam yang dingin lagi ",
+      "dan memercikkannya dengan kuat ke arahnya——"
+    ],
+    "46": [
+      "Bagian atas baju renang yang memang sudah goyah itu benar-benar ",
+      "tak mampu menahan aliran air yang datang!",
+      "Tanpa penopang tali, kain ringannya meluncur di kulitnya yang licin, ",
+      "langsung mengapung di permukaan air."
+    ],
+    "47": [
+      "Segera setelah itu, dadanya terbuka sama sekali tanpa penutup——",
+      "sepasang payudara yang putih, penuh, bulat, dan kencang itu menampakkan diri ",
+      "di depanku sama sekali tanpa pertahanan."
+    ],
+    "48": [
+      "Pemandangan erotis yang tiba-tiba ini membuatku terpaku.",
+      "Akal sehatku menyuruhku untuk segera memperingatkannya bahwa baju renangnya lepas,",
+      "tapi setelah diamati, ia sama sekali tidak menyadari kesalahan berpakaiannya,",
+      "masih tenggelam dalam keceriaan, tertawa sambil melambaikan tangan memercikkan air padaku."
+    ],
+    "49": [
+      "Dua puting merah muda yang lembut itu bergoyang ringan di depan mataku mengikuti gerakannya,",
+      "saat tetes-tetes air berkilau perlahan meluncur di payudaranya yang seputih salju.",
+      "Niat untuk mengingatkannya langsung terhancurkan oleh hasrat yang menggelegak,",
+      "dan pikiran nakal seketika menguasai benakku."
+    ],
+    "51": [
+      "\"Heheh~ Pertahanan \\str[120] hancur! Rasakan, rasakan——!\""
+    ],
+    "52": [
+      "Berpura-pura tidak menyadari apa pun, ",
+      "aku sengaja meraup segenggam besar air kolam yang dingin",
+      "dan memercikkannya tepat ke puting merah mudanya yang lembut dengan presisi!"
+    ],
+    "53": [
+      "\\nl< >\"............Nnh, eek♥\""
+    ],
+    "54": [
+      "\\str[120], yang masih bermain riang, ",
+      "tiba-tiba terkena aliran air dingin tepat di puting sensitifnya.",
+      "Rangsangan hebat yang tak terduga membuat tubuhnya bergetar,",
+      "tanpa sadar mengeluarkan erangan manis lembut dari tenggorokannya."
+    ],
+    "55": [
+      "\\nl< >\"Haa... dingin sekali... Hah...? T-Tunggu...!?\""
+    ],
+    "56": [
+      "Rasa geli dan sensasi dingin di dadanya membuatnya tanpa sadar menunduk,",
+      "hanya untuk menyadari bahwa bagian atas baju renang yang terikat di dadanya telah lama ",
+      "terlepas dan hanyut bersama air."
+    ],
+    "57": [
+      "\"Bagus~! Serangan titik lemah, sukses besar~!\""
+    ],
+    "58": [
+      "Melihat wajahnya dengan bersemangat yang langsung berubah panik,",
+      "aku tidak memberinya ruang untuk mengatur napas atau menutupi diri, ",
+      "melanjutkan keunggulanku dengan mempercepat serangan,",
+      "menghujani dadanya dengan rentetan air kolam dingin seperti serangan bertubi-tubi."
+    ],
+    "59": [
+      "\\nl< >\"Eek--! Tidak boleh! Jangan terus memercikkan ke sana!",
+      "\\str[121] jahat sekali~~! Nnh, ahh♥\""
+    ],
+    "60": [
+      "Semprotan air yang padat berulang kali menghantam puting merah mudanya yang lembut, ",
+      "yang sudah menegang karena rangsangan,",
+      "dan rasa geli yang terus-menerus disertai rasa malu yang hebat ",
+      "menjerumuskan \\str[120] sepenuhnya ke dalam kepanikan."
+    ],
+    "61": [
+      "Ia ingin membungkuk untuk memungut baju renangnya di air ",
+      "dan juga ingin mengulurkan tangan menutupi dadanya,",
+      "namun ia hanya bisa memutar tubuhnya dengan canggung di bawah badai cipratan air dariku,",
+      "mengeluarkan rentetan permohonan berbisik yang malu-malu..."
+    ],
+    "62": [
+      "\\nl< >\"Berhenti memercikkan airnya~~~!\""
+    ],
+    "63": [
+      "\\str[120], setelah mengikat kembali tali baju renangnya dengan erat,",
+      "menatapku dengan kesal sementara aku berjongkok patuh di samping, ",
+      "menundukkan kepala mengakui kesalahanku."
+    ],
+    "64": [
+      "\\nl< >\"\\str[121], serius deh! ",
+      "Kamu pasti sengaja melakukan itu tadi!",
+      "Kamu jelas-jelas sadar baju renangku lepas... ",
+      "tapi kamu tetap memercikkan air tepat ke sana...!\""
+    ],
+    "65": [
+      "\"Hamba yang hina ini salah... Aku tidak seharusnya menggodamu seperti itu...\""
+    ],
+    "66": [
+      "Sebagai hukuman atas kesalahanku, selama sisa waktu itu,",
+      "aku mengikuti perintah \\str[120], mendorong kolam karet yang berat ",
+      "yang mengangkutnya keliling ruangan dengan sekuat tenaga.",
+      "Bagi \\str[120], cara bermain seperti ini tampaknya ternyata menyenangkan."
+    ],
+    "67": [
+      "Meski mendorong kolam yang berat membuatku berkeringat deras karena kelelahan,",
+      "melihat \\str[120] duduk di dalam kolam bersenang-senang dengan wajah bahagianya,",
+      "rasanya seperti penutup yang cukup memuaskan untuk acara hari ini——"
+    ],
+    "68": [
+      "Berkat pengalaman sebelumnya, aku dengan cepat mengembungkan kolam karet",
+      " dan mengisinya penuh dengan air bersih."
+    ],
+    "69": [
+      "Di tengah cipratan air, ",
+      "\\str[120] berbaring dengan nyaman di permukaan, menggoyang-goyangkan kakinya yang putih",
+      "dengan senyum cerah terpancar di wajahnya."
+    ],
+    "70": [
+      "\\nl< >\"\\str[121], cepat masuk! Airnya terasa sangat nyaman!\""
+    ],
+    "71": [
+      "Minum air kolam",
+      "Memercikkan air ke",
+      "Siapkan semangka"
+    ],
+    "72": [
+      "Seperti kerasukan, aku membungkuk dan langsung menyeruput air kolam itu——"
+    ],
+    "73": [
+      "\\nl< >\\{\"T-Tunggu! \\str[121], apa yang kamu lakukan!?\""
+    ],
+    "74": [
+      "\"Ah—Aku tidak bisa menahan diri... Mungkin panasnya membuatku haus...?\""
+    ],
+    "75": [
+      "\\nl< >\"Meski begitu...",
+      "Tadi aku sedang berendam di air ini... Ini benar-benar tidak higienis...\""
+    ],
+    "76": [
+      "Minum lagi",
+      "Sebaiknya jangan"
+    ],
+    "76.1": [
+      "\"Benar juga, itu memang akan sangat aneh... Ahaha.\""
+    ],
+    "76.2": [
+      "Dengan sedikit rasa sesal, dan agar tidak memikirkannya berlebihan,",
+      "aku mengambil inisiatif seperti sebelumnya untuk mendorong kolamnya, mengantar \\str[120] berkeliling."
+    ],
+    "76.3": [
+      "\"Ah, ngomong-ngomong...! ",
+      "Kalau kamu haus, ada semangka di kulkas!\""
+    ],
+    "77": [
+      "Dorongan aneh memaksaku untuk membungkuk dan meneguk lagi seteguk air kolam——"
+    ],
+    "78": [
+      "\\nl< >\"Ehh—!? Kenapa kamu meminumnya lagi!?\""
+    ],
+    "79": [
+      "Iya ya... Kenapa juga...?",
+      "Namun rasanya dingin sekali, hampir terasa enak juga..."
+    ],
+    "80": [
+      "\"Karena ini air tempat \\str[120] berendam, ",
+      "entah kenapa rasanya punya cita rasa manis yang unik...",
+      "Alangkah baiknya kalau rasanya bisa sedikit lebih kaya.\""
+    ],
+    "81": [
+      "\\nl< >\"\\str[121], apa panasnya sudah naik ke kepalamu? ",
+      "Bagaimana mungkin air terasa manis...?",
+      "D-Dan... tadi aku berendam di situ...\""
+    ],
+    "82": [
+      "\\str[120] menatapku dengan khawatir. ",
+      "Mungkin otakku memang benar-benar dipanaskan oleh terik matahari,",
+      "tapi melihat kulitnya yang putih berkilau dengan kelembapan di permukaan air,",
+      "tenggorokanku entah kenapa terasa semakin kering."
+    ],
+    "83": [
+      "\"Hmm... Rasanya seperti kurang sedikit cita rasa...\""
+    ],
+    "84": [
+      "\\nl< >\"K-Kenapa kamu menatapku begitu...",
+      "\\str[121]... Kamu tidak sedang merencanakan sesuatu yang buruk lagi, kan...?\""
+    ],
+    "85": [
+      "\"Bukan apa-apa, aku hanya ingin memintamu melepas baju renangmu~!\""
+    ],
+    "86": [
+      "\\nl< >\"Itu MEMANG merencanakan sesuatu yang buruk~~!!\""
+    ],
+    "87": [
+      "Meski \\str[120] dengan tegas menegurku, di bawah permohonanku yang gigih dan mendesak,",
+      "ia tetap tersipu dan dengan patuh melepas tali baju renangnya,",
+      "hingga ia tak punya pilihan selain menonton dengan tak berdaya dan ",
+      "malu-malu saat aku dengan rakus menjilati tetes air dari kulitnya."
+    ],
+    "88": [
+      "\\nl< >\"Benar-benar meminumnya dengan penuh semangat... ",
+      "\\str[121] semakin mesum saja...\""
+    ],
+    "89": [
+      "Tepat saat kritik pedas itu sampai ke telingaku,",
+      "setetes cairan manis kental meleleh dari es loli yang dipegang \\str[120] ",
+      "di bawah terik matahari dan menetes tepat ke pipiku.",
+      "Sensasi dingin yang tajam seketika memicu ide cemerlang di kepalaku."
+    ],
+    "90": [
+      "\"Pinjamkan es lolinya juga——\""
+    ],
+    "91": [
+      "\\nl< >\"...Eh? \\str[121], kamu mau juga?",
+      "Tapi aku tidak mau kamu memakai mulut yang habis meminum air itu untuk——",
+      "\\w[300]\\^"
+    ],
+    "92": [
+      "\\nl< >\"Uwaaaaaa~!?",
+      "Tidak bisa dimakan seperti ituaaaaaa~!!\""
+    ],
+    "93": [
+      "Aku dengan santai menyambar es loli yang setengah habis dari \\str[120],",
+      "melepas kain terakhir di bawahnya,",
+      "meluncurkan es loli itu ke bagian dalam pahanya yang mulus,",
+      "dan perlahan memasukkannya tepat di pintu masuk vaginanya yang lembut dan hangat."
+    ],
+    "94": [
+      "Rasa dingin yang hebat membuat \\str[120] tanpa sadar menekuk tubuhnya.",
+      "Dinding vaginanya yang sensitif berdenyut hebat karena rangsangan itu,",
+      "dan segera setetes cairan berkilau merembes keluar di tepinya,",
+      "hingga sulit dibedakan apakah itu jus es loli yang meleleh atau cairan lainnya."
+    ],
+    "95": [
+      "\"Lihat~ Jus buahnya meleleh ke dalam air kolam, ",
+      "bercampur dengan cairan \\str[120]...",
+      "Inilah ramuan spesial terbaik!\""
+    ],
+    "96": [
+      "Sambil melontarkan omong kosong dengan wajah datar,",
+      "aku membungkuk untuk meneguk air kolam yang dicampur es loli dan cairan manis,",
+      "tak lupa dengan rakus menjilati bagian dalam pahanya di sepanjang jalan."
+    ],
+    "97": [
+      "\\nl< >\"Ugh... Siapa yang membuat ramuan spesial seperti ini...!?",
+      "\\str[121] bodoh sekali... mesum sekali!!\""
+    ],
+    "98": [
+      "\"Pfft—!?\""
+    ],
+    "99": [
+      "Tak mampu menahan permainan aneh ini lebih lama lagi, \\str[120]",
+      "mendorongkan kakinya yang tertekuk dan menendang tepat ",
+      "ke dahiku dengan telapak kakinya yang telanjang,",
+      "kekuatannya membuatku terguling ke belakang dua kali dengan memalukan."
+    ],
+    "100": [
+      "\\nl< >\"Apa kamu sudah sadar sekarang!?\""
+    ],
+    "101": [
+      "\"Ahaha—Sepertinya aku barusan melakukan hal yang keterlaluan.\""
+    ],
+    "102": [
+      "Yah, lagipula ini musim panas...",
+      "Lagipula, rasanya memang cukup menakjubkan..."
+    ],
+    "103": [
+      "Setelah itu, di bawah pengawasan ketat \\str[120],",
+      "aku menguras setiap tetes air dari kolam dengan sedikit rasa sesal",
+      "dan dengan patuh menggosoknya sampai bersih."
+    ],
+    "104": [
+      "\"Aku membawa semangkanya~!\""
+    ],
+    "105": [
+      "\\nl< >\"Ooh~! Semangka dingin!!\""
+    ],
+    "106": [
+      "\\nl< >\"\\str[121], cepat potong! Yang ini pasti manis sekali!\""
+    ],
+    "107": [
+      "\"Baik, baik. Keluar dulu dari kolamnya supaya tidak kotor.\""
+    ],
+    "108": [
+      "\\nl< >\\{\"Terima kasih atas makanannya~~!\""
+    ],
+    "109": [
+      "...Ia memakannya secepat itu!?",
+      "Aku bahkan belum makan satu gigitan pun..."
+    ],
+    "110": [
+      "\\nl< >\\{\"Ehehe~ Makan seperti ini paling enak~\""
+    ],
+    "111": [
+      "Awalnya aku ingin memarahi \\str[120] karena makan di dalam kolam,",
+      "tapi melihatnya begitu bersenang-senang, aku memutuskan untuk membiarkannya."
+    ],
+    "112": [
+      "\"Rasakan ini—! Ini balasan untuk yang kemarin!\""
+    ],
+    "113": [
+      "Berjongkok di samping kolam, ",
+      "aku dengan lembut meraup air dan memercikkannya ke arahnya,",
+      "dan \\str[120] menendang airnya kembali ke arahku."
+    ],
+    "114": [
+      "Meski kami hanya bermain-main sederhana di kolam karet mungil,",
+      "mendengar tawa \\str[120] yang jernih ",
+      "dan riang menyapu semua panasnya musim panas yang menyengat."
+    ]
+  },
   "16": {
     "6": [
       "Tirai ruang tamu yang agak redup tertutup rapat, ",
@@ -2936,7 +3475,7 @@
       "Tentakel itu sekarang sepenuhnya bertindak di luar kendali \\str[120], ",
       "tidak lagi membutuhkan tangannya untuk memompa.",
       "Itu dengan keras kepala mengaduk liar di dalam saluran sempitnya sendiri, ",
-      " ", 
+      " ",
       "penyedot menempel erat dan tanpa henti menggesek setiap inci dinding dalamnya,",
       "terus-menerus memeras cairan cinta manis dari dalam \\str[120]."
     ],

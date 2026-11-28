@@ -288,8 +288,24 @@
       "—Apa itu benar-benar berhasil!? Yah, kita coba saja..."
     ],
     "ability": [
-      "Ayunan Latihan Selesai: \\{\\c[6]${QJ.MPMZ.tl.playerSwordsmanshipTraining(1)}\\c[0]",
-      "Damage serangan dasar senjata jarak dekat meningkat sebesar \\c[6]${QJ.MPMZ.tl.playerSwordsmanshipTraining(2)}%"
+      "Ayunan Latihan Selesai: ${QJ.MPMZ.tl.playerSwordsmanshipTraining(1)}",
+      "Saat menggunakan senjata jarak dekat, kekuatan serangan fisik meningkat menjadi ${QJ.MPMZ.tl.playerSwordsmanshipTraining(2)} dari nilai dasarnya"
+    ]
+  },
+  "53": {
+    "name": [
+      "Hisap Nyawa"
+    ],
+    "ability": [
+      "Secara otomatis menyedot darah dari makhluk yang dibunuh dengan senjata, mengubahnya menjadi HP"
+    ]
+  },
+  "55": {
+    "name": [
+      "Tachi Cahaya"
+    ],
+    "ability": [
+      "Untuk sementara melumpuhkan target yang terkena Tachi Cahaya, lalu meledakkan partikel-partikel cahaya padanya"
     ]
   },
   "66": {
